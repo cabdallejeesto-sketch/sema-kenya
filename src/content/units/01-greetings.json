@@ -1,0 +1,229 @@
+{
+  "id": "greetings",
+  "order": 1,
+  "level": "A1",
+  "color": "#15803d",
+  "reviewed": false,
+  "title": { "en": "Greetings & Respect", "so": "Salaanta iyo Ixtiraamka" },
+  "swTitle": "Salamu na Heshima",
+  "description": {
+    "en": "Say hello the Kenyan way, answer greetings, show respect to elders and introduce yourself.",
+    "so": "Salaan sida Kenyaanka, ka jawaab salaanta, ixtiraam waayeelka, oo is baro."
+  },
+  "guide": [
+    {
+      "title": { "en": "Greet first, then talk", "so": "Marka hore salaan, kadib hadal" },
+      "body": {
+        "en": "In Kenya you greet before you ask anything, even in a shop or a matatu. A quick Sasa? or Habari? opens every conversation. The reply is almost always positive.",
+        "so": "Kenya waxaad salaantaa ka hor intaadan wax weydiin, xataa dukaan ama matatu dhexdeed. Sasa? ama Habari? degdeg ah ayaa fura sheeko kasta. Jawaabtu had iyo jeer waa mid wanaagsan."
+      },
+      "examples": [
+        { "sw": "Habari? – Nzuri.", "en": "How are you? – Fine.", "so": "Iska warran? – Waan fiicanahay.", "v": "standard" },
+        { "sw": "Sasa? – Poa.", "en": "Hi, what's up? – Cool.", "so": "Haye, maxaa jira? – Fiican.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Casual Kenya: Sasa? Poa!", "so": "Kenya fudud: Sasa? Poa!" },
+      "body": {
+        "en": "Friends and young people say Sasa?, Mambo? or Uko aje? The usual answers are Poa, Fiti or Niko poa. These are everyday Kenyan forms, used far more than the textbook Hujambo?",
+        "so": "Saaxiibbada iyo dhallinyaradu waxay yiraahdaan Sasa?, Mambo? ama Uko aje? Jawaabaha caadiga ahi waa Poa, Fiti ama Niko poa. Kuwani waa qaabab Kenya oo maalinle ah, waxaana loo isticmaalaa wax ka badan Hujambo? ee buugaagta."
+      },
+      "examples": [
+        { "sw": "Uko aje?", "en": "How are you? (casual)", "so": "Sidee tahay? (fudud)", "v": "everyday" },
+        { "sw": "Niko fiti.", "en": "I'm good.", "so": "Waan fiicanahay.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Respect for elders", "so": "Ixtiraamka waayeelka" },
+      "body": {
+        "en": "Add mzee for an older man and mama for an older woman: Habari yako, mzee? On the coast and in Tanzania young people greet elders with Shikamoo, and the elder answers Marahaba. Inland Kenyans use it much less.",
+        "so": "Ku dar mzee nin ka weyn iyo mama naag ka weyn: Habari yako, mzee? Xeebta iyo Tanzania dhallinyaradu waxay waayeelka ku salaamaan Shikamoo, waayeelkuna wuxuu ku jawaabaa Marahaba. Kenyaanka gudaha aad uma isticmaalaan."
+      },
+      "examples": [
+        { "sw": "Habari yako, mzee?", "en": "How are you, sir?", "so": "Sidee tahay, adeer?", "v": "standard" },
+        { "sw": "Shikamoo! – Marahaba.", "en": "Respectful greeting to an elder – the elder's reply", "so": "Salaan ixtiraam ah oo waayeelka – jawaabta waayeelka", "v": "coastal" }
+      ]
+    },
+    {
+      "title": { "en": "Requests are direct, and that's polite", "so": "Codsigu waa toos, taasina waa edeb" },
+      "body": {
+        "en": "Kenyans ask directly: Nipe chai (Give me tea) is normal and friendly. Tafadhali (please) is used less than 'please' in English. A warm tone and a greeting first matter more.",
+        "so": "Kenyaanku si toos ah ayay wax u weydiistaan: Nipe chai (Shaah i sii) waa caadi oo waa saaxiibtinimo. Tafadhali (fadlan) looma isticmaalo sida 'please' ee Ingiriisiga. Cod diirran iyo salaan hore ayaa ka muhiimsan."
+      }
+    }
+  ],
+  "items": [
+    { "id": "g.habari", "sw": "Habari?", "en": "How are you? (lit. What's the news?)", "so": "Iska warran? (macnaha: Maxaa war ah?)", "v": "standard", "syn": "hello", "note": { "en": "The answer is almost always positive: Nzuri.", "so": "Jawaabtu had iyo jeer waa mid wanaagsan: Nzuri." } },
+    { "id": "g.nzuri", "sw": "Nzuri", "en": "Fine / good", "so": "Wanaagsan / waan fiicanahay", "v": "standard", "syn": "fine" },
+    { "id": "g.habari-yako", "sw": "Habari yako?", "en": "How are you? (to one person)", "so": "Sidee tahay? (hal qof)", "v": "standard", "syn": "hello" },
+    { "id": "g.asante", "sw": "Asante", "en": "Thank you", "so": "Mahadsanid", "v": "standard", "syn": "thanks" },
+    { "id": "g.asante-sana", "sw": "Asante sana", "en": "Thank you very much", "so": "Aad baad u mahadsantahay", "v": "standard", "syn": "thanks" },
+    { "id": "g.karibu", "sw": "Karibu", "en": "Welcome / You're welcome", "so": "Soo dhawoow / Adaa mudan", "v": "standard", "note": { "en": "Kenyans say it when you thank them, and when they invite you in.", "so": "Kenyaanku waxay yiraahdaan markaad u mahadnaqdo, iyo markay ku martiqaadaan." } },
+
+    { "id": "g.sasa", "sw": "Sasa?", "en": "Hi! What's up?", "so": "Haye! Maxaa jira?", "v": "everyday", "syn": "hello", "note": { "en": "The most common casual greeting in Kenya. Answer: Poa or Fiti.", "so": "Salaanta fudud ee ugu badan Kenya. Jawaab: Poa ama Fiti." } },
+    { "id": "g.poa", "sw": "Poa", "en": "Cool / I'm fine", "so": "Fiican / waan fiicanahay", "v": "everyday", "syn": "fine" },
+    { "id": "g.mambo", "sw": "Mambo?", "en": "How's it going?", "so": "Sidee wax yihiin?", "v": "everyday", "syn": "hello", "note": { "en": "Answer: Poa.", "so": "Jawaab: Poa." } },
+    { "id": "g.uko-aje", "sw": "Uko aje?", "en": "How are you? (casual)", "so": "Sidee tahay? (si fudud)", "v": "everyday", "syn": "hello", "tz": "Uko vipi?", "note": { "en": "A Kenyan casual form that started in Sheng. Most young Kenyans use it.", "so": "Qaab Kenya oo fudud oo ka bilowday Sheng. Dhallinyarada Kenya badankoodu way isticmaalaan." } },
+    { "id": "g.niko-poa", "sw": "Niko poa", "en": "I'm fine", "so": "Waan fiicanahay", "v": "everyday", "syn": "fine", "alt": ["niko fiti", "niko sawa"] },
+    { "id": "g.niko-fiti", "sw": "Niko fiti", "en": "I'm good (lit. I'm fit)", "so": "Waan wanaagsanahay", "v": "everyday", "syn": "fine", "alt": ["niko poa", "niko sawa"] },
+
+    { "id": "g.mzee", "sw": "mzee", "en": "sir / respected older man", "so": "adeer / nin weyn oo la ixtiraamo", "v": "standard", "note": { "en": "Use it to greet an older man politely: Habari yako, mzee? In Kenya mzee wangu can also mean 'my dad'.", "so": "U isticmaal markaad si edeb leh u salaamayso nin kaa weyn: Habari yako, mzee? Kenya, mzee wangu waxay sidoo kale noqon kartaa 'aabahay'." } },
+    { "id": "g.mama", "sw": "mama", "en": "madam / respected woman", "so": "marwo / naag la ixtiraamo", "v": "everyday", "note": { "en": "Kenyans politely call an older woman mama, even a stranger at the market.", "so": "Kenyaanku si edeb leh ayay naag ka weyn ugu yeeraan mama, xataa qof aan la aqoon oo suuqa jooga." } },
+    { "id": "g.tafadhali", "sw": "Tafadhali", "en": "Please", "so": "Fadlan", "v": "standard" },
+    { "id": "g.samahani", "sw": "Samahani", "en": "Excuse me / Sorry (apology)", "so": "Iga raalli ahaw / Raalli noqo", "v": "standard" },
+    { "id": "g.pole", "sw": "Pole", "en": "Sorry (sympathy)", "so": "Ka xumahay (marka qof dhib ku dhaco)", "v": "standard", "note": { "en": "Say it when something bad happens to someone, even something small. The reply is Asante.", "so": "Dheh marka qof wax xun ku dhacaan, xataa wax yar. Jawaabtu waa Asante." } },
+    { "id": "g.habari-asubuhi", "sw": "Habari ya asubuhi?", "en": "Good morning (lit. news of the morning?)", "so": "Subax wanaagsan", "v": "everyday", "tz": "Habari za asubuhi?", "alt": ["habari za asubuhi"] },
+
+    { "id": "g.unaitwa-nani", "sw": "Unaitwa nani?", "en": "What's your name?", "so": "Magacaa?", "v": "standard", "alt": ["jina lako ni nani"] },
+    { "id": "g.naitwa", "sw": "Naitwa Amina", "en": "My name is Amina (lit. I'm called Amina)", "so": "Waxaa la i yiraahdaa Amina", "v": "standard", "alt": ["ninaitwa amina", "jina langu ni amina"] },
+    { "id": "g.jina-langu", "sw": "Jina langu ni Abdi", "en": "My name is Abdi", "so": "Magacaygu waa Abdi", "v": "standard", "alt": ["naitwa abdi"] },
+    { "id": "g.natoka", "sw": "Natoka Hargeisa", "en": "I come from Hargeisa", "so": "Waxaan ka imid Hargeisa", "v": "standard", "alt": ["ninatoka hargeisa"] },
+    { "id": "g.msomali", "sw": "Mimi ni Msomali", "en": "I am Somali", "so": "Anigu waxaan ahay Soomaali", "v": "standard" },
+    { "id": "g.nimefurahi", "sw": "Nimefurahi kukujua", "en": "Nice to meet you (lit. I'm happy to know you)", "so": "Ku faraxsanahay inaan ku barto", "v": "standard", "alt": ["nimefurahi kukutana nawe"] },
+
+    { "id": "g.kwaheri", "sw": "Kwaheri", "en": "Goodbye", "so": "Nabadgelyo", "v": "standard", "syn": "bye" },
+    { "id": "g.tutaonana", "sw": "Tutaonana", "en": "See you (lit. we will see each other)", "so": "Waan is arki doonnaa", "v": "standard", "syn": "bye" },
+    { "id": "g.baadaye", "sw": "Baadaye!", "en": "See you later!", "so": "Hadhow is arag!", "v": "everyday", "syn": "bye" },
+    { "id": "g.usiku-mwema", "sw": "Usiku mwema", "en": "Good night", "so": "Habeen wanaagsan", "v": "standard" },
+    { "id": "g.siku-njema", "sw": "Siku njema", "en": "Have a good day", "so": "Maalin wanaagsan", "v": "standard" },
+    { "id": "g.sawa", "sw": "Sawa", "en": "Okay", "so": "Hagaag / waa hagaag", "v": "standard" },
+
+    { "id": "g.niaje", "sw": "Niaje?", "en": "Hey, what's up? (Sheng)", "so": "Haye, maxaa jira? (Sheng)", "v": "sheng", "syn": "hello", "note": { "en": "Reply Fiti or Poa. Use it with friends, not with elders.", "so": "Ku jawaab Fiti ama Poa. La isticmaal saaxiibbada, ha la isticmaalin waayeelka." } },
+    { "id": "g.fiti", "sw": "Fiti", "en": "Fine / great", "so": "Fiican / aad u wanaagsan", "v": "sheng", "syn": "fine" },
+    { "id": "g.sema", "sw": "Sema!", "en": "Hey! (lit. Say!)", "so": "Haye! (macnaha: Dheh!)", "v": "sheng", "syn": "hello", "note": { "en": "A friendly hello between friends. Reply: Poa or Niaje.", "so": "Salaan saaxiibtinimo oo saaxiibbada dhexdooda ah. Jawaab: Poa ama Niaje." } },
+    { "id": "g.rada", "sw": "Rada?", "en": "What's the plan? / What's new?", "so": "Qorshuhu waa maxay? / Maxaa cusub?", "v": "sheng", "syn": "hello" },
+    { "id": "g.msee", "sw": "msee", "en": "guy / person", "so": "nin / qof", "v": "sheng", "note": { "en": "Msee wangu! means 'My guy!'. The plural is wasee.", "so": "Msee wangu! waxay ka dhigan tahay 'Saaxiibkay!'. Wadarta waa wasee." } },
+    { "id": "g.manze", "sw": "Manze!", "en": "Man! / Wow!", "so": "Wallee! / Nin yahow!", "v": "sheng" },
+
+    { "id": "g.hujambo", "sw": "Hujambo?", "en": "How are you? (formal)", "so": "Ma nabad baad tahay? (rasmi)", "v": "standard", "syn": "hello", "note": { "en": "School and formal Swahili. Kenyans understand it, but in daily life they say Habari? or Sasa?", "so": "Sawaaxiliga dugsiga iyo rasmiga. Kenyaanku way fahmaan, laakiin nolol maalmeedka waxay yiraahdaan Habari? ama Sasa?" } },
+    { "id": "g.sijambo", "sw": "Sijambo", "en": "I'm fine (formal reply)", "so": "Waan nabad qabaa (jawaab rasmi ah)", "v": "standard", "syn": "fine" },
+    { "id": "g.shikamoo", "sw": "Shikamoo", "en": "Respectful greeting to an elder", "so": "Salaan ixtiraam ah oo waayeelka loo dhiibo", "v": "coastal", "syn": "hello", "note": { "en": "Common on the Kenyan coast and in Tanzania. Inland Kenyans usually say Habari yako, mzee? instead.", "so": "Waa caadi xeebta Kenya iyo Tanzania. Kenyaanka gudaha badanaa waxay yiraahdaan Habari yako, mzee?" } },
+    { "id": "g.marahaba", "sw": "Marahaba", "en": "The elder's reply to Shikamoo", "so": "Jawaabta waayeelka ee Shikamoo", "v": "coastal" },
+    { "id": "g.habari-nyumbani", "sw": "Habari ya nyumbani?", "en": "How is everyone at home?", "so": "Sidee bay reer gurigu yihiin?", "v": "everyday", "tz": "Habari za nyumbani?", "alt": ["habari za nyumbani"] },
+    { "id": "g.wote-wazima", "sw": "Wote ni wazima", "en": "Everyone is well", "so": "Dhammaan way nabad qabaan", "v": "standard", "alt": ["wote wazima"] }
+  ],
+  "lessons": [
+    {
+      "id": "first-hellos",
+      "title": { "en": "First hellos", "so": "Salaamaha ugu horreeya" },
+      "items": ["g.habari", "g.nzuri", "g.habari-yako", "g.asante", "g.asante-sana", "g.karibu"],
+      "extra": [
+        { "type": "respond", "heard": "Habari?", "options": ["Nzuri", "Karibu", "Asante sana"], "answer": 0, "explain": { "en": "Habari? is answered with Nzuri.", "so": "Habari? waxaa lagu jawaabaa Nzuri." } },
+        { "type": "build", "prompt": { "en": "Thank you very much", "so": "Aad baad u mahadsantahay" }, "answer": "Asante sana", "extra": ["karibu", "nzuri"] }
+      ]
+    },
+    {
+      "id": "kenyan-casual",
+      "title": { "en": "Kenyan casual greetings", "so": "Salaamaha fudud ee Kenya" },
+      "items": ["g.sasa", "g.poa", "g.mambo", "g.uko-aje", "g.niko-poa", "g.niko-fiti"],
+      "extra": [
+        { "type": "respond", "heard": "Sasa?", "options": ["Poa!", "Kwaheri!", "Habari ya asubuhi?"], "answer": 0, "explain": { "en": "The usual answer to Sasa? is Poa.", "so": "Jawaabta caadiga ah ee Sasa? waa Poa." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Otieno", "sw": "Sasa, Abdi?", "en": "Hi, Abdi!", "so": "Haye, Abdi!" },
+            { "who": "Abdi", "sw": "Poa sana. Uko aje?", "en": "Very good. How are you?", "so": "Aad u fiican. Sidee tahay?" },
+            { "who": "Otieno", "sw": "Niko fiti.", "en": "I'm good.", "so": "Waan wanaagsanahay." }
+          ],
+          "question": { "en": "How is Otieno?", "so": "Otieno sidee buu yahay?" },
+          "options": [
+            { "en": "He is good", "so": "Wuu wanaagsan yahay" },
+            { "en": "He is tired", "so": "Wuu daallan yahay" },
+            { "en": "He is sick", "so": "Wuu xanuunsan yahay" }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "respect",
+      "title": { "en": "Respect and politeness", "so": "Ixtiraam iyo edeb" },
+      "items": ["g.mzee", "g.mama", "g.tafadhali", "g.samahani", "g.pole", "g.habari-asubuhi"],
+      "extra": [
+        { "type": "gap", "before": "Habari yako,", "after": "?", "options": ["mzee", "pole", "sawa"], "answer": 0, "meaning": { "en": "How are you, sir?", "so": "Sidee tahay, adeer?" } },
+        { "type": "respond", "heard": "Nimeumia mguu.", "options": ["Pole sana!", "Karibu!", "Asante!"], "answer": 0, "explain": { "en": "'I've hurt my leg.' Pole shows sympathy.", "so": "'Lugta ayaan ku dhaawacmay.' Pole waxay muujinaysaa naxariis." } }
+      ]
+    },
+    {
+      "id": "introduce",
+      "title": { "en": "Introduce yourself", "so": "Is baro" },
+      "items": ["g.unaitwa-nani", "g.naitwa", "g.jina-langu", "g.natoka", "g.msomali", "g.nimefurahi"],
+      "extra": [
+        { "type": "build", "prompt": { "en": "My name is Abdi", "so": "Magacaygu waa Abdi" }, "answer": "Jina langu ni Abdi", "extra": ["nani", "natoka"], "accept": ["Naitwa Abdi"] },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Unaitwa nani?", "en": "What's your name?", "so": "Magacaa?" },
+            { "who": "Abdi", "sw": "Naitwa Abdi. Natoka Hargeisa.", "en": "I'm Abdi. I come from Hargeisa.", "so": "Waxaa la i yiraahdaa Abdi. Waxaan ka imid Hargeisa." },
+            { "who": "Wanjiku", "sw": "Karibu Kenya!", "en": "Welcome to Kenya!", "so": "Ku soo dhawoow Kenya!" }
+          ],
+          "question": { "en": "Where is Abdi from?", "so": "Abdi xaggee buu ka yimid?" },
+          "options": [
+            { "en": "Hargeisa", "so": "Hargeisa" },
+            { "en": "Nairobi", "so": "Nairobi" },
+            { "en": "Mombasa", "so": "Mombasa" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "I am Somali", "so": "Anigu waxaan ahay Soomaali" }, "answer": "Mimi ni Msomali", "extra": ["wewe", "Mkenya"] }
+      ]
+    },
+    {
+      "id": "goodbyes",
+      "title": { "en": "Saying goodbye", "so": "Macsalaamaynta" },
+      "items": ["g.kwaheri", "g.tutaonana", "g.baadaye", "g.usiku-mwema", "g.siku-njema", "g.sawa"],
+      "extra": [
+        { "type": "respond", "heard": "Kwaheri!", "options": ["Kwaheri, tutaonana!", "Habari?", "Pole!"], "answer": 0 },
+        { "type": "gap", "before": "Usiku", "after": "!", "options": ["mwema", "njema", "nzuri"], "answer": 0, "meaning": { "en": "Good night!", "so": "Habeen wanaagsan!" } }
+      ]
+    },
+    {
+      "id": "street-greetings",
+      "goals": ["street"],
+      "title": { "en": "Street greetings (Sheng)", "so": "Salaamaha jidka (Sheng)" },
+      "items": ["g.niaje", "g.fiti", "g.sema", "g.rada", "g.msee", "g.manze"],
+      "extra": [
+        { "type": "respond", "heard": "Niaje?", "options": ["Fiti!", "Shikamoo!", "Samahani!"], "answer": 0 },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Brian", "sw": "Sema msee!", "en": "Hey, my guy!", "so": "Haye, saaxiib!" },
+            { "who": "Abdi", "sw": "Niaje! Rada?", "en": "What's up! What's new?", "so": "Maxaa jira! Maxaa cusub?" },
+            { "who": "Brian", "sw": "Fiti tu, manze.", "en": "Just fine, man.", "so": "Waan fiicanahay oo keliya, nin yahow." }
+          ],
+          "question": { "en": "How is Brian?", "so": "Brian sidee buu yahay?" },
+          "options": [
+            { "en": "Fine", "so": "Wuu fiican yahay" },
+            { "en": "Angry", "so": "Wuu xanaaqsan yahay" },
+            { "en": "Hungry", "so": "Wuu gaajaysan yahay" }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "greeting-elders",
+      "goals": ["family"],
+      "title": { "en": "Greeting elders and asking about family", "so": "Salaamidda waayeelka iyo warsiga qoyska" },
+      "items": ["g.hujambo", "g.sijambo", "g.shikamoo", "g.marahaba", "g.habari-nyumbani", "g.wote-wazima"],
+      "extra": [
+        { "type": "respond", "heard": "Shikamoo!", "options": ["Marahaba.", "Poa!", "Niaje?"], "answer": 0, "explain": { "en": "The elder answers Marahaba.", "so": "Waayeelku wuxuu ku jawaabaa Marahaba." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Hujambo, mama?", "en": "How are you, madam?", "so": "Ma nabad baad tahay, marwo?" },
+            { "who": "Mama Wanjiru", "sw": "Sijambo, mwanangu. Habari ya nyumbani?", "en": "I'm fine, my child. How is everyone at home?", "so": "Waan nabad qabaa, ilmahayga. Sidee bay reer gurigu yihiin?" },
+            { "who": "Abdi", "sw": "Wote ni wazima.", "en": "Everyone is well.", "so": "Dhammaan way nabad qabaan." }
+          ],
+          "question": { "en": "What does Abdi say about his family?", "so": "Abdi muxuu ka yiri qoyskiisa?" },
+          "options": [
+            { "en": "Everyone is well", "so": "Dhammaan way nabad qabaan" },
+            { "en": "They are travelling", "so": "Way safrayaan" },
+            { "en": "They are at work", "so": "Shaqo ayay joogaan" }
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

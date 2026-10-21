@@ -1,0 +1,181 @@
+{
+  "id": "family",
+  "order": 3,
+  "level": "A1",
+  "color": "#9a3412",
+  "reviewed": false,
+  "title": { "en": "Family Scenarios", "so": "Xaaladaha Qoyska" },
+  "swTitle": "Familia",
+  "description": {
+    "en": "Name family members, talk about your family, and handle a visit to a Kenyan home.",
+    "so": "Magacaw xubnaha qoyska, ka hadal qoyskaaga, oo si fiican u maaree booqasho guri Kenya ah."
+  },
+  "goals": ["family"],
+  "guide": [
+    {
+      "title": { "en": "My, your: yangu, yako", "so": "Kayga, kaaga: yangu, yako" },
+      "body": {
+        "en": "Most family words take yangu (my) and yako (your): mama yangu (my mother), kaka yako (your brother). For more than one person, use wangu: wazazi wangu (my parents).",
+        "so": "Erayada qoyska badankood waxay qaataan yangu (kayga/tayda) iyo yako (kaaga/taada): mama yangu (hooyaday), kaka yako (walaalkaa). Wax ka badan hal qof, isticmaal wangu: wazazi wangu (waalidkay)."
+      },
+      "examples": [
+        { "sw": "Huyu ni mama yangu.", "en": "This is my mother.", "so": "Tani waa hooyaday.", "v": "standard" },
+        { "sw": "wazazi wangu", "en": "my parents", "so": "waalidkay", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenyan family words", "so": "Erayada qoyska ee Kenya" },
+      "body": {
+        "en": "In Kenya nyanya usually means grandmother, and bibi often means wife (in Tanzania bibi is grandmother). Mzee wangu, 'my old man', is a common way to say 'my dad'. Kenyans also use English words like auntie and uncle.",
+        "so": "Kenya, nyanya badanaa waxay ka dhigan tahay ayeeyo, bibina badanaa waxay ka dhigan tahay xaas (Tanzania bibi waa ayeeyo). Mzee wangu, 'odaygayga', waa qaab caadi ah oo lagu yiraahdo 'aabahay'. Kenyaanku sidoo kale waxay isticmaalaan erayo Ingiriis ah sida auntie iyo uncle."
+      },
+      "examples": [
+        { "sw": "nyanya", "en": "grandmother", "so": "ayeeyo", "v": "everyday" },
+        { "sw": "mzee wangu", "en": "my dad (casual)", "so": "aabahay (si fudud)", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Visiting a Kenyan home", "so": "Booqashada guri Kenya ah" },
+      "body": {
+        "en": "Guests hear Karibu! and Kaa chini (Sit down). Tea is almost always offered. To stop eating politely, say Asante, nimeshiba (Thank you, I'm full). Asking directly, like Nipe maji (Give me water), is normal and not rude in Kenya.",
+        "so": "Martidu waxay maqlaan Karibu! iyo Kaa chini (Fadhiiso). Shaah had iyo jeer waa la soo bandhigaa. Si edeb leh u joojinta cunnada, dheh Asante, nimeshiba (Mahadsanid, waan dhergay). Si toos ah wax u weydiisashadu, sida Nipe maji (Biyo i sii), waa caadi Kenya, ma aha edeb darro."
+      },
+      "examples": [
+        { "sw": "Kaa chini.", "en": "Sit down.", "so": "Fadhiiso.", "v": "everyday" },
+        { "sw": "Asante, nimeshiba.", "en": "Thank you, I'm full.", "so": "Mahadsanid, waan dhergay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Married: two different verbs", "so": "Guursaday: laba fal oo kala duwan" },
+      "body": {
+        "en": "Swahili uses different verbs for men and women. A man marries: ameoa (he is married). A woman is married: ameolewa (she is married).",
+        "so": "Sawaaxiligu wuxuu ragga iyo dumarka u isticmaalaa falal kala duwan. Nin ayaa guursada: ameoa (wuu guursaday). Naag ayaa la guursadaa: ameolewa (way guursatay)."
+      }
+    }
+  ],
+  "items": [
+    { "id": "f.familia", "sw": "familia", "en": "family", "so": "qoys", "v": "standard" },
+    { "id": "f.mama", "sw": "mama", "en": "mother", "so": "hooyo", "v": "standard", "syn": "mother" },
+    { "id": "f.baba", "sw": "baba", "en": "father", "so": "aabo", "v": "standard", "syn": "father" },
+    { "id": "f.kaka", "sw": "kaka", "en": "brother", "so": "walaal (wiil)", "v": "standard", "syn": "brother" },
+    { "id": "f.dada", "sw": "dada", "en": "sister", "so": "walaal (gabadh)", "v": "standard" },
+    { "id": "f.mtoto", "sw": "mtoto", "en": "child", "so": "ilmo / canug", "v": "standard", "note": { "en": "Plural: watoto (children).", "so": "Wadarta: watoto (carruur)." } },
+
+    { "id": "f.babu", "sw": "babu", "en": "grandfather", "so": "awoowe", "v": "standard" },
+    { "id": "f.nyanya", "sw": "nyanya", "en": "grandmother", "so": "ayeeyo", "v": "everyday", "tz": "bibi", "note": { "en": "In Kenya, grandmother is usually nyanya. Careful: bibi often means wife in Kenya.", "so": "Kenya, ayeeyo badanaa waa nyanya. Feejignow: bibi badanaa waxay Kenya ka dhigan tahay xaas." } },
+    { "id": "f.bibi", "sw": "bibi", "en": "wife (Kenya) / grandmother (Tanzania)", "so": "xaas (Kenya) / ayeeyo (Tanzania)", "v": "everyday", "syn": "wife" },
+    { "id": "f.mjomba", "sw": "mjomba", "en": "uncle (mother's brother)", "so": "abti", "v": "standard" },
+    { "id": "f.shangazi", "sw": "shangazi", "en": "aunt (father's sister)", "so": "eedo", "v": "standard" },
+    { "id": "f.binamu", "sw": "binamu", "en": "cousin", "so": "ina-adeer / ilma-abti", "v": "standard" },
+
+    { "id": "f.huyu-mama", "sw": "Huyu ni mama yangu", "en": "This is my mother", "so": "Tani waa hooyaday", "v": "standard" },
+    { "id": "f.nina-kaka", "sw": "Nina kaka wawili", "en": "I have two brothers", "so": "Waxaan leeyahay laba walaal oo wiilal ah", "v": "standard" },
+    { "id": "f.watoto-wangapi", "sw": "Una watoto wangapi?", "en": "How many children do you have?", "so": "Immisa carruur ah ayaad leedahay?", "v": "standard" },
+    { "id": "f.wazazi", "sw": "wazazi wangu", "en": "my parents", "so": "waalidkay", "v": "standard" },
+    { "id": "f.familia-kubwa", "sw": "Familia yangu ni kubwa", "en": "My family is big", "so": "Qoyskaygu waa ballaaran yahay", "v": "standard" },
+    { "id": "f.ndugu", "sw": "ndugu", "en": "sibling / relative", "so": "walaal / qaraabo", "v": "standard" },
+
+    { "id": "f.karibu-nyumbani", "sw": "Karibu nyumbani", "en": "Welcome to our home", "so": "Ku soo dhawoow gurigeenna", "v": "standard" },
+    { "id": "f.kaa-chini", "sw": "Kaa chini", "en": "Sit down", "so": "Fadhiiso", "v": "everyday", "tz": "Keti", "alt": ["keti", "keti chini"] },
+    { "id": "f.nikuletee-chai", "sw": "Nikuletee chai?", "en": "Shall I bring you tea?", "so": "Shaah ma kuu keenaa?", "v": "standard" },
+    { "id": "f.nipe-maji", "sw": "Nipe maji", "en": "Give me water", "so": "Biyo i sii", "v": "everyday", "tz": "Naomba maji", "note": { "en": "A direct request is normal and friendly in Kenya.", "so": "Codsi toos ah waa caadi oo waa saaxiibtinimo Kenya." } },
+    { "id": "f.nimeshiba", "sw": "Nimeshiba", "en": "I'm full", "so": "Waan dhergay", "v": "standard" },
+    { "id": "f.asante-chakula", "sw": "Asante kwa chakula", "en": "Thank you for the food", "so": "Mahadsanid cuntada", "v": "standard" },
+
+    { "id": "f.mathe", "sw": "mathe", "en": "mum (Sheng)", "so": "hooyo (Sheng)", "v": "sheng", "syn": "mother" },
+    { "id": "f.buda", "sw": "buda", "en": "dad (Sheng)", "so": "aabo (Sheng)", "v": "sheng", "syn": "father" },
+    { "id": "f.mzee-wangu", "sw": "mzee wangu", "en": "my dad (casual)", "so": "aabahay (si fudud)", "v": "everyday", "syn": "father" },
+    { "id": "f.bro", "sw": "bro", "en": "brother / my friend", "so": "walaal / saaxiib", "v": "sheng", "syn": "brother" },
+    { "id": "f.beshte", "sw": "beshte", "en": "best friend (Sheng)", "so": "saaxiibka ugu fiican (Sheng)", "v": "sheng", "note": { "en": "From English 'best'. Plural: mabeshte.", "so": "Waxay ka timid Ingiriiska 'best'. Wadarta: mabeshte." } },
+
+    { "id": "f.mume", "sw": "mume", "en": "husband", "so": "nin (seeddi)", "v": "standard" },
+    { "id": "f.mke", "sw": "mke", "en": "wife", "so": "xaas", "v": "standard", "syn": "wife" },
+    { "id": "f.harusi", "sw": "harusi", "en": "wedding", "so": "aroos", "v": "standard" },
+    { "id": "f.ameoa", "sw": "Ameoa", "en": "He is married", "so": "Wuu guursaday", "v": "standard" },
+    { "id": "f.ameolewa", "sw": "Ameolewa", "en": "She is married", "so": "Way guursatay", "v": "standard" },
+    { "id": "f.mchumba", "sw": "mchumba", "en": "fiancé(e) / partner", "so": "qofka la doonay (guur)", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "members",
+      "title": { "en": "Family members", "so": "Xubnaha qoyska" },
+      "items": ["f.familia", "f.mama", "f.baba", "f.kaka", "f.dada", "f.mtoto"],
+      "extra": [
+        { "type": "build", "prompt": { "en": "my sister", "so": "walaashay" }, "answer": "dada yangu", "extra": ["kaka", "yako"] }
+      ]
+    },
+    {
+      "id": "extended",
+      "title": { "en": "Grandparents, uncles and cousins", "so": "Awoowayaasha, abtiyaasha iyo ilmo adeeryada" },
+      "items": ["f.babu", "f.nyanya", "f.bibi", "f.mjomba", "f.shangazi", "f.binamu"],
+      "extra": [
+        { "type": "gap", "before": "", "after": "ni baba wa baba yangu.", "options": ["Babu", "Nyanya", "Binamu"], "answer": 0, "meaning": { "en": "Grandfather is my father's father.", "so": "Awoowe waa aabaha aabahay." } }
+      ]
+    },
+    {
+      "id": "talking-family",
+      "title": { "en": "Talking about your family", "so": "Ka hadalka qoyskaaga" },
+      "items": ["f.huyu-mama", "f.nina-kaka", "f.watoto-wangapi", "f.wazazi", "f.familia-kubwa", "f.ndugu"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiru", "sw": "Una watoto wangapi?", "en": "How many children do you have?", "so": "Immisa carruur ah ayaad leedahay?" },
+            { "who": "Fadumo", "sw": "Nina watoto watatu.", "en": "I have three children.", "so": "Waxaan leeyahay saddex carruur ah." },
+            { "who": "Wanjiru", "sw": "Familia kubwa!", "en": "A big family!", "so": "Qoys ballaaran!" }
+          ],
+          "question": { "en": "How many children does Fadumo have?", "so": "Fadumo immisa carruur ah ayay leedahay?" },
+          "options": [
+            { "en": "Three", "so": "Saddex" },
+            { "en": "Two", "so": "Laba" },
+            { "en": "Five", "so": "Shan" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "I have two brothers", "so": "Waxaan leeyahay laba walaal oo wiilal ah" }, "answer": "Nina kaka wawili", "extra": ["dada", "watatu"] }
+      ]
+    },
+    {
+      "id": "home-visit",
+      "title": { "en": "Visiting a Kenyan home", "so": "Booqashada guri Kenya ah" },
+      "items": ["f.karibu-nyumbani", "f.kaa-chini", "f.nikuletee-chai", "f.nipe-maji", "f.nimeshiba", "f.asante-chakula"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mama Wanjiru", "sw": "Karibu nyumbani! Kaa chini.", "en": "Welcome to our home! Sit down.", "so": "Ku soo dhawoow gurigeenna! Fadhiiso." },
+            { "who": "Abdi", "sw": "Asante sana, mama.", "en": "Thank you very much, madam.", "so": "Aad baad u mahadsantahay, marwo." },
+            { "who": "Mama Wanjiru", "sw": "Nikuletee chai?", "en": "Shall I bring you tea?", "so": "Shaah ma kuu keenaa?" },
+            { "who": "Abdi", "sw": "Ndiyo, asante.", "en": "Yes, thank you.", "so": "Haa, mahadsanid." }
+          ],
+          "question": { "en": "What does Mama Wanjiru offer?", "so": "Maxay Mama Wanjiru u soo bandhigtay?" },
+          "options": [
+            { "en": "Tea", "so": "Shaah" },
+            { "en": "Water", "so": "Biyo" },
+            { "en": "Food", "so": "Cunto" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Kula zaidi!", "options": ["Asante, nimeshiba.", "Nipe maji.", "Kwaheri."], "answer": 0, "explain": { "en": "'Eat more!' – 'Thank you, I'm full.'", "so": "'Cun wax dheeraad ah!' – 'Mahadsanid, waan dhergay.'" } }
+      ]
+    },
+    {
+      "id": "sheng-family",
+      "goals": ["street"],
+      "title": { "en": "Family and friends in Sheng", "so": "Qoyska iyo saaxiibbada af Sheng" },
+      "items": ["f.mathe", "f.buda", "f.mzee-wangu", "f.bro", "f.beshte"],
+      "extra": [
+        { "type": "respond", "heard": "Mathe yako ako aje?", "options": ["Ako fiti, asante.", "Sina doo.", "Shikamoo."], "answer": 0, "explain": { "en": "'How's your mum?' – 'She's fine, thanks.' Ako is the Kenyan everyday form of yuko.", "so": "'Hooyadaa sidee tahay?' – 'Way fiican tahay, mahadsanid.' Ako waa qaabka maalinlaha Kenya ee yuko." } }
+      ]
+    },
+    {
+      "id": "marriage",
+      "goals": ["family"],
+      "title": { "en": "Marriage and weddings", "so": "Guurka iyo arooska" },
+      "items": ["f.mume", "f.mke", "f.harusi", "f.ameoa", "f.ameolewa", "f.mchumba"],
+      "extra": [
+        { "type": "gap", "before": "Amina", "after": ".", "options": ["ameolewa", "ameoa", "amekula"], "answer": 0, "meaning": { "en": "Amina is married.", "so": "Amina way guursatay." } }
+      ]
+    }
+  ]
+}

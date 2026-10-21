@@ -1,0 +1,180 @@
+{
+  "id": "matatu",
+  "order": 4,
+  "level": "A1",
+  "color": "#7c2d92",
+  "reviewed": false,
+  "title": { "en": "Matatu & Getting Around", "so": "Matatu iyo Socodka" },
+  "swTitle": "Matatu na Usafiri",
+  "description": {
+    "en": "Ride a matatu, ask for directions, get off at the right stop and move around Nairobi like a local.",
+    "so": "Fuul matatu, weydii jihada, ka deg joogsiga saxda ah oo Nairobi ugu soco sida dadka deegaanka."
+  },
+  "goals": ["travel"],
+  "guide": [
+    {
+      "title": { "en": "How matatus work", "so": "Sida matatu-yadu u shaqeeyaan" },
+      "body": {
+        "en": "Matatus are shared minibuses with fixed routes and numbers. You wait at a stage. The konda (conductor) calls the destination, collects the fare (nauli) and tells the driver when someone wants to get off.",
+        "so": "Matatu-yadu waa baasas yaryar oo la wadaago oo leh waddooyin iyo lambarro go'an. Waxaad ku sugtaa stage (joogsiga). Konda (kirishboy) ayaa ku dhawaaqa meesha loo socdo, qaada lacagta safarka (nauli), una sheega darawalka marka qof doonayo inuu dego."
+      },
+      "examples": [
+        { "sw": "Nauli ni pesa ngapi?", "en": "How much is the fare?", "so": "Lacagta safarku waa immisa?", "v": "everyday" },
+        { "sw": "Nishukishe hapa.", "en": "Drop me here.", "so": "Halkan i deji.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Kenya vs Tanzania on the road", "so": "Kenya iyo Tanzania waddada" },
+      "body": {
+        "en": "Kenyans say matatu, stage, jam and boda boda. In Tanzania you will hear daladala, kituo and foleni. To get off, Kenyans say Nishukishe hapa, while Tanzanians say Nishushe hapa.",
+        "so": "Kenyaanku waxay yiraahdaan matatu, stage, jam iyo boda boda. Tanzania waxaad maqli doontaa daladala, kituo iyo foleni. Si loo dego, Kenyaanku waxay yiraahdaan Nishukishe hapa, halka Tansaaniyaanku yiraahdaan Nishushe hapa."
+      },
+      "examples": [
+        { "sw": "Niko kwa jam.", "en": "I'm stuck in traffic.", "so": "Ciriiriga gaadiidka ayaan ku jiraa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Directions", "so": "Jihooyinka" },
+      "body": {
+        "en": "Kulia is right, kushoto is left, moja kwa moja is straight on. Kenyans usually say enda for 'go' (the textbook form is nenda) and pinda for 'turn'.",
+        "so": "Kulia waa midig, kushoto waa bidix, moja kwa moja waa toos. Kenyaanku badanaa 'soco' waxay ku yiraahdaan enda (qaabka buugaagtu waa nenda), 'leexo'na pinda."
+      },
+      "examples": [
+        { "sw": "Enda moja kwa moja, kisha pinda kulia.", "en": "Go straight, then turn right.", "so": "Toos u soco, kadibna midig u leexo.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Matatu culture", "so": "Dhaqanka matatu-yada" },
+      "body": {
+        "en": "Nairobi matatus are famous for loud music and bright art. Young people call the flashiest ones nganya. The conductor is often called makanga and the driver dere. These Sheng words are for friends; with older people use konda and dereva.",
+        "so": "Matatu-yada Nairobi waxay caan ku yihiin muusig cod dheer iyo farshaxan midab leh. Dhallinyaradu kuwa ugu qurxoon waxay ugu yeeraan nganya. Kirishboyga badanaa waxaa loo yaqaan makanga, darawalkana dere. Erayadan Sheng waa saaxiibbada; dadka waaweyn la isticmaal konda iyo dereva."
+      }
+    }
+  ],
+  "items": [
+    { "id": "m.matatu", "sw": "matatu", "en": "matatu (shared minibus)", "so": "matatu (baas yar oo la wadaago)", "v": "everyday", "tz": "daladala" },
+    { "id": "m.stage", "sw": "stage", "en": "matatu stop", "so": "joogsiga baska", "v": "everyday", "tz": "kituo", "alt": ["steji"], "say": "steji", "note": { "en": "Often pronounced steji.", "so": "Badanaa waxaa loogu dhawaaqaa steji." } },
+    { "id": "m.panda", "sw": "panda", "en": "get on / board", "so": "fuul", "v": "standard" },
+    { "id": "m.shuka", "sw": "shuka", "en": "get off", "so": "ka deg", "v": "standard" },
+    { "id": "m.nauli", "sw": "nauli", "en": "fare", "so": "lacagta safarka", "v": "standard" },
+    { "id": "m.konda", "sw": "konda", "en": "conductor", "so": "kirishboy", "v": "everyday", "syn": "conductor", "note": { "en": "Short for kondakta. He collects the fare.", "so": "Waa soo gaabinta kondakta. Isagaa qaada lacagta safarka." } },
+
+    { "id": "m.nishukishe", "sw": "Nishukishe hapa", "en": "Drop me here", "so": "Halkan i deji", "v": "everyday", "tz": "Nishushe hapa", "alt": ["nishushe hapa"] },
+    { "id": "m.nashuka", "sw": "Nashuka stage ijayo", "en": "I'm getting off at the next stop", "so": "Joogsiga xiga ayaan ka degayaa", "v": "everyday", "say": "Nashuka steji ijayo" },
+    { "id": "m.ngoja", "sw": "Ngoja kidogo", "en": "Wait a moment", "so": "Wax yar sug", "v": "standard" },
+    { "id": "m.haraka", "sw": "haraka", "en": "quickly / hurry", "so": "degdeg", "v": "standard" },
+    { "id": "m.pole-pole", "sw": "pole pole", "en": "slowly", "so": "tartiib", "v": "standard", "note": { "en": "Also means 'take it easy'. Different from Pole (sorry).", "so": "Sidoo kale waxay ka dhigan tahay 'iska yara deji'. Way ka duwan tahay Pole (ka xumahay)." } },
+    { "id": "m.simama", "sw": "Simama!", "en": "Stop!", "so": "Istaag!", "v": "standard" },
+    { "id": "m.dereva", "sw": "dereva", "en": "driver", "so": "darawal", "v": "standard", "syn": "driver" },
+
+    { "id": "m.kulia", "sw": "kulia", "en": "right", "so": "midig", "v": "standard" },
+    { "id": "m.kushoto", "sw": "kushoto", "en": "left", "so": "bidix", "v": "standard" },
+    { "id": "m.moja-kwa-moja", "sw": "moja kwa moja", "en": "straight ahead", "so": "toos", "v": "standard" },
+    { "id": "m.iko-wapi", "sw": "Stage iko wapi?", "en": "Where is the matatu stop?", "so": "Joogsiga baska xaggee buu ku yaal?", "v": "everyday", "say": "Steji iko wapi?", "alt": ["steji iko wapi"] },
+    { "id": "m.karibu-near", "sw": "karibu", "en": "near", "so": "u dhow", "v": "standard", "note": { "en": "Karibu also means 'welcome'. Karibu na = near to.", "so": "Karibu sidoo kale waxay ka dhigan tahay 'soo dhawoow'. Karibu na = u dhow." } },
+    { "id": "m.mbali", "sw": "mbali", "en": "far", "so": "fog", "v": "standard" },
+
+    { "id": "m.boda", "sw": "boda boda", "en": "motorbike taxi", "so": "mooto la kiraysto (boda boda)", "v": "everyday", "alt": ["boda", "bodaboda"] },
+    { "id": "m.jam", "sw": "jam", "en": "traffic jam", "so": "ciriiriga gaadiidka", "v": "everyday", "tz": "foleni" },
+    { "id": "m.tao", "sw": "tao", "en": "town / city centre (Sheng)", "so": "magaalada / bartamaha (Sheng)", "v": "sheng" },
+    { "id": "m.naenda-tao", "sw": "Naenda tao", "en": "I'm going to town", "so": "Waxaan u socdaa magaalada", "v": "sheng", "alt": ["naenda town", "ninaenda mjini"] },
+    { "id": "m.tuko-wapi", "sw": "Tuko wapi?", "en": "Where are we?", "so": "Xaggee joognaa?", "v": "standard" },
+    { "id": "m.gari", "sw": "gari", "en": "car / vehicle", "so": "gaari", "v": "standard" },
+
+    { "id": "m.basi", "sw": "basi", "en": "bus", "so": "bas", "v": "standard" },
+    { "id": "m.tiketi", "sw": "tiketi", "en": "ticket", "so": "tigidh", "v": "standard" },
+    { "id": "m.uwanja", "sw": "uwanja wa ndege", "en": "airport", "so": "garoonka diyaaradaha", "v": "standard" },
+    { "id": "m.hoteli", "sw": "hoteli", "en": "small restaurant / hotel", "so": "makhaayad yar / huteel", "v": "everyday", "note": { "en": "In Kenya hoteli often means a small eating place, not a place to sleep.", "so": "Kenya, hoteli badanaa waxay ka dhigan tahay meel yar oo wax lagu cuno, ma aha meel la seexdo." } },
+    { "id": "m.safari-njema", "sw": "Safari njema!", "en": "Have a good trip!", "so": "Safar wanaagsan!", "v": "standard" },
+    { "id": "m.ramani", "sw": "ramani", "en": "map", "so": "khariidad", "v": "standard" },
+
+    { "id": "m.nganya", "sw": "nganya", "en": "flashy decorated matatu (Sheng)", "so": "matatu la qurxiyey (Sheng)", "v": "sheng" },
+    { "id": "m.makanga", "sw": "makanga", "en": "conductor (Sheng)", "so": "kirishboy (Sheng)", "v": "sheng", "syn": "conductor" },
+    { "id": "m.dere", "sw": "dere", "en": "driver (Sheng)", "so": "darawal (Sheng)", "v": "sheng", "syn": "driver" },
+    { "id": "m.kanjo", "sw": "kanjo", "en": "city council officers (Sheng)", "so": "askarta dawladda hoose (Sheng)", "v": "sheng" }
+  ],
+  "lessons": [
+    {
+      "id": "at-the-stage",
+      "title": { "en": "At the stage", "so": "Joogsiga baska" },
+      "items": ["m.matatu", "m.stage", "m.panda", "m.shuka", "m.nauli", "m.konda"],
+      "extra": [
+        { "type": "respond", "heard": "Nauli ni mia.", "options": ["Sawa, hii hapa.", "Shikamoo.", "Kushoto."], "answer": 0, "explain": { "en": "'The fare is 100.' – 'Okay, here it is.'", "so": "'Lacagta safarku waa boqol.' – 'Hagaag, waa tan.'" } },
+        { "type": "build", "prompt": { "en": "I'm getting off here", "so": "Halkan ayaan ka degayaa" }, "answer": "Nashuka hapa", "extra": ["panda", "stage"] }
+      ]
+    },
+    {
+      "id": "on-the-matatu",
+      "title": { "en": "On the matatu", "so": "Matatu dhexdeeda" },
+      "items": ["m.nishukishe", "m.nashuka", "m.ngoja", "m.haraka", "m.pole-pole", "m.simama", "m.dereva"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Konda, nashuka stage ijayo.", "en": "Conductor, I'm getting off at the next stop.", "so": "Kirishboy, joogsiga xiga ayaan ka degayaa." },
+            { "who": "Konda", "sw": "Sawa. Dereva, simama!", "en": "Okay. Driver, stop!", "so": "Hagaag. Darawal, istaag!" },
+            { "who": "Abdi", "sw": "Asante.", "en": "Thank you.", "so": "Mahadsanid." }
+          ],
+          "question": { "en": "Where does Abdi get off?", "so": "Abdi xaggee ka degayaa?" },
+          "options": [
+            { "en": "At the next stop", "so": "Joogsiga xiga" },
+            { "en": "In town", "so": "Magaalada" },
+            { "en": "At the airport", "so": "Garoonka diyaaradaha" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Nishukishe", "after": ".", "options": ["hapa", "kesho", "jana"], "answer": 0, "meaning": { "en": "Drop me here.", "so": "Halkan i deji." } }
+      ]
+    },
+    {
+      "id": "directions",
+      "title": { "en": "Asking for directions", "so": "Weydiinta jihada" },
+      "items": ["m.kulia", "m.kushoto", "m.moja-kwa-moja", "m.iko-wapi", "m.karibu-near", "m.mbali"],
+      "extra": [
+        { "type": "respond", "heard": "Stage iko wapi?", "options": ["Enda moja kwa moja, kisha kulia.", "Nimeshiba.", "Sina doo."], "answer": 0, "explain": { "en": "'Go straight, then right.' Enda is the Kenyan everyday form of nenda.", "so": "'Toos u soco, kadibna midig.' Enda waa qaabka maalinlaha Kenya ee nenda." } },
+        { "type": "build", "prompt": { "en": "Turn left", "so": "Bidix u leexo" }, "answer": "Pinda kushoto", "extra": ["kulia", "mbali"], "accept": ["Kata kushoto"] }
+      ]
+    },
+    {
+      "id": "around-nairobi",
+      "title": { "en": "Getting around Nairobi", "so": "Socodka Nairobi" },
+      "items": ["m.boda", "m.jam", "m.tao", "m.naenda-tao", "m.tuko-wapi", "m.gari"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Uko wapi?", "en": "Where are you?", "so": "Xaggee joogtaa?" },
+            { "who": "Abdi", "sw": "Niko kwa jam. Naenda tao.", "en": "I'm stuck in traffic. I'm going to town.", "so": "Ciriiriga gaadiidka ayaan ku jiraa. Magaalada ayaan u socdaa." },
+            { "who": "Wanjiku", "sw": "Chukua boda boda!", "en": "Take a motorbike taxi!", "so": "Qaado boda boda!" }
+          ],
+          "question": { "en": "Why is Abdi late?", "so": "Maxaa Abdi daahiyey?" },
+          "options": [
+            { "en": "He is in a traffic jam", "so": "Ciriiriga gaadiidka ayuu ku jiraa" },
+            { "en": "He is eating", "so": "Wuu wax cunayaa" },
+            { "en": "He is at home", "so": "Guriga ayuu joogaa" }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "travel-essentials",
+      "goals": ["travel"],
+      "title": { "en": "Travel essentials", "so": "Waxyaabaha muhiimka u ah safarka" },
+      "items": ["m.basi", "m.tiketi", "m.uwanja", "m.hoteli", "m.safari-njema", "m.ramani"],
+      "extra": [
+        { "type": "respond", "heard": "Safari njema!", "options": ["Asante sana!", "Pole.", "Simama!"], "answer": 0 },
+        { "type": "gap", "before": "Naenda uwanja wa", "after": ".", "options": ["ndege", "basi", "gari"], "answer": 0, "meaning": { "en": "I'm going to the airport.", "so": "Waxaan u socdaa garoonka diyaaradaha." } }
+      ]
+    },
+    {
+      "id": "matatu-culture",
+      "goals": ["street"],
+      "title": { "en": "Matatu culture (Sheng)", "so": "Dhaqanka matatu-yada (Sheng)" },
+      "items": ["m.nganya", "m.makanga", "m.dere", "m.kanjo"],
+      "extra": [
+        { "type": "respond", "heard": "Panda, panda! Tao!", "options": ["Ni pesa ngapi?", "Usiku mwema.", "Nimeshiba."], "answer": 0, "explain": { "en": "The makanga is calling passengers to town. Always ask the fare first.", "so": "Makanga-gu wuxuu u yeerayaa rakaabka magaalada. Marwalba marka hore weydii lacagta safarka." } }
+      ]
+    }
+  ]
+}

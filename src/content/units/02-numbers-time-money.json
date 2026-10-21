@@ -1,0 +1,198 @@
+{
+  "id": "numbers",
+  "order": 2,
+  "level": "A1",
+  "color": "#1e40af",
+  "reviewed": false,
+  "title": { "en": "Numbers, Time & Money", "so": "Tirooyinka, Waqtiga iyo Lacagta" },
+  "swTitle": "Namba, Saa na Pesa",
+  "description": {
+    "en": "Count, tell Swahili time, ask prices, bargain at the market and pay the Kenyan way with M-Pesa.",
+    "so": "Tiri, sheeg waqtiga Sawaaxiliga, weydii qiimaha, ku gorgortan suuqa oo ku bixi M-Pesa sida Kenya."
+  },
+  "guide": [
+    {
+      "title": { "en": "Some numbers come from Arabic", "so": "Tirooyinka qaar waxay ka yimaadeen Carabi" },
+      "body": {
+        "en": "Sita (6), saba (7) and tisa (9) come from Arabic sitta, sab'a and tis'a. So do ishirini (20), thelathini (30), arobaini (40), hamsini (50), mia (100) and elfu (1,000). Somali uses its own words (lix, toddoba, sagaal), but if you know Arabic numbers these will feel familiar.",
+        "so": "Sita (6), saba (7) iyo tisa (9) waxay ka yimaadeen Carabiga sitta, sabca iyo tisca. Sidoo kale ishirini (20), thelathini (30), arobaini (40), hamsini (50), mia (100) iyo elfu (1,000). Soomaaligu wuxuu leeyahay erayo u gaar ah (lix, toddoba, sagaal), laakiin haddii aad taqaanno tirooyinka Carabiga, kuwani way kuu yaqaannaan."
+      },
+      "examples": [
+        { "sw": "sita, saba, tisa", "en": "six, seven, nine", "so": "lix, toddoba, sagaal", "v": "standard" },
+        { "sw": "mia moja, elfu moja", "en": "one hundred, one thousand", "so": "boqol, kun", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Swahili time starts at 6 a.m.", "so": "Waqtiga Sawaaxiligu wuxuu ka bilaabmaa 6-da subaxnimo" },
+      "body": {
+        "en": "In Swahili time the day starts at sunrise. Saa moja (hour one) is 7 o'clock, saa mbili is 8, saa sita is 12. The easy rule: subtract 6 from the English hour. Kenyans use Swahili time when they speak Swahili, but often switch to English time in English.",
+        "so": "Waqtiga Sawaaxiliga maalintu waxay ka bilaabataa qorrax soo baxa. Saa moja (saacadda koowaad) waa 7-da, saa mbili waa 8-da, saa sita waa 12-ka. Xeerka fudud: 6 ka jar saacadda Ingiriisiga. Kenyaanku waxay isticmaalaan waqtiga Sawaaxiliga markay Sawaaxili ku hadlayaan, laakiin badanaa waqtiga Ingiriisiga ayay u wareegaan markay Ingiriis ku hadlayaan."
+      },
+      "examples": [
+        { "sw": "saa moja asubuhi", "en": "7 a.m.", "so": "7-da subaxnimo", "v": "standard" },
+        { "sw": "saa nne na nusu", "en": "10:30", "so": "10:30", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenyan money talk", "so": "Hadalka lacagta Kenya" },
+      "body": {
+        "en": "Prices are in Kenyan shillings (KSh). Kenyans often say bob for shillings: mia bob is 100 shillings. Most people pay with M-Pesa on the phone: Lipa na M-Pesa. In Tanzania the same sign says Lipa kwa M-Pesa.",
+        "so": "Qiimaha waxaa lagu qoraa shilinka Kenya (KSh). Kenyaanku badanaa shilinka waxay u yaqaannaan bob: mia bob waa 100 shilin. Dadka badankiisu waxay ku bixiyaan M-Pesa taleefanka: Lipa na M-Pesa. Tanzania calaamadda la midka ah waxay leedahay Lipa kwa M-Pesa."
+      },
+      "examples": [
+        { "sw": "Lipa na M-Pesa", "en": "Pay with M-Pesa", "so": "Ku bixi M-Pesa", "v": "everyday" },
+        { "sw": "Ni mia bob.", "en": "It's 100 shillings.", "so": "Waa 100 shilin.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "How to bargain", "so": "Sida loo gorgortamo" },
+      "body": {
+        "en": "Greet first, then ask Ni pesa ngapi? If it is too much, say Ni ghali! and Punguza kidogo with a smile. Prices at markets and with mama mboga (vegetable sellers) are often open to a little bargaining. Supermarket prices are fixed.",
+        "so": "Marka hore salaan, kadib weydii Ni pesa ngapi? Haddii ay aad u badan tahay, dheh Ni ghali! iyo Punguza kidogo adigoo dhoola caddaynaya. Qiimaha suuqyada iyo mama mboga (iibiyeyaasha khudaarta) badanaa wax yar ayaa laga gorgortami karaa. Qiimaha suubarmaarkeetka waa go'an yahay."
+      }
+    }
+  ],
+  "items": [
+    { "id": "n.moja", "sw": "moja", "en": "one", "so": "kow", "v": "standard" },
+    { "id": "n.mbili", "sw": "mbili", "en": "two", "so": "laba", "v": "standard" },
+    { "id": "n.tatu", "sw": "tatu", "en": "three", "so": "saddex", "v": "standard" },
+    { "id": "n.nne", "sw": "nne", "en": "four", "so": "afar", "v": "standard" },
+    { "id": "n.tano", "sw": "tano", "en": "five", "so": "shan", "v": "standard" },
+    { "id": "n.namba", "sw": "namba", "en": "number", "so": "lambar", "v": "everyday", "tz": "nambari", "note": { "en": "Namba yako ni ngapi? = What's your (phone) number?", "so": "Namba yako ni ngapi? = Lambarkaagu waa immisa?" } },
+
+    { "id": "n.sita", "sw": "sita", "en": "six", "so": "lix", "v": "standard", "note": { "en": "From Arabic sitta.", "so": "Waxay ka timid Carabiga sitta." } },
+    { "id": "n.saba", "sw": "saba", "en": "seven", "so": "toddoba", "v": "standard", "note": { "en": "From Arabic sab'a.", "so": "Waxay ka timid Carabiga sabca." } },
+    { "id": "n.nane", "sw": "nane", "en": "eight", "so": "siddeed", "v": "standard" },
+    { "id": "n.tisa", "sw": "tisa", "en": "nine", "so": "sagaal", "v": "standard", "note": { "en": "From Arabic tis'a.", "so": "Waxay ka timid Carabiga tisca." } },
+    { "id": "n.kumi", "sw": "kumi", "en": "ten", "so": "toban", "v": "standard" },
+
+    { "id": "n.kumi-na-moja", "sw": "kumi na moja", "en": "eleven", "so": "kow iyo toban", "v": "standard", "note": { "en": "Ten and one. Twelve is kumi na mbili.", "so": "Toban iyo kow. Laba iyo toban waa kumi na mbili." } },
+    { "id": "n.ishirini", "sw": "ishirini", "en": "twenty", "so": "labaatan", "v": "standard" },
+    { "id": "n.hamsini", "sw": "hamsini", "en": "fifty", "so": "konton", "v": "standard" },
+    { "id": "n.mia", "sw": "mia moja", "en": "one hundred", "so": "boqol", "v": "standard", "alt": ["mia"] },
+    { "id": "n.elfu", "sw": "elfu moja", "en": "one thousand", "so": "kun", "v": "standard", "alt": ["elfu"] },
+    { "id": "n.shilingi", "sw": "shilingi", "en": "shilling(s)", "so": "shilin", "v": "standard", "syn": "shilling" },
+    { "id": "n.pesa", "sw": "pesa", "en": "money", "so": "lacag", "v": "standard", "syn": "money" },
+
+    { "id": "n.ni-pesa-ngapi", "sw": "Ni pesa ngapi?", "en": "How much is it?", "so": "Waa immisa?", "v": "everyday", "syn": "price", "alt": ["ni ngapi", "bei gani", "hii ni pesa ngapi"] },
+    { "id": "n.bei-gani", "sw": "Bei gani?", "en": "What's the price?", "so": "Qiimuhu waa immisa?", "v": "standard", "syn": "price", "alt": ["ni pesa ngapi", "bei ni ngapi"] },
+    { "id": "n.ghali", "sw": "ghali", "en": "expensive", "so": "qaali", "v": "standard" },
+    { "id": "n.rahisi", "sw": "rahisi", "en": "cheap / easy", "so": "jaban / fudud", "v": "standard" },
+    { "id": "n.punguza", "sw": "Punguza kidogo", "en": "Lower the price a little", "so": "Wax yar dhimi", "v": "everyday" },
+    { "id": "n.lipa-mpesa", "sw": "Lipa na M-Pesa", "en": "Pay with M-Pesa", "so": "Ku bixi M-Pesa", "v": "everyday", "tz": "Lipa kwa M-Pesa", "alt": ["lipa kwa m pesa"], "say": "Lipa na Em-Pesa" },
+    { "id": "n.bob", "sw": "bob", "en": "shilling(s) (slang)", "so": "shilin (hadal fudud)", "v": "everyday", "syn": "shilling", "note": { "en": "Mia bob = 100 shillings. Very common in Kenya.", "so": "Mia bob = 100 shilin. Aad ayuu ugu badan yahay Kenya." } },
+    { "id": "n.nitumie", "sw": "Nitumie pesa", "en": "Send me money", "so": "Lacag ii soo dir", "v": "everyday", "note": { "en": "Usually means send by M-Pesa.", "so": "Badanaa waxay ka dhigan tahay ku soo dir M-Pesa." } },
+
+    { "id": "n.saa-ngapi", "sw": "Saa ngapi?", "en": "What time is it?", "so": "Saacaddu waa immisa?", "v": "standard", "alt": ["ni saa ngapi"] },
+    { "id": "n.saa-moja", "sw": "saa moja asubuhi", "en": "7 a.m. (Swahili time: hour one)", "so": "7-da subaxnimo (waqtiga Sawaaxiliga: saacadda koowaad)", "v": "standard" },
+    { "id": "n.saa-sita", "sw": "saa sita mchana", "en": "12 noon", "so": "12-ka duhurnimo", "v": "standard" },
+    { "id": "n.nusu", "sw": "na nusu", "en": "and a half (:30)", "so": "iyo badh (:30)", "v": "standard" },
+    { "id": "n.leo", "sw": "leo", "en": "today", "so": "maanta", "v": "standard" },
+    { "id": "n.kesho", "sw": "kesho", "en": "tomorrow", "so": "berri", "v": "standard" },
+    { "id": "n.jana", "sw": "jana", "en": "yesterday", "so": "shalay", "v": "standard" },
+
+    { "id": "n.chapaa", "sw": "chapaa", "en": "money (Sheng)", "so": "lacag (Sheng)", "v": "sheng", "syn": "money" },
+    { "id": "n.doo", "sw": "doo", "en": "cash / money (Sheng)", "so": "lacag caddaan ah (Sheng)", "v": "sheng", "syn": "money" },
+    { "id": "n.mbao", "sw": "mbao", "en": "twenty shillings (Sheng)", "so": "labaatan shilin (Sheng)", "v": "sheng" },
+    { "id": "n.thao", "sw": "thao", "en": "a thousand shillings (Sheng)", "so": "kun shilin (Sheng)", "v": "sheng" },
+    { "id": "n.sina-doo", "sw": "Sina doo", "en": "I'm broke (I have no money)", "so": "Lacag ma haysto", "v": "sheng" },
+
+    { "id": "n.mteja", "sw": "mteja", "en": "customer", "so": "macmiil", "v": "standard" },
+    { "id": "n.risiti", "sw": "risiti", "en": "receipt", "so": "rasiid", "v": "standard" },
+    { "id": "n.bei-jumla", "sw": "bei ya jumla", "en": "wholesale price", "so": "qiimaha jumladda", "v": "standard" },
+    { "id": "n.faida", "sw": "faida", "en": "profit", "so": "faa'iido", "v": "standard" },
+    { "id": "n.hasara", "sw": "hasara", "en": "loss", "so": "khasaare", "v": "standard" },
+    { "id": "n.deni", "sw": "deni", "en": "debt / credit", "so": "dayn", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "numbers-1-5",
+      "title": { "en": "Numbers 1 to 5", "so": "Tirooyinka 1 ilaa 5" },
+      "items": ["n.moja", "n.mbili", "n.tatu", "n.nne", "n.tano", "n.namba"],
+      "extra": [
+        { "type": "gap", "before": "moja, mbili,", "after": ", nne", "options": ["tatu", "tano", "nane"], "answer": 0, "meaning": { "en": "one, two, three, four", "so": "kow, laba, saddex, afar" } }
+      ]
+    },
+    {
+      "id": "numbers-6-10",
+      "title": { "en": "Numbers 6 to 10", "so": "Tirooyinka 6 ilaa 10" },
+      "items": ["n.sita", "n.saba", "n.nane", "n.tisa", "n.kumi"],
+      "extra": [
+        { "type": "gap", "before": "sita, saba,", "after": ", tisa", "options": ["nane", "nne", "tano"], "answer": 0, "meaning": { "en": "six, seven, eight, nine", "so": "lix, toddoba, siddeed, sagaal" } }
+      ]
+    },
+    {
+      "id": "big-numbers",
+      "title": { "en": "Big numbers and money", "so": "Tirooyin waaweyn iyo lacag" },
+      "items": ["n.kumi-na-moja", "n.ishirini", "n.hamsini", "n.mia", "n.elfu", "n.shilingi", "n.pesa"],
+      "extra": [
+        { "type": "build", "prompt": { "en": "Fifty shillings", "so": "Konton shilin" }, "answer": "shilingi hamsini", "extra": ["mia", "ishirini"] }
+      ]
+    },
+    {
+      "id": "prices",
+      "title": { "en": "Prices, bargaining and M-Pesa", "so": "Qiimo, gorgortan iyo M-Pesa" },
+      "items": ["n.ni-pesa-ngapi", "n.bei-gani", "n.ghali", "n.rahisi", "n.punguza", "n.lipa-mpesa", "n.bob", "n.nitumie"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Sasa, mama. Hii ni pesa ngapi?", "en": "Hi, madam. How much is this?", "so": "Haye, marwo. Tani waa immisa?" },
+            { "who": "Mama mboga", "sw": "Mia mbili.", "en": "Two hundred.", "so": "Laba boqol." },
+            { "who": "Abdi", "sw": "Ni ghali! Punguza kidogo.", "en": "That's expensive! Lower it a little.", "so": "Waa qaali! Wax yar dhimi." },
+            { "who": "Mama mboga", "sw": "Sawa, mia moja na hamsini.", "en": "Okay, one hundred and fifty.", "so": "Hagaag, boqol iyo konton." }
+          ],
+          "question": { "en": "What is the final price?", "so": "Qiimaha ugu dambeeyaa waa immisa?" },
+          "options": [
+            { "en": "150 shillings", "so": "150 shilin" },
+            { "en": "200 shillings", "so": "200 shilin" },
+            { "en": "50 shillings", "so": "50 shilin" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "Lower the price a little", "so": "Wax yar dhimi" }, "answer": "Punguza kidogo", "extra": ["ghali", "sana"] }
+      ]
+    },
+    {
+      "id": "time",
+      "title": { "en": "Telling the time", "so": "Sheegidda waqtiga" },
+      "items": ["n.saa-ngapi", "n.saa-moja", "n.saa-sita", "n.nusu", "n.leo", "n.kesho", "n.jana"],
+      "extra": [
+        { "type": "gap", "before": "Ni saa", "after": "asubuhi.", "options": ["mbili", "moja", "nane"], "answer": 0, "meaning": { "en": "It is 8 a.m.", "so": "Waa 8-da subaxnimo." } },
+        { "type": "respond", "heard": "Tutaonana kesho.", "options": ["Sawa, kesho!", "Jana!", "Ni ghali!"], "answer": 0, "explain": { "en": "'See you tomorrow.'", "so": "'Berri ayaan is arki doonnaa.'" } }
+      ]
+    },
+    {
+      "id": "sheng-money",
+      "goals": ["street"],
+      "title": { "en": "Money in Sheng", "so": "Lacagta af Sheng" },
+      "items": ["n.chapaa", "n.doo", "n.mbao", "n.thao", "n.sina-doo"],
+      "extra": [
+        { "type": "respond", "heard": "Uko na doo?", "options": ["Sina doo, msee.", "Shikamoo.", "Saa sita."], "answer": 0, "explain": { "en": "'Do you have money?' – 'I'm broke, man.'", "so": "'Lacag ma haysataa?' – 'Lacag ma haysto, saaxiib.'" } }
+      ]
+    },
+    {
+      "id": "shop-business",
+      "goals": ["business"],
+      "title": { "en": "In the shop: business words", "so": "Dukaanka: erayada ganacsiga" },
+      "items": ["n.mteja", "n.risiti", "n.bei-jumla", "n.faida", "n.hasara", "n.deni"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mteja", "sw": "Bei ya jumla ni ngapi?", "en": "What's the wholesale price?", "so": "Qiimaha jumladdu waa immisa?" },
+            { "who": "Mwenye duka", "sw": "Elfu moja kwa kumi.", "en": "One thousand for ten.", "so": "Kun toban kiiba." },
+            { "who": "Mteja", "sw": "Sawa. Nipe risiti, tafadhali.", "en": "Okay. Give me a receipt, please.", "so": "Hagaag. Rasiid i sii, fadlan." }
+          ],
+          "question": { "en": "What does the customer ask for at the end?", "so": "Macmiilku muxuu weyddiistay ugu dambayn?" },
+          "options": [
+            { "en": "A receipt", "so": "Rasiid" },
+            { "en": "A discount", "so": "Qiimo dhimis" },
+            { "en": "Credit", "so": "Dayn" }
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "sema-kenya",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Sema Kenya Language Platform - learn Kenyan Swahili (Kiswahili cha Kenya) with English and Somali explanations",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "validate": "node scripts/validate-content.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "build": "npm run validate && tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.5"
+  }
+}
