@@ -1,0 +1,364 @@
+{
+  "id": "coast-mombasa",
+  "order": 19,
+  "level": "B1",
+  "color": "#0e7490",
+  "reviewed": false,
+  "title": { "en": "Mombasa & the Swahili Coast", "so": "Mombasa iyo Xeebta Sawaaxiliga" },
+  "swTitle": "Mombasa na Pwani",
+  "description": {
+    "en": "Walk through Mombasa's Old Town and Fort Jesus, greet people the coastal way, and enjoy biriani, mahamri and Swahili hospitality.",
+    "so": "Ku dhex soco Magaalada Qadiimka ah ee Mombasa iyo Fort Jesus, dadka u salaan sida xeebta, kuna raaxayso biryaani, mahamri iyo martisoorka Sawaaxiliga."
+  },
+  "goals": ["travel"],
+  "guide": [
+    {
+      "title": { "en": "The coast: home of Kiswahili", "so": "Xeebta: hoyga Sawaaxiliga" },
+      "body": {
+        "en": "Kiswahili grew up along the East African coast, and in Mombasa it is the mother tongue of many families. Many Kenyans say coastal people speak the sweetest, most correct Kiswahili, and they admire it. Coastal speakers use the full grammar, polite forms and more Arabic words. Inland Kenyan Kiswahili is not wrong, just different, and everyone understands both.",
+        "so": "Sawaaxiligu wuxuu ka soo baxay xeebta Bariga Afrika, Mombasana waa luqadda hooyo ee qoysas badan. Kenyaan badan waxay yiraahdaan dadka xeebtu waxay ku hadlaan Sawaaxiliga ugu macaan uguna saxsan, wayna u bogaan. Dadka xeebtu naxwaha si buuxda ayay u isticmaalaan, hadal edeb leh ayay ku hadlaan, erayo Carabi ahna way ku daraan. Sawaaxiliga gudaha Kenya khalad ma aha, waa uun ka duwan yahay, qof walbana labadaba wuu fahmaa."
+      },
+      "examples": [
+        { "sw": "Kiswahili cha pwani ni kitamu sana.", "en": "Coastal Kiswahili is very sweet.", "so": "Sawaaxiliga xeebtu aad buu u macaan yahay.", "v": "standard" },
+        { "sw": "Huku Mombasa, Kiswahili ni lugha ya mama.", "en": "Here in Mombasa, Kiswahili is the mother tongue.", "so": "Halkan Mombasa, Sawaaxiligu waa luqadda hooyo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Coastal greetings", "so": "Salaamaha xeebta" },
+      "body": {
+        "en": "At the coast, greetings are longer and more respectful. Young people greet elders with Shikamoo and hear Marahaba. Hujambo? and Sijambo are used naturally here, and to a group you say Hamjambo? (answer: Hatujambo). Many people also say Sabalkheri in the morning and Masalkheri in the afternoon and evening. Both come from Arabic.",
+        "so": "Xeebta, salaamuhu way dheer yihiin wayna ixtiraam badan yihiin. Dhallinyaradu waxay waayeelka ku salaamaan Shikamoo, waxayna maqlaan Marahaba. Hujambo? iyo Sijambo halkan si caadi ah ayaa loo isticmaalaa, kooxdana waxaad ku tiraahdaa Hamjambo? (jawaabtu: Hatujambo). Dad badan ayaa sidoo kale subaxdii yiraahda Sabalkheri, galabta iyo fiidkana Masalkheri. Labaduba Carabi ayay ka yimaadeen."
+      },
+      "examples": [
+        { "sw": "Shikamoo, mzee! – Marahaba, mwanangu.", "en": "My respects, sir! – Welcome, my child.", "so": "Adeer, ixtiraam badan! – Soo dhawoow, ilmahayga.", "v": "coastal" },
+        { "sw": "Hamjambo? – Hatujambo.", "en": "How are you all? – We are fine.", "so": "Ma nabad baad tihiin? – Nabad baan qabnaa.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Respect in the Old Town", "so": "Ixtiraamka Magaalada Qadiimka ah" },
+      "body": {
+        "en": "Mombasa has a large Muslim community and many cultures living side by side. In the Old Town, dress modestly and cover your shoulders and knees. Take off your shoes before entering a mosque, and keep your voice down during the adhana (call to prayer). Ask before you photograph people. At a door, call out Hodi! and wait for Karibu.",
+        "so": "Mombasa waxaa ku nool bulsho Muslim ah oo ballaaran iyo dhaqammo badan oo wada nool. Magaalada Qadiimka ah, dhar asturan xiro, garbaha iyo jilbahana qari. Kabaha iska siib ka hor intaadan masjid gelin, codkana hoos u dhig marka aadaanka la addimayo. Weydii ka hor intaadan dadka sawir ka qaadin. Albaabka markaad timaado, dheh Hodi! oo sug inta lagu leeyahay Karibu."
+      },
+      "examples": [
+        { "sw": "Hodi! – Karibu, ingia.", "en": "May I come in? – Welcome, come in.", "so": "Ma soo gali karaa? – Soo dhawoow, soo gal.", "v": "standard" },
+        { "sw": "Tafadhali vua viatu kabla ya kuingia msikitini.", "en": "Please take off your shoes before entering the mosque.", "so": "Fadlan kabaha iska siib ka hor intaadan masjidka gelin.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kimvita, the Mombasa dialect", "so": "Kimvita, lahjadda Mombasa" },
+      "body": {
+        "en": "Mvita is the old Swahili name of Mombasa, often explained as 'the island of war'. Its own dialect, Kimvita, has a long tradition of poetry. The standard Kiswahili taught in schools was built mainly on the Zanzibar dialect, so older Mombasa speakers sometimes use words and sounds you won't find in your textbook. You don't need to speak Kimvita, but people will smile if you know the name.",
+        "so": "Mvita waa magaca hore ee Sawaaxili ee Mombasa, waxaana badanaa loo fasiraa 'jasiiradda dagaalka'. Lahjaddeeda gaarka ah, Kimvita, waxay leedahay taariikh dheer oo gabay ah. Sawaaxiliga rasmiga ah ee dugsiyada lagu barto wuxuu inta badan ku dhisan yahay lahjadda Zanzibar, sidaas darteed dadka waayeelka ah ee Mombasa mararka qaarkood waxay isticmaalaan erayo iyo dhawaaqyo aanad buuggaaga ka helin. Uma baahnid inaad Kimvita ku hadasho, laakiin dadku way kuu dhoola cadeyn doonaan haddaad magaca taqaanno."
+      },
+      "examples": [
+        { "sw": "Mombasa pia huitwa Mvita.", "en": "Mombasa is also called Mvita.", "so": "Mombasa waxaa sidoo kale la yiraahdaa Mvita.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Coastal food", "so": "Cuntada xeebta" },
+      "body": {
+        "en": "Coastal cooking uses coconut (nazi), rice and spices. Try biriani, samaki wa kupaka (fish in coconut sauce), mbaazi za nazi with mahamri for breakfast, viazi karai from a street stall, and kahawa chungu, strong bitter coffee poured from a brass pot into tiny cups. On a hot day, drink madafu straight from a young coconut.",
+        "so": "Karinta xeebtu waxay isticmaashaa qumbe (nazi), bariis iyo xawaash. Tijaabi biryaani, samaki wa kupaka (kalluun maraq qumbe ah), mbaazi za nazi iyo mahamri quraac ahaan, viazi karai oo laga iibsado goobaha waddooyinka, iyo kahawa chungu, qaxwo qadhaadh oo xoog leh oo dheri naxaas ah laga shubo koobab yaryar. Maalin kulul, cab madafu, biyaha qumbaha cusub si toos ah uga cab."
+      },
+      "examples": [
+        { "sw": "Nipe biriani na dafu moja, tafadhali.", "en": "Give me biriani and one young coconut, please.", "so": "Fadlan i sii biryaani iyo hal qumbe cusub.", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "c.mombasa-raha", "sw": "Mombasa raha!", "en": "Mombasa is the good life! (popular saying)", "so": "Mombasa waa raaxo! (oraah caan ah)", "v": "everyday", "note": { "en": "Raha = joy, pleasure. Kenyans say it about holidays at the coast.", "so": "Raha = farxad, raaxo. Kenyaanku waxay ku yiraahdaan fasaxyada xeebta." } },
+    { "id": "c.mvita", "sw": "Mvita", "en": "Mvita (old Swahili name of Mombasa)", "so": "Mvita (magaca hore ee Sawaaxili ee Mombasa)", "v": "coastal", "note": { "en": "Kisiwa cha Mvita = the island of Mvita. Mombasa's old centre sits on an island.", "so": "Kisiwa cha Mvita = jasiiradda Mvita. Bartamaha hore ee Mombasa wuxuu ku yaal jasiirad." } },
+    { "id": "c.ufuo", "sw": "ufuo wa bahari", "en": "beach / seashore", "so": "xeebta badda (ciidda)", "v": "standard", "syn": "beach", "alt": ["ufuo", "ufukwe", "ufukwe wa bahari"], "note": { "en": "Kenyan news says ufuo; you will also hear ufukwe, and many people simply say beach.", "so": "Wararka Kenya waxay yiraahdaan ufuo; waxaad sidoo kale maqli doontaa ufukwe, dad badanna waxay si fudud u yiraahdaan beach." } },
+    { "id": "c.bandari", "sw": "bandari", "en": "port / harbour", "so": "deked", "v": "standard", "note": { "en": "Bandari ya Mombasa is the busiest port in East Africa. The word came from Persian.", "so": "Dekedda Mombasa waa tan ugu mashquulsan Bariga Afrika. Erayga wuxuu ka yimid Faarisi." } },
+    { "id": "c.bara", "sw": "bara", "en": "upcountry / the mainland (seen from the coast)", "so": "gudaha dalka / berriga (marka xeebta laga eego)", "v": "standard", "note": { "en": "Coastal people call inland Kenyans watu wa bara. Bara also means continent: bara la Afrika.", "so": "Dadka xeebtu Kenyaanka gudaha waxay ugu yeeraan watu wa bara. Bara sidoo kale waa qaarad: bara la Afrika." } },
+
+    { "id": "c.mji-wa-kale", "sw": "Mji wa Kale", "en": "the Old Town", "so": "Magaalada Qadiimka ah", "v": "standard", "note": { "en": "Narrow streets, carved wooden doors and balconies. Kale = old, of long ago.", "so": "Waddooyin cidhiidhi ah, albaabbo alwaax ah oo la xardhay iyo balakoonno. Kale = hore, wakhti hore." } },
+    { "id": "c.ngome-ya-yesu", "sw": "Ngome ya Yesu", "en": "Fort Jesus", "so": "Qalcadda Fort Jesus", "v": "standard", "alt": ["fort jesus"], "note": { "en": "Built by the Portuguese at the end of the sixteenth century, now a museum. Ngome = fort.", "so": "Boortaqiisku waxay dhiseen dhammaadkii qarnigii lix iyo tobnaad, haddana waa matxaf. Ngome = qalcad." } },
+    { "id": "c.kivuko", "sw": "kivuko", "en": "ferry / crossing", "so": "doonta dadka gudbisa (feri)", "v": "standard", "alt": ["feri"], "note": { "en": "The Likoni ferry (kivuko cha Likoni) crosses to the south coast. Locals also just say feri.", "so": "Doonta Likoni (kivuko cha Likoni) waxay u gudbisaa xeebta koonfureed. Dadka deegaanku sidoo kale waxay si fudud u yiraahdaan feri." } },
+    { "id": "c.mwenyeji", "sw": "mwenyeji", "en": "local / host", "so": "qof deegaanka ah / martigeliye", "v": "standard", "note": { "en": "Plural wenyeji. The opposite is mgeni (guest, stranger).", "so": "Wadarta waa wenyeji. Ka soo horjeedka waa mgeni (marti, qof shisheeye)." } },
+    { "id": "c.naweza-picha", "sw": "Naweza kupiga picha hapa?", "en": "May I take a photo here?", "so": "Halkan sawir ma ka qaadi karaa?", "v": "standard", "alt": ["naweza kupiga picha hapa", "ninaweza kupiga picha hapa"], "note": { "en": "Naweza + a ku- verb = I can... As a question it asks permission.", "so": "Naweza + fal ku- ku bilaabma = waan ... karaa. Su'aal ahaan waa ogolaansho weydiin." } },
+
+    { "id": "c.sabalkheri", "sw": "Sabalkheri", "en": "Good morning (coast, from Arabic)", "so": "Subax wanaagsan (xeebta, Carabi ka timid)", "v": "coastal", "alt": ["sabalheri", "sabalkher"], "note": { "en": "From Arabic sabah al-khayr. Answer with Sabalkheri too.", "so": "Waxay ka timid Carabiga sabaax al-khayr. Adiguna ku jawaab Sabalkheri." }, "syn": "good-morning" },
+    { "id": "c.masalkheri", "sw": "Masalkheri", "en": "Good afternoon / good evening (coast)", "so": "Galab wanaagsan / fiid wanaagsan (xeebta)", "v": "coastal", "alt": ["masalheri", "masalkher"], "note": { "en": "From Arabic masa' al-khayr. Used from the afternoon until night.", "so": "Waxay ka timid Carabiga masaa' al-khayr. Waxaa la isticmaalaa galabta ilaa habeenka." } },
+    { "id": "c.hamjambo", "sw": "Hamjambo?", "en": "How are you all? (to a group)", "so": "Ma nabad baad tihiin? (koox)", "v": "standard", "syn": "hello", "note": { "en": "The plural of Hujambo? Literally 'you (all) have no trouble?'", "so": "Waa wadarta Hujambo? Macnaha erayga: 'dhib ma qabtaan?'" } },
+    { "id": "c.hatujambo", "sw": "Hatujambo", "en": "We are fine (reply to a group greeting)", "so": "Nabad baan qabnaa (jawaab koox)", "v": "standard", "syn": "fine", "note": { "en": "Literally 'we have no trouble'. Add alhamdulillahi or ni wazima to sound warm.", "so": "Macnaha erayga: 'dhib ma qabno'. Ku dar alhamdulillahi ama ni wazima si ay u diirran tahay." } },
+    { "id": "c.naam", "sw": "Naam", "en": "Yes? / Yes (polite reply when called)", "so": "Naam (jawaab edeb leh marka laguu yeero)", "v": "coastal", "syn": "yes", "note": { "en": "From Arabic, as in Somali. At the coast a child answers Naam! when a parent calls. Inland Kenyans say Ee or Ndiyo.", "so": "Carabi ayay ka timid, sida Soomaaliga. Xeebta, ilmuhu wuxuu yiraahdaa Naam! marka waalidku u yeero. Kenyaanka gudaha waxay yiraahdaan Ee ama Ndiyo." } },
+    { "id": "c.bi", "sw": "Bi", "en": "Mrs / Ms (title for a woman, coast)", "so": "Marwo (magac sharaf haweeney, xeebta)", "v": "coastal", "note": { "en": "Short for bibi, used before a name: Bi Mwanaisha. Bwana is the title for a man.", "so": "Waa soo gaabinta bibi, waxaana la dhigaa magaca hortiisa: Bi Mwanaisha. Bwana waa magaca sharafta ninka." } },
+
+    { "id": "c.hodi", "sw": "Hodi!", "en": "May I come in? (said at the door)", "so": "Ma soo gali karaa? (albaabka laga yiraahdo)", "v": "standard", "note": { "en": "Say it at the door or gate instead of just walking in. The reply is Karibu!", "so": "Ka dheh albaabka ama irridda halkii aad si toos ah u geli lahayd. Jawaabtu waa Karibu!" } },
+    { "id": "c.keti", "sw": "Keti", "en": "Sit down (polite)", "so": "Fadhiiso (edeb leh)", "v": "standard", "syn": "sit", "note": { "en": "Common at the coast: Karibu, keti. Inland you will mostly hear Kaa chini.", "so": "Xeebta waa caadi: Karibu, keti. Gudaha badanaa waxaad maqli doontaa Kaa chini." } },
+    { "id": "c.karibu-chai", "sw": "Karibu chai", "en": "Come and have tea with us", "so": "Kaalay shaah nala cab", "v": "everyday", "note": { "en": "If you arrive while people are eating, they invite you: Karibu chai or Karibu chakula. Tasting a little is polite.", "so": "Haddaad timaado iyagoo wax cunaya, way ku casuumaan: Karibu chai ama Karibu chakula. In wax yar la dhadhamiyo waa edeb." } },
+    { "id": "c.mgeni", "sw": "mgeni", "en": "guest / visitor / stranger", "so": "marti / qof shisheeye", "v": "standard", "syn": "guest", "note": { "en": "Plural wageni. A traditional saying: Mgeni njoo, mwenyeji apone (a guest's arrival brings blessing to the host).", "so": "Wadarta waa wageni. Oraah dhaqameed: Mgeni njoo, mwenyeji apone (imaanshaha martidu barako ayay martigeliyaha u keentaa)." } },
+    { "id": "c.ukarimu", "sw": "ukarimu", "en": "hospitality / generosity", "so": "martisoor / deeqsinimo", "v": "standard", "note": { "en": "Mkarimu = a generous, hospitable person. Watu wa pwani ni wakarimu = coastal people are hospitable.", "so": "Mkarimu = qof deeqsi ah oo martisoor fiican. Watu wa pwani ni wakarimu = dadka xeebtu waa martisoor fiican yihiin." } },
+
+    { "id": "c.adhana", "sw": "adhana", "en": "the call to prayer", "so": "aadaanka", "v": "standard", "note": { "en": "Five times a day the adhana sounds from the mosques of the Old Town. Muadhini = the one who calls (muezzin).", "so": "Shan jeer maalintii aadaanku wuxuu ka yeeraa masaajidda Magaalada Qadiimka ah. Muadhini = mu'addinka." } },
+    { "id": "c.vua-viatu", "sw": "Vua viatu", "en": "Take off your shoes", "so": "Kabaha iska siib", "v": "standard", "note": { "en": "Vua = take off (clothes, shoes). The opposite is vaa (put on).", "so": "Vua = iska siib (dhar, kabo). Ka soo horjeedka waa vaa (xiro)." } },
+    { "id": "c.nguo-za-heshima", "sw": "nguo za heshima", "en": "modest clothes", "so": "dhar asturan", "v": "standard", "note": { "en": "Lit. clothes of respect. Heshima = respect. Vaa nguo za heshima = dress modestly.", "so": "Macnaha erayga: dharka ixtiraamka. Heshima = ixtiraam. Vaa nguo za heshima = xiro dhar asturan." } },
+    { "id": "c.buibui", "sw": "buibui", "en": "buibui (woman's long black over-garment)", "so": "cabaaya madow oo haweenku xirtaan", "v": "standard", "note": { "en": "Worn by many Muslim women at the coast. Buibui also means spider!", "so": "Haween badan oo Muslim ah oo xeebta ku nool ayaa xirta. Buibui sidoo kale waa caaro!" } },
+    { "id": "c.kanzu", "sw": "kanzu", "en": "kanzu (man's long white robe)", "so": "khamiis (dhar dheer oo cad oo ragga)", "v": "standard", "note": { "en": "Often worn with a kofia (embroidered cap), especially on Fridays.", "so": "Badanaa waxaa lala xirtaa kofia (koofiyad la qurxiyey), gaar ahaan maalinta Jimcaha." } },
+
+    { "id": "c.biriani", "sw": "biriani", "en": "biriani (spiced rice with meat)", "so": "biryaani (bariis xawaash leh oo hilib la socdo)", "v": "everyday", "alt": ["biryani"], "note": { "en": "Mombasa biriani is famous: the spiced meat and the rice are cooked apart, then served together. Pilau is cooked all in one pot.", "so": "Biryaaniga Mombasa waa caan: hilibka xawaashka leh iyo bariiska si gooni ah ayaa loo kariyaa, kadibna wada jir ayaa loo bixiyaa. Pilau hal dheri ayaa lagu wada kariyaa." } },
+    { "id": "c.samaki-wa-kupaka", "sw": "samaki wa kupaka", "en": "fish in coconut sauce", "so": "kalluun maraq qumbe lagu mariyey", "v": "everyday", "note": { "en": "Kupaka = to spread or coat: the grilled fish is coated in a spicy coconut sauce.", "so": "Kupaka = marin: kalluunka la dubay waxaa lagu mariyaa maraq qumbe oo basbaas leh." } },
+    { "id": "c.mbaazi-za-nazi", "sw": "mbaazi za nazi", "en": "pigeon peas in coconut", "so": "digir qumbe lagu kariyey", "v": "everyday", "note": { "en": "A classic coastal breakfast with mahamri. Nazi = coconut.", "so": "Quraac xeebeed caan ah oo mahamri lala cuno. Nazi = qumbe." } },
+    { "id": "c.mahamri", "sw": "mahamri", "en": "mahamri (coconut and cardamom doughnuts)", "so": "mahamri (mandasi qumbe iyo hayl leh)", "v": "everyday", "syn": "mandazi", "note": { "en": "The coastal cousin of mandazi, made with coconut milk and cardamom.", "so": "Waa qaraabada xeebeed ee mandasi, waxaa lagu sameeyaa caano qumbe iyo hayl." } },
+    { "id": "c.viazi-karai", "sw": "viazi karai", "en": "battered fried potatoes", "so": "baradho bur lagu daray oo la shiilay", "v": "everyday", "note": { "en": "Potatoes dipped in spiced batter and fried in a karai (wide pan). Eaten with tamarind or chilli sauce.", "so": "Baradho lagu dhex daray bur xawaash leh oo lagu shiilay karai (digsi ballaaran). Waxaa lala cunaa suugo dhanaan ama basbaas." } },
+
+    { "id": "c.kahawa-chungu", "sw": "kahawa chungu", "en": "bitter black coffee (coast)", "so": "qaxwo qadhaadh (xeebta)", "v": "everyday", "syn": "coffee", "note": { "en": "Sold in the evening by men with a long-spouted brass pot (dele) and tiny cups. Chungu = bitter.", "so": "Fiidkii waxaa iibiya rag sita dheri naxaas ah oo af dheer leh (dele) iyo koobab yaryar. Chungu = qadhaadh." } },
+    { "id": "c.haluwa", "sw": "haluwa", "en": "halwa (sweet jelly-like dessert)", "so": "xalwo", "v": "everyday", "alt": ["halua", "halwa"], "note": { "en": "Made with sugar, ghee and spices, often eaten with kahawa chungu.", "so": "Waxaa lagu sameeyaa sonkor, subag iyo xawaash, badanaa waxaa lala cunaa kahawa chungu." } },
+    { "id": "c.madafu", "sw": "madafu", "en": "young coconuts (for drinking)", "so": "qumbe cusub (biyihiisa la cabbo)", "v": "standard", "alt": ["dafu"], "note": { "en": "Singular dafu. The seller cuts the top off so you can drink the water.", "so": "Keli: dafu. Iibiyaha ayaa madaxa ka gooya si aad biyaha u cabto." } },
+    { "id": "c.baraza", "sw": "baraza", "en": "stone bench outside a house (coast)", "so": "kursi dhagax ah oo guriga hortiisa ah (xeebta)", "v": "coastal", "note": { "en": "In the Old Town, men sit on the baraza in the evening, drinking coffee and talking. Elsewhere baraza also means a council or meeting.", "so": "Magaalada Qadiimka ah, raggu fiidkii waxay ku fadhiistaan baraza, iyagoo qaxwo cabbaya oo sheekeysanaya. Meelo kale baraza sidoo kale waa gole ama shir." } },
+    { "id": "c.kiswahili-kitamu", "sw": "Kiswahili cha pwani ni kitamu", "en": "Coastal Kiswahili is sweet", "so": "Sawaaxiliga xeebtu wuu macaan yahay", "v": "standard", "note": { "en": "Cha and kitamu agree with Kiswahili (ki- class), like kitabu changu kizuri.", "so": "Cha iyo kitamu waxay la jaanqaadayaan Kiswahili (fasalka ki-), sida kitabu changu kizuri." } }
+  ],
+  "lessons": [
+    {
+      "id": "karibu-mombasa",
+      "title": { "en": "Welcome to Mombasa", "so": "Ku soo dhawoow Mombasa" },
+      "items": ["c.mombasa-raha", "c.mvita", "c.ufuo", "c.bandari", "c.bara"],
+      "extra": [
+        { "type": "respond", "heard": "Karibu Mombasa! Ni mara yako ya kwanza kuja pwani?", "options": ["Pole sana.", "Ndiyo, ni mara yangu ya kwanza.", "Nashuka hapa."], "answer": 1, "explain": { "en": "'Welcome to Mombasa! Is it your first time at the coast?' – 'Yes, it's my first time.'", "so": "'Ku soo dhawoow Mombasa! Ma markii kuugu horreysay baad xeebta timid?' – 'Haa, waa markii iigu horreysay.'" } },
+        { "type": "gap", "before": "Meli nyingi zinafika kwenye", "after": " ya Mombasa.", "options": ["bara", "bandari", "ufuo"], "answer": 1, "meaning": { "en": "Many ships arrive at the port of Mombasa.", "so": "Maraakiib badan ayaa yimaada dekedda Mombasa." } },
+        { "type": "build", "prompt": { "en": "We are going to the beach", "so": "Waxaan u soconnaa xeebta badda" }, "answer": "Tunaenda ufuo wa bahari", "extra": ["bara", "shuka"] }
+      ]
+    },
+    {
+      "id": "old-town",
+      "title": { "en": "Old Town and Fort Jesus", "so": "Magaalada Qadiimka ah iyo Fort Jesus" },
+      "items": ["c.mji-wa-kale", "c.ngome-ya-yesu", "c.kivuko", "c.mwenyeji", "c.naweza-picha"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Omar", "sw": "Karibu Mji wa Kale, dada. Mimi ni mwenyeji wa hapa.", "en": "Welcome to the Old Town, sister. I'm a local here.", "so": "Ku soo dhawoow Magaalada Qadiimka ah, walaal. Anigu halkan ayaan u dhashay." },
+            { "who": "Amina", "sw": "Asante. Ngome ya Yesu iko wapi?", "en": "Thank you. Where is Fort Jesus?", "so": "Mahadsanid. Fort Jesus xaggee bay ku taal?" },
+            { "who": "Omar", "sw": "Iko karibu sana, mwisho wa barabara hii, karibu na bahari.", "en": "It's very close, at the end of this road, near the sea.", "so": "Aad bay u dhow dahay, dhammaadka waddadan, badda agteeda." },
+            { "who": "Amina", "sw": "Naweza kupiga picha ndani?", "en": "Can I take photos inside?", "so": "Gudaha sawir ma ka qaadi karaa?" },
+            { "who": "Omar", "sw": "Ndiyo, lakini ukitaka kupiga picha ya mtu, muulize kwanza.", "en": "Yes, but if you want to photograph a person, ask them first.", "so": "Haa, laakiin haddaad rabto inaad qof sawir ka qaaddo, marka hore weydii." }
+          ],
+          "question": { "en": "What does Omar say about photographing people?", "so": "Omar muxuu ka yiri sawir ka qaadista dadka?" },
+          "options": [
+            { "en": "It is forbidden everywhere", "so": "Meel walba waa mamnuuc" },
+            { "en": "Only at night", "so": "Habeenkii oo keliya" },
+            { "en": "Ask them first", "so": "Marka hore weydii" }
+          ],
+          "answer": 2
+        },
+        {
+          "type": "story",
+          "title": { "en": "Achieng in the Old Town", "so": "Achieng oo jooga Magaalada Qadiimka ah" },
+          "lines": [
+            { "sw": "Achieng ni mwanafunzi kutoka Kisumu.", "en": "Achieng is a student from Kisumu.", "so": "Achieng waa arday ka timid Kisumu." },
+            { "sw": "Wiki hii yuko Mombasa kwa likizo.", "en": "This week she is in Mombasa on holiday.", "so": "Toddobaadkan waxay Mombasa u joogtaa fasax." },
+            { "sw": "Asubuhi alivuka kwa kivuko cha Likoni pamoja na mamia ya watu.", "en": "In the morning she crossed on the Likoni ferry with hundreds of people.", "so": "Subaxdii waxay ka gudubtay doonta Likoni iyadoo la socota boqollaal qof." },
+            { "sw": "Kisha alitembea katika mitaa myembamba ya Mji wa Kale.", "en": "Then she walked through the narrow streets of the Old Town.", "so": "Kadib waxay ku dhex socotay waddooyinka cidhiidhiga ah ee Magaalada Qadiimka ah." },
+            { "sw": "Aliona milango ya mbao iliyochongwa vizuri sana.", "en": "She saw beautifully carved wooden doors.", "so": "Waxay aragtay albaabbo alwaax ah oo si qurux badan loo xardhay." },
+            { "sw": "Mwenyeji mmoja, Mzee Omar, alimwonyesha njia ya Ngome ya Yesu.", "en": "A local, Mzee Omar, showed her the way to Fort Jesus.", "so": "Oday deegaanka ah, Mzee Omar, ayaa tusay jidka Fort Jesus." },
+            { "sw": "Ndani ya ngome, alijifunza historia ya Wareno na Waarabu.", "en": "Inside the fort, she learned about the history of the Portuguese and the Arabs.", "so": "Qalcadda gudaheeda, waxay baratay taariikhda Boortaqiiska iyo Carabta." },
+            { "sw": "Jioni, alikaa ufuoni akitazama bahari.", "en": "In the evening, she sat on the beach looking at the sea.", "so": "Fiidkii, waxay fadhiisatay xeebta iyadoo badda daawanaysa." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "How did Achieng cross in the morning?", "so": "Achieng subaxdii sidee bay u gudubtay?" },
+              "options": [
+                { "en": "By plane", "so": "Diyaarad" },
+                { "en": "On the Likoni ferry", "so": "Doonta Likoni" },
+                { "en": "By boda boda", "so": "Boda boda" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "Who showed her the way to Fort Jesus?", "so": "Yaa tusay jidka Fort Jesus?" },
+              "options": [
+                { "en": "A local elder, Mzee Omar", "so": "Oday deegaanka ah, Mzee Omar" },
+                { "en": "Her teacher", "so": "Macallinkeeda" },
+                { "en": "A matatu conductor", "so": "Kirishboy matatu" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Naweza kupiga picha yako, mzee?", "options": ["Kwaheri.", "Ndiyo, piga tu, mwanangu.", "Nashuka hapa."], "answer": 1, "explain": { "en": "'May I take your photo, sir?' – 'Yes, go ahead, my child.'", "so": "'Sawir ma kaa qaadi karaa, adeer?' – 'Haa, qaado, ilmahayga.'" } }
+      ]
+    },
+    {
+      "id": "coastal-greetings",
+      "title": { "en": "Coastal greetings", "so": "Salaamaha xeebta" },
+      "items": ["c.sabalkheri", "c.masalkheri", "c.hamjambo", "c.hatujambo", "c.naam", "c.bi"],
+      "extra": [
+        { "type": "respond", "heard": "Sabalkheri, mwanangu!", "options": ["Masalkheri.", "Usiku mwema.", "Sabalkheri, mzee."], "answer": 2, "explain": { "en": "In the morning, answer Sabalkheri with Sabalkheri.", "so": "Subaxdii, Sabalkheri waxaa lagaga jawaabaa Sabalkheri." } },
+        { "type": "gap", "before": "Ni saa kumi jioni, kwa hiyo nasema", "after": ", Bi Mwanaisha.", "options": ["Sabalkheri", "Masalkheri", "Hatujambo"], "answer": 1, "meaning": { "en": "It's four in the afternoon, so I say good afternoon, Bi Mwanaisha.", "so": "Waa 4-ta galabnimo, sidaas darteed waxaan iraahdaa galab wanaagsan, Bi Mwanaisha." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Juma", "sw": "Shikamoo, Bi Mwanaisha!", "en": "My respects, Bi Mwanaisha!", "so": "Ixtiraam badan, Bi Mwanaisha!" },
+            { "who": "Bi Mwanaisha", "sw": "Marahaba, Juma. Hamjambo huko nyumbani?", "en": "Welcome, Juma. Are you all well at home?", "so": "Soo dhawoow, Juma. Reer guriga ma nabad baad tihiin?" },
+            { "who": "Juma", "sw": "Hatujambo, alhamdulillahi. Mama anakusalimu.", "en": "We're fine, thank God. Mum sends you her greetings.", "so": "Nabad baan qabnaa, alxamdulillaah. Hooyo ayaa ku salaamaysa." },
+            { "who": "Bi Mwanaisha", "sw": "Asante, nimefurahi. Nisalimie mama yako.", "en": "Thank you, I'm glad. Greet your mother for me.", "so": "Mahadsanid, waan ku farxay. Hooyadaa iiga salaan." }
+          ],
+          "question": { "en": "What does Juma tell Bi Mwanaisha?", "so": "Juma muxuu u sheegay Bi Mwanaisha?" },
+          "options": [
+            { "en": "His mother is ill", "so": "Hooyadiis way xanuunsan tahay" },
+            { "en": "He is going to Nairobi", "so": "Nairobi ayuu u socdaa" },
+            { "en": "Everyone at home is fine and his mother greets her", "so": "Reer gurigu waa nabad, hooyadiisna way salaamaysaa" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Juma! Juma!", "options": ["Naam, mama!", "Hatujambo.", "Masalkheri."], "answer": 0, "explain": { "en": "When a parent or elder calls your name at the coast, answer Naam!", "so": "Xeebta, marka waalid ama qof waayeel ahi magacaaga ugu yeero, ku jawaab Naam!" } }
+      ]
+    },
+    {
+      "id": "hospitality",
+      "title": { "en": "Swahili hospitality", "so": "Martisoorka Sawaaxiliga" },
+      "items": ["c.hodi", "c.keti", "c.karibu-chai", "c.mgeni", "c.ukarimu"],
+      "extra": [
+        { "type": "respond", "heard": "Hodi!", "options": ["Pole.", "Karibu, ingia!", "Sina doo."], "answer": 1, "explain": { "en": "Answer Hodi! with Karibu! (Come in!)", "so": "Hodi! waxaa lagaga jawaabaa Karibu! (Soo gal!)" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Hodi! Hodi!", "en": "May I come in?", "so": "Ma soo gali karaa?" },
+            { "who": "Bi Halima", "sw": "Karibu, mwanangu, ingia. Keti hapa.", "en": "Welcome, my child, come in. Sit here.", "so": "Soo dhawoow, ilmahayga, soo gal. Halkan fadhiiso." },
+            { "who": "Wanjiku", "sw": "Asante, Bi Halima. Nyumba yako ni nzuri sana.", "en": "Thank you, Bi Halima. Your house is very nice.", "so": "Mahadsanid, Bi Halima. Gurigaagu aad buu u qurux badan yahay." },
+            { "who": "Bi Halima", "sw": "Karibu chai. Mgeni hapa hakai bila kunywa kitu.", "en": "Have some tea with us. A guest here never sits without drinking something.", "so": "Shaah nala cab. Martidu halkan ma fadhiisato iyadoon wax cabbin." },
+            { "who": "Wanjiku", "sw": "Ukarimu wa watu wa pwani ni mkubwa kweli!", "en": "The hospitality of coastal people is truly great!", "so": "Martisoorka dadka xeebtu runtii waa weyn yahay!" }
+          ],
+          "question": { "en": "What does Bi Halima offer Wanjiku?", "so": "Bi Halima maxay u fidisay Wanjiku?" },
+          "options": [
+            { "en": "A ride in a matatu", "so": "Raacitaan matatu" },
+            { "en": "Tea", "so": "Shaah" },
+            { "en": "Money", "so": "Lacag" }
+          ],
+          "answer": 1
+        },
+        { "type": "build", "prompt": { "en": "Welcome, sit down and have tea", "so": "Soo dhawoow, fadhiiso oo shaah cab" }, "answer": "Karibu keti unywe chai", "extra": ["vua", "hodi"] },
+        { "type": "gap", "before": "Watu wa pwani wanajulikana kwa", "after": " wao.", "options": ["ukarimu", "kivuko", "mgeni"], "answer": 0, "meaning": { "en": "Coastal people are known for their hospitality.", "so": "Dadka xeebta waxaa lagu yaqaan martisoorkooda." } }
+      ]
+    },
+    {
+      "id": "respect-and-dress",
+      "title": { "en": "Respect, faith and dress", "so": "Ixtiraam, diin iyo labbis" },
+      "items": ["c.adhana", "c.vua-viatu", "c.nguo-za-heshima", "c.buibui", "c.kanzu"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Friday in Mombasa", "so": "Jimce Mombasa" },
+          "lines": [
+            { "sw": "Ni Ijumaa, na Abdi yuko Mombasa kwa mara ya kwanza.", "en": "It's Friday, and Abdi is in Mombasa for the first time.", "so": "Waa Jimce, Abdina wuxuu Mombasa joogaa markii ugu horreysay." },
+            { "sw": "Ametoka Eastleigh, Nairobi, kumtembelea binamu yake Farah.", "en": "He has come from Eastleigh, Nairobi, to visit his cousin Farah.", "so": "Wuxuu ka yimid Eastleigh, Nairobi, si uu u soo booqdo ina-adeerkiis Farah." },
+            { "sw": "Saa sita mchana, wanaume wengi wanavaa kanzu na kofia.", "en": "At midday, many men put on a kanzu and a cap.", "so": "Duhurkii, rag badan ayaa xirta khamiis iyo koofiyad." },
+            { "sw": "Wanawake wengi wanatembea wakiwa wamevaa buibui.", "en": "Many women walk about wearing a buibui.", "so": "Haween badan ayaa socda iyagoo xiran cabaayado madow." },
+            { "sw": "Ghafla, adhana inasikika kutoka msikiti wa karibu.", "en": "Suddenly, the call to prayer is heard from a nearby mosque.", "so": "Si lama filaan ah, aadaanka ayaa laga maqlay masjid u dhow." },
+            { "who": "Farah", "sw": "Twende tukaswali, kaka.", "en": "Let's go and pray, brother.", "so": "Kaalay aan tukanno, walaal." },
+            { "sw": "Mlangoni, wanavua viatu na kuingia kwa utulivu.", "en": "At the door, they take off their shoes and go in quietly.", "so": "Albaabka, kabaha ayay iska siibaan oo si deggan u galaan." },
+            { "who": "Abdi", "sw": "Mombasa ina amani na heshima kubwa.", "en": "Mombasa has great peace and respect.", "so": "Mombasa waxay leedahay nabad iyo ixtiraam weyn." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Why is Abdi in Mombasa?", "so": "Abdi muxuu Mombasa u joogaa?" },
+              "options": [
+                { "en": "To look for work", "so": "Inuu shaqo raadsado" },
+                { "en": "To catch a plane", "so": "Inuu diyaarad raaco" },
+                { "en": "To visit his cousin Farah", "so": "Inuu soo booqdo ina-adeerkiis Farah" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What do they do at the mosque door?", "so": "Maxay ku sameeyaan albaabka masjidka?" },
+              "options": [
+                { "en": "They take off their shoes", "so": "Kabaha ayay iska siibaan" },
+                { "en": "They buy coffee", "so": "Qaxwo ayay iibsadaan" },
+                { "en": "They take photos", "so": "Sawirro ayay qaadaan" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "gap", "before": "Kabla ya kuingia msikitini,", "after": " viatu.", "options": ["vaa", "vua", "panda"], "answer": 1, "meaning": { "en": "Before entering the mosque, take off your shoes.", "so": "Ka hor intaadan masjidka gelin, kabaha iska siib." } },
+        { "type": "respond", "heard": "Leo tunatembelea Mji wa Kale. Nivae nini?", "options": ["Marahaba.", "Nguo za heshima, zinazofunika mabega na magoti.", "Kivuko cha Likoni."], "answer": 1, "explain": { "en": "'Today we're visiting the Old Town. What should I wear?' – 'Modest clothes that cover your shoulders and knees.'", "so": "'Maanta waxaan booqanaynaa Magaalada Qadiimka ah. Maxaan xirtaa?' – 'Dhar asturan oo garbaha iyo jilbaha qariya.'" } }
+      ]
+    },
+    {
+      "id": "coastal-food",
+      "title": { "en": "Coastal food", "so": "Cuntada xeebta" },
+      "items": ["c.biriani", "c.samaki-wa-kupaka", "c.mbaazi-za-nazi", "c.mahamri", "c.viazi-karai"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mhudumu", "sw": "Karibu, ndugu. Leo tuna biriani ya kuku na samaki wa kupaka.", "en": "Welcome, brother. Today we have chicken biriani and fish in coconut sauce.", "so": "Soo dhawoow, walaal. Maanta waxaan haynaa biryaani digaag iyo kalluun maraq qumbe ah." },
+            { "who": "Kamau", "sw": "Je, kuna pilipili nyingi ndani yake?", "en": "Is there a lot of chilli in it?", "so": "Basbaas badan miyaa ku jira?" },
+            { "who": "Mhudumu", "sw": "Kidogo tu. Ni tamu sana, imepikwa kwa nazi.", "en": "Just a little. It's very tasty, cooked with coconut.", "so": "Wax yar oo keliya. Aad buu u macaan yahay, qumbe ayaa lagu kariyey." },
+            { "who": "Kamau", "sw": "Basi, nipe samaki wa kupaka na viazi karai.", "en": "Then give me the fish in coconut sauce and viazi karai.", "so": "Haddaba, i sii kalluunka maraqa qumbaha iyo viazi karai." },
+            { "who": "Mhudumu", "sw": "Sawa. Kesho asubuhi jaribu mbaazi za nazi na mahamri!", "en": "Okay. Tomorrow morning, try pigeon peas in coconut with mahamri!", "so": "Hagaag. Berri subax tijaabi digir qumbe ah iyo mahamri!" }
+          ],
+          "question": { "en": "What does Kamau order?", "so": "Kamau muxuu dalbaday?" },
+          "options": [
+            { "en": "Chicken biriani and tea", "so": "Biryaani digaag iyo shaah" },
+            { "en": "Fish in coconut sauce and viazi karai", "so": "Kalluun maraq qumbe ah iyo viazi karai" },
+            { "en": "Pigeon peas and mahamri", "so": "Digir qumbe ah iyo mahamri" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Kwa kiamsha kinywa, napenda mbaazi za nazi na", "after": ".", "options": ["kanzu", "adhana", "mahamri"], "answer": 2, "meaning": { "en": "For breakfast, I like pigeon peas in coconut with mahamri.", "so": "Quraac ahaan, waxaan jeclahay digir qumbe ah iyo mahamri." } },
+        { "type": "build", "prompt": { "en": "I'd like biriani, please", "so": "Fadlan, biryaani ayaan rabaa" }, "answer": "Naomba biriani tafadhali", "extra": ["vua", "keti"], "accept": ["Tafadhali naomba biriani"] }
+      ]
+    },
+    {
+      "id": "coffee-on-the-baraza",
+      "title": { "en": "Coffee on the baraza", "so": "Qaxwo baraza-ha lagu cabbo" },
+      "items": ["c.kahawa-chungu", "c.haluwa", "c.madafu", "c.baraza", "c.kiswahili-kitamu"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Coffee with Mzee Omar", "so": "Qaxwo lala cabbo Mzee Omar" },
+          "lines": [
+            { "sw": "Kila jioni, Mzee Omar huketi kwenye baraza nje ya nyumba yake.", "en": "Every evening, Mzee Omar sits on the baraza outside his house.", "so": "Fiid kasta, Mzee Omar wuxuu ku fadhiistaa baraza-ha guriga hortiisa." },
+            { "sw": "Muuzaji wa kahawa anapita na dele lake na vikombe vidogo.", "en": "The coffee seller comes by with his brass pot and little cups.", "so": "Iibiyaha qaxwada ayaa soo mara isagoo sita dherigiisa naxaasta ah iyo koobab yaryar." },
+            { "sw": "Mzee anakunywa kahawa chungu na kula haluwa kidogo.", "en": "The old man drinks bitter coffee and eats a little halwa.", "so": "Odaygu wuxuu cabbaa qaxwo qadhaadh, wuxuuna cunaa xalwo yar." },
+            { "sw": "Leo Otieno, kijana kutoka Kisumu, ameketi pamoja naye.", "en": "Today Otieno, a young man from Kisumu, is sitting with him.", "so": "Maanta Otieno, nin dhallinyaro ah oo ka yimid Kisumu, ayaa la fadhiya." },
+            { "who": "Otieno", "sw": "Mzee, Kiswahili chenu ni kitamu sana. Mimi naongea Kiswahili cha bara.", "en": "Sir, your Kiswahili is very sweet. I speak upcountry Kiswahili.", "so": "Adeer, Sawaaxiligiinnu aad buu u macaan yahay. Anigu waxaan ku hadlaa Sawaaxiliga gudaha." },
+            { "who": "Mzee Omar", "sw": "Hakuna Kiswahili kibaya, mwanangu. Kila mtu ana ladha yake.", "en": "There is no bad Kiswahili, my son. Everyone has their own flavour.", "so": "Sawaaxili xun ma jiro, wiilkayga. Qof walba dhadhan u gaar ah ayuu leeyahay." },
+            { "sw": "Kisha Mzee anamsimulia hadithi za zamani za Mvita.", "en": "Then the old man tells him old stories of Mvita.", "so": "Kadib odaygu wuxuu u sheegaa sheekooyin hore oo Mvita ah." },
+            { "sw": "Otieno anakunywa madafu na kusikiliza mpaka usiku.", "en": "Otieno drinks coconut water and listens until night.", "so": "Otieno wuxuu cabbaa biyo qumbe, wuxuuna dhegaystaa ilaa habeenkii." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Where does Mzee Omar sit every evening?", "so": "Mzee Omar fiid kasta xaggee buu fadhiistaa?" },
+              "options": [
+                { "en": "At the Likoni ferry", "so": "Doonta Likoni" },
+                { "en": "On the baraza outside his house", "so": "Baraza-ha guriga hortiisa" },
+                { "en": "In a hoteli in town", "so": "Makhaayad magaalada ku taal" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What does Mzee Omar say about Kiswahili?", "so": "Mzee Omar muxuu ka yiri Sawaaxiliga?" },
+              "options": [
+                { "en": "Only coastal Kiswahili is correct", "so": "Sawaaxiliga xeebta oo keliya ayaa sax ah" },
+                { "en": "Otieno should stop speaking it", "so": "Otieno waa inuu joojiyo" },
+                { "en": "There is no bad Kiswahili; everyone has their own flavour", "so": "Sawaaxili xun ma jiro; qof walba dhadhan u gaar ah ayuu leeyahay" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Karibu kahawa, kijana.", "options": ["Asante, mzee. Nitakunywa kidogo.", "Hatujambo.", "Vua viatu."], "answer": 0, "explain": { "en": "'Have some coffee, young man.' – 'Thank you, sir. I'll have a little.'", "so": "'Qaxwo nala cab, wiilyahow.' – 'Mahadsanid, adeer. Wax yar ayaan cabbayaa.'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Zawadi", "sw": "Dafu moja ni pesa ngapi?", "en": "How much is one young coconut?", "so": "Hal qumbe cusub waa immisa?" },
+            { "who": "Muuzaji", "sw": "Shilingi hamsini tu, dada.", "en": "Just fifty shillings, sister.", "so": "Konton shilin oo keliya, walaal." },
+            { "who": "Zawadi", "sw": "Sawa, nipe moja. Leo kuna joto sana!", "en": "Okay, give me one. It's very hot today!", "so": "Hagaag, mid i sii. Maanta kulayl badan baa jira!" },
+            { "who": "Muuzaji", "sw": "Kunywa polepole, ni baridi na tamu.", "en": "Drink slowly, it's cool and sweet.", "so": "Si tartiib ah u cab, waa qabow oo macaan." }
+          ],
+          "question": { "en": "Why does Zawadi want a young coconut?", "so": "Zawadi maxay qumbe cusub u rabtaa?" },
+          "options": [
+            { "en": "She is cooking biriani", "so": "Biryaani ayay karinaysaa" },
+            { "en": "It is very hot today", "so": "Maanta kulayl badan baa jira" },
+            { "en": "It is free", "so": "Waa bilaash" }
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

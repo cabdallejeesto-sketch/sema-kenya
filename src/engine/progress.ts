@@ -24,6 +24,7 @@ export interface Progress {
   lessons: Record<string, LessonRecord>; // "unitId/lessonId"
   items: Record<string, ItemState>;
   showEnglishToo: boolean; // in Somali mode, also show English meanings
+  sfx: boolean; // sound effects for right and wrong answers
 }
 
 export const STORAGE_KEY = 'sema-kenya:v1';
@@ -43,6 +44,7 @@ export const initialProgress = (): Progress => ({
   lessons: {},
   items: {},
   showEnglishToo: true,
+  sfx: true,
 });
 
 export function dayKey(d: Date): string {

@@ -1,0 +1,207 @@
+{
+  "id": "people",
+  "order": 16,
+  "level": "A2",
+  "color": "#c2410c",
+  "reviewed": false,
+  "title": { "en": "Describing People & Feelings", "so": "Sifeynta Dadka iyo Dareenka" },
+  "swTitle": "Watu na Hisia",
+  "description": {
+    "en": "Say what people look like and what they are like, talk about how you feel, and make adjectives agree with people.",
+    "so": "Sheeg sida dadku u eg yihiin iyo dabeecaddooda, ka hadal sida aad dareemayso, oo sifooyinka la waafaji dadka."
+  },
+  "guide": [
+    {
+      "title": { "en": "Adjectives that agree with people", "so": "Sifooyinka la waafajiyo dadka" },
+      "body": {
+        "en": "Swahili adjectives change with the noun. For people they take m- for one person and wa- for more than one: mtu mrefu (a tall person), watu warefu (tall people); mtoto mzuri, watoto wazuri. If the adjective starts with a vowel, m- becomes mw- and wa- joins it: mwembamba, wembamba (thin). This works for every word about a person, even nouns that look different, such as kaka or rafiki: Kaka yangu ni mrefu.",
+        "so": "Sifooyinka Sawaaxiligu way isbeddelaan iyadoo ku xiran magaca. Dadka, waxay qaataan m- hal qof iyo wa- wax ka badan hal qof: mtu mrefu (qof dheer), watu warefu (dad dhaadheer); mtoto mzuri, watoto wazuri. Haddii sifadu ku bilaabato shaqal, m- waxay noqotaa mw-, wa-na way ku biirtaa: mwembamba, wembamba (caato). Tani waxay khusaysaa eray kasta oo qof ku saabsan, xataa magacyo u eg kuwo kale sida kaka ama rafiki: Kaka yangu ni mrefu."
+      },
+      "examples": [
+        { "sw": "Kaka yangu ni mrefu.", "en": "My brother is tall.", "so": "Walaalkay wuu dheer yahay.", "v": "standard" },
+        { "sw": "Dada zangu ni warefu.", "en": "My sisters are tall.", "so": "Walaalahay hablaha ahi way dhaadheer yihiin.", "v": "standard" },
+        { "sw": "Watoto wale ni wembamba.", "en": "Those children are thin.", "so": "Carruurtaasi waa caato.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Is, has and looks like", "so": "Waa, wuxuu leeyahay, iyo u eg" },
+      "body": {
+        "en": "Use ni for what someone is: Ni mfupi. Use ana (he/she has) for features: Ana ndevu. With body words the adjective agrees with the thing, not the person: Ana nywele ndefu (long hair). Anafanana na means 'looks like', and kuliko means 'than': Ni mrefu kuliko mimi (He's taller than me).",
+        "so": "Isticmaal ni waxa qofku yahay: Ni mfupi. Isticmaal ana (wuxuu leeyahay) astaamaha: Ana ndevu. Erayada jirka, sifadu waxay la socotaa shayga, ma aha qofka: Ana nywele ndefu (timo dhaadheer). Anafanana na waxay ka dhigan tahay 'u eg', kuliko-na waa 'ka': Ni mrefu kuliko mimi (Wuu iga dheer yahay)."
+      },
+      "examples": [
+        { "sw": "Anafanana na mama yake.", "en": "She looks like her mother.", "so": "Waxay u eg tahay hooyadeed.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Feelings: -me- and nina", "so": "Dareenka: -me- iyo nina" },
+      "body": {
+        "en": "Many feeling verbs use -me-, the 'have become' tense: nimechoka (I'm tired, lit. I have got tired), nimefurahi (I'm happy), nimekasirika (I'm angry). With a feeling noun use nina (I have): nina hasira (I'm angry), nina wasiwasi (I'm worried). Naogopa (I'm scared) is the everyday short form of ninaogopa.",
+        "so": "Falal badan oo dareen ah waxay isticmaalaan -me-, waqtiga 'noqday': nimechoka (waan daallanahay, macnaha: waan daalay), nimefurahi (waan faraxsanahay), nimekasirika (waan cadhooday). Magac dareen ah waxaa lagu isticmaalaa nina (waxaan qabaa): nina hasira (waan cadhaysanahay), nina wasiwasi (waan walwalsanahay). Naogopa (waan baqayaa) waa qaabka gaaban ee maalinlaha ah ee ninaogopa."
+      },
+      "examples": [
+        { "sw": "Nimechoka sana leo.", "en": "I'm very tired today.", "so": "Maanta aad baan u daallanahay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Polite comments in Kenya", "so": "Faallooyin edeb leh Kenya" },
+      "body": {
+        "en": "Umependeza! (You look nice!) is the safest compliment, for clothes, a new hairstyle or a special day. Comments on weight are common among older Kenyans: Umenona can be meant kindly, as 'you look healthy and well fed'. Many young people in towns find it rude, so avoid it unless you know the person well.",
+        "so": "Umependeza! (Waad qurxoon tahay!) waa ammaanta ugu badbaadsan, dharka, timo cusub ama maalin gaar ah. Faallooyinka miisaanka ayaa caadi u ah Kenyaanka waaweyn: Umenona waxaa loo oran karaa si naxariis leh, sida 'caafimaad baad u egtahay, wax fiicanna waad cuntaa'. Dhallinyaro badan oo magaalooyinka ku nool ayaa u arka edeb darro, markaa iska ilaali haddii aadan qofka si fiican u aqoon."
+      }
+    }
+  ],
+  "items": [
+    { "id": "p.mrefu", "sw": "mrefu", "en": "tall (person)", "so": "dheer (qof)", "v": "standard", "note": { "en": "Plural: warefu. Mtu mrefu, watu warefu.", "so": "Wadarta: warefu. Mtu mrefu, watu warefu." } },
+    { "id": "p.mfupi", "sw": "mfupi", "en": "short (person)", "so": "gaaban (qof)", "v": "standard", "note": { "en": "Plural: wafupi.", "so": "Wadarta: wafupi." } },
+    { "id": "p.mnene", "sw": "mnene", "en": "big / heavily built (person)", "so": "buuran (qof)", "v": "standard", "syn": "heavy", "note": { "en": "Plural: wanene. A plain description, but be careful commenting on someone's body.", "so": "Wadarta: wanene. Waa sifo caadi ah, laakiin ka taxaddar ka hadalka jirka qofka." } },
+    { "id": "p.mwembamba", "sw": "mwembamba", "en": "thin / slim (person)", "so": "caato / dhuuban (qof)", "v": "standard", "note": { "en": "Plural: wembamba (wa- + -embamba).", "so": "Wadarta: wembamba (wa- + -embamba)." } },
+    { "id": "p.mzuri", "sw": "mzuri", "en": "good-looking / nice (person)", "so": "qurux badan / wanaagsan (qof)", "v": "standard", "syn": "beautiful", "note": { "en": "The same word as nzuri, with m- for a person. Plural: wazuri.", "so": "Waa isla erayga nzuri, oo leh m- qof ahaan. Wadarta: wazuri." } },
+    { "id": "p.mrembo", "sw": "mrembo", "en": "beautiful (woman)", "so": "qurxoon (naag)", "v": "standard", "syn": "beautiful", "note": { "en": "Used for women and girls; also a noun, 'a beauty'. Plural: warembo.", "so": "Waxaa loo isticmaalaa haweenka iyo gabdhaha; sidoo kale waa magac, 'qof qurxoon'. Wadarta: warembo." } },
+    { "id": "p.umependeza", "sw": "Umependeza!", "en": "You look nice!", "so": "Waad qurxoon tahay!", "v": "standard", "syn": "beautiful", "note": { "en": "The everyday Kenyan compliment for clothes, a new hairstyle or a special day.", "so": "Ammaanta maalinlaha ah ee Kenya ee dharka, timo cusub ama maalin gaar ah." } },
+
+    { "id": "p.nywele", "sw": "nywele", "en": "hair", "so": "timo", "v": "standard" },
+    { "id": "p.macho", "sw": "macho", "en": "eyes", "so": "indho", "v": "standard", "note": { "en": "One eye is jicho; two or more are macho.", "so": "Hal il waa jicho; laba ama ka badan waa macho." } },
+    { "id": "p.anaonekanaje", "sw": "Anaonekanaje?", "en": "What does he/she look like?", "so": "Sidee buu/bay u eg yahay?", "v": "standard", "note": { "en": "From kuonekana (to appear) + -je (how?).", "so": "Waxay ka timid kuonekana (muuqasho) + -je (sidee?)." } },
+    { "id": "p.nywele-ndefu", "sw": "Ana nywele ndefu", "en": "She has long hair", "so": "Timo dhaadheer ayay leedahay", "v": "standard", "note": { "en": "The adjective agrees with nywele, not with the person, so -refu becomes ndefu. Short hair: nywele fupi.", "so": "Sifadu waxay la socotaa nywele, ma aha qofka, markaa -refu waxay noqotaa ndefu. Timo gaagaaban: nywele fupi." } },
+    { "id": "p.ana-ndevu", "sw": "Ana ndevu", "en": "He has a beard", "so": "Gadh ayuu leeyahay", "v": "standard" },
+    { "id": "p.anafanana", "sw": "Anafanana na baba yake", "en": "He looks like his father", "so": "Wuxuu u eg yahay aabbihiis", "v": "standard", "note": { "en": "Kufanana na = to look like. Wanafanana = they look alike.", "so": "Kufanana na = u ekaan. Wanafanana = way isu eg yihiin." } },
+    { "id": "p.kuliko", "sw": "Ni mrefu kuliko mimi", "en": "He/She is taller than me", "so": "Wuu iga dheer yahay / Way iga dheer tahay", "v": "standard", "note": { "en": "Kuliko = than. Swahili has no -er ending: just add kuliko.", "so": "Kuliko = ka. Sawaaxiligu ma laha dhammaad sida '-er' ee Ingiriiska: kaliya ku dar kuliko." } },
+
+    { "id": "p.mkarimu", "sw": "mkarimu", "en": "generous / hospitable", "so": "deeqsi / martisoor fiican", "v": "standard", "note": { "en": "Plural: wakarimu. A big compliment in Kenya, where a guest is always offered food or tea.", "so": "Wadarta: wakarimu. Ammaan weyn ayay Kenya ku tahay, halkaas oo martida had iyo jeer cunto ama shaah loo soo bandhigo." } },
+    { "id": "p.mpole", "sw": "mpole", "en": "gentle / calm", "so": "deggan / dabacsan", "v": "standard", "note": { "en": "Same root as pole pole (slowly). Plural: wapole.", "so": "Isla xididka pole pole (tartiib). Wadarta: wapole." } },
+    { "id": "p.mcheshi", "sw": "mcheshi", "en": "funny / cheerful", "so": "kaftan badan / farxad badan", "v": "standard", "note": { "en": "Someone who makes people laugh. Plural: wacheshi.", "so": "Qof dadka qosliya. Wadarta: wacheshi." } },
+    { "id": "p.mvivu", "sw": "mvivu", "en": "lazy", "so": "caajis", "v": "standard", "note": { "en": "Plural: wavivu. Laziness is uvivu.", "so": "Wadarta: wavivu. Caajisnimadu waa uvivu." } },
+    { "id": "p.mchapakazi", "sw": "mchapakazi", "en": "hard worker", "so": "qof dadaal badan", "v": "standard", "note": { "en": "From kuchapa kazi (to work hard). Plural: wachapakazi.", "so": "Waxay ka timid kuchapa kazi (si adag u shaqayn). Wadarta: wachapakazi." } },
+    { "id": "p.mkali", "sw": "mkali", "en": "strict / fierce", "so": "adag / kulul", "v": "standard", "note": { "en": "Mwalimu mkali = a strict teacher. Young people also use kali for 'awesome': Ngoma hii ni kali!", "so": "Mwalimu mkali = macallin adag. Dhallinyaraduna kali waxay u isticmaalaan 'cajiib': Ngoma hii ni kali!" } },
+    { "id": "p.mwaminifu", "sw": "mwaminifu", "en": "honest / trustworthy", "so": "daacad / lagu kalsoonaan karo", "v": "standard", "note": { "en": "Plural: waaminifu.", "so": "Wadarta: waaminifu." } },
+
+    { "id": "p.furaha", "sw": "furaha", "en": "happiness / joy", "so": "farxad", "v": "standard", "syn": "happy" },
+    { "id": "p.huzuni", "sw": "huzuni", "en": "sadness", "so": "murugo", "v": "standard", "syn": "sad" },
+    { "id": "p.hasira", "sw": "hasira", "en": "anger", "so": "cadho", "v": "standard", "syn": "angry" },
+    { "id": "p.uchovu", "sw": "uchovu", "en": "tiredness", "so": "daal", "v": "standard", "syn": "tired" },
+    { "id": "p.nimefurahi", "sw": "Nimefurahi sana", "en": "I'm very happy", "so": "Aad baan u faraxsanahay", "v": "standard", "syn": "happy", "note": { "en": "-me- shows a state: Nimefurahi = I'm happy (lit. I have become happy).", "so": "-me- waxay muujisaa xaalad: Nimefurahi = Waan faraxsanahay (macnaha: waan farxay)." } },
+    { "id": "p.nimechoka", "sw": "Nimechoka", "en": "I'm tired", "so": "Waan daallanahay", "v": "standard", "syn": "tired", "note": { "en": "Nimechoka sana = I'm very tired. It can also mean 'I'm fed up'.", "so": "Nimechoka sana = Aad baan u daallanahay. Sidoo kale waxay noqon kartaa 'waan ka daalay'." } },
+
+    { "id": "p.mbona-huzuni", "sw": "Mbona una huzuni?", "en": "Why are you sad?", "so": "Maxaad u murugaysan tahay?", "v": "everyday", "tz": "Kwa nini una huzuni?", "alt": ["kwa nini una huzuni"], "note": { "en": "Mbona is the everyday Kenyan 'why'; the textbook form is kwa nini.", "so": "Mbona waa 'maxay' maalinlaha Kenya; qaabka buugaagtu waa kwa nini." } },
+    { "id": "p.kuna-shida", "sw": "Kuna shida?", "en": "Is something wrong?", "so": "Wax dhib ah ma jiraa?", "v": "standard" },
+    { "id": "p.nina-hasira", "sw": "Nina hasira", "en": "I'm angry", "so": "Waan cadhaysanahay", "v": "standard", "syn": "angry", "alt": ["nimekasirika"], "note": { "en": "Lit. I have anger. Nimekasirika means the same.", "so": "Macnaha: cadho ayaan qabaa. Nimekasirika isla macnaha ayay leedahay." } },
+    { "id": "p.naogopa", "sw": "Naogopa", "en": "I'm scared", "so": "Waan baqayaa", "v": "everyday", "alt": ["ninaogopa"], "note": { "en": "Short for ninaogopa. Naogopa mbwa = I'm scared of dogs.", "so": "Waa soo gaabinta ninaogopa. Naogopa mbwa = Eeyaha ayaan ka baqaa." } },
+    { "id": "p.nina-wasiwasi", "sw": "Nina wasiwasi", "en": "I'm worried", "so": "Waan walwalsanahay", "v": "standard" },
+    { "id": "p.usijali", "sw": "Usijali", "en": "Don't worry", "so": "Ha welwelin", "v": "standard", "note": { "en": "From kujali (to care, to mind). Usijali, ni sawa = Don't worry, it's fine.", "so": "Waxay ka timid kujali (dan ka gelid). Usijali, ni sawa = Ha welwelin, waa hagaag." } },
+
+    { "id": "p.ako-fiti", "sw": "Ako fiti", "en": "He/She is in good shape", "so": "Wuu fiican yahay (jir ahaan)", "v": "sheng", "note": { "en": "Ako is everyday Kenyan for yuko. About looks it means fit and healthy; about life it means doing well.", "so": "Ako waa qaabka maalinlaha Kenya ee yuko. Marka laga hadlayo muuqaalka waxay ka dhigan tahay jir fiican iyo caafimaad; marka laga hadlayo nolosha, waxay ka dhigan tahay inuu si fiican u nool yahay." } },
+    { "id": "p.msee-poa", "sw": "Ni msee poa", "en": "He/She is a cool person", "so": "Waa qof fiican oo deggan", "v": "sheng", "note": { "en": "Msee poa = a good, easy-going person. Plural: wasee poa.", "so": "Msee poa = qof wanaagsan oo fudud. Wadarta: wasee poa." } },
+    { "id": "p.ako-smart", "sw": "Ako smart", "en": "He/She is well dressed", "so": "Si fiican buu u labbisan yahay", "v": "everyday", "say": "Ako smati", "alt": ["ako smati"], "note": { "en": "In Kenya smart usually means well dressed, not clever. Leo uko smart! = You look sharp today!", "so": "Kenya, smart badanaa waxay ka dhigan tahay qof si fiican u labbisan, ma aha caqli. Leo uko smart! = Maanta si qurux badan baad u labbisan tahay!" } },
+    { "id": "p.amenona", "sw": "Amenona", "en": "He/She has put on weight", "so": "Wuu buurnaaday", "v": "everyday", "syn": "heavy", "note": { "en": "From kunona (to get fat). Older Kenyans often mean it kindly: you look healthy. Many young people find it rude, so be careful.", "so": "Waxay ka timid kunona (buurnaan). Kenyaanka waaweyn badanaa si naxariis leh ayay u yiraahdaan: caafimaad baad u egtahay. Dhallinyaro badan ayaa u arka edeb darro, markaa ka taxaddar." } },
+    { "id": "p.mjanja", "sw": "mjanja", "en": "street-smart / clever", "so": "xariif / indha-furan", "v": "everyday", "note": { "en": "Praise (quick-thinking) or a warning (cunning), depending on the tone. Plural: wajanja.", "so": "Waxay noqon kartaa ammaan (degdeg u fikira) ama digniin (khiyaano badan), iyadoo ku xiran codka. Wadarta: wajanja." } }
+  ],
+  "lessons": [
+    {
+      "id": "people-looks",
+      "title": { "en": "What do they look like?", "so": "Sidee bay u eg yihiin?" },
+      "items": ["p.mrefu", "p.mfupi", "p.mnene", "p.mwembamba", "p.mzuri", "p.mrembo", "p.umependeza"],
+      "extra": [
+        { "type": "gap", "before": "Watoto wale ni", "after": ".", "options": ["warefu", "mrefu", "mrembo"], "answer": 0, "meaning": { "en": "Those children are tall.", "so": "Carruurtaasi way dhaadheer yihiin." } },
+        { "type": "build", "prompt": { "en": "My brother is tall", "so": "Walaalkay wuu dheer yahay" }, "answer": "Kaka yangu ni mrefu", "extra": ["warefu", "mfupi"] },
+        { "type": "respond", "heard": "Leo umependeza sana!", "options": ["Ni mfupi.", "Asante sana!", "Pole."], "answer": 1, "explain": { "en": "'You look really nice today!' – 'Thank you very much!'", "so": "'Maanta aad baad u qurxoon tahay!' – 'Aad baad u mahadsan tahay!'" } }
+      ]
+    },
+    {
+      "id": "people-features",
+      "title": { "en": "Hair, eyes and more", "so": "Timaha, indhaha iyo wax kale" },
+      "items": ["p.nywele", "p.macho", "p.anaonekanaje", "p.nywele-ndefu", "p.ana-ndevu", "p.anafanana", "p.kuliko"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Mjomba wako anaonekanaje?", "en": "What does your uncle look like?", "so": "Abtigaa sidee buu u eg yahay?" },
+            { "who": "Farah", "sw": "Ni mrefu na mwembamba. Ana ndevu.", "en": "He's tall and thin. He has a beard.", "so": "Waa nin dheer oo caato ah. Gadh ayuu leeyahay." },
+            { "who": "Amina", "sw": "Yule pale? Anafanana na wewe!", "en": "That one over there? He looks like you!", "so": "Kaas halkaas jooga? Adiga ayuu kuu eg yahay!" },
+            { "who": "Farah", "sw": "Ndio, ni yeye! Mjomba, karibu Nairobi!", "en": "Yes, it's him! Uncle, welcome to Nairobi!", "so": "Haa, waa isaga! Abti, ku soo dhawoow Nairobi!" }
+          ],
+          "question": { "en": "What does Farah's uncle look like?", "so": "Abtiga Farah sidee buu u eg yahay?" },
+          "options": [
+            { "en": "Short, with long hair", "so": "Nin gaaban oo timo dhaadheer leh" },
+            { "en": "Big and short", "so": "Nin buuran oo gaaban" },
+            { "en": "Tall and thin, with a beard", "so": "Nin dheer oo caato ah, gadhna leh" }
+          ],
+          "answer": 2
+        },
+        { "type": "gap", "before": "Dada yangu ana nywele", "after": ".", "options": ["mrefu", "ndefu", "warefu"], "answer": 1, "meaning": { "en": "My sister has long hair.", "so": "Walaashay timo dhaadheer ayay leedahay." } },
+        { "type": "build", "prompt": { "en": "He is shorter than me", "so": "Wuu iga gaaban yahay" }, "answer": "Ni mfupi kuliko mimi", "extra": ["mrefu", "wewe"] }
+      ]
+    },
+    {
+      "id": "people-character",
+      "title": { "en": "What are they like?", "so": "Dabeecaddoodu waa sidee?" },
+      "items": ["p.mkarimu", "p.mpole", "p.mcheshi", "p.mvivu", "p.mchapakazi", "p.mkali", "p.mwaminifu"],
+      "extra": [
+        { "type": "respond", "heard": "Rafiki yako Baraka ni mtu wa aina gani?", "options": ["Ni saa nane.", "Nimeshiba.", "Ni mcheshi na mkarimu sana."], "answer": 2, "explain": { "en": "'What kind of person is your friend Baraka?' – 'He's very funny and generous.'", "so": "'Saaxiibkaa Baraka waa qof noocee ah?' – 'Aad buu u kaftan badan yahay, waana deeqsi.'" } },
+        { "type": "gap", "before": "Wanjiku hachoki kazini. Yeye ni", "after": ".", "options": ["mchapakazi", "mvivu", "mfupi"], "answer": 0, "meaning": { "en": "Wanjiku never gets tired at work. She's a hard worker.", "so": "Wanjiku kama daasho shaqada. Waa qof dadaal badan." } },
+        { "type": "build", "prompt": { "en": "Our teacher is strict but honest", "so": "Macallinkayagu wuu adag yahay laakiin waa daacad" }, "answer": "Mwalimu wetu ni mkali lakini mwaminifu", "extra": ["mvivu", "wakali"] }
+      ]
+    },
+    {
+      "id": "people-feelings",
+      "title": { "en": "Feelings", "so": "Dareenka" },
+      "items": ["p.furaha", "p.huzuni", "p.hasira", "p.uchovu", "p.nimefurahi", "p.nimechoka"],
+      "extra": [
+        { "type": "gap", "before": "Nimechoka sana, nataka", "after": ".", "options": ["furaha", "kulala", "hasira"], "answer": 1, "meaning": { "en": "I'm very tired, I want to sleep.", "so": "Aad baan u daallanahay, waxaan rabaa inaan seexdo." } },
+        { "type": "respond", "heard": "Nimefurahi sana leo!", "options": ["Vizuri! Kuna nini?", "Pole sana.", "Shikamoo."], "answer": 0, "explain": { "en": "'I'm really happy today!' – 'Great! What's up?'", "so": "'Maanta aad baan u faraxsanahay!' – 'Fiican! Maxaa jira?'" } },
+        { "type": "build", "prompt": { "en": "She is happy today", "so": "Maanta way faraxsan tahay" }, "answer": "Ana furaha leo", "extra": ["huzuni", "uchovu"] }
+      ]
+    },
+    {
+      "id": "people-how-you-feel",
+      "title": { "en": "How do you feel?", "so": "Sidee dareemaysaa?" },
+      "items": ["p.mbona-huzuni", "p.kuna-shida", "p.nina-hasira", "p.naogopa", "p.nina-wasiwasi", "p.usijali"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mwanaisha", "sw": "Achieng, kuna shida? Unaonekana una huzuni.", "en": "Achieng, is something wrong? You look sad.", "so": "Achieng, wax dhib ah ma jiraa? Waxaad u egtahay qof murugaysan." },
+            { "who": "Achieng", "sw": "Nina wasiwasi. Kesho nina mtihani mkubwa.", "en": "I'm worried. Tomorrow I have a big exam.", "so": "Waan walwalsanahay. Berri imtixaan weyn ayaan leeyahay." },
+            { "who": "Mwanaisha", "sw": "Usijali! Umesoma sana.", "en": "Don't worry! You've studied a lot.", "so": "Ha welwelin! Wax badan ayaad baratay." },
+            { "who": "Achieng", "sw": "Asante. Naogopa tu kidogo.", "en": "Thanks. I'm just a little scared.", "so": "Mahadsanid. Wax yar uun baan baqayaa." }
+          ],
+          "question": { "en": "Why is Achieng worried?", "so": "Maxay Achieng u walwalsan tahay?" },
+          "options": [
+            { "en": "She lost her phone", "so": "Taleefankeedii ayaa ka lumay" },
+            { "en": "She has a big exam tomorrow", "so": "Berri imtixaan weyn ayay leedahay" },
+            { "en": "She is sick", "so": "Way xanuunsan tahay" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Unajisikiaje leo?", "options": ["Nimechoka kidogo, lakini niko sawa.", "Ni mrefu kuliko mimi.", "Ana ndevu."], "answer": 0, "explain": { "en": "'How do you feel today?' – 'A little tired, but I'm okay.'", "so": "'Maanta sidee dareemaysaa?' – 'Wax yar baan daallanahay, laakiin waan fiicanahay.'" } },
+        { "type": "gap", "before": "Usijali, kila kitu kitakuwa", "after": ".", "options": ["hasira", "mrefu", "sawa"], "answer": 2, "meaning": { "en": "Don't worry, everything will be fine.", "so": "Ha welwelin, wax walba way hagaagi doonaan." } }
+      ]
+    },
+    {
+      "id": "people-sheng",
+      "goals": ["street"],
+      "title": { "en": "Describing people in Sheng", "so": "Sifeynta dadka af Sheng" },
+      "items": ["p.ako-fiti", "p.msee-poa", "p.ako-smart", "p.amenona", "p.mjanja"],
+      "extra": [
+        { "type": "respond", "heard": "Huyo jamaa ni mtu wa aina gani?", "options": ["Saa nane.", "Ni msee poa, utampenda.", "Twende!"], "answer": 1, "explain": { "en": "'What kind of person is that guy?' – 'He's a cool guy, you'll like him.'", "so": "'Ninkaas waa qof noocee ah?' – 'Waa nin fiican, waad jeclaan doontaa.'" } },
+        { "type": "gap", "before": "Kamau ni msee", "after": ", kila mtu anampenda.", "options": ["poa", "tao", "macho"], "answer": 0, "meaning": { "en": "Kamau is a cool guy, everybody likes him.", "so": "Kamau waa nin fiican, qof walba wuu jecel yahay." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wafula", "sw": "Umemwona Otieno siku hizi?", "en": "Have you seen Otieno lately?", "so": "Otieno ma aragtay dhawaanahan?" },
+            { "who": "Kiprotich", "sw": "Ndio! Ako fiti sana, anakimbia kila asubuhi.", "en": "Yes! He's in great shape, he runs every morning.", "so": "Haa! Jir ahaan aad buu u fiican yahay, subax kasta wuu ordaa." },
+            { "who": "Wafula", "sw": "Bado ni mjanja kama zamani?", "en": "Is he still as street-smart as before?", "so": "Weli ma xariif buu yahay sidii hore?" },
+            { "who": "Kiprotich", "sw": "Sasa ni msee poa tu. Na kila siku amevaa vizuri.", "en": "Now he's just a good guy. And he's well dressed every day.", "so": "Hadda waa nin fiican uun. Maalin kastana si fiican buu u labbisan yahay." }
+          ],
+          "question": { "en": "Why is Otieno in good shape?", "so": "Maxaa Otieno jir ahaan ugu fiican yahay?" },
+          "options": [
+            { "en": "He eats a lot", "so": "Wax badan buu cunaa" },
+            { "en": "He sleeps late", "so": "Goor dambe ayuu seexdaa" },
+            { "en": "He runs every morning", "so": "Subax kasta wuu ordaa" }
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

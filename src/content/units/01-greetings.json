@@ -72,7 +72,7 @@
     { "id": "g.tafadhali", "sw": "Tafadhali", "en": "Please", "so": "Fadlan", "v": "standard" },
     { "id": "g.samahani", "sw": "Samahani", "en": "Excuse me / Sorry (apology)", "so": "Iga raalli ahaw / Raalli noqo", "v": "standard" },
     { "id": "g.pole", "sw": "Pole", "en": "Sorry (sympathy)", "so": "Ka xumahay (marka qof dhib ku dhaco)", "v": "standard", "note": { "en": "Say it when something bad happens to someone, even something small. The reply is Asante.", "so": "Dheh marka qof wax xun ku dhacaan, xataa wax yar. Jawaabtu waa Asante." } },
-    { "id": "g.habari-asubuhi", "sw": "Habari ya asubuhi?", "en": "Good morning (lit. news of the morning?)", "so": "Subax wanaagsan", "v": "everyday", "tz": "Habari za asubuhi?", "alt": ["habari za asubuhi"] },
+    { "id": "g.habari-asubuhi", "sw": "Habari ya asubuhi?", "en": "Good morning (lit. news of the morning?)", "so": "Subax wanaagsan", "v": "everyday", "tz": "Habari za asubuhi?", "alt": ["habari za asubuhi"], "syn": "good-morning" },
 
     { "id": "g.unaitwa-nani", "sw": "Unaitwa nani?", "en": "What's your name?", "so": "Magacaa?", "v": "standard", "alt": ["jina lako ni nani"] },
     { "id": "g.naitwa", "sw": "Naitwa Amina", "en": "My name is Amina (lit. I'm called Amina)", "so": "Waxaa la i yiraahdaa Amina", "v": "standard", "alt": ["ninaitwa amina", "jina langu ni amina"] },
@@ -86,7 +86,7 @@
     { "id": "g.baadaye", "sw": "Baadaye!", "en": "See you later!", "so": "Hadhow is arag!", "v": "everyday", "syn": "bye" },
     { "id": "g.usiku-mwema", "sw": "Usiku mwema", "en": "Good night", "so": "Habeen wanaagsan", "v": "standard" },
     { "id": "g.siku-njema", "sw": "Siku njema", "en": "Have a good day", "so": "Maalin wanaagsan", "v": "standard" },
-    { "id": "g.sawa", "sw": "Sawa", "en": "Okay", "so": "Hagaag / waa hagaag", "v": "standard" },
+    { "id": "g.sawa", "sw": "Sawa", "en": "Okay", "so": "Hagaag / waa hagaag", "v": "standard", "syn": "okay" },
 
     { "id": "g.niaje", "sw": "Niaje?", "en": "Hey, what's up? (Sheng)", "so": "Haye, maxaa jira? (Sheng)", "v": "sheng", "syn": "hello", "note": { "en": "Reply Fiti or Poa. Use it with friends, not with elders.", "so": "Ku jawaab Fiti ama Poa. La isticmaal saaxiibbada, ha la isticmaalin waayeelka." } },
     { "id": "g.fiti", "sw": "Fiti", "en": "Fine / great", "so": "Fiican / aad u wanaagsan", "v": "sheng", "syn": "fine" },

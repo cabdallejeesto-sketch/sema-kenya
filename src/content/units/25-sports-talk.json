@@ -1,0 +1,321 @@
+{
+  "id": "sports-talk",
+  "order": 25,
+  "level": "B1",
+  "color": "#1e3a8a",
+  "reviewed": false,
+  "title": { "en": "Kenyan Sports Talk", "so": "Hadalka Ciyaaraha Kenya" },
+  "swTitle": "Gumzo la Michezo",
+  "description": {
+    "en": "Talk about the sports Kenya is famous for: distance running, rugby sevens and the Safari Rally, plus training, live commentary and results.",
+    "so": "Ka hadal ciyaaraha Kenya caanka ku tahay: orodka masaafada dheer, ragbiga toddobada iyo Safari Rally, oo ay weheliyaan tababarka, faallada tooska ah iyo natiijooyinka."
+  },
+  "goals": ["sports"],
+  "guide": [
+    {
+      "title": { "en": "Kenya, land of runners", "so": "Kenya, dalka orodyahannada" },
+      "body": {
+        "en": "Athletics is riadha, and an athlete is mwanariadha. Kenya is famous for mbio za masafa marefu (long-distance races). Many champions train around Iten, a high-altitude town in the Rift Valley known as the 'home of champions'. Eliud Kipchoge won Olympic marathon gold twice and, in a special event in 2019, became the first person to run a marathon in under two hours. Faith Kipyegon has won Olympic gold in the 1500 metres three times and has set world records.",
+        "so": "Atletigu (orodku) waa riadha, orodyahankuna waa mwanariadha. Kenya waxay caan ku tahay mbio za masafa marefu (tartamada masaafada dheer). Horyaallo badan waxay ku tababartaan agagaarka Iten, magaalo ku taal meel sare oo Dooxada Rift ah, loona yaqaan 'hoyga horyaallada'. Eliud Kipchoge laba jeer ayuu ku guulaystay billadda dahabka ee marathonka Olombikada, sannadkii 2019-kina, tartan gaar ah, wuxuu noqday qofkii ugu horreeyay ee marathon ku orda wax ka yar laba saacadood. Faith Kipyegon saddex jeer ayay ku guulaysatay billadda dahabka Olombikada ee 1500 mitir, waxayna dhigtay rikoorro adduun."
+      },
+      "examples": [
+        { "sw": "Iten ni nyumbani kwa mabingwa.", "en": "Iten is the home of champions.", "so": "Iten waa hoyga horyaallada.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Medals and records", "so": "Billadaha iyo rikoorrada" },
+      "body": {
+        "en": "Medals are named after metals: medali ya dhahabu (gold), medali ya fedha (silver) and medali ya shaba (bronze). Fedha also means 'money' in formal Swahili. To break a record is kuvunja rekodi (literally 'to snap a record'). The winner is mshindi and a champion is bingwa (plural mabingwa).",
+        "so": "Billadaha waxaa loogu magac daray biraha: medali ya dhahabu (dahab), medali ya fedha (qalin) iyo medali ya shaba (naxaas). Fedha sidoo kale waxay ka dhigan tahay 'lacag' Swahiliga rasmiga ah. Rikoor jebin waa kuvunja rekodi (macnaha ereyga 'rikoor jebin'). Guulaystuhu waa mshindi, horyaalkuna waa bingwa (wadarta mabingwa)."
+      },
+      "examples": [
+        { "sw": "Alishinda medali ya dhahabu na kuvunja rekodi ya dunia.", "en": "She won a gold medal and broke the world record.", "so": "Waxay ku guulaysatay billadda dahabka, waxayna jebisay rikoorka adduunka.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Rugby sevens and the Safari Rally", "so": "Ragbiga toddobada iyo Safari Rally" },
+      "body": {
+        "en": "Rugby is raga. Kenya's men's rugby sevens team is called Shujaa, which means 'hero', and fans fill the stands when it plays. The Safari Rally is Kenya's famous car rally on rough roads. It is part of the World Rally Championship again and is held around Naivasha. A competition is mashindano, and the cup or trophy is kombe.",
+        "so": "Ragbigu waa raga. Kooxda ragbiga toddobada ee ragga Kenya waxaa la yiraahdaa Shujaa, oo macnaheedu yahay 'geesi', taageerayaashuna way buuxiyaan garoonka marka ay ciyaarayso. Safari Rally waa tartanka baabuurta ee caanka ah ee Kenya, kaas oo lagu tartamo waddooyin qallafsan. Mar kale ayuu ka mid noqday Horyaalka Adduunka ee Rally-ga, waxaana lagu qabtaa agagaarka Naivasha. Tartanku waa mashindano, koobkuna waa kombe."
+      },
+      "examples": [
+        { "sw": "Shujaa wameshinda kombe!", "en": "Shujaa have won the cup!", "so": "Shujaa koobka way ku guulaysteen!", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Live commentary", "so": "Faallada tooska ah" },
+      "body": {
+        "en": "Swahili radio commentators are famous for their energy. They use the present -na- for live action: Anapiga shuti! (He's shooting!), Anapiga pasi (He passes). The goal shout is a long Gooli! When the ball goes out of play: Mpira uko nje. In athletics: Anaongoza mbio (She's leading the race) and Anakaribia mstari wa kumaliza (She's nearing the finish line).",
+        "so": "Weriyeyaasha raadiyaha Swahiliga waxay caan ku yihiin firfircoonidooda. Ficilka tooska ah waxay ugu isticmaalaan -na- (wakhtiga joogta): Anapiga shuti! (Wuu laadayaa!), Anapiga pasi (Wuu baasayaa). Qaylada goolka waa Gooli! dheer. Marka kubaddu garoonka ka baxdo: Mpira uko nje. Orodka: Anaongoza mbio (Iyadaa tartanka hoggaaminaysa) iyo Anakaribia mstari wa kumaliza (Waxay u dhowaanaysaa xariiqa dhammaadka)."
+      },
+      "examples": [
+        { "sw": "Anapiga shuti... Gooli!", "en": "He shoots... Goal!", "so": "Wuu laadayaa... Gool!", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Talking about results", "so": "Ka hadalka natiijooyinka" },
+      "body": {
+        "en": "Kufunga means 'to score', so kufungwa (passive) means 'to be scored against', in other words to lose: Walifungwa mbili kwa moja (They lost two-one). Places are wa kwanza (first), wa pili (second) and wa tatu (third); nafasi ya pili is second place. Kenyans congratulate winners with Hongera! and comfort losers with Pole!",
+        "so": "Kufunga waxay ka dhigan tahay 'dhalin', sidaas darteed kufungwa (qaabka la-sameeyaha) waxay ka dhigan tahay 'in gool laguu dhaliyo', taas oo ah in lagaa badiyo: Walifungwa mbili kwa moja (Laba iyo kow ayaa looga badiyay). Kaalimaha waa wa kwanza (kowaad), wa pili (labaad) iyo wa tatu (saddexaad); nafasi ya pili waa kaalinta labaad. Kenyaanku guulaystayaasha waxay ku hambalyeeyaan Hongera!, kuwa laga badiyayna waxay ku yiraahdaan Pole!"
+      },
+      "examples": [
+        { "sw": "Hongera! Ulimaliza wa kwanza!", "en": "Congratulations! You finished first!", "so": "Hambalyo! Adigaa kowaad ku dhammaystay!", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "sk.riadha", "sw": "riadha", "en": "athletics", "so": "atletig (orod)", "v": "standard" },
+    { "id": "sk.mbio", "sw": "mbio", "en": "race / running", "so": "tartan orod", "v": "standard", "syn": "race", "note": { "en": "Kukimbia mbio = to run a race. Mbio za magari = motor racing.", "so": "Kukimbia mbio = tartan orod ah orodid. Mbio za magari = tartanka baabuurta." } },
+    { "id": "sk.mwanariadha", "sw": "mwanariadha", "en": "athlete / runner", "so": "orodyahan", "v": "standard", "syn": "athlete", "note": { "en": "Plural: wanariadha.", "so": "Wadarta: wanariadha." } },
+    { "id": "sk.marathoni", "sw": "marathoni", "en": "marathon", "so": "marathon", "v": "standard", "alt": ["marathon"] },
+    { "id": "sk.masafa-marefu", "sw": "mbio za masafa marefu", "en": "long-distance races", "so": "tartamada masaafada dheer", "v": "standard", "note": { "en": "Masafa = distance. Mbio za masafa mafupi = sprints.", "so": "Masafa = masaafo. Mbio za masafa mafupi = orodka masaafada gaaban." } },
+    { "id": "sk.kukimbia", "sw": "kukimbia", "en": "to run", "so": "orodid", "v": "standard", "syn": "run", "note": { "en": "Also 'to run away': Mwizi alikimbia = the thief ran off.", "so": "Sidoo kale 'carar': Mwizi alikimbia = tuuggii wuu cararay." } },
+
+    { "id": "sk.dhahabu", "sw": "medali ya dhahabu", "en": "gold medal", "so": "billadda dahabka", "v": "standard" },
+    { "id": "sk.fedha", "sw": "medali ya fedha", "en": "silver medal", "so": "billadda qalinka", "v": "standard" },
+    { "id": "sk.shaba", "sw": "medali ya shaba", "en": "bronze medal", "so": "billadda naxaasta", "v": "standard" },
+    { "id": "sk.rekodi-dunia", "sw": "rekodi ya dunia", "en": "world record", "so": "rikoorka adduunka", "v": "standard" },
+    { "id": "sk.kuvunja-rekodi", "sw": "kuvunja rekodi", "en": "to break a record", "so": "rikoor jebin", "v": "standard" },
+    { "id": "sk.bingwa", "sw": "bingwa", "en": "champion", "so": "horyaal", "v": "standard", "syn": "champion", "note": { "en": "Plural: mabingwa. Bingwa wa dunia = world champion.", "so": "Wadarta: mabingwa. Bingwa wa dunia = horyaalka adduunka." } },
+
+    { "id": "sk.mazoezi", "sw": "mazoezi", "en": "training / exercise", "so": "tababar / jimicsi", "v": "standard", "syn": "exercise", "note": { "en": "Kufanya mazoezi = to train / work out.", "so": "Kufanya mazoezi = tababarid / jimicsi samayn." } },
+    { "id": "sk.nakimbia-asubuhi", "sw": "Nakimbia kila asubuhi", "en": "I run every morning", "so": "Subax kasta waan ordaa", "v": "standard", "alt": ["ninakimbia kila asubuhi"] },
+    { "id": "sk.kujinyoosha", "sw": "kujinyoosha", "en": "to stretch (your body)", "so": "jirka kala bixin", "v": "standard", "note": { "en": "Ji- means 'yourself': ku + ji + nyoosha (straighten yourself).", "so": "Ji- waxay ka dhigan tahay 'naftaada': ku + ji + nyoosha (isku toosi)." } },
+    { "id": "sk.nguvu", "sw": "nguvu", "en": "strength / power", "so": "xoog", "v": "standard", "syn": "strength" },
+    { "id": "sk.kasi", "sw": "kasi", "en": "speed", "so": "xawaare", "v": "standard", "syn": "speed", "note": { "en": "Kwa kasi = fast, at speed.", "so": "Kwa kasi = si dhakhso ah, xawaare leh." } },
+
+    { "id": "sk.raga", "sw": "raga", "en": "rugby", "so": "ragbi", "v": "standard" },
+    { "id": "sk.raga-saba", "sw": "raga ya wachezaji saba", "en": "rugby sevens", "so": "ragbiga toddobada ciyaaryahan", "v": "standard", "alt": ["raga ya saba"], "note": { "en": "Each side has seven players instead of fifteen.", "so": "Koox kastaa waxay leedahay toddoba ciyaaryahan halkii ay ka ahaan lahayd shan iyo toban." } },
+    { "id": "sk.shujaa", "sw": "shujaa", "en": "hero (also Kenya's men's sevens team)", "so": "geesi (sidoo kale kooxda toddobada ragga Kenya)", "v": "standard", "syn": "hero", "note": { "en": "Plural: mashujaa. Mashujaa Day (20 October) honours Kenya's heroes.", "so": "Wadarta: mashujaa. Maalinta Mashujaa (20 Oktoobar) waxaa lagu xusaa geesiyaasha Kenya." } },
+    { "id": "sk.safari-rally", "sw": "Safari Rally", "en": "Safari Rally (Kenya's famous car rally)", "so": "Safari Rally (tartanka baabuurta ee caanka ah ee Kenya)", "v": "standard", "say": "Safari Rali", "alt": ["safari rali"] },
+    { "id": "sk.mashindano", "sw": "mashindano", "en": "competition / tournament", "so": "tartan", "v": "standard", "syn": "competition" },
+    { "id": "sk.kombe", "sw": "kombe", "en": "cup / trophy", "so": "koob", "v": "standard", "note": { "en": "Kombe la Dunia = the World Cup.", "so": "Kombe la Dunia = Koobka Adduunka." } },
+
+    { "id": "sk.anapiga-shuti", "sw": "Anapiga shuti!", "en": "He shoots! (taking a shot at goal)", "so": "Wuu laadayaa!", "v": "everyday" },
+    { "id": "sk.gooli", "sw": "Gooli!", "en": "Goal! (commentator's shout)", "so": "Gool! (qaylada weriyaha)", "v": "everyday", "syn": "goal", "alt": ["goli", "goooli"] },
+    { "id": "sk.mpira-uko-nje", "sw": "Mpira uko nje", "en": "The ball is out (of play)", "so": "Kubaddu way baxday", "v": "everyday" },
+    { "id": "sk.ni-kona", "sw": "Ni kona!", "en": "It's a corner!", "so": "Waa koorneer!", "v": "everyday" },
+    { "id": "sk.anaongoza", "sw": "Anaongoza mbio", "en": "He/she is leading the race", "so": "Isagaa/Iyadaa tartanka hoggaaminaya", "v": "standard" },
+    { "id": "sk.mstari-kumaliza", "sw": "mstari wa kumaliza", "en": "finish line", "so": "xariiqa dhammaadka", "v": "standard" },
+
+    { "id": "sk.matokeo", "sw": "matokeo", "en": "results / score", "so": "natiijooyin", "v": "standard", "syn": "result" },
+    { "id": "sk.mshindi", "sw": "mshindi", "en": "winner", "so": "guulayste", "v": "standard", "syn": "winner" },
+    { "id": "sk.alimaliza-wa-kwanza", "sw": "Alimaliza wa kwanza", "en": "He/she finished first", "so": "Kowaad buu/bay ku dhammaystay", "v": "standard" },
+    { "id": "sk.nafasi-ya-pili", "sw": "nafasi ya pili", "en": "second place", "so": "kaalinta labaad", "v": "standard" },
+    { "id": "sk.walifungwa", "sw": "Walifungwa mbili kwa moja", "en": "They lost two-one", "so": "Laba iyo kow ayaa looga badiyay", "v": "standard", "note": { "en": "Kufungwa = to be scored against, so to lose.", "so": "Kufungwa = in gool laguu dhaliyo, taas oo ah in lagaa badiyo." } },
+    { "id": "sk.hongera-ushindi", "sw": "Hongera kwa ushindi!", "en": "Congratulations on the win!", "so": "Hambalyo guusha!", "v": "standard", "syn": "congratulations", "note": { "en": "Ushindi = victory (from kushinda, to win).", "so": "Ushindi = guul (waxay ka timid kushinda, guulaysi)." } }
+  ],
+  "lessons": [
+    {
+      "id": "athletics",
+      "goals": ["sports"],
+      "title": { "en": "Athletics", "so": "Atletigga (orodka)" },
+      "items": ["sk.riadha", "sk.mbio", "sk.mwanariadha", "sk.marathoni", "sk.masafa-marefu", "sk.kukimbia"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kiprotich", "sw": "Chebet, uliangalia marathoni jana?", "en": "Chebet, did you watch the marathon yesterday?", "so": "Chebet, shalay marathonka ma daawatay?" },
+            { "who": "Chebet", "sw": "Ndiyo! Wanariadha wa Kenya walikimbia vizuri sana.", "en": "Yes! The Kenyan athletes ran really well.", "so": "Haa! Orodyahannada Kenya si aad u fiican ayay u ordeen." },
+            { "who": "Kiprotich", "sw": "Mimi napenda mbio za masafa marefu kuliko zote.", "en": "I like long-distance races best of all.", "so": "Anigu tartamada masaafada dheer ayaan ugu jeclahay." },
+            { "who": "Chebet", "sw": "Mimi pia. Siku moja nitakimbia marathoni!", "en": "Me too. One day I'll run a marathon!", "so": "Anigu sidoo kale. Maalin uun marathon baan ordi doonaa!" }
+          ],
+          "question": { "en": "What does Chebet want to do one day?", "so": "Chebet maxay rabtaa inay maalin uun samayso?" },
+          "options": [
+            { "en": "Run a marathon", "so": "Inay marathon orodo" },
+            { "en": "Watch a football match", "so": "Inay ciyaar kubadda cagta daawato" },
+            { "en": "Become a coach", "so": "Inay tababare noqoto" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Kesho nitakimbia", "after": " ya Nairobi.", "options": ["riadha", "marathoni", "mwanariadha"], "answer": 1, "meaning": { "en": "Tomorrow I'll run the Nairobi marathon.", "so": "Berri waxaan ordi doonaa marathonka Nairobi." } },
+        { "type": "build", "prompt": { "en": "Kenyan athletes run fast", "so": "Orodyahannada Kenya si dhakhso ah ayay u ordaan" }, "answer": "Wanariadha wa Kenya wanakimbia haraka", "extra": ["mwanariadha", "polepole"] }
+      ]
+    },
+    {
+      "id": "medals-and-records",
+      "goals": ["sports"],
+      "title": { "en": "Medals and records", "so": "Billado iyo rikoorro" },
+      "items": ["sk.dhahabu", "sk.fedha", "sk.shaba", "sk.rekodi-dunia", "sk.kuvunja-rekodi", "sk.bingwa"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Iten, home of champions", "so": "Iten, hoyga horyaallada" },
+          "lines": [
+            { "sw": "Chebet ni msichana wa miaka kumi na sita anayeishi Iten.", "en": "Chebet is a sixteen-year-old girl who lives in Iten.", "so": "Chebet waa gabadh lix iyo toban jir ah oo ku nool Iten." },
+            { "sw": "Kila siku saa kumi na moja alfajiri, anaamka na kukimbia pamoja na wanariadha wengine.", "en": "Every day at five in the morning, she gets up and runs with other athletes.", "so": "Maalin kasta shanta subaxnimo, way kacdaa oo la ordaa orodyahanno kale." },
+            { "sw": "Barabara za Iten ni za udongo mwekundu, na hewa ni safi.", "en": "Iten's roads are red earth, and the air is clean.", "so": "Waddooyinka Iten waa ciid cas, hawaduna way nadiif tahay." },
+            { "sw": "Mwaka jana, alishinda medali ya fedha katika mashindano ya shule.", "en": "Last year, she won a silver medal in a schools competition.", "so": "Sannadkii hore, waxay billadda qalinka ku guulaysatay tartan dugsiyada dhexmaray." },
+            { "sw": "Kocha wake anasema ana kasi na nguvu nyingi.", "en": "Her coach says she has a lot of speed and strength.", "so": "Tababaraheedu wuxuu leeyahay xawaare iyo xoog badan ayay leedahay." },
+            { "sw": "Ndoto yake ni kushinda medali ya dhahabu na kuvunja rekodi ya dunia.", "en": "Her dream is to win a gold medal and break the world record.", "so": "Riyadeedu waa inay ku guulaysato billadda dahabka oo ay jebiso rikoorka adduunka." },
+            { "who": "Chebet", "sw": "Mabingwa wengi walianza hapa Iten. Mimi pia nitakuwa bingwa!", "en": "Many champions started here in Iten. I will be a champion too!", "so": "Horyaallo badan halkan Iten ayay ka bilaabeen. Anigu sidoo kale horyaal baan noqon doonaa!" }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What did Chebet win last year?", "so": "Chebet maxay ku guulaysatay sannadkii hore?" },
+              "options": [
+                { "en": "A gold medal", "so": "Billad dahab ah" },
+                { "en": "A silver medal", "so": "Billad qalin ah" },
+                { "en": "A bronze medal", "so": "Billad naxaas ah" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What time does she start running?", "so": "Saacaddee ayay bilowdaa orodka?" },
+              "options": [
+                { "en": "At 5 a.m.", "so": "5-ta subaxnimo" },
+                { "en": "At 11 a.m.", "so": "11-ka subaxnimo" },
+                { "en": "In the evening", "so": "Fiidkii" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What is her dream?", "so": "Riyadeedu waa maxay?" },
+              "options": [
+                { "en": "To become a coach", "so": "Inay tababare noqoto" },
+                { "en": "To move to Nairobi", "so": "Inay Nairobi u guurto" },
+                { "en": "To win gold and break the world record", "so": "Inay dahab ku guulaysato oo rikoorka adduunka jebiso" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Alishinda medali gani?", "options": ["Mpira uko nje.", "Ya dhahabu! Alikuwa wa kwanza.", "Nimechoka sana."], "answer": 1, "explain": { "en": "'Which medal did she win?' – 'Gold! She came first.'", "so": "'Billaddee ayay ku guulaysatay?' – 'Dahab! Iyadaa kowaad noqotay.'" } },
+        { "type": "gap", "before": "Mwanariadha huyu amevunja rekodi ya", "after": "!", "options": ["nauli", "simu", "dunia"], "answer": 2, "meaning": { "en": "This athlete has broken the world record!", "so": "Orodyahankani wuxuu jebiyay rikoorka adduunka!" } }
+      ]
+    },
+    {
+      "id": "training",
+      "goals": ["sports"],
+      "title": { "en": "Training", "so": "Tababarka" },
+      "items": ["sk.mazoezi", "sk.nakimbia-asubuhi", "sk.kujinyoosha", "sk.nguvu", "sk.kasi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Baraka", "sw": "Achieng, unafanya mazoezi gani kila siku?", "en": "Achieng, what training do you do every day?", "so": "Achieng, maalin kasta tababar noocee ah ayaad samaysaa?" },
+            { "who": "Achieng", "sw": "Nakimbia kila asubuhi, kilomita kumi.", "en": "I run every morning, ten kilometres.", "so": "Subax kasta waan ordaa, toban kiiloomitir." },
+            { "who": "Baraka", "sw": "Kumi! Na unajinyoosha kabla ya kukimbia?", "en": "Ten! And do you stretch before running?", "so": "Toban! Jirka ma kala bixisaa intaadan orodin?" },
+            { "who": "Achieng", "sw": "Ndiyo, kila mara. Pia ninainua vyuma ili kupata nguvu.", "en": "Yes, always. I also lift weights to build strength.", "so": "Haa, mar walba. Sidoo kale culeys baan qaadaa si aan xoog u yeesho." },
+            { "who": "Baraka", "sw": "Ndiyo maana una kasi sana!", "en": "That's why you're so fast!", "so": "Taasi waa sababta aad xawaare badan u leedahay!" }
+          ],
+          "question": { "en": "How far does Achieng run each morning?", "so": "Achieng subax kasta immisa ayay ordaa?" },
+          "options": [
+            { "en": "Five kilometres", "so": "Shan kiiloomitir" },
+            { "en": "Twenty kilometres", "so": "Labaatan kiiloomitir" },
+            { "en": "Ten kilometres", "so": "Toban kiiloomitir" }
+          ],
+          "answer": 2
+        },
+        { "type": "build", "prompt": { "en": "Stretch before you run", "so": "Jirka kala bixi intaadan orodin" }, "answer": "Jinyooshe kabla ya kukimbia", "extra": ["baada", "nguvu"], "accept": ["Jinyoosha kabla ya kukimbia"] },
+        { "type": "gap", "before": "Mwanariadha anahitaji nguvu na", "after": ".", "options": ["kasi", "nauli", "jana"], "answer": 0, "meaning": { "en": "An athlete needs strength and speed.", "so": "Orodyahanku wuxuu u baahan yahay xoog iyo xawaare." } }
+      ]
+    },
+    {
+      "id": "rugby-and-rally",
+      "goals": ["sports"],
+      "title": { "en": "Rugby sevens and the Safari Rally", "so": "Ragbiga toddobada iyo Safari Rally" },
+      "items": ["sk.raga", "sk.raga-saba", "sk.shujaa", "sk.safari-rally", "sk.mashindano", "sk.kombe"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wafula", "sw": "Wikendi hii Shujaa wanacheza. Utaangalia?", "en": "Shujaa are playing this weekend. Will you watch?", "so": "Dhammaadka toddobaadkan Shujaa way ciyaarayaan. Ma daawan doontaa?" },
+            { "who": "Nekesa", "sw": "Bila shaka! Raga ya wachezaji saba ni ya kasi sana, naipenda.", "en": "Of course! Rugby sevens is really fast, I love it.", "so": "Shaki la'aan! Ragbiga toddobada aad buu u xawaare badan yahay, waan jeclahay." },
+            { "who": "Wafula", "sw": "Na mwezi ujao kuna Safari Rally huko Naivasha.", "en": "And next month there's the Safari Rally in Naivasha.", "so": "Bisha soo socotana waxaa jira Safari Rally oo ka dhacaya Naivasha." },
+            { "who": "Nekesa", "sw": "Twende pamoja! Nataka kuona magari yakipita kwa kasi.", "en": "Let's go together! I want to see the cars speed past.", "so": "Aan wada aadno! Waxaan rabaa inaan arko baabuurta oo xawaare ku dhaafaya." }
+          ],
+          "question": { "en": "Where is the Safari Rally held?", "so": "Safari Rally xaggee lagu qabtaa?" },
+          "options": [
+            { "en": "In Mombasa", "so": "Mombasa" },
+            { "en": "Around Naivasha", "so": "Agagaarka Naivasha" },
+            { "en": "In Iten", "so": "Iten" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Shujaa wameshinda kombe!", "options": ["Pole sana.", "Bado sijala.", "Hongera kwao!"], "answer": 2, "explain": { "en": "'Shujaa have won the cup!' – 'Congratulations to them!'", "so": "'Shujaa koobka way ku guulaysteen!' – 'Hambalyo iyaga!'" } },
+        { "type": "gap", "before": "Timu ya raga ya wachezaji saba ya Kenya inaitwa", "after": ".", "options": ["Shujaa", "Harambee", "Ingwe"], "answer": 0, "meaning": { "en": "Kenya's rugby sevens team is called Shujaa.", "so": "Kooxda ragbiga toddobada ee Kenya waxaa la yiraahdaa Shujaa." } }
+      ]
+    },
+    {
+      "id": "commentary",
+      "goals": ["sports"],
+      "title": { "en": "Live commentary", "so": "Faallada tooska ah" },
+      "items": ["sk.anapiga-shuti", "sk.gooli", "sk.mpira-uko-nje", "sk.ni-kona", "sk.anaongoza", "sk.mstari-kumaliza"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "The final at Kasarani", "so": "Finaalka Kasarani" },
+          "lines": [
+            { "sw": "Ni fainali ya ligi ya shule pale Kasarani, na Omar anasikiliza redio.", "en": "It's the schools league final at Kasarani, and Omar is listening on the radio.", "so": "Waa finaalka horyaalka dugsiyada ee Kasarani, Omarna raadiyaha ayuu ka dhageysanayaa." },
+            { "who": "Mtangazaji", "sw": "Dakika ya themanini na tisa! Mutua anapokea pasi katikati ya uwanja.", "en": "Eighty-ninth minute! Mutua receives a pass in midfield.", "so": "Daqiiqadda sagaashan iyo sagaalaad! Mutua wuxuu baas ku helayaa bartamaha garoonka." },
+            { "who": "Mtangazaji", "sw": "Anampita beki mmoja, anampita wa pili... anapiga shuti! Aaah, mpira uko nje!", "en": "He gets past one defender, past a second... he shoots! Aaah, the ball is out!", "so": "Wuxuu dhaafayaa hal daafac, wuxuu dhaafayaa kii labaad... wuu laadayaa! Aaah, kubaddu way baxday!" },
+            { "sw": "Omar anashika kichwa chake. Matokeo bado ni sare, moja moja.", "en": "Omar holds his head. The score is still level, one-all.", "so": "Omar madaxa ayuu qabsaday. Natiijadu weli waa barbaro, kow iyo kow." },
+            { "who": "Mtangazaji", "sw": "Dakika ya tisini! Kipa anaokoa shuti la Wafula... ni kona!", "en": "Ninetieth minute! The keeper saves Wafula's shot... it's a corner!", "so": "Daqiiqadda sagaashanaad! Goolhayuhu wuxuu badbaadiyay laadkii Wafula... waa koorneer!" },
+            { "who": "Mtangazaji", "sw": "Kona inapigwa... kichwa... Gooli! Gooli!", "en": "The corner is taken... a header... Goal! Goal!", "so": "Koorneerka ayaa la laadayaa... madax... Gool! Gool!" },
+            { "sw": "Omar anaruka juu kwa furaha. Timu yake imeshinda mbili kwa moja!", "en": "Omar jumps up with joy. His team has won two-one!", "so": "Omar farxad ayuu kor ugu booday. Kooxdiisii waxay ku guulaysatay laba iyo kow!" }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What happened to Mutua's shot?", "so": "Maxaa ku dhacay laadkii Mutua?" },
+              "options": [
+                { "en": "It went in", "so": "Gool buu noqday" },
+                { "en": "It went out", "so": "Wuu baxay" },
+                { "en": "The keeper caught it", "so": "Goolhayaha ayaa qabtay" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "How was the winning goal scored?", "so": "Sidee loo dhaliyay goolka guusha?" },
+              "options": [
+                { "en": "From a penalty", "so": "Rigoore" },
+                { "en": "From a long shot", "so": "Laad fog" },
+                { "en": "With a header from a corner", "so": "Madax koorneer ka timid" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What was the final score?", "so": "Natiijada kama dambaysta ahi maxay ahayd?" },
+              "options": [
+                { "en": "2–1", "so": "2–1" },
+                { "en": "1–1", "so": "1–1" },
+                { "en": "3–0", "so": "3–0" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "gap", "before": "Anapiga", "after": "! Gooli!", "options": ["nauli", "shuti", "ramani"], "answer": 1, "meaning": { "en": "He shoots! Goal!", "so": "Wuu laadayaa! Gool!" } },
+        { "type": "build", "prompt": { "en": "She is near the finish line", "so": "Waxay u dhowdahay xariiqa dhammaadka" }, "answer": "Yuko karibu na mstari wa kumaliza", "extra": ["mbali", "kwanza"] }
+      ]
+    },
+    {
+      "id": "results",
+      "goals": ["sports"],
+      "title": { "en": "Talking results", "so": "Ka hadalka natiijooyinka" },
+      "items": ["sk.matokeo", "sk.mshindi", "sk.alimaliza-wa-kwanza", "sk.nafasi-ya-pili", "sk.walifungwa", "sk.hongera-ushindi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kamau", "sw": "Umeona matokeo ya timu ya taifa?", "en": "Have you seen the national team's result?", "so": "Ma aragtay natiijada xulka qaranka?" },
+            { "who": "Zawadi", "sw": "Ndiyo. Kwa bahati mbaya, walifungwa mbili kwa moja.", "en": "Yes. Unfortunately, they lost two-one.", "so": "Haa. Nasiib darro, laba iyo kow ayaa looga badiyay." },
+            { "who": "Kamau", "sw": "Pole! Lakini kwenye riadha, Kenya ilifanya vizuri.", "en": "Too bad! But in athletics, Kenya did well.", "so": "Waan ka xumahay! Laakiin orodka, Kenya si fiican ayay u qabatay." },
+            { "who": "Zawadi", "sw": "Kweli! Mwanariadha wetu alimaliza wa kwanza, na mwingine alikuwa wa pili.", "en": "True! Our athlete finished first, and another came second.", "so": "Run! Orodyahankayagii kowaad ayuu ku dhammaystay, mid kalena wuxuu galay kaalinta labaad." },
+            { "who": "Kamau", "sw": "Hongera Kenya!", "en": "Well done, Kenya!", "so": "Hambalyo Kenya!" }
+          ],
+          "question": { "en": "How did the national football team do?", "so": "Xulka qaranka kubadda cagta sidee ayuu u ciyaaray?" },
+          "options": [
+            { "en": "They lost 2–1", "so": "Waa laga badiyay 2–1" },
+            { "en": "They won 2–1", "so": "Way guulaysteen 2–1" },
+            { "en": "It was a draw", "so": "Barbaro ayay ahayd" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Nilimaliza katika nafasi ya pili!", "options": ["Nashuka hapa.", "Hongera! Ni matokeo mazuri.", "Mpira uko nje."], "answer": 1, "explain": { "en": "'I finished in second place!' – 'Congratulations! That's a good result.'", "so": "'Kaalinta labaad ayaan ku dhammaystay!' – 'Hambalyo! Waa natiijo fiican.'" } },
+        { "type": "build", "prompt": { "en": "Who is the winner?", "so": "Guulaystuhu waa kuma?" }, "answer": "Mshindi ni nani", "extra": ["matokeo", "pili"], "accept": ["Nani ni mshindi"] },
+        { "type": "gap", "before": "Alimaliza wa", "after": ", kwa hivyo alipata medali ya dhahabu.", "options": ["pili", "tatu", "kwanza"], "answer": 2, "meaning": { "en": "She finished first, so she got the gold medal.", "so": "Kowaad ayay ku dhammaysay, sidaas darteed waxay heshay billadda dahabka." } }
+      ]
+    }
+  ]
+}

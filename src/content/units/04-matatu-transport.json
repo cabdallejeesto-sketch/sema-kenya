@@ -52,7 +52,7 @@
     }
   ],
   "items": [
-    { "id": "m.matatu", "sw": "matatu", "en": "matatu (shared minibus)", "so": "matatu (baas yar oo la wadaago)", "v": "everyday", "tz": "daladala" },
+    { "id": "m.matatu", "sw": "matatu", "en": "matatu (shared minibus)", "so": "matatu (baas yar oo la wadaago)", "v": "everyday", "tz": "daladala", "syn": "matatu" },
     { "id": "m.stage", "sw": "stage", "en": "matatu stop", "so": "joogsiga baska", "v": "everyday", "tz": "kituo", "alt": ["steji"], "say": "steji", "note": { "en": "Often pronounced steji.", "so": "Badanaa waxaa loogu dhawaaqaa steji." } },
     { "id": "m.panda", "sw": "panda", "en": "get on / board", "so": "fuul", "v": "standard" },
     { "id": "m.shuka", "sw": "shuka", "en": "get off", "so": "ka deg", "v": "standard" },

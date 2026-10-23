@@ -1,0 +1,376 @@
+{
+  "id": "business",
+  "order": 24,
+  "level": "B1",
+  "color": "#115e59",
+  "reviewed": false,
+  "title": { "en": "Business & Negotiation", "so": "Ganacsiga iyo Gorgortanka" },
+  "swTitle": "Biashara na Mapatano",
+  "description": {
+    "en": "Run a small business the Kenyan way: stock, capital, credit, paperwork, chamas and polite negotiation with customers and suppliers.",
+    "so": "U maamul ganacsi yar sida Kenya: badeecad, raasumaal, deyn, waraaqaha, chama-yada iyo gorgortan edeb leh oo lala yeesho macaamiisha iyo alaab-qeybiyeyaasha."
+  },
+  "goals": ["business"],
+  "guide": [
+    {
+      "title": { "en": "Kenyan business talk", "so": "Hadalka ganacsiga Kenya" },
+      "body": {
+        "en": "Small business is everywhere in Kenya: the kibanda (stall), the duka (shop), the jua kali yard. People greet traders with Biashara iko aje? and the usual reply is Iko poa or Tunasonga (we keep going). Kenyans mix English into business talk: stoki, oda, invoice. You already know mteja, faida, hasara, deni, risiti and bei ya jumla from the numbers unit.",
+        "so": "Ganacsiga yar meel kasta ayuu Kenya ka jiraa: kibanda (buush yar), duka (dukaan), goobta jua kali. Dadku ganacsatada waxay ku salaamaan Biashara iko aje? jawaabta caadiga ahina waa Iko poa ama Tunasonga (waan soconnaa). Kenyaanku hadalka ganacsiga waxay ku daraan Ingiriisi: stoki, oda, invoice. Waxaad horay uga baratay qaybta tirooyinka mteja, faida, hasara, deni, risiti iyo bei ya jumla."
+      },
+      "examples": [
+        { "sw": "Biashara iko aje? Iko poa, tunasonga.", "en": "How's business? It's fine, we keep going.", "so": "Ganacsigu sidee yahay? Waa fiican yahay, waan soconnaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Borrow or lend: kopa and kopesha", "so": "Amaahasho iyo amaahin: kopa iyo kopesha" },
+      "body": {
+        "en": "Kukopa is to borrow and kukopesha is to lend. The ending -esha (or -isha) makes a verb mean 'cause someone to': kopa becomes kopesha. Put the person before the verb: unikopeshe (lend me), nitakukopesha (I'll lend you), alimkopesha (he lent him). A shop that sells on credit also kopesha: Duka hili halikopeshi means 'this shop gives no credit'.",
+        "so": "Kukopa waa amaahasho (deyn qaadasho), kukopeshana waa amaahin (deyn siin). Dhammaadka -esha (ama -isha) wuxuu falka ka dhigaa 'qof u samee': kopa waxay noqotaa kopesha. Qofka ku dheji falka hortiisa: unikopeshe (i amaahi), nitakukopesha (waan ku amaahin doonaa), alimkopesha (wuu amaahiyay). Dukaan wax deyn ku bixiya sidoo kale waa kopesha: Duka hili halikopeshi waxay ka dhigan tahay 'dukaankan deyn ma bixiyo'."
+      },
+      "examples": [
+        { "sw": "Naomba unikopeshe elfu moja hadi Ijumaa.", "en": "Please lend me a thousand until Friday.", "so": "Fadlan kun ii amaahi ilaa Jimcaha.", "v": "standard" },
+        { "sw": "Duka hili halikopeshi.", "en": "This shop doesn't give credit.", "so": "Dukaankan deyn ma bixiyo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Polite and formal", "so": "Edeb iyo rasmi" },
+      "body": {
+        "en": "With customers and suppliers, Kenyans soften requests. Naomba + subjunctive is the polite 'please': Naomba unitumie ankara. The -nge- form means 'would': Ningependa (I would like). Tu- + verb ending in -e means 'let's': Tufanye elfu mbili (let's make it two thousand). Use titles with names: Bwana Omar (Mr), Bi Halima (Ms or Mrs). Written messages start with Mpendwa mteja.",
+        "so": "Macaamiisha iyo alaab-qeybiyeyaasha, Kenyaanku codsiyada way jilciyaan. Naomba + qaabka rabitaanka waa 'fadlan' edeb leh: Naomba unitumie ankara. Qaabka -nge- waxay ka dhigan tahay 'lahaa': Ningependa (waxaan jeclaan lahaa). Tu- + fal ku dhammaada -e waxay ka dhigan tahay 'aan': Tufanye elfu mbili (aan ka dhigno laba kun). Magacyada ku dar naanays sharafeed: Bwana Omar (Mudane), Bi Halima (Marwo). Fariimaha qoran waxay ku bilaabmaan Mpendwa mteja."
+      },
+      "examples": [
+        { "sw": "Naomba unitumie ankara leo.", "en": "Please send me the invoice today.", "so": "Fadlan maanta qaansheegga ii soo dir.", "v": "standard" },
+        { "sw": "Ningependa kuongea na Bi Halima.", "en": "I would like to speak to Ms Halima.", "so": "Waxaan jeclaan lahaa inaan la hadlo Marwo Halima.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "The chama", "so": "Chama-ga" },
+      "body": {
+        "en": "A chama is a Kenyan savings group. Members meet regularly and each pays a mchango (contribution). In a merry-go-round the whole pot goes to one member each round, just like the Somali hagbad. Bigger chamas also invest together in land, shares or a business. Millions of Kenyans belong to at least one.",
+        "so": "Chama waa koox lacag-kaydin oo Kenya ah. Xubnuhu si joogto ah ayay u kulmaan, mid kastaana wuxuu bixiyaa mchango (qayb-bixin). Merry-go-round-ka, lacagta oo dhan wareeg kasta waxaa qaata hal xubin, sida hagbadda Soomaalida. Chama-yada waaweyni waxay sidoo kale si wadajir ah u maalgashadaan dhul, saamiyo ama ganacsi. Malaayiin Kenyaan ah ayaa ka tirsan ugu yaraan hal chama."
+      },
+      "examples": [
+        { "sw": "Chama chetu kinakutana kila Jumapili.", "en": "Our chama meets every Sunday.", "so": "Chama-gayagu Axad kasta ayuu kulmaa.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Tax and paperwork", "so": "Cashuurta iyo waraaqaha" },
+      "body": {
+        "en": "KRA (Mamlaka ya Ushuru Kenya) collects taxes; you need a KRA PIN to get a job, open a business or register a car. Your county issues the business permit (kibali cha biashara). Ushuru is tax. Kodi can also mean tax, but in Kenya it usually means rent. An ankara is an invoice; a risiti is a receipt.",
+        "so": "KRA (Mamlaka ya Ushuru Kenya) ayaa ururisa cashuurta; waxaad u baahan tahay KRA PIN si aad shaqo u hesho, ganacsi u furto ama gaari u diiwaangeliso. Dawladda hoose ee county-gaaga ayaa bixisa ruqsadda ganacsiga (kibali cha biashara). Ushuru waa cashuur. Kodi sidoo kale waxay noqon kartaa cashuur, laakiin Kenya badanaa waxay ka dhigan tahay kirada guriga. Ankara waa qaansheeg; risiti waa rasiid."
+      },
+      "examples": [
+        { "sw": "Nimelipa ushuru wangu wa mwaka huu.", "en": "I've paid my tax for this year.", "so": "Cashuurtaydii sannadkan waan bixiyay.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "bz.biashara", "sw": "biashara", "en": "business / trade", "so": "ganacsi", "v": "standard", "note": { "en": "biashara ndogo = small business; mfanyabiashara = businessperson.", "so": "biashara ndogo = ganacsi yar; mfanyabiashara = ganacsade." } },
+    { "id": "bz.bidhaa", "sw": "bidhaa", "en": "goods / products", "so": "badeecad", "v": "standard", "syn": "goods", "note": { "en": "Same form in the singular and plural.", "so": "Keli iyo wadarba waa isku qaab." } },
+    { "id": "bz.mtaji", "sw": "mtaji", "en": "(business) capital", "so": "raasumaal", "v": "standard" },
+    { "id": "bz.biashara-iko-aje", "sw": "Biashara iko aje?", "en": "How's business?", "so": "Ganacsigu sidee yahay?", "v": "everyday", "alt": ["biashara inaendaje", "biashara ikoje"] },
+    { "id": "bz.biashara-chini", "sw": "Biashara iko chini siku hizi", "en": "Business is slow these days", "so": "Maalmahan ganacsigu wuu hooseeyaa", "v": "everyday", "note": { "en": "Opposite: Biashara iko juu = business is booming.", "so": "Lidkeeda: Biashara iko juu = ganacsigu wuu kacsan yahay." } },
+
+    { "id": "bz.stoki", "sw": "stoki", "en": "stock (goods in store)", "so": "badeecadda kaydka ah", "v": "everyday", "alt": ["stock"], "note": { "en": "Kenyan everyday word from English 'stock'.", "so": "Eray maalinle ah oo Kenya ah oo ka yimid Ingiriisiga 'stock'." } },
+    { "id": "bz.stoki-imeisha", "sw": "Stoki imeisha", "en": "The stock has run out", "so": "Badeecaddii way dhammaatay", "v": "everyday" },
+    { "id": "bz.msambazaji", "sw": "msambazaji", "en": "supplier / distributor", "so": "alaab-qeybiye", "v": "standard", "note": { "en": "From kusambaza, to distribute. Plural: wasambazaji.", "so": "Waxay ka timid kusambaza, qeybin. Wadarta: wasambazaji." } },
+    { "id": "bz.bei-rejareja", "sw": "bei ya rejareja", "en": "retail price", "so": "qiimaha tafaariiqda", "v": "standard", "note": { "en": "Rejareja = selling in small amounts. The opposite of bei ya jumla (wholesale price).", "so": "Rejareja = iibinta wax yar yar (tafaariiq). Waa lidka bei ya jumla (qiimaha jumladda)." } },
+    { "id": "bz.nanunua-jumla", "sw": "Nanunua kwa jumla, nauza kwa rejareja", "en": "I buy wholesale and sell retail", "so": "Jumlad ayaan ku iibsadaa, tafaariiq ayaan ku iibiyaa", "v": "everyday", "alt": ["ninanunua kwa jumla, ninauza kwa rejareja"] },
+
+    { "id": "bz.kukopa", "sw": "kukopa", "en": "to borrow", "so": "deyn qaadasho (amaahasho)", "v": "standard", "syn": "borrow", "note": { "en": "Compare kukopesha, to lend.", "so": "Barbardhig kukopesha, amaahin." } },
+    { "id": "bz.kukopesha", "sw": "kukopesha", "en": "to lend / give on credit", "so": "amaahin (deyn siin)", "v": "standard", "syn": "lend", "note": { "en": "A shop that sells goods on credit also kopesha.", "so": "Dukaanka badeecad deyn ku bixiya sidoo kale waa kopesha." } },
+    { "id": "bz.mkopo", "sw": "mkopo", "en": "loan", "so": "amaah (deyn)", "v": "standard", "syn": "loan", "note": { "en": "kwa mkopo = on credit. Plural: mikopo.", "so": "kwa mkopo = deyn ahaan. Wadarta: mikopo." } },
+    { "id": "bz.riba", "sw": "riba", "en": "interest (on a loan)", "so": "ribo (dulsaar)", "v": "standard", "note": { "en": "Many Muslim Kenyans avoid riba, and Kenyan banks offer sharia-compliant accounts and financing.", "so": "Muslimiin badan oo Kenyaan ah ayaa ka fogaada ribada, bangiyada Kenyana waxay bixiyaan xisaabaad iyo maalgelin waafaqsan shareecada." } },
+    { "id": "bz.nitakulipa", "sw": "Nitakulipa mwisho wa mwezi", "en": "I'll pay you at the end of the month", "so": "Dhammaadka bisha ayaan lacagta ku siin doonaa", "v": "standard" },
+
+    { "id": "bz.ankara", "sw": "ankara", "en": "invoice", "so": "qaansheeg (biil)", "v": "standard", "alt": ["invoice"], "note": { "en": "In offices many people just say invoice.", "so": "Xafiisyada dad badan ayaa si fudud u yiraahda invoice." } },
+    { "id": "bz.ushuru", "sw": "ushuru", "en": "tax / duty", "so": "cashuur", "v": "standard", "syn": "tax", "note": { "en": "Kodi can also mean tax, but in Kenya kodi usually means rent.", "so": "Kodi sidoo kale waxay noqon kartaa cashuur, laakiin Kenya kodi badanaa waa kirada guriga." } },
+    { "id": "bz.kra", "sw": "KRA", "en": "KRA (Kenya's tax office)", "so": "KRA (hay'adda cashuuraha Kenya)", "v": "everyday", "say": "kei ar ei", "alt": ["kra"], "note": { "en": "Kenya Revenue Authority, in Swahili Mamlaka ya Ushuru Kenya. You need a KRA PIN for jobs and business.", "so": "Kenya Revenue Authority, Sawaaxili ahaan Mamlaka ya Ushuru Kenya. Shaqo iyo ganacsi waxaad ugu baahan tahay KRA PIN." } },
+    { "id": "bz.leseni", "sw": "leseni", "en": "licence", "so": "ruqsad (liisan)", "v": "standard", "note": { "en": "leseni ya biashara = business licence; leseni ya kuendesha gari = driving licence.", "so": "leseni ya biashara = ruqsad ganacsi; leseni ya kuendesha gari = liisanka darawalnimada." } },
+    { "id": "bz.nitumie-ankara", "sw": "Tafadhali nitumie ankara", "en": "Please send me an invoice", "so": "Fadlan qaansheegga ii soo dir", "v": "standard" },
+
+    { "id": "bz.chama", "sw": "chama", "en": "chama (savings group)", "so": "koox lacag-kaydin (sida hagbadda)", "v": "everyday", "syn": "chama", "note": { "en": "Chama also means club, union or association. Plural: vyama.", "so": "Chama sidoo kale waxay ka dhigan tahay naadi, urur ama jamciyad. Wadarta: vyama." } },
+    { "id": "bz.mwanachama", "sw": "mwanachama", "en": "member (of a group)", "so": "xubin", "v": "standard", "note": { "en": "Plural: wanachama.", "so": "Wadarta: wanachama." } },
+    { "id": "bz.mchango", "sw": "mchango", "en": "contribution", "so": "qayb-bixin (lacagta la bixiyo)", "v": "standard", "note": { "en": "Also used for fundraising: mchango wa harusi = wedding contributions.", "so": "Sidoo kale waxaa loo isticmaalaa lacag-ururinta: mchango wa harusi = qaraanka arooska." } },
+    { "id": "bz.kuweka-akiba", "sw": "kuweka akiba", "en": "to save money", "so": "lacag kaydin", "v": "standard", "note": { "en": "akiba = savings.", "so": "akiba = kayd (lacag la kaydiyay)." } },
+    { "id": "bz.merry-go-round", "sw": "merry-go-round", "en": "merry-go-round (rotating savings)", "so": "hagbad (wareeg lacageed)", "v": "everyday", "syn": "chama", "say": "meri go raund", "alt": ["merry go round", "meri go raund"], "note": { "en": "Like the Somali hagbad: each member takes the whole pot in turn.", "so": "Waa sida hagbadda Soomaalida: xubin kastaa nobaddeeda ayay lacagta oo dhan qaadataa." } },
+
+    { "id": "bz.tunaweza-kuelewana", "sw": "Tunaweza kuelewana", "en": "We can come to an agreement", "so": "Waan heshiin karnaa", "v": "standard", "syn": "agree" },
+    { "id": "bz.nipe-punguzo", "sw": "Nipe punguzo", "en": "Give me a discount", "so": "Wax iga dhim (qiimo dhimis i sii)", "v": "everyday", "syn": "discount", "note": { "en": "punguzo = discount. Compare Punguza kidogo, lower it a little.", "so": "punguzo = qiimo dhimis. Barbardhig Punguza kidogo, wax yar ka dhim." } },
+    { "id": "bz.bei-ghali-sana", "sw": "Hiyo ni bei ghali sana", "en": "That's a very high price", "so": "Qiimahaasi aad buu u sarreeyaa", "v": "everyday", "alt": ["hiyo bei ni ghali sana"] },
+    { "id": "bz.tufanye", "sw": "Tufanye elfu mbili", "en": "Let's make it two thousand", "so": "Aan ka dhigno laba kun", "v": "everyday", "note": { "en": "Tufanye + price is the standard Kenyan way to counter-offer.", "so": "Tufanye + qiime waa habka caadiga ah ee Kenya ee qiime kale loo soo jeediyo." } },
+    { "id": "bz.tumekubaliana", "sw": "Tumekubaliana", "en": "We have a deal / We've agreed", "so": "Waan heshiinnay", "v": "standard", "syn": "agree" },
+    { "id": "bz.mkataba", "sw": "mkataba", "en": "contract (written agreement)", "so": "qandaraas (heshiis qoran)", "v": "standard", "note": { "en": "kusaini mkataba = to sign a contract.", "so": "kusaini mkataba = qandaraas saxiixid." } },
+
+    { "id": "bz.naweza-kukusaidia", "sw": "Naweza kukusaidia?", "en": "Can I help you?", "so": "Ma ku caawin karaa?", "v": "standard", "alt": ["ninaweza kukusaidia", "nikusaidie aje"] },
+    { "id": "bz.ningependa-kuagiza", "sw": "Ningependa kuagiza bidhaa", "en": "I would like to order goods", "so": "Waxaan jeclaan lahaa inaan badeecad dalbado", "v": "standard", "note": { "en": "Ningependa = I would like (polite). Many traders also say Nataka kuweka oda.", "so": "Ningependa = waxaan jeclaan lahaa (edeb leh). Ganacsato badan ayaa sidoo kale yiraahda Nataka kuweka oda." } },
+    { "id": "bz.subiri", "sw": "Tafadhali subiri kidogo", "en": "Please wait a moment (polite)", "so": "Fadlan wax yar sug", "v": "standard", "syn": "wait", "note": { "en": "More polite and formal than Ngoja kidogo.", "so": "Way ka edeb iyo rasmi badan tahay Ngoja kidogo." } },
+    { "id": "bz.samahani-usumbufu", "sw": "Samahani kwa usumbufu", "en": "Sorry for the inconvenience", "so": "Raalli ahaw dhibaatada", "v": "standard" },
+    { "id": "bz.mpendwa-mteja", "sw": "Mpendwa mteja", "en": "Dear customer", "so": "Macmiilka qaaliga ah", "v": "standard", "note": { "en": "How Kenyan companies start texts and letters to customers.", "so": "Sida shirkadaha Kenya ay u bilaabaan fariimaha iyo warqadaha macaamiisha." } }
+  ],
+  "lessons": [
+    {
+      "id": "running-a-business",
+      "title": { "en": "Running a small business", "so": "Maamulka ganacsi yar" },
+      "items": ["bz.biashara", "bz.bidhaa", "bz.mtaji", "bz.biashara-iko-aje", "bz.biashara-chini"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Halima's stall", "so": "Kibanda-ga Halima" },
+          "lines": [
+            { "sw": "Halima ana kibanda kidogo cha nguo Eastleigh.", "en": "Halima has a small clothes stall in Eastleigh.", "so": "Halima waxay Eastleigh ku leedahay kibanda yar oo dhar lagu iibiyo." },
+            { "sw": "Anauza nguo za wanawake, viatu na marashi.", "en": "She sells women's clothes, shoes and perfume.", "so": "Waxay iibisaa dharka haweenka, kabo iyo cadar." },
+            { "sw": "Alianza biashara hii miaka mitatu iliyopita, kwa mtaji wa shilingi elfu ishirini.", "en": "She started this business three years ago, with capital of twenty thousand shillings.", "so": "Ganacsigan waxay bilowday saddex sano ka hor, iyadoo haysata raasumaal labaatan kun oo shilin ah." },
+            { "sw": "Kila Jumatatu, ananunua bidhaa mpya kutoka kwa wauzaji wa jumla.", "en": "Every Monday she buys new goods from wholesalers.", "so": "Isniin kasta waxay badeecad cusub ka iibsataa ganacsatada jumladda." },
+            { "sw": "Wateja wake wengi ni majirani na marafiki.", "en": "Most of her customers are neighbours and friends.", "so": "Macaamiisheeda badankoodu waa deris iyo saaxiibo." },
+            { "sw": "Siku hizi biashara iko chini kidogo, kwa sababu watu hawana pesa nyingi.", "en": "These days business is a bit slow, because people don't have much money.", "so": "Maalmahan ganacsigu wax yar buu hooseeyaa, maxaa yeelay dadku lacag badan ma haystaan." },
+            { "sw": "Lakini Halima hakati tamaa.", "en": "But Halima doesn't give up.", "so": "Laakiin Halima ma quusato." },
+            { "who": "Halima", "sw": "Biashara ni subira.", "en": "Business needs patience.", "so": "Ganacsigu waa samir." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Where is Halima's stall?", "so": "Kibanda-ga Halima xaggee ku yaal?" },
+              "options": [
+                { "en": "In Westlands", "so": "Westlands" },
+                { "en": "In Eastleigh", "so": "Eastleigh" },
+                { "en": "In Mombasa", "so": "Mombasa" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "How much capital did she start with?", "so": "Raasumaal intee le'eg ayay ku bilowday?" },
+              "options": [
+                { "en": "20,000 shillings", "so": "20,000 shilin" },
+                { "en": "2,000 shillings", "so": "2,000 shilin" },
+                { "en": "200,000 shillings", "so": "200,000 shilin" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "Why is business slow these days?", "so": "Maxay ganacsigu maalmahan u hooseeyaa?" },
+              "options": [
+                { "en": "Her stall is closed", "so": "Kibanda-geedu waa xiran yahay" },
+                { "en": "She has no goods", "so": "Badeecad ma haysato" },
+                { "en": "People don't have much money", "so": "Dadku lacag badan ma haystaan" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Biashara iko aje, Halima?", "options": ["Mimi ni muuguzi.", "Iko chini kidogo, lakini tunasonga.", "Kuna baridi leo."], "answer": 1, "explain": { "en": "'How's business, Halima?' – 'A bit slow, but we keep going.' Tunasonga (we're moving on) is a common Kenyan reply.", "so": "'Ganacsigu sidee yahay, Halima?' – 'Wax yar buu hooseeyaa, laakiin waan soconnaa.' Tunasonga (horay ayaan u soconnaa) waa jawaab caadi ah oo Kenya ah." } },
+        { "type": "gap", "before": "Nilianza biashara hii kwa", "after": " mdogo sana.", "options": ["mtaji", "bidhaa", "biashara"], "answer": 0, "meaning": { "en": "I started this business with very little capital.", "so": "Ganacsigan waxaan ku bilaabay raasumaal aad u yar." } }
+      ]
+    },
+    {
+      "id": "buying-and-selling",
+      "title": { "en": "Wholesale and retail", "so": "Jumlad iyo tafaariiq" },
+      "items": ["bz.stoki", "bz.stoki-imeisha", "bz.msambazaji", "bz.bei-rejareja", "bz.nanunua-jumla"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Omar", "sw": "Wafula, stoki ya sukari imeisha. Unaweza kuniletea leo?", "en": "Wafula, the sugar stock has run out. Can you bring me some today?", "so": "Wafula, sonkortii kaydka ahayd way dhammaatay. Maanta ma ii keeni kartaa?" },
+            { "who": "Wafula", "sw": "Ndiyo, lakini bei ya jumla imepanda kidogo.", "en": "Yes, but the wholesale price has gone up a little.", "so": "Haa, laakiin qiimaha jumladdu wax yar buu kordhay." },
+            { "who": "Omar", "sw": "Imepanda kiasi gani?", "en": "By how much?", "so": "Intee buu kordhay?" },
+            { "who": "Wafula", "sw": "Shilingi mia moja kwa kila gunia.", "en": "One hundred shillings per sack.", "so": "Boqol shilin jawaankiiba." },
+            { "who": "Omar", "sw": "Sawa. Niletee magunia matano.", "en": "Okay. Bring me five sacks.", "so": "Hagaag. Shan jawaan ii keen." }
+          ],
+          "question": { "en": "What has happened to the wholesale price of sugar?", "so": "Maxaa ku dhacay qiimaha jumladda ee sonkorta?" },
+          "options": [
+            { "en": "It went up by 100 per sack", "so": "Jawaankiiba boqol shilin buu kordhay" },
+            { "en": "It went down", "so": "Wuu dhacay" },
+            { "en": "It stayed the same", "so": "Isma beddelin" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Bei ya", "after": " iko juu kuliko bei ya jumla.", "options": ["mtaji", "msambazaji", "rejareja"], "answer": 2, "meaning": { "en": "The retail price is higher than the wholesale price.", "so": "Qiimaha tafaariiqdu wuu ka sarreeyaa qiimaha jumladda." } },
+        { "type": "build", "prompt": { "en": "Our stock has run out", "so": "Badeecaddayadii way dhammaatay" }, "answer": "Stoki yetu imeisha", "extra": ["mteja", "jana"] }
+      ]
+    },
+    {
+      "id": "credit-and-loans",
+      "title": { "en": "Credit and loans", "so": "Deynta iyo amaahda" },
+      "items": ["bz.kukopa", "bz.kukopesha", "bz.mkopo", "bz.riba", "bz.nitakulipa"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mama Baraka", "sw": "Mutua, naomba unikopeshe unga na mafuta. Nitakulipa Ijumaa.", "en": "Mutua, please give me flour and cooking oil on credit. I'll pay you on Friday.", "so": "Mutua, fadlan bur iyo saliid deyn ahaan ii sii. Jimcaha ayaan lacagta ku siin doonaa." },
+            { "who": "Mutua", "sw": "Pole, Mama Baraka, lakini deni la mwezi uliopita bado halijalipwa.", "en": "Sorry, Mama Baraka, but last month's debt still hasn't been paid.", "so": "Waan ka xumahay, Mama Baraka, laakiin deyntii bishii hore weli lama bixin." },
+            { "who": "Mama Baraka", "sw": "Ni kweli. Nitalipa deni lote mwisho wa mwezi, nakuahidi.", "en": "That's true. I'll pay the whole debt at the end of the month, I promise.", "so": "Waa run. Deynta oo dhan dhammaadka bisha ayaan bixin doonaa, waan kuu ballanqaadayaa." },
+            { "who": "Mutua", "sw": "Sawa. Leo nitakukopesha unga tu.", "en": "Okay. Today I'll give you only flour on credit.", "so": "Hagaag. Maanta bur keliya ayaan deyn kuu siin doonaa." }
+          ],
+          "question": { "en": "What does Mutua give her on credit today?", "so": "Maanta maxuu Mutua deyn ahaan u siinayaa?" },
+          "options": [
+            { "en": "Flour and oil", "so": "Bur iyo saliid" },
+            { "en": "Only flour", "so": "Bur keliya" },
+            { "en": "Nothing", "so": "Waxba" }
+          ],
+          "answer": 1
+        },
+        {
+          "type": "story",
+          "title": { "en": "Abdi's loan", "so": "Amaahda Abdi" },
+          "lines": [
+            { "sw": "Abdi ni fundi wa simu mjini Garissa.", "en": "Abdi is a phone repairer in Garissa town.", "so": "Abdi waa dayactire taleefan oo ku sugan magaalada Garissa." },
+            { "sw": "Kwa miaka mingi, alifanya kazi katika duka la mtu mwingine.", "en": "For many years he worked in someone else's shop.", "so": "Sannado badan wuxuu ka shaqaynayay dukaan uu qof kale leeyahay." },
+            { "sw": "Alitaka kufungua duka lake mwenyewe, lakini hakuwa na mtaji.", "en": "He wanted to open his own shop, but he had no capital.", "so": "Wuxuu doonayay inuu furto dukaan isaga u gaar ah, laakiin raasumaal ma haysan." },
+            { "sw": "Benki moja ilitaka kumkopesha, lakini riba ilikuwa juu sana.", "en": "One bank wanted to lend to him, but the interest was very high.", "so": "Bangi ayaa doonayay inuu amaah siiyo, laakiin ribadu aad bay u sarraysay." },
+            { "sw": "Abdi hataki riba, kwa hiyo alienda kwa benki ya Kiislamu.", "en": "Abdi doesn't want interest, so he went to an Islamic bank.", "so": "Abdi ma rabo ribo, sidaas darteed wuxuu aaday bangi Islaami ah." },
+            { "sw": "Pia kaka yake Farah alimkopesha shilingi elfu thelathini.", "en": "His brother Farah also lent him thirty thousand shillings.", "so": "Walaalkiis Farah ayaa sidoo kale soddon kun oo shilin u amaahiyay." },
+            { "sw": "Sasa Abdi ana duka dogo la simu.", "en": "Now Abdi has a small phone shop.", "so": "Hadda Abdi wuxuu leeyahay dukaan yar oo taleefanno." },
+            { "sw": "Kila mwisho wa mwezi, analipa sehemu ya mkopo.", "en": "At the end of every month, he pays back part of the loan.", "so": "Dhammaadka bil kasta, wuxuu bixiyaa qayb ka mid ah amaahda." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Why didn't Abdi take the first bank's loan?", "so": "Muxuu Abdi u qaadan waayay amaahda bangiga koowaad?" },
+              "options": [
+                { "en": "The interest was too high", "so": "Ribadu aad bay u sarraysay" },
+                { "en": "He already had capital", "so": "Raasumaal horay ayuu u haystay" },
+                { "en": "The bank was closed", "so": "Bangigu wuu xirnaa" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "Who lent him thirty thousand shillings?", "so": "Yaa u amaahiyay soddon kun oo shilin?" },
+              "options": [
+                { "en": "His boss", "so": "Madaxiisa shaqada" },
+                { "en": "His brother Farah", "so": "Walaalkiis Farah" },
+                { "en": "A chama", "so": "Chama" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What does Abdi do at the end of each month?", "so": "Abdi muxuu sameeyaa dhammaadka bil kasta?" },
+              "options": [
+                { "en": "He buys new phones", "so": "Taleefanno cusub ayuu iibsadaa" },
+                { "en": "He closes the shop", "so": "Dukaanka ayuu xiraa" },
+                { "en": "He pays back part of the loan", "so": "Qayb ka mid ah amaahda ayuu bixiyaa" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "build", "prompt": { "en": "Can you lend me money?", "so": "Lacag ma i amaahin kartaa?" }, "answer": "Unaweza kunikopesha pesa", "extra": ["kukopa", "mimi"] }
+      ]
+    },
+    {
+      "id": "paperwork",
+      "goals": ["business"],
+      "title": { "en": "Tax and paperwork", "so": "Cashuurta iyo waraaqaha" },
+      "items": ["bz.ankara", "bz.ushuru", "bz.kra", "bz.leseni", "bz.nitumie-ankara"],
+      "extra": [
+        { "type": "respond", "heard": "Tafadhali nitumie ankara kabla ya Ijumaa.", "options": ["Hiyo ni bei ghali sana.", "Mvua inanyesha.", "Sawa, nitaituma leo jioni."], "answer": 2, "explain": { "en": "'Please send me the invoice before Friday.' – 'Okay, I'll send it this evening.'", "so": "'Fadlan qaansheegga ii soo dir Jimcaha ka hor.' – 'Hagaag, caawa ayaan soo diri doonaa.'" } },
+        { "type": "gap", "before": "Kila mwaka, lazima ulipe", "after": " kwa serikali.", "options": ["mtaji", "ushuru", "punguzo"], "answer": 1, "meaning": { "en": "Every year you must pay tax to the government.", "so": "Sannad kasta waa inaad dawladda cashuur siisaa." } },
+        { "type": "build", "prompt": { "en": "I need a business licence", "so": "Waxaan u baahanahay ruqsad ganacsi" }, "answer": "Nahitaji leseni ya biashara", "extra": ["ankara", "ushuru"] }
+      ]
+    },
+    {
+      "id": "the-chama",
+      "title": { "en": "The chama", "so": "Chama-ga" },
+      "items": ["bz.chama", "bz.mwanachama", "bz.mchango", "bz.kuweka-akiba", "bz.merry-go-round"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Wanjiku's chama", "so": "Chama-ga Wanjiku" },
+          "lines": [
+            { "sw": "Wanjiku na marafiki zake kumi wana chama huko Kasarani.", "en": "Wanjiku and ten of her friends have a chama in Kasarani.", "so": "Wanjiku iyo toban saaxiibbadeed ah waxay Kasarani ku leeyihiin chama." },
+            { "sw": "Wanakutana Jumapili ya mwisho ya kila mwezi.", "en": "They meet on the last Sunday of every month.", "so": "Waxay kulmaan Axadda ugu dambaysa ee bil kasta." },
+            { "sw": "Kila mwanachama analeta mchango wa shilingi elfu mbili.", "en": "Each member brings a contribution of two thousand shillings.", "so": "Xubin kastaa waxay keentaa qayb-bixin dhan laba kun oo shilin." },
+            { "sw": "Mwezi huu, pesa zote ni za Chebet. Mwezi ujao ni zamu ya Achieng.", "en": "This month all the money goes to Chebet. Next month it's Achieng's turn.", "so": "Bishan lacagta oo dhan waxaa iska leh Chebet. Bisha soo socota waa nobadda Achieng." },
+            { "sw": "Pia wanaweka akiba pamoja ili wanunue shamba siku moja.", "en": "They also save together so they can buy land one day.", "so": "Sidoo kale waxay wada kaydiyaan lacag si ay maalin uun dhul u iibsadaan." },
+            { "sw": "Chama kimewasaidia wengi kuanza biashara ndogo.", "en": "The chama has helped many of them start small businesses.", "so": "Chama-gu wuxuu qaar badan ka caawiyay inay bilaabaan ganacsiyo yaryar." },
+            { "who": "Wanjiku", "sw": "Peke yangu siwezi, lakini pamoja tunaweza.", "en": "Alone I can't, but together we can.", "so": "Keligay ma awoodo, laakiin wadajir waan awoodnaa." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "How much does each member bring?", "so": "Xubin kastaa immisa ayay keentaa?" },
+              "options": [
+                { "en": "200 shillings", "so": "200 shilin" },
+                { "en": "2,000 shillings", "so": "2,000 shilin" },
+                { "en": "20,000 shillings", "so": "20,000 shilin" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "Who gets the money this month?", "so": "Bishan yaa qaadanaya lacagta?" },
+              "options": [
+                { "en": "Achieng", "so": "Achieng" },
+                { "en": "Wanjiku", "so": "Wanjiku" },
+                { "en": "Chebet", "so": "Chebet" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What are they saving for?", "so": "Maxay u kaydinayaan?" },
+              "options": [
+                { "en": "To buy land", "so": "Inay dhul iibsadaan" },
+                { "en": "To buy a car", "so": "Inay gaari iibsadaan" },
+                { "en": "For a wedding", "so": "Aroos" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Utajiunga na chama chetu?", "options": ["Hapana, nimeshiba.", "Samahani, sina mwavuli.", "Ndiyo! Mchango ni kiasi gani?"], "answer": 2, "explain": { "en": "'Will you join our chama?' – 'Yes! How much is the contribution?'", "so": "'Ma ku biiri doontaa chama-gayaga?' – 'Haa! Qayb-bixintu waa intee?'" } },
+        { "type": "gap", "before": "Ni vizuri kuweka", "after": " kila mwezi.", "options": ["akiba", "deni", "hasara"], "answer": 0, "meaning": { "en": "It's good to save money every month.", "so": "Waa wanaag inaad bil kasta lacag kaydsato." } }
+      ]
+    },
+    {
+      "id": "negotiating",
+      "title": { "en": "Negotiating a deal", "so": "Gorgortanka heshiiska" },
+      "items": ["bz.tunaweza-kuelewana", "bz.nipe-punguzo", "bz.bei-ghali-sana", "bz.tufanye", "bz.tumekubaliana", "bz.mkataba"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Farah, nataka jozi mia moja za viatu. Bei ni ngapi?", "en": "Farah, I want a hundred pairs of shoes. What's the price?", "so": "Farah, boqol lammaane oo kabo ah ayaan rabaa. Qiimuhu waa immisa?" },
+            { "who": "Farah", "sw": "Mia nane kwa kila jozi.", "en": "Eight hundred per pair.", "so": "Siddeed boqol lammaanihiiba." },
+            { "who": "Halima", "sw": "Hiyo ni bei ghali sana. Nipe punguzo, ninanunua nyingi.", "en": "That's a very high price. Give me a discount, I'm buying a lot.", "so": "Qiimahaasi aad buu u sarreeyaa. Wax iga dhim, wax badan baan iibsanayaa." },
+            { "who": "Farah", "sw": "Sawa, tufanye mia saba na hamsini.", "en": "Okay, let's make it seven hundred and fifty.", "so": "Hagaag, aan ka dhigno toddoba boqol iyo konton." },
+            { "who": "Halima", "sw": "Tufanye mia saba, na nitarudi mwezi ujao.", "en": "Let's make it seven hundred, and I'll come back next month.", "so": "Aan ka dhigno toddoba boqol, bisha soo socotana waan soo noqon doonaa." },
+            { "who": "Farah", "sw": "Haya, tumekubaliana!", "en": "Alright, it's a deal!", "so": "Hagaag, waan heshiinnay!" }
+          ],
+          "question": { "en": "What price per pair do they agree on?", "so": "Lammaanihiiba qiimahee ayay ku heshiiyeen?" },
+          "options": [
+            { "en": "750 shillings", "so": "750 shilin" },
+            { "en": "700 shillings", "so": "700 shilin" },
+            { "en": "800 shillings", "so": "800 shilin" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Bei ya mwisho ni elfu tatu.", "options": ["Tufanye elfu mbili na mia tano.", "Asante kwa chakula.", "Nimechelewa."], "answer": 0, "explain": { "en": "'The final price is three thousand.' – 'Let's make it two thousand five hundred.'", "so": "'Qiimaha ugu dambeeya waa saddex kun.' – 'Aan ka dhigno laba kun iyo shan boqol.'" } },
+        { "type": "build", "prompt": { "en": "Give me a small discount", "so": "Wax yar iga dhim" }, "answer": "Nipe punguzo kidogo", "extra": ["ghali", "tufanye"] },
+        { "type": "gap", "before": "Kabla ya kuanza kazi, tutasaini", "after": ".", "options": ["riba", "punguzo", "mkataba"], "answer": 2, "meaning": { "en": "Before starting the work, we'll sign a contract.", "so": "Ka hor intaynaan shaqada bilaabin, waxaan saxiixi doonnaa qandaraas." } }
+      ]
+    },
+    {
+      "id": "polite-service",
+      "goals": ["business"],
+      "title": { "en": "Polite customer service", "so": "Adeeg macmiil oo edeb leh" },
+      "items": ["bz.naweza-kukusaidia", "bz.ningependa-kuagiza", "bz.subiri", "bz.samahani-usumbufu", "bz.mpendwa-mteja"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Zawadi", "sw": "Habari ya mchana. Hapa ni Kampuni ya Baraka. Naweza kukusaidia?", "en": "Good afternoon. This is Baraka Company. Can I help you?", "so": "Galab wanaagsan. Halkan waa Shirkadda Baraka. Ma ku caawin karaa?" },
+            { "who": "Bwana Omar", "sw": "Ndiyo. Ningependa kuagiza bidhaa, lakini bado sijapata ankara yangu.", "en": "Yes. I'd like to order goods, but I still haven't received my invoice.", "so": "Haa. Waxaan jeclaan lahaa inaan badeecad dalbado, laakiin weli ma helin qaansheeggaygii." },
+            { "who": "Zawadi", "sw": "Samahani kwa usumbufu, Bwana Omar. Nitakutumia ankara sasa hivi.", "en": "Sorry for the inconvenience, Mr Omar. I'll send you the invoice right now.", "so": "Raalli ahaw dhibaatada, Mudane Omar. Hadda ayaan qaansheegga kuu soo dirayaa." },
+            { "who": "Bwana Omar", "sw": "Asante sana. Nitasubiri.", "en": "Thank you very much. I'll wait.", "so": "Aad baad u mahadsantahay. Waan sugi doonaa." }
+          ],
+          "question": { "en": "What hasn't Mr Omar received?", "so": "Muxuu Mudane Omar weli helin?" },
+          "options": [
+            { "en": "His invoice", "so": "Qaansheeggiisa" },
+            { "en": "His goods", "so": "Badeecaddiisa" },
+            { "en": "His salary", "so": "Mushaharkiisa" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Naweza kukusaidia?", "options": ["Sina doo, msee.", "Ndiyo, ningependa kuona bidhaa zenu mpya.", "Simama!"], "answer": 1, "explain": { "en": "'Can I help you?' – 'Yes, I'd like to see your new products.' Ningependa (I would like) is polite and formal; Sheng does not fit here.", "so": "'Ma ku caawin karaa?' – 'Haa, waxaan jeclaan lahaa inaan arko badeecadihiinna cusub.' Ningependa (waxaan jeclaan lahaa) waa edeb iyo rasmi; Sheng-gu halkan kuma habboona." } },
+        { "type": "gap", "before": "Mpendwa mteja, samahani kwa", "after": ". Huduma itarudi saa nne asubuhi.", "options": ["mkataba", "punguzo", "usumbufu"], "answer": 2, "meaning": { "en": "Dear customer, sorry for the inconvenience. Service will be back at 10 a.m.", "so": "Macmiilka qaaliga ah, raalli ahaw dhibaatada. Adeeggu wuxuu soo laaban doonaa 10-ka subaxnimo." } },
+        { "type": "build", "prompt": { "en": "I would like to speak to the manager", "so": "Waxaan jeclaan lahaa inaan la hadlo maamulaha" }, "answer": "Ningependa kuongea na meneja", "extra": ["nipe", "mteja"] }
+      ]
+    }
+  ]
+}

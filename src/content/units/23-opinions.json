@@ -1,0 +1,286 @@
+{
+  "id": "opinions",
+  "order": 23,
+  "level": "B1",
+  "color": "#9f1239",
+  "reviewed": false,
+  "title": { "en": "Opinions & Discussion", "so": "Aragtiyo iyo Doodo" },
+  "swTitle": "Maoni na Majadiliano",
+  "description": {
+    "en": "Say what you think, agree and disagree politely, link your ideas with lakini, ingawa and kwa sababu, and compare things like a Kenyan.",
+    "so": "Sheeg waxaad qabto, si edeb leh ugu raac ama uga horyimid, fikradahaaga ku xidh lakini, ingawa iyo kwa sababu, oo wax isu barbar dhig sida Kenyaanka."
+  },
+  "guide": [
+    {
+      "title": { "en": "Saying what you think", "so": "Sheegidda waxaad qabto" },
+      "body": {
+        "en": "Nadhani and nafikiri both mean 'I think'. Naona kwamba (lit. I see that) is very common in Kenya for 'I feel that'. Kwa maoni yangu (in my opinion) sounds more careful and is good in meetings. In everyday Kenyan speech kuwa often replaces kwamba: Nadhani kuwa ni kweli. Young Nairobians also say Nafeel kama..., but keep that for friends.",
+        "so": "Nadhani iyo nafikiri labaduba waxay la macno yihiin 'waxaan u malaynayaa'. Naona kwamba (macno ahaan: waxaan arkaa in) aad ayay Kenya ugu badan tahay. Kwa maoni yangu (aragtidayda) way ka taxaddar badan tahay, waxayna ku fiican tahay shirarka. Hadalka maalinlaha Kenya, kuwa ayaa badanaa beddela kwamba: Nadhani kuwa ni kweli. Dhallinyarada Nairobi waxay sidoo kale yiraahdaan Nafeel kama..., laakiin taas saaxiibbada la isticmaal."
+      },
+      "examples": [
+        { "sw": "Nadhani mvua itanyesha leo.", "en": "I think it will rain today.", "so": "Waxaan u malaynayaa in maanta roob da'i doono.", "v": "standard" },
+        { "sw": "Kwa maoni yangu, matatu ni salama zaidi.", "en": "In my opinion, matatus are safer.", "so": "Aragtidayda, matatu-yadu way ka ammaan badan yihiin.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Agreeing and disagreeing the Kenyan way", "so": "Raacidda iyo diidmada sida Kenya" },
+      "body": {
+        "en": "Kenyans rarely say a flat 'you're wrong', especially to elders. They soften it: Samahani, lakini... (Sorry, but...), Sidhani hivyo (I don't think so), or Ni kweli, lakini... (That's true, but...). The verb -kubali means 'agree' or 'accept'; -kubaliana means 'agree with each other'. Negatives: sikubali (I don't accept), sikubaliani na wewe (I don't agree with you).",
+        "so": "Kenyaanku dhif ayay si toos ah u yiraahdaan 'waad khaldan tahay', gaar ahaan waayeelka. Way jilciyaan: Samahani, lakini... (Raali ahow, laakiin...), Sidhani hivyo (Uma malaynayo sidaas), ama Ni kweli, lakini... (Waa run, laakiin...). Falka -kubali macnihiisu waa 'aqbal' ama 'raac'; -kubaliana waa 'is-afgarad'. Diidmada: sikubali (ma aqbalo), sikubaliani na wewe (kuma raacsani)."
+      },
+      "examples": [
+        { "sw": "Samahani mzee, lakini sidhani hivyo.", "en": "Sorry sir, but I don't think so.", "so": "Raali ahow adeer, laakiin uma malaynayo sidaas.", "v": "standard" },
+        { "sw": "Ni kweli, lakini kuna shida moja.", "en": "That's true, but there is one problem.", "so": "Waa run, laakiin hal dhibaato ayaa jirta.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Linking your ideas", "so": "Isku xidhka fikradahaaga" },
+      "body": {
+        "en": "Lakini = but. Ingawa = although. Kwa sababu = because. Kwa hiyo = so, therefore. Zaidi ya hayo = moreover. Kwa upande mwingine = on the other hand. In Nairobi you will also hear juu for 'because' (Sikuja juu nilikuwa mgonjwa), and plain sababu without kwa.",
+        "so": "Lakini = laakiin. Ingawa = inkastoo. Kwa sababu = sababtoo ah. Kwa hiyo = sidaas darteed. Zaidi ya hayo = intaas waxaa dheer. Kwa upande mwingine = dhinaca kale. Nairobi waxaad sidoo kale maqli doontaa juu oo ah 'sababtoo ah' (Sikuja juu nilikuwa mgonjwa), iyo sababu oo aan kwa lahayn."
+      },
+      "examples": [
+        { "sw": "Nilichelewa kwa sababu kulikuwa na jam.", "en": "I was late because there was traffic.", "so": "Waan soo daahay maxaa yeelay ciriiri gaadiid ayaa jiray.", "v": "standard" },
+        { "sw": "Sikuja juu nilikuwa mgonjwa.", "en": "I didn't come because I was sick.", "so": "Ma iman maxaa yeelay waan xanuunsanaa.", "v": "sheng" }
+      ]
+    },
+    {
+      "title": { "en": "Comparing: bora and afadhali", "so": "Isbarbardhig: bora iyo afadhali" },
+      "body": {
+        "en": "X ni bora kuliko Y = X is better than Y. Bora alone can mean 'best': Hii ndiyo bora. Afadhali means 'it would be better' and is followed by the subjunctive (-e ending): Afadhali tupande matatu (We'd better take a matatu). Keep discussions friendly: matatu or boda boda, town or village, Gor Mahia or Ingwe.",
+        "so": "X ni bora kuliko Y = X way ka fiican tahay Y. Bora keligeed waxay noqon kartaa 'ugu fiican': Hii ndiyo bora. Afadhali waxay la macno tahay 'waxaa fiicnaan lahayd', waxaana la socda qaabka rabitaanka (-e dhammaadka): Afadhali tupande matatu (Waxaa fiican inaan matatu raacno). Doodaha ka dhig kuwo saaxiibtinimo: matatu mise boda boda, magaalo mise tuulo, Gor Mahia mise Ingwe."
+      },
+      "examples": [
+        { "sw": "Chapati ni bora kuliko mkate.", "en": "Chapati is better than bread.", "so": "Chapati way ka fiican tahay rootiga.", "v": "standard" },
+        { "sw": "Afadhali tutembee, jam ni kubwa.", "en": "We'd better walk, the traffic is bad.", "so": "Waxaa fiican inaan lugeyno, ciriirigu waa weyn yahay.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "op.maoni", "sw": "maoni", "en": "opinion / views", "so": "aragti / fikrad", "v": "standard", "note": { "en": "Same form in singular and plural. Also 'comments', e.g. on social media.", "so": "Keli iyo wadarba isku qaab. Sidoo kale waa 'faallooyin', tusaale baraha bulshada." } },
+    { "id": "op.nadhani", "sw": "Nadhani", "en": "I think / I suppose", "so": "Waxaan u malaynayaa", "v": "standard", "syn": "think" },
+    { "id": "op.nafikiri", "sw": "Nafikiri", "en": "I think (considered view)", "so": "Waxaan qabaa / Waxaan filayaa", "v": "standard", "syn": "think", "alt": ["ninafikiri"] },
+    { "id": "op.naona-kwamba", "sw": "Naona kwamba", "en": "I feel that (lit. I see that)", "so": "Waxaan arkaa in", "v": "everyday", "syn": "think", "alt": ["naona kuwa"], "note": { "en": "Very common in Kenyan discussion: Naona kwamba bei iko juu.", "so": "Aad ayay ugu badan tahay doodaha Kenya: Naona kwamba bei iko juu (Waxaan arkaa in qiimuhu sarreeyo)." } },
+    { "id": "op.kwa-maoni-yangu", "sw": "Kwa maoni yangu", "en": "In my opinion", "so": "Aragtidayda", "v": "standard", "syn": "in-my-opinion" },
+    { "id": "op.unaonaje", "sw": "Unaonaje?", "en": "What do you think? (lit. How do you see it?)", "so": "Sidee u aragtaa?", "v": "standard", "syn": "what-do-you-think", "note": { "en": "Add kuhusu (about): Unaonaje kuhusu boda boda?", "so": "Ku dar kuhusu (ku saabsan): Unaonaje kuhusu boda boda? (Sidee u aragtaa boda boda?)" } },
+
+    { "id": "op.nakubali", "sw": "Nakubali", "en": "I agree / I accept", "so": "Waan aqbalay / Waan raacsanahay", "v": "standard", "syn": "agree" },
+    { "id": "op.nakubaliana-nawe", "sw": "Nakubaliana nawe", "en": "I agree with you", "so": "Waan kula qabaa", "v": "standard", "syn": "agree", "alt": ["nakubaliana na wewe"], "note": { "en": "Nawe is short for na wewe (with you).", "so": "Nawe waa soo gaabinta na wewe (adiga kula)." } },
+    { "id": "op.uko-sahihi", "sw": "Uko sahihi", "en": "You're right", "so": "Waad saxsan tahay", "v": "standard", "syn": "right", "note": { "en": "In casual Nairobi talk you will also hear Uko right.", "so": "Hadalka fudud ee Nairobi waxaad sidoo kale maqli doontaa Uko right." } },
+    { "id": "op.ni-kweli", "sw": "Ni kweli", "en": "That's true", "so": "Waa run", "v": "standard", "syn": "true" },
+    { "id": "op.kabisa", "sw": "Kabisa!", "en": "Absolutely! / Exactly!", "so": "Waa sax! / Dhab ahaan!", "v": "standard", "syn": "absolutely", "note": { "en": "After a negative it means 'at all': Sikubali kabisa = I don't agree at all.", "so": "Ka dib diidmo waxay la macno tahay 'haba yaraatee': Sikubali kabisa = Haba yaraatee ma aqbalo." } },
+    { "id": "op.hata-mimi", "sw": "Hata mimi naona hivyo", "en": "I think so too", "so": "Aniguna sidaas ayaan qabaa", "v": "standard", "alt": ["hata mimi nadhani hivyo"] },
+
+    { "id": "op.sikubaliani", "sw": "Sikubaliani na wewe", "en": "I don't agree with you", "so": "Kuma raacsani", "v": "standard", "syn": "disagree", "alt": ["sikubaliani nawe"] },
+    { "id": "op.sidhani-hivyo", "sw": "Sidhani hivyo", "en": "I don't think so", "so": "Uma malaynayo sidaas", "v": "standard", "syn": "disagree", "note": { "en": "A soft, polite way to disagree, fine even with elders.", "so": "Waa hab jilicsan oo edeb leh oo lagu diido, xataa waayeelka waa lagu dhihi karaa." } },
+    { "id": "op.samahani-lakini", "sw": "Samahani, lakini...", "en": "Sorry, but... (polite disagreement)", "so": "Raali ahow, laakiin...", "v": "standard", "alt": ["samahani lakini"], "say": "Samahani, lakini" },
+    { "id": "op.si-kweli", "sw": "Si kweli", "en": "That's not true", "so": "Run ma aha", "v": "standard", "syn": "untrue" },
+    { "id": "op.umekosea", "sw": "Umekosea", "en": "You're wrong (lit. you have made a mistake)", "so": "Waad khaldan tahay", "v": "standard", "note": { "en": "Direct. Fine with friends; with elders or a boss start with Samahani, lakini...", "so": "Waa toos. Saaxiibbada waa caadi; waayeelka ama maamulaha ku bilow Samahani, lakini..." } },
+    { "id": "op.kila-mtu", "sw": "Kila mtu ana maoni yake", "en": "Everyone has their own opinion", "so": "Qof walba aragtidiisa ayuu leeyahay", "v": "standard", "note": { "en": "A friendly way to end an argument without a winner.", "so": "Waa hab saaxiibtinimo oo dood lagu dhammeeyo iyadoo aan cidna guulaysan." } },
+
+    { "id": "op.lakini", "sw": "lakini", "en": "but", "so": "laakiin", "v": "standard", "syn": "but" },
+    { "id": "op.ingawa", "sw": "ingawa", "en": "although / even though", "so": "inkastoo", "v": "standard", "syn": "although", "alt": ["ingawaje"], "note": { "en": "Ingawaje is a common variant: Ingawaje ni ghali, nitanunua.", "so": "Ingawaje waa qaab kale oo caadi ah: Ingawaje ni ghali, nitanunua (Inkastoo ay qaali tahay, waan iibsan doonaa)." } },
+    { "id": "op.kwa-sababu", "sw": "kwa sababu", "en": "because", "so": "sababtoo ah / maxaa yeelay", "v": "standard", "syn": "because", "alt": ["sababu"] },
+    { "id": "op.kwa-hiyo", "sw": "kwa hiyo", "en": "so / therefore", "so": "sidaas darteed", "v": "standard", "syn": "therefore" },
+    { "id": "op.ndiyo-maana", "sw": "Ndiyo maana", "en": "That's why", "so": "Taasi waa sababta", "v": "standard", "alt": ["ndio maana"] },
+
+    { "id": "op.zaidi-ya-hayo", "sw": "zaidi ya hayo", "en": "moreover / what's more", "so": "intaas waxaa dheer", "v": "standard", "syn": "moreover" },
+    { "id": "op.kwa-upande-mwingine", "sw": "kwa upande mwingine", "en": "on the other hand", "so": "dhinaca kale", "v": "standard" },
+    { "id": "op.kwa-upande-wangu", "sw": "kwa upande wangu", "en": "for my part / as for me", "so": "dhankayga / aniga ahaan", "v": "standard", "syn": "in-my-opinion" },
+    { "id": "op.bora", "sw": "bora", "en": "better / best", "so": "ka fiican / ugu fiican", "v": "standard", "syn": "better-than" },
+    { "id": "op.bora-kuliko", "sw": "Matatu ni bora kuliko boda boda", "en": "A matatu is better than a boda boda", "so": "Matatu way ka fiican tahay boda boda", "v": "standard" },
+    { "id": "op.afadhali", "sw": "afadhali", "en": "it would be better / I'd rather", "so": "waxaa fiicnaan lahayd / intaa waxaa dhaanta", "v": "standard", "syn": "better-than", "note": { "en": "Followed by the subjunctive: Afadhali tutembee (We'd better walk).", "so": "Waxaa ku xiga qaabka rabitaanka: Afadhali tutembee (Waxaa fiican inaan lugeyno)." } },
+
+    { "id": "op.mjadala", "sw": "mjadala", "en": "debate / discussion", "so": "dood", "v": "standard", "syn": "debate", "note": { "en": "Plural mijadala. Schools hold debates in Kiswahili and English.", "so": "Wadarta waa mijadala. Dugsiyadu waxay qabtaan doodo Iswaahili iyo Ingiriis ah." } },
+    { "id": "op.kujadili", "sw": "kujadili", "en": "to discuss", "so": "ka doodid / ka wada hadlid", "v": "standard" },
+    { "id": "op.hoja", "sw": "hoja", "en": "point / argument", "so": "qodob / dood", "v": "standard", "note": { "en": "Hoja nzuri! = Good point!", "so": "Hoja nzuri! = Qodob fiican!" } },
+    { "id": "op.kutoa-maoni", "sw": "kutoa maoni", "en": "to give your opinion / to comment", "so": "fikrad dhiibasho / faallo bixin", "v": "standard" },
+    { "id": "op.kwa-ujumla", "sw": "kwa ujumla", "en": "in general / overall", "so": "guud ahaan", "v": "standard" },
+    { "id": "op.mjini-au-kijijini", "sw": "Ni bora kuishi mjini au kijijini?", "en": "Is it better to live in town or in the village?", "so": "Kee baa fiican: in magaalo lagu noolaado mise tuulo?", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "giving-opinions",
+      "title": { "en": "Saying what you think", "so": "Sheegidda waxaad qabto" },
+      "items": ["op.maoni", "op.nadhani", "op.nafikiri", "op.naona-kwamba", "op.kwa-maoni-yangu", "op.unaonaje"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Abdi, unaonaje? Tupande matatu au boda boda?", "en": "Abdi, what do you think? Shall we take a matatu or a boda boda?", "so": "Abdi, sidee u aragtaa? Matatu ma raacnaa mise boda boda?" },
+            { "who": "Abdi", "sw": "Nadhani boda boda ni haraka zaidi, kwa sababu kuna jam.", "en": "I think a boda boda is faster, because there's traffic.", "so": "Waxaan u malaynayaa in boda boda ay dheereyso, maxaa yeelay ciriiri ayaa jira." },
+            { "who": "Wanjiku", "sw": "Kwa maoni yangu, matatu ni salama zaidi. Sina kofia ya boda.", "en": "In my opinion, a matatu is safer. I don't have a boda helmet.", "so": "Aragtidayda, matatu ayaa ammaan badan. Koofiyadda boda ma haysto." },
+            { "who": "Abdi", "sw": "Sawa, tupande matatu.", "en": "Okay, let's take a matatu.", "so": "Hagaag, aan matatu raacno." }
+          ],
+          "question": { "en": "Why does Wanjiku prefer the matatu?", "so": "Maxay Wanjiku u door bidaysaa matatu?" },
+          "options": [
+            { "en": "It is cheaper", "so": "Way ka jaban tahay" },
+            { "en": "It is safer", "so": "Way ka ammaan badan tahay" },
+            { "en": "It is faster", "so": "Way ka dheereysaa" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Kwa maoni", "after": ", chapati ni tamu sana.", "options": ["nadhani", "mimi", "yangu"], "answer": 2, "meaning": { "en": "In my opinion, chapati is very tasty.", "so": "Aragtidayda, chapati aad bay u macaan tahay." } },
+        { "type": "respond", "heard": "Unaonaje kuhusu boda boda?", "options": ["Asante kwa chakula.", "Nadhani ni haraka, lakini ni hatari kidogo.", "Nimefika."], "answer": 1, "explain": { "en": "'What do you think about boda bodas?' – 'I think they're fast, but a bit dangerous.'", "so": "'Sidee u aragtaa boda boda?' – 'Waxaan u malaynayaa inay dheereeyaan, laakiin waa yara khatar.'" } }
+      ]
+    },
+    {
+      "id": "agreeing",
+      "title": { "en": "Agreeing", "so": "Raacidda" },
+      "items": ["op.nakubali", "op.nakubaliana-nawe", "op.uko-sahihi", "op.ni-kweli", "op.kabisa", "op.hata-mimi"],
+      "extra": [
+        { "type": "respond", "heard": "Nairobi kuna jam sana siku hizi.", "options": ["Sidhani, sina pesa.", "Karibu tena!", "Ni kweli kabisa! Jana nilikaa kwa jam saa mbili."], "answer": 2, "explain": { "en": "'There's a lot of traffic in Nairobi these days.' – 'Absolutely true! Yesterday I sat in traffic for two hours.'", "so": "'Nairobi ciriiri badan ayaa jira maalmahan.' – 'Waa run dhab ah! Shalay laba saacadood ayaan ciriiriga ku jiray.'" } },
+        { "type": "build", "prompt": { "en": "I agree with you", "so": "Waan kula qabaa" }, "answer": "Nakubaliana nawe", "extra": ["sidhani", "hivyo"], "accept": ["Nakubaliana na wewe"] },
+        { "type": "gap", "before": "Uko", "after": ", Mombasa kuna joto kuliko Nairobi.", "options": ["maoni", "sahihi", "hivyo"], "answer": 1, "meaning": { "en": "You're right, Mombasa is hotter than Nairobi.", "so": "Waad saxsan tahay, Mombasa way ka kulul tahay Nairobi." } }
+      ]
+    },
+    {
+      "id": "disagreeing",
+      "title": { "en": "Disagreeing politely", "so": "Diidmo edeb leh" },
+      "items": ["op.sikubaliani", "op.sidhani-hivyo", "op.samahani-lakini", "op.si-kweli", "op.umekosea", "op.kila-mtu"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Otieno", "sw": "Gor Mahia ndiyo timu bora Kenya!", "en": "Gor Mahia is the best team in Kenya!", "so": "Gor Mahia ayaa ah kooxda ugu fiican Kenya!" },
+            { "who": "Wafula", "sw": "Samahani, lakini sidhani hivyo. Ingwe ina wachezaji wazuri msimu huu.", "en": "Sorry, but I don't think so. Ingwe has good players this season.", "so": "Raali ahow, laakiin uma malaynayo sidaas. Ingwe ciyaartoy fiican ayay leedahay xilligan." },
+            { "who": "Otieno", "sw": "Umekosea, bro! Tuliwashinda kwenye mechi iliyopita.", "en": "You're wrong, bro! We beat you in the last match.", "so": "Waad khaldan tahay, saaxiib! Ciyaartii u dambaysay ayaan idinka adkaanay." },
+            { "who": "Wafula", "sw": "Ni kweli mlishinda, lakini mechi ilikuwa ngumu sana.", "en": "It's true you won, but the match was very tough.", "so": "Waa run inaad guulaysateen, laakiin ciyaartu aad bay u adkayd." },
+            { "who": "Otieno", "sw": "Sawa, kila mtu ana maoni yake. Tutaonana uwanjani!", "en": "Okay, everyone has their own opinion. See you at the stadium!", "so": "Hagaag, qof walba aragtidiisa ayuu leeyahay. Garoonka ayaan ku kulmi doonnaa!" }
+          ],
+          "question": { "en": "Which team does Wafula support?", "so": "Kooxdee ayuu Wafula taageeraa?" },
+          "options": [
+            { "en": "Gor Mahia", "so": "Gor Mahia" },
+            { "en": "Harambee Stars", "so": "Harambee Stars" },
+            { "en": "Ingwe (AFC Leopards)", "so": "Ingwe (AFC Leopards)" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Vijana wa siku hizi hawapendi kusoma vitabu.", "options": ["Samahani mzee, lakini sidhani hivyo. Wengi wanasoma kwenye simu.", "Nimeshiba, asante.", "Safari njema!"], "answer": 0, "explain": { "en": "'Young people these days don't like reading books.' A polite reply to an elder: 'Sorry sir, but I don't think so. Many read on their phones.'", "so": "'Dhallinyarada maanta ma jecla akhriska buugaagta.' Jawaab edeb leh oo waayeel loo celiyo: 'Raali ahow adeer, laakiin uma malaynayo sidaas. Qaar badan taleefannada ayay ku akhriyaan.'" } },
+        { "type": "build", "prompt": { "en": "I don't agree with you", "so": "Kuma raacsani" }, "answer": "Sikubaliani na wewe", "extra": ["nakubali", "kabisa"], "accept": ["Sikubaliani nawe"] }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title": { "en": "But, although, because", "so": "Laakiin, inkastoo, sababtoo ah" },
+      "items": ["op.lakini", "op.ingawa", "op.kwa-sababu", "op.kwa-hiyo", "op.ndiyo-maana"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Kamau goes back to the village", "so": "Kamau wuxuu ku laabtay tuulada" },
+          "lines": [
+            { "sw": "Kamau alifanya kazi Nairobi kwa miaka mitano.", "en": "Kamau worked in Nairobi for five years.", "so": "Kamau shan sano ayuu Nairobi ka shaqaynayay." },
+            { "sw": "Ingawa mshahara ulikuwa mzuri, maisha yalikuwa ghali sana.", "en": "Although the salary was good, life was very expensive.", "so": "Inkastoo mushaharku fiicnaa, noloshu aad bay qaali u ahayd." },
+            { "sw": "Kodi ilipanda kila mwaka, na alikaa kwa jam kila asubuhi.", "en": "The rent went up every year, and he sat in traffic every morning.", "so": "Kiradu sannad walba way kordhaysay, subax kastana ciriiriga gaadiidka ayuu ku jiri jiray." },
+            { "sw": "Kwa hiyo, mwaka jana aliamua kurudi kijijini karibu na Nyeri.", "en": "So last year he decided to go back to his village near Nyeri.", "so": "Sidaas darteed, sannadkii hore wuxuu go'aansaday inuu ku laabto tuuladiisa u dhow Nyeri." },
+            { "sw": "Sasa analima viazi na anafuga ng'ombe watatu.", "en": "Now he grows potatoes and keeps three cows.", "so": "Hadda baradho ayuu beertaa, saddex sacood ayuuna dhaqdaa." },
+            { "sw": "Maisha ni rahisi zaidi kwa sababu hanunui mboga wala maziwa.", "en": "Life is easier because he doesn't buy vegetables or milk.", "so": "Noloshu way fududahay maxaa yeelay khudaar iyo caano midna ma iibsado." },
+            { "sw": "Lakini anawakosa marafiki zake wa mjini na intaneti ya haraka.", "en": "But he misses his friends in town and fast internet.", "so": "Laakiin wuxuu u xiisay saaxiibbadiisii magaalada iyo internet dheereeya." },
+            { "who": "Kamau", "sw": "Kwa maoni yangu, kijiji ni bora kwa familia, lakini mji ni bora kwa vijana.", "en": "In my opinion, the village is better for a family, but town is better for young people.", "so": "Aragtidayda, tuuladu way u fiican tahay qoyska, laakiin magaaladu way u fiican tahay dhallinyarada." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Why did Kamau leave Nairobi?", "so": "Maxaa Kamau uga tagay Nairobi?" },
+              "options": [
+                { "en": "He lost his job", "so": "Shaqadiisii ayuu waayay" },
+                { "en": "Life was very expensive", "so": "Noloshu aad bay qaali u ahayd" },
+                { "en": "His parents were sick", "so": "Waalidkiis ayaa jiran" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What does Kamau miss from town?", "so": "Maxaa Kamau ka xiiseeyaa magaalada?" },
+              "options": [
+                { "en": "The matatus and the noise", "so": "Matatu-yada iyo buuqa" },
+                { "en": "His old boss", "so": "Maamulihiisii hore" },
+                { "en": "His friends and fast internet", "so": "Saaxiibbadiis iyo internet dheereeya" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "gap", "before": "Nilichelewa", "after": " kulikuwa na jam.", "options": ["ingawa", "kwa sababu", "kwa hiyo"], "answer": 1, "meaning": { "en": "I was late because there was traffic.", "so": "Waan soo daahay maxaa yeelay ciriiri ayaa jiray." } },
+        { "type": "gap", "before": "Mvua ilinyesha sana,", "after": " hatukwenda sokoni.", "options": ["kwa hiyo", "ingawa", "kwa sababu"], "answer": 0, "meaning": { "en": "It rained heavily, so we didn't go to the market.", "so": "Roob culus ayaa da'ay, sidaas darteed suuqa ma aanaan tagin." } }
+      ]
+    },
+    {
+      "id": "comparing",
+      "title": { "en": "Comparing and weighing up", "so": "Isbarbardhig iyo miisaamid" },
+      "items": ["op.zaidi-ya-hayo", "op.kwa-upande-mwingine", "op.kwa-upande-wangu", "op.bora", "op.bora-kuliko", "op.afadhali"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mwanaisha", "sw": "Farah, ni bora kuishi Nairobi au Garissa?", "en": "Farah, is it better to live in Nairobi or Garissa?", "so": "Farah, kee baa fiican in lagu noolaado: Nairobi mise Garissa?" },
+            { "who": "Farah", "sw": "Kwa upande wangu, Nairobi ni bora kwa kazi.", "en": "For my part, Nairobi is better for work.", "so": "Dhankayga, Nairobi ayaa shaqada u fiican." },
+            { "who": "Mwanaisha", "sw": "Ni kweli, lakini maisha ni ghali sana huko.", "en": "That's true, but life is very expensive there.", "so": "Waa run, laakiin noloshu aad bay halkaas qaali ugu tahay." },
+            { "who": "Farah", "sw": "Kwa upande mwingine, Garissa ni tulivu. Zaidi ya hayo, familia yangu iko huko.", "en": "On the other hand, Garissa is calm. What's more, my family is there.", "so": "Dhinaca kale, Garissa way degan tahay. Intaas waxaa dheer, qoyskaygu halkaas ayuu joogaa." },
+            { "who": "Mwanaisha", "sw": "Basi afadhali ufanye kazi Nairobi na utembelee familia mara kwa mara.", "en": "Then you'd better work in Nairobi and visit your family often.", "so": "Haddaba waxaa fiican inaad Nairobi ka shaqayso oo qoyskaaga marar badan booqato." }
+          ],
+          "question": { "en": "What does Mwanaisha advise Farah?", "so": "Maxay Mwanaisha kula talisay Farah?" },
+          "options": [
+            { "en": "Work in Nairobi and visit his family often", "so": "Inuu Nairobi ka shaqeeyo oo qoyskiisa marar badan booqdo" },
+            { "en": "Move his family to Nairobi", "so": "Inuu qoyskiisa Nairobi u raro" },
+            { "en": "Stop working and go home", "so": "Inuu shaqada joojiyo oo guriga aado" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "A matatu is better than a boda boda", "so": "Matatu way ka fiican tahay boda boda" }, "answer": "Matatu ni bora kuliko boda boda", "extra": ["afadhali", "zaidi"] },
+        { "type": "respond", "heard": "Twende kwa miguu au tupande matatu?", "options": ["Sikubaliani na wewe.", "Kila mtu ana maoni yake.", "Afadhali tupande matatu, mvua inanyesha."], "answer": 2, "explain": { "en": "'Shall we walk or take a matatu?' – 'We'd better take a matatu, it's raining.'", "so": "'Ma lugeynaa mise matatu ayaan raacnaa?' – 'Waxaa fiican inaan matatu raacno, roob ayaa da'aya.'" } }
+      ]
+    },
+    {
+      "id": "discussion",
+      "title": { "en": "Taking part in a discussion", "so": "Ka qaybgalka dood" },
+      "items": ["op.mjadala", "op.kujadili", "op.hoja", "op.kutoa-maoni", "op.kwa-ujumla", "op.mjini-au-kijijini"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "The school debate", "so": "Doodda dugsiga" },
+          "lines": [
+            { "sw": "Siku ya Ijumaa, shule ya upili mjini Garissa ilikuwa na mjadala.", "en": "On Friday, a secondary school in Garissa town held a debate.", "so": "Maalintii Jimcaha, dugsi sare oo ku yaal magaalada Garissa ayaa dood qabtay." },
+            { "sw": "Mada ilikuwa: Kuishi mjini ni bora kuliko kuishi kijijini.", "en": "The topic was: Living in town is better than living in the village.", "so": "Mawduucu wuxuu ahaa: Ku noolaanshaha magaalada ayaa ka fiican ku noolaanshaha tuulada." },
+            { "who": "Amina", "sw": "Kwa maoni yangu, mji una hospitali nzuri na kazi nyingi zaidi.", "en": "In my opinion, town has good hospitals and more jobs.", "so": "Aragtidayda, magaaladu waxay leedahay isbitaallo fiican iyo shaqooyin badan." },
+            { "who": "Amina", "sw": "Zaidi ya hayo, vijana wanaweza kusoma chuo kikuu karibu na nyumbani.", "en": "What's more, young people can study at university near home.", "so": "Intaas waxaa dheer, dhallinyaradu waxay jaamacad ka dhigan karaan meel guriga u dhow." },
+            { "who": "Abdi", "sw": "Samahani, lakini sikubaliani na hoja hiyo.", "en": "Sorry, but I don't agree with that point.", "so": "Raali ahow, laakiin kuma raacsani qodobkaas." },
+            { "who": "Abdi", "sw": "Kijijini, chakula ni rahisi na watu wanasaidiana.", "en": "In the village, food is cheap and people help each other.", "so": "Tuulada, cuntadu way jaban tahay, dadkuna way is caawiyaan." },
+            { "who": "Abdi", "sw": "Kwa upande mwingine, mjini kila kitu kinanunuliwa, hata maji.", "en": "On the other hand, in town everything is bought, even water.", "so": "Dhinaca kale, magaalada wax walba waa la iibsadaa, xataa biyaha." },
+            { "sw": "Mwishowe, mwalimu alisema kwamba timu zote mbili zilitoa hoja nzuri.", "en": "In the end, the teacher said that both teams made good points.", "so": "Ugu dambayn, macallinku wuxuu yiri labada kooxoodba qodobbo fiican ayay keeneen." },
+            { "sw": "Kwa ujumla, wanafunzi walifurahia mjadala huo sana.", "en": "Overall, the students really enjoyed that debate.", "so": "Guud ahaan, ardaydu aad bay ugu raaxaysteen doodaas." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What was Amina's first point?", "so": "Muxuu ahaa qodobka koowaad ee Amina?" },
+              "options": [
+                { "en": "Food in town is cheap", "so": "Cuntada magaaladu way jaban tahay" },
+                { "en": "Town has good hospitals and more jobs", "so": "Magaaladu waxay leedahay isbitaallo fiican iyo shaqooyin badan" },
+                { "en": "People in town help each other", "so": "Dadka magaaladu way is caawiyaan" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "According to Abdi, what do people in town even have to buy?", "so": "Sida uu Abdi sheegay, maxay dadka magaaladu xataa iibsadaan?" },
+              "options": [
+                { "en": "Water", "so": "Biyo" },
+                { "en": "Books", "so": "Buugaag" },
+                { "en": "Phones", "so": "Taleefanno" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What did the teacher say?", "so": "Maxuu macallinku yiri?" },
+              "options": [
+                { "en": "Amina's team won", "so": "Kooxda Amina ayaa guulaysatay" },
+                { "en": "The debate was too long", "so": "Doodu aad bay u dheerayd" },
+                { "en": "Both teams made good points", "so": "Labada kooxoodba qodobbo fiican ayay keeneen" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Ungependa kutoa maoni yako kuhusu mjadala huu?", "options": ["Ndiyo. Kwa ujumla, nadhani hoja zote zilikuwa nzuri.", "Hapana, nimeshiba.", "Tukutane saa nane."], "answer": 0, "explain": { "en": "'Would you like to give your opinion on this debate?' – 'Yes. Overall, I think all the points were good.'", "so": "'Ma jeclaan lahayd inaad fikraddaada ka dhiibato doodan?' – 'Haa. Guud ahaan, waxaan u malaynayaa in qodobbada oo dhammi fiicnaayeen.'" } },
+        { "type": "gap", "before": "Kwa", "after": ", mjadala ulikuwa mzuri sana.", "options": ["hoja", "ujumla", "mjadala"], "answer": 1, "meaning": { "en": "Overall, the debate was very good.", "so": "Guud ahaan, doodu aad bay u fiicnayd." } }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,14 @@
 {
   "name": "sema-kenya",
   "private": true,
+  "license": "SEE LICENSE IN LICENSE",
   "version": "0.1.0",
   "description": "Sema Kenya Language Platform - learn Kenyan Swahili (Kiswahili cha Kenya) with English and Somali explanations",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "validate": "node scripts/validate-content.mjs",
+    "audio": "node scripts/make-audio.mjs",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "build": "npm run validate && tsc --noEmit && vite build",

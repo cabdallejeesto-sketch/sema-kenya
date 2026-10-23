@@ -1,0 +1,241 @@
+{
+  "id": "safari",
+  "order": 18,
+  "level": "A2",
+  "color": "#a16207",
+  "reviewed": false,
+  "title": { "en": "Safari & Tourism", "so": "Safarka iyo Dalxiiska" },
+  "swTitle": "Safari na Utalii",
+  "description": {
+    "en": "Name Kenya's famous animals, go on a game drive, book a room, enjoy the beach and buy souvenirs.",
+    "so": "Baro magacyada xayawaanka caanka ah ee Kenya, u bax daawashada duurjoogta, qol ballanso, ku raaxayso xeebta oo iibso hadiyado."
+  },
+  "goals": ["travel"],
+  "guide": [
+    {
+      "title": { "en": "Kenya's famous parks", "so": "Keydadka duurjoogta ee caanka ah" },
+      "body": {
+        "en": "A mbuga ya wanyama is a national park or game reserve. Maasai Mara is famous for the great migration (July to October). Amboseli has big elephant herds below Kilimanjaro. Tsavo is the largest park, with red-dusted elephants. Nairobi National Park sits right next to the city, so you can see rhinos with tall buildings behind them.",
+        "so": "Mbuga ya wanyama waa keyd qaran ama keyd duurjoog. Maasai Mara waxay caan ku tahay socdaalka weyn ee xayawaanka (Luulyo ilaa Oktoobar). Amboseli waxaa jooga maroodiyaal badan oo hoos jooga buurta Kilimanjaro. Tsavo waa keydka ugu weyn, waxaana jooga maroodiyaal ciid casaan ah ku daboolan. Nairobi National Park waxay ku taal magaalada agteeda, sidaas darteed waxaad arki kartaa wiyillo ay dhismayaal dhaadheer gadaashooda ka muuqdaan."
+      },
+      "examples": [
+        { "sw": "Tunaenda Maasai Mara kesho asubuhi.", "en": "We're going to the Maasai Mara tomorrow morning.", "so": "Berri subax ayaan aadaynaa Maasai Mara.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Animals and grammar", "so": "Xayawaanka iyo naxwaha" },
+      "body": {
+        "en": "Most animal names stay the same in the plural: simba mmoja, simba wawili. Names that start with ki- change to vi-: kifaru, vifaru. Animals take the same agreement as people: Simba yuko wapi? Tembo ni mkubwa. The Big Five are simba, tembo, kifaru, nyati and chui.",
+        "so": "Magacyada xayawaanka badankood isma beddelaan marka ay wadar noqdaan: simba mmoja, simba wawili. Magacyada ku bilaabma ki- waxay noqdaan vi-: kifaru, vifaru. Xayawaanku waxay qaataan isla isu-waafajinta dadka: Simba yuko wapi? Tembo ni mkubwa. Shanta Waaweyn (Big Five) waa simba, tembo, kifaru, nyati iyo chui."
+      },
+      "examples": [
+        { "sw": "Tuliona simba watatu na tembo wengi.", "en": "We saw three lions and many elephants.", "so": "Waxaan aragnay saddex libaax iyo maroodiyaal badan.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Jambo, Hakuna matata and pole pole", "so": "Jambo, Hakuna matata iyo pole pole" },
+      "body": {
+        "en": "Visitors learn Jambo and Hakuna matata first, but these are mostly tourist-industry Swahili. Kenyans greet each other with Habari, Sasa or Hujambo, and say Hakuna shida or Sawa for 'no problem'. One phrase you will hear from every guide is pole pole, slowly: drive slowly, walk slowly, take it easy.",
+        "so": "Booqdayaashu marka hore waxay bartaan Jambo iyo Hakuna matata, laakiin kuwani badanaa waa Sawaaxiliga warshadaha dalxiiska. Kenyaanku waxay isku salaamaan Habari, Sasa ama Hujambo, 'dhib ma leh'-na waxay ku yiraahdaan Hakuna shida ama Sawa. Weedh aad ka maqli doonto hage kasta waa pole pole, tartiib: tartiib u wad, tartiib u soco, iska deji."
+      },
+      "examples": [
+        { "sw": "Pole pole, tutawaona wanyama wote.", "en": "Slowly, we'll see all the animals.", "so": "Tartiib, xayawaanka oo dhan waan arki doonnaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "English in Kenyan tourism", "so": "Ingiriisiga dalxiiska Kenya" },
+      "body": {
+        "en": "Tourism Swahili mixes in English: kubook chumba (book a room), lodge, game drive, beach. The formal words are kuhifadhi (reserve) and ufuo (beach). Both are understood everywhere.",
+        "so": "Sawaaxiliga dalxiisku wuxuu ku daraa Ingiriisi: kubook chumba (qol ballanso), lodge, game drive, beach. Erayada rasmiga ah waa kuhifadhi (ballansasho) iyo ufuo (xeeb). Labadaba meel kasta waa laga fahmaa."
+      },
+      "examples": [
+        { "sw": "Nataka kuhifadhi chumba kwa wikendi.", "en": "I'd like to reserve a room for the weekend.", "so": "Waxaan rabaa inaan qol u ballansado dhammaadka toddobaadka.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "sf.mnyama", "sw": "mnyama", "en": "animal", "so": "xayawaan", "v": "standard", "note": { "en": "Plural: wanyama. Wanyama pori = wild animals.", "so": "Wadarta: wanyama. Wanyama pori = duurjoog (xayawaanka duurka)." } },
+    { "id": "sf.simba", "sw": "simba", "en": "lion", "so": "libaax", "v": "standard", "note": { "en": "Same in the plural: simba wawili = two lions.", "so": "Wadartuna waa isku mid: simba wawili = laba libaax." } },
+    { "id": "sf.tembo", "sw": "tembo", "en": "elephant", "so": "maroodi", "v": "standard", "alt": ["ndovu"], "note": { "en": "Ndovu is another word for elephant.", "so": "Ndovu waa eray kale oo maroodi ah." } },
+    { "id": "sf.twiga", "sw": "twiga", "en": "giraffe", "so": "geri", "v": "standard" },
+    { "id": "sf.kifaru", "sw": "kifaru", "en": "rhino", "so": "wiyil", "v": "standard", "note": { "en": "Plural: vifaru.", "so": "Wadarta: vifaru." } },
+    { "id": "sf.nyati", "sw": "nyati", "en": "buffalo", "so": "jaamuus", "v": "standard", "alt": ["mbogo"], "note": { "en": "Also called mbogo. One of the Big Five, and very dangerous.", "so": "Sidoo kale waxaa loo yaqaan mbogo. Waa mid ka mid ah Shanta Waaweyn, aadna waa khatar." } },
+    { "id": "sf.chui", "sw": "chui", "en": "leopard", "so": "shabeel", "v": "standard", "note": { "en": "Not the cheetah, which is duma.", "so": "Ma aha haramcadka, kaas oo la yiraahdo duma." } },
+
+    { "id": "sf.punda-milia", "sw": "punda milia", "en": "zebra", "so": "dameer-farow", "v": "standard", "alt": ["pundamilia"], "note": { "en": "Literally 'striped donkey': punda = donkey.", "so": "Macnaha: 'dameer xariijimo leh': punda = dameer." } },
+    { "id": "sf.kiboko", "sw": "kiboko", "en": "hippo", "so": "jeer", "v": "standard", "note": { "en": "Plural: viboko. In slang, kiboko yao means 'the best of them all'.", "so": "Wadarta: viboko. Luuqadda waddada, kiboko yao waxay ka dhigan tahay 'kan dhammaantood ka fiican'." } },
+    { "id": "sf.mamba", "sw": "mamba", "en": "crocodile", "so": "yaxaas", "v": "standard", "note": { "en": "In Swahili mamba is a crocodile, not the snake.", "so": "Sawaaxiliga, mamba waa yaxaas, ma aha mas." } },
+    { "id": "sf.nyani", "sw": "nyani", "en": "baboon", "so": "daanyeer (nooca waaweyn)", "v": "standard", "note": { "en": "A small monkey is tumbili.", "so": "Daanyeerka yar waa tumbili." } },
+    { "id": "sf.fisi", "sw": "fisi", "en": "hyena", "so": "waraabe", "v": "standard" },
+    { "id": "sf.swala", "sw": "swala", "en": "gazelle / antelope", "so": "deero (cawl)", "v": "standard", "note": { "en": "swala pala = impala, swala tomi = Thomson's gazelle.", "so": "swala pala = impala, swala tomi = deerada Thomson." } },
+
+    { "id": "sf.mbuga", "sw": "mbuga ya wanyama", "en": "national park / game reserve", "so": "keydka duurjoogta (beerta qaranka)", "v": "standard", "alt": ["mbuga"], "note": { "en": "The famous ones: Maasai Mara, Amboseli, Tsavo and Nairobi National Park.", "so": "Kuwa caanka ah: Maasai Mara, Amboseli, Tsavo iyo Nairobi National Park." } },
+    { "id": "sf.game-drive", "sw": "game drive", "en": "game drive", "so": "wareeg baabuur oo duurjoogta lagu daawado", "v": "everyday", "say": "geim draiv", "note": { "en": "Kenyans use the English term. Early morning and late afternoon are best.", "so": "Kenyaanku waxay isticmaalaan erayga Ingiriisiga. Subaxa hore iyo galabta dambe ayaa ugu fiican." } },
+    { "id": "sf.mwongozaji", "sw": "mwongozaji", "en": "guide (person)", "so": "hage (hagaha dalxiiska)", "v": "standard", "alt": ["guide", "mwongozaji wa watalii"], "note": { "en": "Most Kenyans just say guide. Mwongozo means guidance or guidelines, not a person.", "so": "Kenyaanka badankood waxay si fudud u yiraahdaan guide. Mwongozo waa hanuunin ama tilmaamo, ma aha qof." } },
+    { "id": "sf.angalia", "sw": "Angalia!", "en": "Look!", "so": "Eeg!", "v": "standard", "syn": "look", "alt": ["tazama"], "note": { "en": "Tazama is a more formal 'look'. In Sheng: Cheki!", "so": "Tazama waa 'eeg' ka rasmisan. Sheng-ga: Cheki!" } },
+    { "id": "sf.piga-picha", "sw": "piga picha", "en": "take a photo", "so": "sawir qaad", "v": "standard", "note": { "en": "Unaweza kunipiga picha? = Can you take my photo? Always ask before photographing people.", "so": "Unaweza kunipiga picha? = Ma i sawiri kartaa? Marwalba weydii ka hor intaadan dadka sawirin." } },
+    { "id": "sf.usishuke", "sw": "Usishuke kwenye gari", "en": "Don't get out of the vehicle", "so": "Baabuurka ha ka degin", "v": "standard", "note": { "en": "The first rule in any park. Usi- + verb ending in -e = don't.", "so": "Sharciga koowaad ee keyd kasta. Usi- + fal ku dhammaada -e = ha (diidmo)." } },
+
+    { "id": "sf.nataka-kubook", "sw": "Nataka kubook chumba", "en": "I want to book a room", "so": "Waxaan rabaa inaan qol ballansado", "v": "everyday", "say": "Nataka kubuk chumba", "tz": "Nataka kuhifadhi chumba", "alt": ["nataka kuhifadhi chumba", "nataka kubuk chumba"] },
+    { "id": "sf.kuna-nafasi", "sw": "Kuna nafasi?", "en": "Is there a vacancy? (any room)", "so": "Boos bannaan ma jiraa?", "v": "standard", "note": { "en": "Nafasi = space, room, chance.", "so": "Nafasi = boos, meel bannaan, fursad." } },
+    { "id": "sf.usiku-mmoja", "sw": "Ni pesa ngapi kwa usiku mmoja?", "en": "How much is it per night?", "so": "Habeenkii waa immisa?", "v": "everyday", "syn": "price", "alt": ["bei gani kwa usiku mmoja"] },
+    { "id": "sf.kambi", "sw": "kambi", "en": "camp / tented camp", "so": "kaam (teendhooyin)", "v": "standard" },
+    { "id": "sf.lodge", "sw": "lodge", "en": "safari lodge", "so": "hudheel duurka ku yaal (lodge)", "v": "everyday", "say": "loji", "alt": ["loji"] },
+    { "id": "sf.mapokezi", "sw": "mapokezi", "en": "reception (desk)", "so": "qaybta soo dhaweynta", "v": "standard", "alt": ["reception"], "note": { "en": "Many hotels just say reception.", "so": "Hudheello badan waxay si fudud u yiraahdaan reception." } },
+
+    { "id": "sf.ufuo", "sw": "ufuo", "en": "beach", "so": "xeebta (meesha lagu dabbaasho)", "v": "standard", "syn": "beach", "tz": "ufukwe", "alt": ["beach", "ufukwe"], "note": { "en": "Everyday Kenyans just say beach: Twende beach! Diani, Nyali and Malindi have famous beaches.", "so": "Kenyaanku maalin walba waxay si fudud u yiraahdaan beach: Twende beach! Diani, Nyali iyo Malindi waxay leeyihiin xeebo caan ah." } },
+    { "id": "sf.mchanga", "sw": "mchanga", "en": "sand", "so": "ciid (cammuud)", "v": "standard" },
+    { "id": "sf.mawimbi", "sw": "mawimbi", "en": "waves", "so": "hirar", "v": "standard", "note": { "en": "One wave is wimbi.", "so": "Hal hir waa wimbi." } },
+    { "id": "sf.twende-kuogelea", "sw": "Twende kuogelea!", "en": "Let's go swimming!", "so": "Kaalay aan dabbaalanno!", "v": "standard" },
+    { "id": "sf.ni-salama", "sw": "Ni salama kuogelea hapa?", "en": "Is it safe to swim here?", "so": "Ma ammaan baa in halkan lagu dabbaasho?", "v": "standard" },
+
+    { "id": "sf.zawadi", "sw": "zawadi", "en": "gift / souvenir", "so": "hadiyad", "v": "standard", "syn": "gift", "note": { "en": "Zawadi is also a popular girl's name.", "so": "Zawadi sidoo kale waa magac gabdheed oo caan ah." } },
+    { "id": "sf.vinyago", "sw": "vinyago", "en": "wood carvings", "so": "farshaxan alwaax laga qoray", "v": "standard", "note": { "en": "One carving or mask is kinyago.", "so": "Hal farshaxan ama waji-xir waa kinyago." } },
+    { "id": "sf.shanga", "sw": "shanga", "en": "beads / beadwork", "so": "kuul", "v": "standard", "note": { "en": "Maasai beadwork is a favourite souvenir.", "so": "Kuulka Maasaay waa hadiyad aad loo jecel yahay." } },
+    { "id": "sf.kiondo", "sw": "kiondo", "en": "woven sisal basket", "so": "dambiil la tolay (kiondo)", "v": "everyday", "note": { "en": "A famous Kenyan basket-bag. Plural: viondo.", "so": "Dambiil-shandad caan ah oo Kenya ah. Wadarta: viondo." } },
+    { "id": "sf.mkono", "sw": "Hii imetengenezwa kwa mkono?", "en": "Is this handmade?", "so": "Tan ma gacan baa lagu sameeyay?", "v": "standard" },
+
+    { "id": "sf.jambo", "sw": "Jambo!", "en": "Hello! (tourist greeting)", "so": "Iska warran! (salaanta dalxiisayaasha)", "v": "everyday", "syn": "hello", "note": { "en": "Short for Hujambo. Hotels and guides say it to visitors; Kenyans greet each other with Habari, Sasa or Hujambo.", "so": "Waa soo gaabinta Hujambo. Hudheellada iyo hagayaashu waxay ku salaamaan booqdayaasha; Kenyaanku waxay isku salaamaan Habari, Sasa ama Hujambo." } },
+    { "id": "sf.hakuna-matata", "sw": "Hakuna matata", "en": "No problem / no worries", "so": "Dhib ma leh", "v": "everyday", "syn": "no-problem", "note": { "en": "Famous with tourists and in films, but Kenyans rarely say it. You will hear Hakuna shida or just Sawa.", "so": "Dalxiisayaasha iyo filimada ayay ku caan tahay, laakiin Kenyaanku dhif bay yiraahdaan. Waxaad maqli doontaa Hakuna shida ama Sawa keliya." } },
+    { "id": "sf.mtalii", "sw": "mtalii", "en": "tourist", "so": "dalxiise", "v": "standard", "syn": "tourist", "note": { "en": "Plural: watalii.", "so": "Wadarta: watalii." } },
+    { "id": "sf.utalii", "sw": "utalii", "en": "tourism", "so": "dalxiis", "v": "standard" },
+    { "id": "sf.karibu-tena", "sw": "Karibu tena!", "en": "Come again! / Welcome back!", "so": "Mar kale soo noqo!", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "big-five",
+      "title": { "en": "The Big Five", "so": "Shanta Waaweyn" },
+      "items": ["sf.mnyama", "sf.simba", "sf.tembo", "sf.twiga", "sf.kifaru", "sf.nyati", "sf.chui"],
+      "extra": [
+        { "type": "gap", "before": "Tembo ni mnyama", "after": " sana.", "options": ["haraka", "mkubwa", "jana"], "answer": 1, "meaning": { "en": "The elephant is a very big animal.", "so": "Maroodigu waa xayawaan aad u weyn." } },
+        { "type": "respond", "heard": "Twiga yuko wapi?", "options": ["Nimeshiba.", "Ni shilingi mia.", "Yuko pale, karibu na mti."], "answer": 2, "explain": { "en": "'Where is the giraffe?' – 'It's over there, near the tree.' Animals take yuko, like people.", "so": "'Gerigu xaggee buu joogaa?' – 'Halkaas ayuu joogaa, geedka agtiisa.' Xayawaanku waxay qaataan yuko, sida dadka." } },
+        { "type": "build", "prompt": { "en": "I want to see a lion", "so": "Waxaan rabaa inaan libaax arko" }, "answer": "Nataka kuona simba", "extra": ["tembo", "twiga"] }
+      ]
+    },
+    {
+      "id": "more-animals",
+      "title": { "en": "More animals", "so": "Xayawaan kale" },
+      "items": ["sf.punda-milia", "sf.kiboko", "sf.mamba", "sf.nyani", "sf.fisi", "sf.swala"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Chebet, yule ni punda?", "en": "Chebet, is that a donkey?", "so": "Chebet, kaasi ma dameer baa?" },
+            { "who": "Chebet", "sw": "Hapana! Ni punda milia. Ana mistari.", "en": "No! It's a zebra. It has stripes.", "so": "Maya! Waa dameer-farow. Xariijimo ayuu leeyahay." },
+            { "who": "Abdi", "sw": "Na wale ndani ya maji?", "en": "And those in the water?", "so": "Kuwaasna biyaha ku jira?" },
+            { "who": "Chebet", "sw": "Wale ni viboko. Kuwa makini, pia kuna mamba!", "en": "Those are hippos. Be careful, there are crocodiles too!", "so": "Kuwaasi waa jeerar. Iska jir, yaxaasyona way joogaan!" }
+          ],
+          "question": { "en": "What animals are in the water?", "so": "Xayawaankee ayaa biyaha ku jira?" },
+          "options": [
+            { "en": "Hippos and crocodiles", "so": "Jeerar iyo yaxaasyo" },
+            { "en": "Zebras", "so": "Dameer-farow" },
+            { "en": "Lions", "so": "Libaaxyo" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Usiache chakula nje,", "after": " wataiba!", "options": ["swala", "nyani", "mamba"], "answer": 1, "meaning": { "en": "Don't leave food outside, the baboons will steal it!", "so": "Cunto bannaanka ha uga tagin, daanyeerradu way xadi doonaan!" } },
+        { "type": "build", "prompt": { "en": "There are many zebras here", "so": "Halkan dameer-farow badan baa jooga" }, "answer": "Kuna punda milia wengi hapa", "extra": ["simba", "mmoja"] }
+      ]
+    },
+    {
+      "id": "game-drive",
+      "title": { "en": "On a game drive", "so": "Daawashada duurjoogta" },
+      "items": ["sf.mbuga", "sf.game-drive", "sf.mwongozaji", "sf.angalia", "sf.piga-picha", "sf.usishuke"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kiprotich", "sw": "Habari ya asubuhi! Leo tunaenda kuona wanyama Maasai Mara.", "en": "Good morning! Today we're going to see animals in the Maasai Mara.", "so": "Subax wanaagsan! Maanta waxaan u soconnaa inaan xayawaanka ku daawanno Maasai Mara." },
+            { "who": "Amina", "sw": "Tutaona simba?", "en": "Will we see lions?", "so": "Libaaxyo ma arki doonnaa?" },
+            { "who": "Kiprotich", "sw": "Natumaini. Angalia pale! Chui yuko juu ya mti.", "en": "I hope so. Look over there! There's a leopard up in the tree.", "so": "Waan rajaynayaa. Halkaas eeg! Shabeel baa geedka korkiisa saaran." },
+            { "who": "Amina", "sw": "Lo! Ngoja nipige picha.", "en": "Wow! Wait, let me take a photo.", "so": "Waa yaab! Sug, aan sawir qaado." }
+          ],
+          "question": { "en": "What animal do they see in the tree?", "so": "Xayawaankee ayay geedka ku arkeen?" },
+          "options": [
+            { "en": "A lion", "so": "Libaax" },
+            { "en": "An elephant", "so": "Maroodi" },
+            { "en": "A leopard", "so": "Shabeel" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Tafadhali, usishuke kwenye gari. Kuna simba karibu.", "options": ["Asante kwa chakula.", "Sawa, nitabaki ndani.", "Nashuka hapa."], "answer": 1, "explain": { "en": "'Please don't get out of the vehicle. There are lions nearby.' – 'Okay, I'll stay inside.'", "so": "'Fadlan baabuurka ha ka degin. Libaaxyo ayaa u dhow.' – 'Hagaag, gudaha ayaan joogi doonaa.'" } },
+        { "type": "gap", "before": "Unaweza kunipiga", "after": " na twiga?", "options": ["picha", "nauli", "mvua"], "answer": 0, "meaning": { "en": "Can you take my photo with the giraffe?", "so": "Ma i sawiri kartaa anigoo geriga la jooga?" } }
+      ]
+    },
+    {
+      "id": "booking",
+      "goals": ["travel"],
+      "title": { "en": "Booking a room", "so": "Qol ballansasho" },
+      "items": ["sf.nataka-kubook", "sf.kuna-nafasi", "sf.usiku-mmoja", "sf.kambi", "sf.lodge", "sf.mapokezi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Farah", "sw": "Habari. Kuna nafasi wikendi hii?", "en": "Hello. Is there a room this weekend?", "so": "Iska warran. Boos bannaan ma jiraa dhammaadka toddobaadkan?" },
+            { "who": "Mhudumu", "sw": "Ndiyo, kuna chumba kimoja tu.", "en": "Yes, there's just one room.", "so": "Haa, hal qol oo keliya ayaa jira." },
+            { "who": "Farah", "sw": "Ni pesa ngapi kwa usiku mmoja?", "en": "How much is it per night?", "so": "Habeenkii waa immisa?" },
+            { "who": "Mhudumu", "sw": "Elfu nane, pamoja na chakula.", "en": "Eight thousand, including meals.", "so": "Siddeed kun, cuntada oo ku jirta." },
+            { "who": "Farah", "sw": "Sawa, nitakichukua.", "en": "Okay, I'll take it.", "so": "Hagaag, waan qaadanayaa." }
+          ],
+          "question": { "en": "How much is one night?", "so": "Hal habeen waa immisa?" },
+          "options": [
+            { "en": "8,000 shillings, with meals", "so": "8,000 shilin, cuntada oo ku jirta" },
+            { "en": "8,000 shillings, without meals", "so": "8,000 shilin, cunto la'aan" },
+            { "en": "800 shillings", "so": "800 shilin" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Habari, hapa ni mapokezi. Nikusaidie aje?", "options": ["Pole sana.", "Nataka chumba kwa usiku mmoja.", "Simama!"], "answer": 1, "explain": { "en": "'Hello, this is reception. How can I help you?' – 'I want a room for one night.'", "so": "'Iska warran, halkan waa qaybta soo dhaweynta. Sideen kuu caawiyaa?' – 'Qol hal habeen ah ayaan rabaa.'" } },
+        { "type": "build", "prompt": { "en": "Is there a room tonight?", "so": "Caawa boos bannaan ma jiraa?" }, "answer": "Kuna nafasi leo usiku", "extra": ["kesho", "kambi"], "accept": ["Leo usiku kuna nafasi"] }
+      ]
+    },
+    {
+      "id": "beach",
+      "goals": ["travel"],
+      "title": { "en": "At the beach", "so": "Xeebta" },
+      "items": ["sf.ufuo", "sf.mchanga", "sf.mawimbi", "sf.twende-kuogelea", "sf.ni-salama"],
+      "extra": [
+        { "type": "respond", "heard": "Twende kuogelea!", "options": ["Sawa! Ngoja nichukue taulo.", "Usiku mwema.", "Nimeshiba."], "answer": 0, "explain": { "en": "'Let's go swimming!' – 'Okay! Let me grab a towel.'", "so": "'Kaalay aan dabbaalanno!' – 'Hagaag! Aan shukumaan soo qaato.'" } },
+        { "type": "gap", "before": "Leo kuna", "after": " makubwa, si salama kuogelea.", "options": ["mchanga", "shanga", "mawimbi"], "answer": 2, "meaning": { "en": "Today there are big waves; it's not safe to swim.", "so": "Maanta hirar waaweyn baa jira; dabbaashu ammaan ma aha." } },
+        { "type": "build", "prompt": { "en": "Let's go to the beach tomorrow", "so": "Berri aan xeebta aadno" }, "answer": "Twende ufuoni kesho", "extra": ["mchanga", "leo"], "accept": ["Kesho twende ufuoni"] }
+      ]
+    },
+    {
+      "id": "souvenirs",
+      "goals": ["travel"],
+      "title": { "en": "Buying souvenirs", "so": "Iibsashada hadiyadaha" },
+      "items": ["sf.zawadi", "sf.vinyago", "sf.shanga", "sf.kiondo", "sf.mkono"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Muuzaji", "sw": "Karibu, dada! Tuna vinyago, shanga na viondo.", "en": "Welcome, sister! We have carvings, beads and sisal baskets.", "so": "Soo dhawoow, walaal! Waxaan haynaa farshaxan alwaax ah, kuul iyo dambiilo." },
+            { "who": "Wanjiku", "sw": "Natafuta zawadi kwa rafiki yangu. Kiondo hiki ni pesa ngapi?", "en": "I'm looking for a gift for my friend. How much is this basket?", "so": "Hadiyad aan saaxiibaday siiyo ayaan raadinayaa. Dambiishan waa immisa?" },
+            { "who": "Muuzaji", "sw": "Elfu moja na mia tano.", "en": "One thousand five hundred.", "so": "Kun iyo shan boqol." },
+            { "who": "Wanjiku", "sw": "Kimetengenezwa kwa mkono?", "en": "Is it handmade?", "so": "Ma gacan baa lagu sameeyay?" },
+            { "who": "Muuzaji", "sw": "Ndiyo, na akina mama wa Machakos.", "en": "Yes, by women in Machakos.", "so": "Haa, waxaa sameeyay haweenka Machakos." }
+          ],
+          "question": { "en": "Who is the gift for?", "so": "Hadiyaddu yay u socotaa?" },
+          "options": [
+            { "en": "Her mother", "so": "Hooyadeed" },
+            { "en": "Her friend", "so": "Saaxiibaddeed" },
+            { "en": "Herself", "so": "Iyada lafteeda" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Hizi shanga ni elfu mbili.", "options": ["Twende kuogelea.", "Kuna nafasi?", "Ni ghali sana, punguza kidogo."], "answer": 2, "explain": { "en": "'These beads are two thousand.' – 'That's too expensive, lower it a little.'", "so": "'Kuulkan waa laba kun.' – 'Aad buu qaali u yahay, wax iga dhim.'" } },
+        { "type": "gap", "before": "Nimenunua", "after": " kwa familia yangu.", "options": ["zawadi", "mawimbi", "nauli"], "answer": 0, "meaning": { "en": "I've bought gifts for my family.", "so": "Hadiyado ayaan u iibiyay qoyskayga." } }
+      ]
+    },
+    {
+      "id": "tourist-talk",
+      "title": { "en": "Jambo and Hakuna matata", "so": "Jambo iyo Hakuna matata" },
+      "items": ["sf.jambo", "sf.hakuna-matata", "sf.mtalii", "sf.utalii", "sf.karibu-tena"],
+      "extra": [
+        { "type": "respond", "heard": "Jambo! Karibu Kenya!", "options": ["Nimechelewa.", "Jambo! Asante sana.", "Ni salama?"], "answer": 1, "explain": { "en": "Tourists answer Jambo with Jambo. To a Kenyan's Hujambo, the proper reply is Sijambo.", "so": "Dalxiisayaashu Jambo waxay ugu jawaabaan Jambo. Hujambo-da Kenyaanka, jawaabta saxda ah waa Sijambo." } },
+        { "type": "gap", "before": "Usijali,", "after": "!", "options": ["hakuna matata", "kwaheri", "jana"], "answer": 0, "meaning": { "en": "Don't worry, no problem!", "so": "Ha welwelin, dhib ma leh!" } },
+        { "type": "build", "prompt": { "en": "There are many tourists in Mombasa", "so": "Mombasa dalxiisayaal badan baa jooga" }, "answer": "Kuna watalii wengi Mombasa", "extra": ["mtalii", "mmoja"], "accept": ["Mombasa kuna watalii wengi"] }
+      ]
+    }
+  ]
+}

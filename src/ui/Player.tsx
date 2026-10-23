@@ -2,8 +2,10 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { Exercise } from '../engine/generate';
 import { sessionXp } from '../engine/progress';
 import { currentStreak, dayKey } from '../engine/progress';
+import { sfx } from '../engine/sfx';
+import { play, stop } from '../engine/speech';
 import { reportUrl } from './common';
-import { ExerciseView, grade, isReady, type Draft, type Grade } from './exercises';
+import { answerSpeech, ExerciseView, grade, isInfo, isReady, type Draft, type Grade } from './exercises';
 import { Bolt, Check, Close, Flame, Flag } from './icons';
 import { useStore } from './store';
 
@@ -33,9 +35,18 @@ export function Player({ exercises, lessonKey, title, onExit }: Props) {
   const seenItems = useRef(new Set<string>());
   const repeated = useRef(new Set<string>());
   const graded = useRef({ total: 0, correct: 0 });
+  const answerTimer = useRef(0);
 
   const ex = queue[index];
-  const graded_ = ex && ex.kind !== 'teach' && ex.kind !== 'match';
+  const graded_ = ex && !isInfo(ex) && ex.kind !== 'match';
+
+  useEffect(
+    () => () => {
+      window.clearTimeout(answerTimer.current);
+      stop();
+    },
+    [],
+  );
 
   const finish = useCallback(() => {
     const results: Record<string, boolean> = {};
@@ -45,9 +56,11 @@ export function Player({ exercises, lessonKey, title, onExit }: Props) {
     const xp = sessionXp(!!lessonKey, mistakeItems.current.size);
     dispatch({ type: 'finishSession', lessonKey, accuracy, xp, results, now: Date.now() });
     setSummary({ xp, accuracy, words: seenItems.current.size });
-  }, [dispatch, lessonKey]);
+    if (p.sfx) sfx('done');
+  }, [dispatch, lessonKey, p.sfx]);
 
   const advance = useCallback(() => {
+    window.clearTimeout(answerTimer.current);
     setFeedback(null);
     setDraft({});
     setMatchDone(false);
@@ -57,7 +70,7 @@ export function Player({ exercises, lessonKey, title, onExit }: Props) {
 
   const check = useCallback(() => {
     if (!ex || feedback) return;
-    if (ex.kind === 'teach') return advance();
+    if (isInfo(ex)) return advance();
     if (!graded_) return; // match: wait until every pair is matched
     if (!isReady(ex, draft)) return;
     const g = grade(ex, draft, p.lang);
@@ -72,7 +85,11 @@ export function Player({ exercises, lessonKey, title, onExit }: Props) {
       }
     }
     setFeedback(g);
-  }, [ex, feedback, graded_, draft, p.lang, advance]);
+    if (p.sfx) sfx(g.ok ? 'correct' : 'wrong');
+    // Then hear the right answer in Swahili, as in a real conversation.
+    const speech = answerSpeech(ex);
+    if (speech) answerTimer.current = window.setTimeout(() => void play(speech[0], { voice: speech[1] }), p.sfx ? 450 : 0);
+  }, [ex, feedback, graded_, draft, p.lang, p.sfx, advance]);
 
   const onMatchDone = useCallback((wrongIds: string[]) => {
     if (!ex) return;
@@ -92,7 +109,7 @@ export function Player({ exercises, lessonKey, title, onExit }: Props) {
       }
       if (e.key === 'Enter') {
         e.preventDefault();
-        if (feedback || (ex?.kind === 'match' && matchDone) || ex?.kind === 'teach') advance();
+        if (feedback || (ex?.kind === 'match' && matchDone) || (ex && isInfo(ex))) advance();
         else check();
         return;
       }
@@ -143,9 +160,9 @@ export function Player({ exercises, lessonKey, title, onExit }: Props) {
 
   if (!ex) return null;
 
-  const canContinue = feedback || ex.kind === 'teach' || (ex.kind === 'match' && matchDone);
+  const canContinue = feedback || isInfo(ex) || (ex.kind === 'match' && matchDone);
   const fbClass = feedback ? (feedback.ok ? (feedback.typo ? 'fb-typo' : 'fb-ok') : 'fb-bad') : '';
-  const itemText = 'item' in ex ? ex.item.sw : ex.kind === 'build' ? ex.ex.answer : '';
+  const itemText = 'item' in ex ? ex.item.sw : ex.kind === 'build' ? ex.ex.answer : 'story' in ex ? ex.story.title.en : '';
 
   return (
     <div className="player">

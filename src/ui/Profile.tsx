@@ -1,6 +1,6 @@
 import { GOALS, VARIETIES } from '../content';
 import type { Variety } from '../content/types';
-import { speak } from '../engine/speech';
+import { play } from '../engine/speech';
 import { REPO_URL, VarietyBadge } from './common';
 import { useStore } from './store';
 
@@ -73,17 +73,24 @@ export function ProfileView() {
 
       <section className="card">
         <h2>{t('voice')}</h2>
-        {voice.available ? (
-          <>
-            <p>{t('voiceOk', { name: voice.name ?? '' })}</p>
-            <button type="button" className="btn btn-ghost" onClick={() => speak('Habari yako? Karibu Kenya!')}>
-              {t('testVoice')}
-            </button>
-          </>
-        ) : (
-          <p className="notice">{t('voiceMissing')}</p>
-        )}
+        <p>{t('voiceRecorded')}</p>
+        <div className="row-buttons">
+          <button type="button" className="btn btn-ghost" onClick={() => void play('Karibu')}>
+            {t('testVoice')}: Zuri
+          </button>
+          <button type="button" className="btn btn-ghost" onClick={() => void play('Karibu', { voice: 'm' })}>
+            {t('testVoice')}: Rafiki
+          </button>
+        </div>
+        <label className="toggle">
+          <input type="checkbox" checked={p.sfx} onChange={(e) => set({ sfx: e.target.checked })} />
+          <span>
+            {t('sfx')}
+            <small className="muted">{t('sfxHint')}</small>
+          </span>
+        </label>
         <p className="muted small">{t('voiceHelp')}</p>
+        {voice.available && <p className="muted small">{t('voiceOk', { name: voice.name ?? '' })}</p>}
       </section>
 
       <section className="card">

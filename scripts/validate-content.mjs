@@ -2,6 +2,7 @@
 import { readdirSync, readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { clipKey, unitSpeech } from '../src/engine/voice-lines.ts';
 
 const dir = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content', 'units');
 const VARIETIES = new Set(['standard', 'everyday', 'sheng', 'coastal']);
@@ -21,6 +22,8 @@ const orders = new Set();
 const itemIds = new Set();
 let itemCount = 0;
 let lessonCount = 0;
+const clips = new Set(JSON.parse(readFileSync(join(dir, '..', 'audio.json'), 'utf8')));
+const unrecorded = [];
 
 for (const file of files) {
   let u;
@@ -107,12 +110,32 @@ for (const file of files) {
           (x.options ?? []).forEach((o, j) => text(`${wx} option ${j}`, o));
           if (!(x.answer >= 0 && x.answer < (x.options?.length ?? 0))) err(wx, 'answer index out of range');
           break;
+        case 'story':
+          text(`${wx} title`, x.title);
+          if (!(x.lines?.length >= 3)) err(wx, 'needs at least 3 lines');
+          (x.lines ?? []).forEach((ln, j) => {
+            for (const f of ['sw', 'en', 'so']) if (!ln[f]) err(`${wx} line ${j}`, `missing "${f}"`);
+          });
+          if (!(x.questions?.length >= 1)) err(wx, 'needs at least 1 question');
+          (x.questions ?? []).forEach((q, j) => {
+            const wq = `${wx} question ${j}`;
+            text(wq, q.question);
+            if (!(q.options?.length >= 2)) err(wq, 'needs at least 2 options');
+            (q.options ?? []).forEach((o, k) => text(`${wq} option ${k}`, o));
+            if (!(q.answer >= 0 && q.answer < (q.options?.length ?? 0))) err(wq, 'answer index out of range');
+          });
+          break;
         default:
           err(wx, `unknown exercise type "${x.type}"`);
       }
     });
   }
   for (const id of local.keys()) if (!used.has(id)) warnings.push(`${file}: item "${id}" is not used in any lesson`);
+  if (!errors.length) for (const [t, v] of unitSpeech(u)) if (!clips.has(clipKey(t, v))) unrecorded.push(`${file}: ${t}`);
+}
+
+if (unrecorded.length) {
+  warnings.push(`${unrecorded.length} sentence(s) have no recording yet, e.g. "${unrecorded[0]}". Run: npm run audio`);
 }
 
 for (const w of warnings) console.warn(`warning: ${w}`);

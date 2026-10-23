@@ -12,6 +12,7 @@ type BuildEx = Extract<Authored, { type: 'build' }>;
 type RespondEx = Extract<Authored, { type: 'respond' }>;
 type GapEx = Extract<Authored, { type: 'gap' }>;
 type DialogueEx = Extract<Authored, { type: 'dialogue' }>;
+export type StoryEx = Extract<Authored, { type: 'story' }>;
 
 interface Base {
   key: string;
@@ -26,12 +27,18 @@ export type Exercise = Base &
     | { kind: 'pick-sw'; item: IndexedItem; options: IndexedItem[] }
     | { kind: 'listen-pick'; item: IndexedItem; options: IndexedItem[] }
     | { kind: 'type-sw'; item: IndexedItem }
+    | { kind: 'listen-type'; item: IndexedItem }
     | { kind: 'match'; items: IndexedItem[]; right: IndexedItem[] }
     | { kind: 'build'; ex: BuildEx; tiles: string[] }
     | { kind: 'respond'; ex: RespondEx; order: number[] }
     | { kind: 'gap'; ex: GapEx; order: number[] }
     | { kind: 'dialogue'; ex: DialogueEx; order: number[] }
+    | { kind: 'story-read'; story: StoryEx }
+    | { kind: 'story-q'; story: StoryEx; q: number; order: number[] }
   );
+
+/** Can this word be played aloud (recorded clip or browser voice)? Listening exercises need it. */
+export type CanListen = (item: IndexedItem) => boolean;
 
 export type ExerciseKind = Exercise['kind'];
 
@@ -73,8 +80,8 @@ function pick(kind: 'pick-meaning' | 'pick-sw' | 'listen-pick', item: IndexedIte
   return { key: nextKey(), itemIds: [item.id], kind, item, options: shuffle([item, ...pickDistractors(item, 3, rnd)], rnd) };
 }
 
-function typeSw(item: IndexedItem): Exercise {
-  return { key: nextKey(), itemIds: [item.id], kind: 'type-sw', item };
+function typeSw(item: IndexedItem, listen = false): Exercise {
+  return { key: nextKey(), itemIds: [item.id], kind: listen ? 'listen-type' : 'type-sw', item };
 }
 
 function match(items: IndexedItem[], rnd: () => number): Exercise {
@@ -82,17 +89,24 @@ function match(items: IndexedItem[], rnd: () => number): Exercise {
   return { key: nextKey(), itemIds: items.map((i) => i.id), kind: 'match', items: left, right: shuffle(left, rnd) };
 }
 
-export function authoredToExercise(a: Authored, rnd: () => number = Math.random): Exercise {
+/** One hand-made exercise becomes one screen, except a story: a reading screen, then one screen per question. */
+export function authoredToExercise(a: Authored, rnd: () => number = Math.random): Exercise[] {
   const key = nextKey();
+  const order = (n: number) => shuffle([...Array(n).keys()], rnd);
   switch (a.type) {
     case 'build':
-      return { key, itemIds: [], kind: 'build', ex: a, tiles: shuffle([...a.answer.split(' '), ...a.extra], rnd) };
+      return [{ key, itemIds: [], kind: 'build', ex: a, tiles: shuffle([...a.answer.split(' '), ...a.extra], rnd) }];
     case 'respond':
-      return { key, itemIds: [], kind: 'respond', ex: a, order: shuffle(a.options.map((_, i) => i), rnd) };
+      return [{ key, itemIds: [], kind: 'respond', ex: a, order: order(a.options.length) }];
     case 'gap':
-      return { key, itemIds: [], kind: 'gap', ex: a, order: shuffle(a.options.map((_, i) => i), rnd) };
+      return [{ key, itemIds: [], kind: 'gap', ex: a, order: order(a.options.length) }];
     case 'dialogue':
-      return { key, itemIds: [], kind: 'dialogue', ex: a, order: shuffle(a.options.map((_, i) => i), rnd) };
+      return [{ key, itemIds: [], kind: 'dialogue', ex: a, order: order(a.options.length) }];
+    case 'story':
+      return [
+        { key, itemIds: [], kind: 'story-read', story: a },
+        ...a.questions.map((q, i): Exercise => ({ key: nextKey(), itemIds: [], kind: 'story-q', story: a, q: i, order: order(q.options.length) })),
+      ];
   }
 }
 
@@ -100,7 +114,7 @@ const isShort = (it: IndexedItem) => it.sw.split(/\s+/).length <= 4 && !it.sw.in
 
 export interface BuildOptions {
   states: Record<string, ItemState>;
-  canListen: boolean;
+  canListen: CanListen;
   rnd?: () => number;
 }
 
@@ -111,38 +125,45 @@ export interface BuildOptions {
 export function buildLesson(_unit: Unit, lesson: Lesson, opts: BuildOptions): Exercise[] {
   const rnd = opts.rnd ?? Math.random;
   const items = lesson.items.map(getItem);
-  const kinds: ('pick-meaning' | 'pick-sw' | 'listen-pick')[] = opts.canListen
-    ? ['pick-meaning', 'listen-pick', 'pick-sw']
-    : ['pick-meaning', 'pick-sw'];
+  const kinds = ['pick-meaning', 'listen-pick', 'pick-sw'] as const;
+  let k = 0;
+  // Listening falls back to reading for a word that cannot be played.
+  const nextPick = (it: IndexedItem) => {
+    const kind = kinds[k++ % kinds.length];
+    return pick(kind === 'listen-pick' && !opts.canListen(it) ? 'pick-meaning' : kind, it, rnd);
+  };
+  // Hand-made exercises stay whole (a story keeps its questions right after it).
   const extras = (lesson.extra ?? []).map((a) => authoredToExercise(a, rnd));
-  const firstHalf = extras.slice(0, Math.ceil(extras.length / 2));
-  const secondHalf = extras.slice(firstHalf.length);
+  const firstHalf = extras.slice(0, Math.ceil(extras.length / 2)).flat();
+  const secondHalf = extras.slice(Math.ceil(extras.length / 2)).flat();
 
   const out: Exercise[] = [];
-  let k = 0;
   for (let i = 0; i < items.length; i += 3) {
     const group = items.slice(i, i + 3);
     for (const it of group) if (!opts.states[it.id]) out.push({ key: nextKey(), itemIds: [], kind: 'teach', item: it });
-    for (const it of group) out.push(pick(kinds[k++ % kinds.length], it, rnd));
+    for (const it of group) out.push(nextPick(it));
     if (i === 3) out.push(...firstHalf);
   }
   if (items.length <= 3) out.push(...firstHalf);
   if (items.length >= 4) out.push(match(shuffle(items, rnd).slice(0, 5), rnd));
   out.push(...secondHalf);
-  for (const it of shuffle(items.filter(isShort), rnd).slice(0, 3)) out.push(typeSw(it));
-  for (const it of shuffle(items, rnd).slice(0, 2)) out.push(pick(kinds[k++ % kinds.length], it, rnd));
+  // Typing: the first word is typed from what the learner hears, when it can be played.
+  shuffle(items.filter(isShort), rnd)
+    .slice(0, 3)
+    .forEach((it, i) => out.push(typeSw(it, i === 0 && opts.canListen(it))));
+  for (const it of shuffle(items, rnd).slice(0, 2)) out.push(nextPick(it));
   return out;
 }
 
 /** A practice session from words the learner has already met. */
-export function buildPractice(ids: string[], canListen: boolean, rnd: () => number = Math.random): Exercise[] {
+export function buildPractice(ids: string[], canListen: CanListen, rnd: () => number = Math.random): Exercise[] {
   const items = ids.map((id) => ITEMS.get(id)).filter((x): x is IndexedItem => !!x);
-  const kinds = canListen
-    ? (['pick-meaning', 'pick-sw', 'listen-pick', 'type'] as const)
-    : (['pick-meaning', 'pick-sw', 'type'] as const);
+  const kinds = ['pick-meaning', 'pick-sw', 'listen-pick', 'type', 'listen-type'] as const;
   const out: Exercise[] = items.map((it, i) => {
     const kind = kinds[i % kinds.length];
-    return kind === 'type' ? (isShort(it) ? typeSw(it) : pick('pick-sw', it, rnd)) : pick(kind, it, rnd);
+    const listen = canListen(it);
+    if (kind === 'type' || kind === 'listen-type') return isShort(it) ? typeSw(it, kind === 'listen-type' && listen) : pick('pick-sw', it, rnd);
+    return pick(kind === 'listen-pick' && !listen ? 'pick-meaning' : kind, it, rnd);
   });
   if (items.length >= 4) out.splice(Math.floor(out.length / 2), 0, match(shuffle(items, rnd).slice(0, 5), rnd));
   return shuffle(out, rnd);

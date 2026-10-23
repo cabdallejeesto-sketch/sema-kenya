@@ -1,7 +1,8 @@
-import type { ReactNode } from 'react';
+import { useEffect, useState, type ReactNode } from 'react';
 import { VARIETIES } from '../content';
 import type { Variety } from '../content/types';
-import { speak } from '../engine/speech';
+import { hasClip, onPlaying, play, playingText } from '../engine/speech';
+import { cleanSpeech, type VoiceId } from '../engine/voice-lines';
 import { Snail, Speaker } from './icons';
 import { useStore } from './store';
 
@@ -17,17 +18,47 @@ export function VarietyBadge({ v }: { v: Variety }) {
   );
 }
 
-export function SpeakButtons({ text, big = false, autoPlay = false }: { text: string; big?: boolean; autoPlay?: boolean }) {
-  const { voice, t } = useStore();
-  if (!voice.available) return autoPlay ? <p className="muted small">{t('noVoiceShort')}</p> : null;
+/** True while this text is being read aloud. */
+export function usePlaying(text: string): boolean {
+  const clean = cleanSpeech(text);
+  const [on, setOn] = useState(() => playingText() === clean);
+  useEffect(() => onPlaying((now) => setOn(now === clean)), [clean]);
+  return on;
+}
+
+/** The speaker button (and the slow "snail" button) for a Swahili word or sentence. */
+export function SpeakButtons({ text, voice = 'f', big = false, slow = true }: { text: string; voice?: VoiceId; big?: boolean; slow?: boolean }) {
+  const { voice: browserVoice, t } = useStore();
+  const playing = usePlaying(text);
+  if (!hasClip(text, voice) && !browserVoice.available) return null;
   return (
     <span className="speak-row">
-      <button type="button" className={`speak ${big ? 'speak-big' : ''}`} onClick={() => speak(text)} aria-label={t('listen')}>
-        <Speaker size={big ? 30 : 20} />
+      <button
+        type="button"
+        className={`speak ${big ? 'speak-big' : ''} ${playing ? 'playing' : ''}`}
+        onClick={(e) => {
+          e.stopPropagation();
+          void play(text, { voice });
+        }}
+        aria-label={t('listen')}
+        title={t('listen')}
+      >
+        <Speaker size={big ? 34 : 20} />
       </button>
-      <button type="button" className="speak speak-slow" onClick={() => speak(text, true)} aria-label={t('slow')}>
-        <Snail size={big ? 24 : 18} />
-      </button>
+      {slow && (
+        <button
+          type="button"
+          className="speak speak-slow"
+          onClick={(e) => {
+            e.stopPropagation();
+            void play(text, { voice, slow: true });
+          }}
+          aria-label={t('slow')}
+          title={t('slow')}
+        >
+          <Snail size={big ? 24 : 18} />
+        </button>
+      )}
     </span>
   );
 }

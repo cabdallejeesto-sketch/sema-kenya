@@ -1,0 +1,264 @@
+{
+  "id": "sheng-basics",
+  "order": 9,
+  "level": "A2",
+  "color": "#a21caf",
+  "reviewed": false,
+  "title": { "en": "Sheng Basics", "so": "Aasaaska Sheng" },
+  "swTitle": "Misingi ya Sheng",
+  "description": {
+    "en": "Learn the Nairobi street talk young Kenyans use with friends: people words, money slang and everyday Sheng verbs.",
+    "so": "Baro hadalka jidka Nairobi ee dhallinyarada Kenya kula hadlaan saaxiibbadood: erayada dadka, lacagta iyo falalka Sheng ee maalinlaha ah."
+  },
+  "goals": ["street"],
+  "guide": [
+    {
+      "title": { "en": "What is Sheng?", "so": "Waa maxay Sheng?" },
+      "body": {
+        "en": "Sheng mixes Swahili and English with words from other Kenyan languages such as Gikuyu, Luo and Luhya. It began among young people in the Eastlands estates of Nairobi and spread across the country through music, radio and matatus. It changes fast: a word that sounds cool today can sound old in a few years, so this course marks every Sheng item and says when a word may be dated.",
+        "so": "Sheng waxay isku dartaa Sawaaxili iyo Ingiriis, iyadoo leh erayo ka yimid luqadaha kale ee Kenya sida Gikuyu, Luo iyo Luhya. Waxay ka bilaabatay dhallinyarada xaafadaha Eastlands ee Nairobi, waxayna ku faaftay dalka oo dhan iyadoo loo marayo muusigga, raadiyaha iyo matatu-yada. Si degdeg ah ayay isu beddeshaa: eray maanta xiiso leh wuxuu dhawr sano kadib u ekaan karaa mid duugoobay, sidaas darteed koorsadani waxay calaamadaysaa eray kasta oo Sheng ah, waxayna sheegtaa marka eray duugoobi karo."
+      },
+      "examples": [
+        { "sw": "Niaje msee, form ni gani?", "en": "Hey man, what's the plan?", "so": "Haye saaxiib, qorshuhu waa maxay?", "v": "sheng" }
+      ]
+    },
+    {
+      "title": { "en": "Peers yes, elders no", "so": "Saaxiibbada haa, waayeelka maya" },
+      "body": {
+        "en": "Use Sheng with friends and people your own age. Never use it with elders, teachers, officials or at a job interview: it sounds disrespectful, and many parents dislike it. With older people switch to standard Swahili: Habari yako, mzee? instead of Niaje?",
+        "so": "Sheng la isticmaal saaxiibbada iyo dadka aad isku da'da tihiin. Waligaa ha la isticmaalin waayeelka, macallimiinta, saraakiisha ama wareysiga shaqada: waxay u muuqataa edeb darro, waalid badanna ma jecla. Dadka waaweyn u beddel Sawaaxiliga caadiga ah: Habari yako, mzee? halkii aad oran lahayd Niaje?"
+      },
+      "examples": [
+        { "sw": "Habari yako, mzee?", "en": "How are you, sir?", "so": "Sidee tahay, adeer?", "v": "standard" },
+        { "sw": "Niaje, bro?", "en": "What's up, bro?", "so": "Haye, walaal?", "v": "sheng" }
+      ]
+    },
+    {
+      "title": { "en": "Swahili grammar, borrowed roots", "so": "Naxwaha Sawaaxiliga, xididdo la amaahday" },
+      "body": {
+        "en": "Sheng keeps Swahili grammar but swaps in new roots. English verbs get the ku- infinitive and the normal tense markers: kukam (to come), nakam (I'm coming), nimeboeka (I'm bored), tunachill (we're chilling). If you know the Swahili prefixes, you can already use most Sheng verbs.",
+        "so": "Sheng waxay haysaa naxwaha Sawaaxiliga laakiin waxay gelisaa xididdo cusub. Falalka Ingiriisiga waxay qaataan horgalaha ku- iyo calaamadaha waqtiga ee caadiga ah: kukam (iman), nakam (waan imanayaa), nimeboeka (waan caajisay), tunachill (waan iska nasanaynaa). Haddii aad taqaanno horgalayaasha Sawaaxiliga, inta badan falalka Sheng horeba waad isticmaali kartaa."
+      },
+      "examples": [
+        { "sw": "Nimeboeka, wacha nichomoke.", "en": "I'm bored, let me head out.", "so": "Waan caajisay, aan iska baxo.", "v": "sheng" }
+      ]
+    },
+    {
+      "title": { "en": "Money in Sheng", "so": "Lacagta af Sheng" },
+      "body": {
+        "en": "Street prices are often said in Sheng. Kobole is five shillings, mbao twenty, ashuu fifty, soo a hundred, and thao or ngiri a thousand. Add a number for more: soo mbili is two hundred, ngiri tano is five thousand. Mulla, ganji, doo and chapaa all mean money.",
+        "so": "Qiimaha jidka badanaa waxaa lagu sheegaa Sheng. Kobole waa shan shilin, mbao waa labaatan, ashuu waa konton, soo waa boqol, thao ama ngiri-na waa kun. Tiro ku dar wax ka badan: soo mbili waa laba boqol, ngiri tano waa shan kun. Mulla, ganji, doo iyo chapaa dhammaantood waxay ka dhigan yihiin lacag."
+      },
+      "examples": [
+        { "sw": "Hii ni soo mbili tu.", "en": "This is just two hundred bob.", "so": "Kani waa laba boqol oo keliya.", "v": "sheng" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "sh.jamaa", "sw": "jamaa", "en": "guy / that man", "so": "nin / ninkaas", "v": "everyday", "syn": "guy", "note": { "en": "In Kenya jamaa usually means 'a guy': Huyu jamaa ni nani? In textbooks it means relatives or a community.", "so": "Kenya, jamaa badanaa waxay ka dhigan tahay 'nin': Huyu jamaa ni nani? Buugaagta waxay ka dhigan tahay qaraabo ama bulsho." } },
+    { "id": "sh.manzi", "sw": "manzi", "en": "girl / young woman (Sheng)", "so": "gabar / naag dhallinyaro ah (Sheng)", "v": "sheng", "syn": "girl", "note": { "en": "Friendly among young people. Never use it for an older woman: say mama.", "so": "Waa eray saaxiibtinimo dhallinyarada dhexdooda. Ha u isticmaalin naag weyn: dheh mama." } },
+    { "id": "sh.chali", "sw": "chali", "en": "young man / guy (Sheng)", "so": "wiil / nin dhallinyaro ah (Sheng)", "v": "sheng", "syn": "guy", "note": { "en": "Very informal. Some young people find it a little dated.", "so": "Aad bay u fudud tahay. Dhallinyarada qaar waxay u arkaan wax yar oo duugoobay." } },
+    { "id": "sh.dem", "sw": "dem", "en": "girl / girlfriend (Sheng)", "so": "gabar / saaxiibad (Sheng)", "v": "sheng", "syn": "girl", "note": { "en": "Dem yangu = my girlfriend. Very informal; keep it for close friends.", "so": "Dem yangu = saaxiibaddayda. Aad bay u fudud tahay; ku kooban saaxiibbada dhow." } },
+    { "id": "sh.mbogi", "sw": "mbogi", "en": "crew / group of friends (Sheng)", "so": "kooxda saaxiibbada (Sheng)", "v": "sheng", "syn": "crew", "note": { "en": "Mbogi yangu = my crew, my people.", "so": "Mbogi yangu = kooxdayda, dadkayga." } },
+
+    { "id": "sh.form", "sw": "Form ni gani?", "en": "What's the plan?", "so": "Qorshuhu waa maxay?", "v": "sheng", "say": "Fom ni gani?", "alt": ["fom ni gani"], "syn": "hello", "note": { "en": "Form = the plan, what's happening. Kuna form leo? = Is anything on today? Rada? is similar.", "so": "Form = qorshaha, waxa socda. Kuna form leo? = Maanta wax ma jiraan? Rada? waa la mid." } },
+    { "id": "sh.uko-fiti", "sw": "Uko fiti?", "en": "You good? / Are you okay?", "so": "Ma fiican tahay? / Nabad ma tahay?", "v": "sheng", "syn": "hello", "note": { "en": "Reply Niko fiti or Fiti sana. Also a kind way to check on someone after bad news.", "so": "Ku jawaab Niko fiti ama Fiti sana. Sidoo kale waa hab naxariis leh oo qof loogu warramo kadib war xun." } },
+    { "id": "sh.ni-sawa", "sw": "Ni sawa", "en": "No problem / That's okay", "so": "Dhib ma leh / Waa hagaag", "v": "everyday", "alt": ["iko sawa"], "syn": "okay", "note": { "en": "You will also hear Iko sawa. Ni sawa tu = It's all good.", "so": "Waxaad sidoo kale maqli doontaa Iko sawa. Ni sawa tu = Wax walba waa hagaag." } },
+    { "id": "sh.wacha", "sw": "Wacha!", "en": "No way! / Stop it!", "so": "Iska daa! / Run ma tahay?!", "v": "everyday", "tz": "Acha!", "syn": "no-way", "note": { "en": "Kenyans say wacha for the textbook acha (leave, stop). Wacha mchezo! = Stop joking! / No kidding!", "so": "Kenyaanku waxay yiraahdaan wacha halkii acha ee buugaagta (daa, jooji). Wacha mchezo! = Kaftanka iska daa! / Run miyaa!" } },
+    { "id": "sh.ati", "sw": "Ati?", "en": "What? / Come again?", "so": "Maxaad tiri? / Mar kale dheh?", "v": "everyday", "syn": "what", "note": { "en": "A very Kenyan little word. It also means 'supposedly': Ati amesafiri = Apparently he has travelled.", "so": "Eray yar oo aad Kenya u ah. Sidoo kale waxay ka dhigan tahay 'la yiri': Ati amesafiri = Waa la yiri wuu safray." } },
+    { "id": "sh.si-ati", "sw": "Si ati sitaki", "en": "It's not that I don't want to", "so": "Ma aha inaanan rabin", "v": "everyday", "note": { "en": "Si ati... = It's not that... The real reason usually follows: Si ati sitaki, sina doo.", "so": "Si ati... = Ma aha in... Sababta dhabta ah ayaa badanaa ku xigta: Si ati sitaki, sina doo." } },
+
+    { "id": "sh.mulla", "sw": "mulla", "en": "money (Sheng, like 'moolah')", "so": "lacag (Sheng, sida 'moolah')", "v": "sheng", "alt": ["mula"], "syn": "money" },
+    { "id": "sh.ganji", "sw": "ganji", "en": "money / earnings (Sheng)", "so": "lacag / dakhli (Sheng)", "v": "sheng", "syn": "money", "note": { "en": "Kusaka ganji = to hustle for money (lit. to hunt money).", "so": "Kusaka ganji = lacag raadis (macnaha: lacag ugaarsi)." } },
+    { "id": "sh.kobole", "sw": "kobole", "en": "five shillings (Sheng)", "so": "shan shilin (Sheng)", "v": "sheng", "syn": "five", "note": { "en": "A five-shilling coin. Prices have gone up, so you hear it less than soo or thao.", "so": "Qadaadiic shan shilin ah. Qiimayaashu way kordheen, markaa waad ka yar maqlaysaa soo ama thao." } },
+    { "id": "sh.ashuu", "sw": "ashuu", "en": "fifty shillings (Sheng)", "so": "konton shilin (Sheng)", "v": "sheng", "syn": "fifty" },
+    { "id": "sh.soo", "sw": "soo", "en": "a hundred shillings (Sheng)", "so": "boqol shilin (Sheng)", "v": "sheng", "syn": "hundred", "note": { "en": "Soo mbili = 200, soo tano = 500.", "so": "Soo mbili = 200, soo tano = 500." } },
+    { "id": "sh.ngiri", "sw": "ngiri", "en": "a thousand shillings (Sheng)", "so": "kun shilin (Sheng)", "v": "sheng", "alt": ["thao"], "syn": "thousand", "note": { "en": "From Gikuyu; it means the same as thao. Ngiri mbili = 2,000.", "so": "Waxay ka timid af Gikuyu; waa la mid thao. Ngiri mbili = 2,000." } },
+    { "id": "sh.nikopeshe", "sw": "Nikopeshe soo mbili", "en": "Lend me two hundred bob", "so": "Laba boqol oo shilin i amaahi", "v": "sheng", "alt": ["nikopeshe mia mbili"], "note": { "en": "Kukopesha = to lend. Pay it back on time: friends remember!", "so": "Kukopesha = amaahin. Waqtigeeda ku celi: saaxiibbadu way xusuustaan!" } },
+
+    { "id": "sh.kukam", "sw": "kukam", "en": "to come (Sheng)", "so": "iman (Sheng)", "v": "sheng", "alt": ["kucome"], "syn": "come", "note": { "en": "From English 'come'. Kam hapa = Come here. Standard: kuja.", "so": "Waxay ka timid Ingiriiska 'come'. Kam hapa = Halkan kaalay. Caadiga: kuja." } },
+    { "id": "sh.unakam", "sw": "Unakam?", "en": "Are you coming?", "so": "Ma imanaysaa?", "v": "sheng", "alt": ["unakuja"] },
+    { "id": "sh.kuhepa", "sw": "kuhepa", "en": "to leave / to bounce (Sheng)", "so": "tegid / ka bixid (Sheng)", "v": "sheng", "syn": "leave", "note": { "en": "Nimehepa = I'm off / I've gone. In school Swahili kuhepa means to dodge.", "so": "Nimehepa = Waan tegay. Sawaaxiliga dugsiga, kuhepa waxay ka dhigan tahay ka leexasho." } },
+    { "id": "sh.kuchomoka", "sw": "kuchomoka", "en": "to head out / slip away (Sheng)", "so": "iska bixid / ka dhuuman (Sheng)", "v": "sheng", "syn": "leave", "note": { "en": "Nachomoka = I'm heading out. In school Swahili it means to slip out of something.", "so": "Nachomoka = Waan baxayaa. Sawaaxiliga dugsiga waxay ka dhigan tahay wax ka siibasho." } },
+    { "id": "sh.wacha-nichomoke", "sw": "Wacha nichomoke", "en": "Let me head out", "so": "Aan iska baxo", "v": "sheng", "alt": ["wacha nihepe", "acha nichomoke"], "note": { "en": "Wacha + ni-...-e = 'let me...': Wacha nilale (let me sleep), Wacha nikuambie (let me tell you).", "so": "Wacha + ni-...-e = 'aan...': Wacha nilale (aan seexdo), Wacha nikuambie (aan kuu sheego)." } },
+    { "id": "sh.kubonga", "sw": "kubonga", "en": "to talk / to chat (Sheng)", "so": "hadlid / sheekaysi (Sheng)", "v": "sheng", "syn": "talk", "note": { "en": "Tubonge baadaye = Let's talk later. Standard: kuongea or kuzungumza.", "so": "Tubonge baadaye = Goor dambe aan wada hadalno. Caadiga: kuongea ama kuzungumza." } },
+
+    { "id": "sh.kuchill", "sw": "kuchill", "en": "to chill / hang out (Sheng)", "so": "iska nasasho / wada fadhiisasho (Sheng)", "v": "sheng", "say": "kuchil", "alt": ["kuchil"], "syn": "relax" },
+    { "id": "sh.tunachill", "sw": "Tunachill tu", "en": "We're just chilling", "so": "Waan iska nasanaynaa uun", "v": "sheng", "say": "Tunachil tu", "alt": ["tunachil tu"] },
+    { "id": "sh.kuboeka", "sw": "kuboeka", "en": "to get bored / fed up (Sheng)", "so": "caajisid / ka daalid (Sheng)", "v": "sheng", "syn": "bored", "note": { "en": "From English 'bored'. Usually in the -me- form: nimeboeka (I'm bored).", "so": "Waxay ka timid Ingiriiska 'bored'. Badanaa qaabka -me-: nimeboeka (waan caajisay)." } },
+    { "id": "sh.nimeboeka", "sw": "Nimeboeka", "en": "I'm bored", "so": "Waan caajisay", "v": "sheng", "syn": "bored" },
+    { "id": "sh.kuzurura", "sw": "kuzurura", "en": "to roam around / hang about", "so": "iska wareegid / meelo iska mushaaxid", "v": "standard", "note": { "en": "Tunazurura tu = We're just hanging about. Parents use it as a complaint: Unazurura tu!", "so": "Tunazurura tu = Iska wareegaynaa uun. Waalidku waxay u isticmaalaan cabasho ahaan: Unazurura tu! (Iska wareegaysaa uun!)" } },
+    { "id": "sh.kujipanga", "sw": "kujipanga", "en": "to get yourself sorted", "so": "isu diyaarin / is abaabulid", "v": "everyday", "note": { "en": "Wacha nijipange = Let me get myself together first. Very common before a big step.", "so": "Wacha nijipange = Marka hore aan is abaabulo. Aad bay u badan tahay ka hor tallaabo weyn." } },
+
+    { "id": "sh.tuko-pamoja", "sw": "Tuko pamoja", "en": "I'm with you / We're together", "so": "Waan kula jiraa / Wada jir baan nahay", "v": "everyday", "note": { "en": "Shows support or agreement, and often ends a chat: Sawa, tuko pamoja.", "so": "Waxay muujisaa taageero ama oggolaansho, badanaana sheekada ayay ku dhammaysaa: Sawa, tuko pamoja." } },
+    { "id": "sh.nimekuskia", "sw": "Nimekuskia", "en": "I hear you / Got it", "so": "Waan ku maqlay / Waan fahmay", "v": "everyday", "tz": "Nimekusikia", "alt": ["nimekusikia"], "note": { "en": "Kenyans say kuskia for kusikia (to hear).", "so": "Kenyaanku waxay yiraahdaan kuskia halkii kusikia (maqlid)." } },
+    { "id": "sh.si-mbaya", "sw": "Si mbaya", "en": "Not bad", "so": "Ma xuma", "v": "everyday", "syn": "fine" },
+    { "id": "sh.mambo-mengi", "sw": "Mambo ni mengi", "en": "There's a lot going on", "so": "Arrimo badan ayaa jira", "v": "everyday", "note": { "en": "A common answer to Habari ya kazi? when you're busy.", "so": "Jawaab caadi ah oo Habari ya kazi? loo bixiyo marka aad mashquul tahay." } },
+    { "id": "sh.sai", "sw": "sai", "en": "now / right now (Sheng)", "so": "hadda (Sheng)", "v": "sheng", "syn": "now", "note": { "en": "Short for sasa hivi. Uko wapi sai? = Where are you now?", "so": "Waa soo gaabinta sasa hivi. Uko wapi sai? = Hadda xaggee joogtaa?" } }
+  ],
+  "lessons": [
+    {
+      "id": "sheng-people",
+      "title": { "en": "People in Sheng", "so": "Dadka af Sheng" },
+      "items": ["sh.jamaa", "sh.manzi", "sh.chali", "sh.dem", "sh.mbogi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kamau", "sw": "Niaje msee! Yule jamaa ni nani?", "en": "Hey man! Who's that guy?", "so": "Haye saaxiib! Ninkaas waa kuma?" },
+            { "who": "Otieno", "sw": "Ni beshte yangu, Baraka. Ako na mbogi yake.", "en": "He's my best friend, Baraka. He's with his crew.", "so": "Waa saaxiibkayga ugu fiican, Baraka. Wuxuu la joogaa kooxdiisa." },
+            { "who": "Kamau", "sw": "Na yule manzi?", "en": "And that girl?", "so": "Gabadhaasna?" },
+            { "who": "Otieno", "sw": "Huyo ni dada yake, Zawadi.", "en": "That's his sister, Zawadi.", "so": "Taasi waa walaashiis, Zawadi." }
+          ],
+          "question": { "en": "Who is Zawadi?", "so": "Zawadi waa kuma?" },
+          "options": [
+            { "en": "Otieno's girlfriend", "so": "Saaxiibadda Otieno" },
+            { "en": "Baraka's sister", "so": "Walaasha Baraka" },
+            { "en": "Kamau's mother", "so": "Hooyada Kamau" }
+          ],
+          "answer": 1
+        },
+        { "type": "build", "prompt": { "en": "My crew is in town", "so": "Kooxdaydu waxay joogtaa magaalada" }, "answer": "Mbogi yangu iko tao", "extra": ["chali", "dem"] },
+        { "type": "respond", "heard": "Huyo chali ni nani?", "options": ["Sina doo.", "Ni kaka yangu, Abdi.", "Naenda tao."], "answer": 1, "explain": { "en": "'Who's that guy?' – 'He's my brother, Abdi.'", "so": "'Ninkaas waa kuma?' – 'Waa walaalkay, Abdi.'" } }
+      ]
+    },
+    {
+      "id": "sheng-phrases",
+      "title": { "en": "Everyday street phrases", "so": "Weedho jidka oo maalinle ah" },
+      "items": ["sh.form", "sh.uko-fiti", "sh.ni-sawa", "sh.wacha", "sh.ati", "sh.si-ati"],
+      "extra": [
+        { "type": "respond", "heard": "Form ni gani leo?", "options": ["Asante kwa chakula.", "Shikamoo.", "Tunaenda tao jioni. Unakuja?"], "answer": 2, "explain": { "en": "'What's the plan today?' – 'We're going to town this evening. Are you coming?'", "so": "'Maanta qorshuhu waa maxay?' – 'Fiidkii magaalada ayaan u soconnaa. Ma imanaysaa?'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Achieng", "sw": "Wacha! Umerudi kutoka Mombasa?", "en": "No way! You're back from Mombasa?", "so": "Run ma tahay! Ma ka soo laabatay Mombasa?" },
+            { "who": "Wafula", "sw": "Ndio, jana usiku. Uko fiti?", "en": "Yes, last night. You good?", "so": "Haa, xalay. Ma fiican tahay?" },
+            { "who": "Achieng", "sw": "Niko fiti. Form ni gani wikendi?", "en": "I'm good. What's the plan for the weekend?", "so": "Waan fiicanahay. Dhammaadka toddobaadka qorshuhu waa maxay?" },
+            { "who": "Wafula", "sw": "Si ati sitaki kutoka, lakini sina doo.", "en": "It's not that I don't want to go out, but I'm broke.", "so": "Ma aha inaanan rabin inaan baxo, laakiin lacag ma haysto." },
+            { "who": "Achieng", "sw": "Ni sawa, tutaonana tu.", "en": "No problem, we'll see each other anyway.", "so": "Dhib ma leh, si kastaba waan is arki doonnaa." }
+          ],
+          "question": { "en": "What is Wafula's problem?", "so": "Dhibaatada Wafula waa maxay?" },
+          "options": [
+            { "en": "He is tired after Mombasa", "so": "Wuu daallan yahay kadib Mombasa" },
+            { "en": "He is still in Mombasa", "so": "Weli Mombasa ayuu joogaa" },
+            { "en": "He has no money", "so": "Lacag ma haysto" }
+          ],
+          "answer": 2
+        },
+        { "type": "gap", "before": "Uko", "after": "?", "options": ["fiti", "jamaa", "mbogi"], "answer": 0, "meaning": { "en": "Are you good?", "so": "Ma fiican tahay?" } },
+        { "type": "build", "prompt": { "en": "No problem, man", "so": "Dhib ma leh, saaxiib" }, "answer": "Ni sawa msee", "extra": ["ati", "dem"] }
+      ]
+    },
+    {
+      "id": "sheng-money",
+      "goals": ["street"],
+      "title": { "en": "Sheng money", "so": "Lacagta Sheng" },
+      "items": ["sh.mulla", "sh.ganji", "sh.kobole", "sh.ashuu", "sh.soo", "sh.ngiri", "sh.nikopeshe"],
+      "extra": [
+        { "type": "respond", "heard": "Hii ni ngiri mbili.", "options": ["Form ni gani?", "Huyo ni dem yangu.", "Ghali sana! Punguza kidogo."], "answer": 2, "explain": { "en": "'This is two thousand.' – 'Very expensive! Bring it down a little.'", "so": "'Kani waa laba kun.' – 'Aad buu qaali u yahay! Wax yar ka dhim.'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Msee, chapati ni ngapi?", "en": "Man, how much is a chapati?", "so": "Saaxiib, chapati waa immisa?" },
+            { "who": "Baraka", "sw": "Ni mbao.", "en": "It's twenty bob.", "so": "Waa labaatan shilin." },
+            { "who": "Abdi", "sw": "Nipe mbili na chai.", "en": "Give me two and a tea.", "so": "Laba i sii iyo shaah." },
+            { "who": "Baraka", "sw": "Chai ni kumi. Jumla ni ashuu.", "en": "Tea is ten. The total is fifty.", "so": "Shaahu waa toban. Wadartu waa konton." },
+            { "who": "Abdi", "sw": "Poa. Hii hapa soo.", "en": "Cool. Here's a hundred.", "so": "Fiican. Waa kan boqol." },
+            { "who": "Baraka", "sw": "Asante. Chukua ashuu yako.", "en": "Thanks. Take your fifty.", "so": "Mahadsanid. Qaado kontonkaaga." }
+          ],
+          "question": { "en": "How much change does Abdi get?", "so": "Immisa ayaa Abdi loo soo celiyey?" },
+          "options": [
+            { "en": "Twenty shillings", "so": "Labaatan shilin" },
+            { "en": "Fifty shillings", "so": "Konton shilin" },
+            { "en": "A hundred shillings", "so": "Boqol shilin" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Nikopeshe soo", "after": ", nitakulipa kesho.", "options": ["fiti", "mbili", "tao"], "answer": 1, "meaning": { "en": "Lend me two hundred, I'll pay you back tomorrow.", "so": "Laba boqol i amaahi, berri ayaan kuu celin doonaa." } },
+        { "type": "build", "prompt": { "en": "I don't even have five bob", "so": "Xataa shan shilin ma haysto" }, "answer": "Sina hata kobole", "extra": ["ngiri", "tao"] }
+      ]
+    },
+    {
+      "id": "sheng-coming-going",
+      "goals": ["street"],
+      "title": { "en": "Coming and going", "so": "Imaanshaha iyo tegidda" },
+      "items": ["sh.kukam", "sh.unakam", "sh.kuhepa", "sh.kuchomoka", "sh.wacha-nichomoke", "sh.kubonga"],
+      "extra": [
+        { "type": "respond", "heard": "Unakam leo jioni?", "options": ["Ndio, nakam saa moja.", "Ni ashuu.", "Huyo ni chali yangu."], "answer": 0, "explain": { "en": "'Are you coming this evening?' – 'Yes, I'm coming at seven.' Saa moja jioni is 7 p.m.", "so": "'Fiidkan ma imanaysaa?' – 'Haa, toddobada ayaan imanayaa.' Saa moja jioni waa 7 fiidnimo." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Chebet", "sw": "Wasee, wacha nichomoke. Ni saa tano usiku.", "en": "Guys, let me head out. It's eleven at night.", "so": "Saaxiibbow, aan iska baxo. Waa kow iyo tobankii habeennimo." },
+            { "who": "Kiprotich", "sw": "Wacha! Bado mapema.", "en": "No way! It's still early.", "so": "Iska daa! Weli waa goor hore." },
+            { "who": "Chebet", "sw": "Kesho naenda kazini mapema.", "en": "Tomorrow I go to work early.", "so": "Berri goor hore ayaan shaqada aadayaa." },
+            { "who": "Kiprotich", "sw": "Sawa. Tubonge kesho basi.", "en": "Okay. Let's talk tomorrow, then.", "so": "Hagaag. Markaa berri aan sheekaysanno." }
+          ],
+          "question": { "en": "Why is Chebet leaving?", "so": "Maxay Chebet u baxaysaa?" },
+          "options": [
+            { "en": "She is bored", "so": "Way caajisay" },
+            { "en": "She has no money", "so": "Lacag ma haysato" },
+            { "en": "She goes to work early tomorrow", "so": "Berri goor hore ayay shaqada aadaysaa" }
+          ],
+          "answer": 2
+        },
+        { "type": "gap", "before": "Ni usiku sana, wacha", "after": ".", "options": ["nihepe", "nikam", "tubonge"], "answer": 0, "meaning": { "en": "It's very late, let me get going.", "so": "Habeen badan baa dhacay, aan iska tago." } },
+        { "type": "build", "prompt": { "en": "Are you coming to town today?", "so": "Maanta ma imanaysaa magaalada?" }, "answer": "Unakam tao leo", "extra": ["nihepe", "soo"] }
+      ]
+    },
+    {
+      "id": "sheng-chilling-working",
+      "goals": ["street"],
+      "title": { "en": "Chilling and working", "so": "Nasashada iyo shaqada" },
+      "items": ["sh.kuchill", "sh.tunachill", "sh.kuboeka", "sh.nimeboeka", "sh.kuzurura", "sh.kujipanga"],
+      "extra": [
+        { "type": "respond", "heard": "Mbona uko kimya?", "options": ["Unakam?", "Nimeboeka tu.", "Ni soo mbili."], "answer": 1, "explain": { "en": "'Why are you so quiet?' – 'I'm just bored.' Mbona is the everyday Kenyan 'why'.", "so": "'Maxaad u aamusan tahay?' – 'Waan caajisay uun.' Mbona waa 'maxay' maalinlaha Kenya." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mwikali", "sw": "Niaje? Mbona uko kimya?", "en": "Hey! Why are you so quiet?", "so": "Haye! Maxaad u aamusan tahay?" },
+            { "who": "Mutua", "sw": "Nimeboeka, manze. Hakuna form.", "en": "I'm bored, man. Nothing's happening.", "so": "Waan caajisay, nin yahow. Waxba ma socdaan." },
+            { "who": "Mwikali", "sw": "Kam tuchill kwa Zawadi.", "en": "Come and chill with us at Zawadi's.", "so": "Kaalay aan ku nasanno guriga Zawadi." },
+            { "who": "Mutua", "sw": "Wacha nijipange kwanza. Nakam baada ya saa moja.", "en": "Let me get sorted first. I'll come in an hour.", "so": "Marka hore aan is diyaariyo. Saacad kadib ayaan imanayaa." }
+          ],
+          "question": { "en": "When will Mutua come?", "so": "Mutua goorma ayuu imanayaa?" },
+          "options": [
+            { "en": "In an hour", "so": "Saacad kadib" },
+            { "en": "Tomorrow", "so": "Berri" },
+            { "en": "On Saturday", "so": "Sabtida" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Hatuna kazi leo, sisi", "after": " tu mjini.", "options": ["mbogi", "tunazurura", "ngiri"], "answer": 1, "meaning": { "en": "We have no work today, we're just hanging about in town.", "so": "Maanta shaqo ma hayno, magaalada ayaan iska wareegaynaa uun." } },
+        { "type": "build", "prompt": { "en": "We're just chilling at home", "so": "Guriga ayaan iska nasanaynaa uun" }, "answer": "Tunachill tu nyumbani", "extra": ["kazi", "nimeboeka"], "accept": ["Tunachill nyumbani tu"] }
+      ]
+    },
+    {
+      "id": "sheng-crew",
+      "goals": ["street"],
+      "title": { "en": "With the crew", "so": "Saaxiibbada dhexdooda" },
+      "items": ["sh.tuko-pamoja", "sh.nimekuskia", "sh.si-mbaya", "sh.mambo-mengi", "sh.sai"],
+      "extra": [
+        { "type": "respond", "heard": "Uko wapi sai?", "options": ["Si mbaya.", "Tuko pamoja.", "Niko tao, nakam sai."], "answer": 2, "explain": { "en": "'Where are you now?' – 'I'm in town, I'm coming right now.'", "so": "'Hadda xaggee joogtaa?' – 'Magaalada ayaan joogaa, hadda ayaan imanayaa.'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Sasa Omar, kazi inaendaje?", "en": "Hi Omar, how's work going?", "so": "Haye Omar, shaqadu sidee bay u socotaa?" },
+            { "who": "Omar", "sw": "Si mbaya. Mambo ni mengi tu.", "en": "Not bad. There's just a lot going on.", "so": "Ma xuma. Arrimo badan ayaa jira uun." },
+            { "who": "Halima", "sw": "Pole. Kesho mbogi inakutana tao. Kam!", "en": "Sorry to hear. Tomorrow the crew is meeting in town. Come!", "so": "Waan ka xumahay. Berri kooxdu waxay ku kulmaysaa magaalada. Kaalay!" },
+            { "who": "Omar", "sw": "Nimekuskia. Nitajaribu.", "en": "Got it. I'll try.", "so": "Waan fahmay. Waan isku dayi doonaa." },
+            { "who": "Halima", "sw": "Poa, tuko pamoja.", "en": "Cool, see you there.", "so": "Fiican, waan wada joognaa." }
+          ],
+          "question": { "en": "How is Omar's work going?", "so": "Shaqada Omar sidee bay u socotaa?" },
+          "options": [
+            { "en": "Very badly", "so": "Aad bay u xun tahay" },
+            { "en": "Not bad, but there's a lot going on", "so": "Ma xuma, laakiin arrimo badan ayaa jira" },
+            { "en": "He has no work", "so": "Shaqo ma hayo" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Mambo ni", "after": " siku hizi.", "options": ["tao", "mulla", "mengi"], "answer": 2, "meaning": { "en": "There's a lot going on these days.", "so": "Maalmahan arrimo badan ayaa jira." } },
+        { "type": "build", "prompt": { "en": "I hear you, we're together", "so": "Waan ku maqlay, wada jir baan nahay" }, "answer": "Nimekuskia tuko pamoja", "extra": ["sai", "mengi"] }
+      ]
+    }
+  ]
+}

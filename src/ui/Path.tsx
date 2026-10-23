@@ -1,3 +1,4 @@
+import { useEffect, useRef } from 'react';
 import { GOALS, UNITS } from '../content';
 import type { Lesson, Unit } from '../content/types';
 import type { Progress } from '../engine/progress';
@@ -21,20 +22,41 @@ export function PathView({ go }: { go: (hash: string) => void }) {
   const unlocked = (i: number) => p.unlockAll || i === 0 || isDone(order[i - 1].key);
   const nextIndex = order.findIndex((x, i) => !isDone(x.key) && unlocked(i));
   const goalName = (id: string) => GOALS.find((g) => g.id === id)?.title[p.lang] ?? id;
+  const currentRef = useRef<HTMLLIElement>(null);
+  const scrollToCurrent = (smooth: boolean) =>
+    currentRef.current?.scrollIntoView({ block: 'center', behavior: smooth ? 'smooth' : 'instant' });
+  // Open the path at the next lesson, not at the top.
+  useEffect(() => {
+    if (nextIndex > 2) scrollToCurrent(false);
+  }, []);
 
   let n = 0;
+  let sectionNo = 0;
+  let unitNo = 0; // counts only the units shown to this learner
+  let lastLevel = '';
   return (
     <div className="path">
-      {p.goals.includes('sports') && <p className="notice">{t('sportsComing')}</p>}
-      {UNITS.map((unit, ui) => {
+      {nextIndex > 2 && (
+        <button type="button" className="btn btn-ghost jump" onClick={() => scrollToCurrent(true)}>
+          {t('jumpToStart')}
+        </button>
+      )}
+      {UNITS.map((unit) => {
         const lessons = visibleLessons(unit, p);
         if (!lessons.length) return null;
+        const newSection = unit.level !== lastLevel;
+        if (newSection) sectionNo++;
+        lastLevel = unit.level;
+        unitNo++;
         return (
           <section key={unit.id} className="unit" style={{ ['--unit' as string]: unit.color }}>
+            {newSection && (
+              <h2 className="section-head">{t('section', { n: sectionNo, name: t(`level${unit.level}`) })}</h2>
+            )}
             <header className="unit-head">
               <div>
                 <p className="unit-kicker">
-                  {t('unit', { n: ui + 1 })} · {t('level', { level: unit.level })}
+                  {t('unit', { n: unitNo })} · {t('level', { level: unit.level })}
                 </p>
                 <h2>{unit.title[p.lang]}</h2>
                 <p className="unit-sw sw">{unit.swTitle}</p>
@@ -54,7 +76,12 @@ export function PathView({ go }: { go: (hash: string) => void }) {
                 const current = i === nextIndex;
                 const offset = OFFSETS[(n++) % OFFSETS.length];
                 return (
-                  <li key={lesson.id} className="lesson-node" style={{ transform: `translateX(${offset}px)` }}>
+                  <li
+                    key={lesson.id}
+                    ref={current ? currentRef : undefined}
+                    className="lesson-node"
+                    style={{ transform: `translateX(${offset}px)` }}
+                  >
                     <button
                       type="button"
                       className={`node ${done ? 'done' : ''} ${open ? 'open' : 'locked'} ${current ? 'current' : ''}`}

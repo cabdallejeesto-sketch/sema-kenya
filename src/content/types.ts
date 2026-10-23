@@ -49,7 +49,23 @@ export type Authored =
   | { type: 'build'; prompt: Text; answer: string; extra: string[]; accept?: string[] }
   | { type: 'respond'; heard: string; options: string[]; answer: number; explain?: Text }
   | { type: 'gap'; before: string; after: string; options: string[]; answer: number; meaning: Text }
-  | { type: 'dialogue'; lines: DialogueLine[]; question: Text; options: Text[]; answer: number };
+  | { type: 'dialogue'; lines: DialogueLine[]; question: Text; options: Text[]; answer: number }
+  /** A short reading: the learner reads (and hears) it, then answers each question. */
+  | { type: 'story'; title: Text; lines: StoryLine[]; questions: StoryQuestion[] };
+
+/** One sentence of a story. "who" is set when a character speaks the line. */
+export interface StoryLine {
+  who?: string;
+  sw: string;
+  en: string;
+  so: string;
+}
+
+export interface StoryQuestion {
+  question: Text;
+  options: Text[];
+  answer: number;
+}
 
 export interface Lesson {
   id: string;

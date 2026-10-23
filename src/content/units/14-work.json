@@ -1,0 +1,239 @@
+{
+  "id": "work",
+  "order": 14,
+  "level": "A2",
+  "color": "#475569",
+  "reviewed": false,
+  "title": { "en": "Work & Jobs", "so": "Shaqada iyo Xirfadaha" },
+  "swTitle": "Kazi",
+  "description": {
+    "en": "Say what you do, talk about jobs from the office to the jua kali yard, and handle hours, pay and job interviews.",
+    "so": "Sheeg shaqada aad qabato, ka hadal shaqooyinka laga bilaabo xafiiska ilaa goobaha jua kali, oo wax ka qabo saacadaha, mushaharka iyo wareysiyada shaqada."
+  },
+  "goals": ["business"],
+  "guide": [
+    {
+      "title": { "en": "Talking about your job", "so": "Ka hadalka shaqadaada" },
+      "body": {
+        "en": "Kufanya kazi means 'to work' (lit. to do work). Ask Unafanya kazi gani? (what work?) or Unafanya kazi wapi? (where?). Answer with Mimi ni + job: Mimi ni mwalimu. In everyday speech Kenyans drop the ni- of the present tense: Nafanya kazi tao, Naanza saa mbili.",
+        "so": "Kufanya kazi waxay ka dhigan tahay 'shaqayn' (macnaha: shaqo qabasho). Weydii Unafanya kazi gani? (shaqo noocee ah?) ama Unafanya kazi wapi? (xaggee?). Ku jawaab Mimi ni + shaqada: Mimi ni mwalimu. Hadalka maalinlaha ah, Kenyaanku waxay iska dhaafaan ni- ee waqtiga joogtada: Nafanya kazi tao, Naanza saa mbili."
+      },
+      "examples": [
+        { "sw": "Mimi ni muuguzi. Nafanya kazi hospitalini.", "en": "I'm a nurse. I work at a hospital.", "so": "Kalkaaliso caafimaad baan ahay. Isbitaal ayaan ka shaqeeyaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Jua kali and the fundi", "so": "Jua kali iyo fundi-ga" },
+      "body": {
+        "en": "Jua kali means 'fierce sun'. It names Kenya's informal sector: welders, mechanics, carpenters and metalworkers who work in open yards such as Kamukunji in Nairobi. Any skilled tradesman is a fundi: fundi wa magari (mechanic), fundi wa simu (phone repairer), fundi wa nguo (tailor), fundi wa mabomba (plumber).",
+        "so": "Jua kali macnaheedu waa 'qorrax kulul'. Waa magaca qaybta shaqada aan rasmiga ahayn ee Kenya: alxamiyayaal, makaanikyo, nijaarro iyo kuwa birta ka shaqeeya oo ku shaqeeya goobo bannaan sida Kamukunji ee Nairobi. Farsamayaqaan kasta waa fundi: fundi wa magari (makaanik), fundi wa simu (dayactire taleefan), fundi wa nguo (harqaanle), fundi wa mabomba (tuubbiste)."
+      },
+      "examples": [
+        { "sw": "Nimepeleka simu yangu kwa fundi.", "en": "I've taken my phone to the repairer.", "so": "Taleefankayga waxaan u geeyay dayactiraha.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Swahili time at work", "so": "Waqtiga Sawaaxiliga ee shaqada" },
+      "body": {
+        "en": "Swahili time starts counting at 6 a.m. and 6 p.m. So saa mbili asubuhi is 8 a.m. and saa kumi na moja jioni is 5 p.m. A normal office day runs from saa mbili to saa kumi na moja. Being late is Nimechelewa; a shift is zamu.",
+        "so": "Waqtiga Sawaaxiligu wuxuu tirinta ka bilaabaa 6-da subaxnimo iyo 6-da fiidnimo. Sidaas darteed saa mbili asubuhi waa 8-da subaxnimo, saa kumi na moja jioni waa 5-ta galabnimo. Maalin xafiis oo caadi ah waxay socotaa saa mbili ilaa saa kumi na moja. Daahitaanku waa Nimechelewa; nobadda shaqaduna waa zamu."
+      },
+      "examples": [
+        { "sw": "Natoka kazini saa kumi na moja jioni.", "en": "I leave work at 5 p.m.", "so": "Shaqada waxaan ka baxaa 5-ta galabnimo.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Who's who at work", "so": "Kuwa shaqada joga" },
+      "body": {
+        "en": "Bosi is the everyday word for your boss, mwajiri is the formal word for an employer, and young Nairobians say mdosi. A watchman is mlinzi, but most Kenyans say askari, and young people say watchie. Use bosi and mwajiri at work; keep the Sheng for friends.",
+        "so": "Bosi waa erayga maalinlaha ah ee madaxaaga shaqada, mwajiri waa erayga rasmiga ah ee shaqo-bixiyaha, dhallinyarada Nairobina waxay yiraahdaan mdosi. Waardiyuhu waa mlinzi, laakiin Kenyaanka badankood waxay yiraahdaan askari, dhallinyaraduna watchie. Shaqada ku isticmaal bosi iyo mwajiri; Sheng-ga u daa saaxiibbada."
+      },
+      "examples": [
+        { "sw": "Bosi wangu ni mkali kidogo.", "en": "My boss is a bit strict.", "so": "Madaxayga shaqadu wax yar buu adag yahay.", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "wk.kazi", "sw": "kazi", "en": "work / job", "so": "shaqo", "v": "standard", "syn": "work" },
+    { "id": "wk.mwalimu", "sw": "mwalimu", "en": "teacher", "so": "macallin", "v": "standard", "syn": "teacher", "note": { "en": "Also a respectful title: Mwalimu Otieno.", "so": "Sidoo kale waa magac sharafeed: Mwalimu Otieno." } },
+    { "id": "wk.daktari", "sw": "daktari", "en": "doctor", "so": "dhakhtar", "v": "standard", "syn": "doctor" },
+    { "id": "wk.mkulima", "sw": "mkulima", "en": "farmer", "so": "beeraley", "v": "standard" },
+    { "id": "wk.fundi", "sw": "fundi", "en": "skilled tradesman / repairer", "so": "farsamayaqaan", "v": "standard", "note": { "en": "fundi wa magari = mechanic, fundi wa simu = phone repairer, fundi wa nguo = tailor.", "so": "fundi wa magari = makaanik, fundi wa simu = dayactire taleefan, fundi wa nguo = harqaanle." } },
+    { "id": "wk.mpishi", "sw": "mpishi", "en": "cook / chef", "so": "kariye (cunto-kariye)", "v": "standard" },
+    { "id": "wk.karani", "sw": "karani", "en": "clerk / office worker", "so": "karraani", "v": "standard" },
+
+    { "id": "wk.mlinzi", "sw": "mlinzi", "en": "guard / watchman", "so": "waardiye (ilaaliye)", "v": "standard", "syn": "guard", "alt": ["askari"], "note": { "en": "Most Kenyans call a watchman askari, and young people say watchie. Askari can also mean a police officer or a soldier.", "so": "Kenyaanka badankood waardiyaha waxay ugu yeeraan askari, dhallinyaraduna waxay yiraahdaan watchie. Askari sidoo kale waxay noqon kartaa boolis ama askari ciidan." } },
+    { "id": "wk.muuguzi", "sw": "muuguzi", "en": "nurse", "so": "kalkaaliye caafimaad", "v": "standard", "syn": "nurse", "alt": ["nesi"], "note": { "en": "Many Kenyans also say nesi.", "so": "Kenyaan badan ayaa sidoo kale yiraahda nesi." } },
+    { "id": "wk.mfanyabiashara", "sw": "mfanyabiashara", "en": "businessperson / trader", "so": "ganacsade", "v": "standard", "note": { "en": "Plural: wafanyabiashara.", "so": "Wadarta: wafanyabiashara." } },
+    { "id": "wk.mfanyakazi", "sw": "mfanyakazi", "en": "worker / employee", "so": "shaqaale", "v": "standard", "syn": "worker", "note": { "en": "Plural: wafanyakazi.", "so": "Wadarta: wafanyakazi." } },
+    { "id": "wk.bosi", "sw": "bosi", "en": "boss", "so": "madaxa shaqada (maamulaha)", "v": "everyday", "syn": "boss" },
+
+    { "id": "wk.unafanya-kazi-gani", "sw": "Unafanya kazi gani?", "en": "What work do you do?", "so": "Maxaad ka shaqaysaa?", "v": "standard" },
+    { "id": "wk.mimi-ni-fundi", "sw": "Mimi ni fundi wa magari", "en": "I'm a mechanic", "so": "Makaanik baan ahay", "v": "standard", "note": { "en": "Mimi ni + job: Mimi ni mwalimu, Mimi ni karani.", "so": "Mimi ni + shaqada: Mimi ni mwalimu, Mimi ni karani." } },
+    { "id": "wk.unafanya-wapi", "sw": "Unafanya kazi wapi?", "en": "Where do you work?", "so": "Xaggee ka shaqaysaa?", "v": "standard" },
+    { "id": "wk.nafanya-westlands", "sw": "Nafanya kazi Westlands", "en": "I work in Westlands", "so": "Westlands ayaan ka shaqeeyaa", "v": "everyday", "alt": ["ninafanya kazi westlands"], "note": { "en": "Westlands is a business district of Nairobi. Nafanya is the everyday short form of ninafanya.", "so": "Westlands waa xaafad ganacsi oo Nairobi ah. Nafanya waa qaabka gaaban ee maalinlaha ah ee ninafanya." } },
+    { "id": "wk.ofisi", "sw": "ofisi", "en": "office", "so": "xafiis", "v": "standard", "note": { "en": "ofisini = at / in the office.", "so": "ofisini = xafiiska (gudihiisa)." } },
+    { "id": "wk.kampuni", "sw": "kampuni", "en": "company", "so": "shirkad", "v": "standard" },
+
+    { "id": "wk.kazini", "sw": "kazini", "en": "at work", "so": "shaqada (goobta shaqada)", "v": "standard", "syn": "at-work", "note": { "en": "kazi + -ni = at work. Niko kazini = I'm at work.", "so": "kazi + -ni = shaqada. Niko kazini = shaqada ayaan joogaa." } },
+    { "id": "wk.naanza-saa-mbili", "sw": "Naanza kazi saa mbili", "en": "I start work at 8 a.m.", "so": "Shaqada waxaan bilaabaa siddeedda subaxnimo", "v": "everyday", "alt": ["ninaanza kazi saa mbili"], "note": { "en": "Swahili time: saa mbili (hour two) = 8 a.m.", "so": "Waqtiga Sawaaxiliga: saa mbili (saacadda labaad) = 8-da subaxnimo." } },
+    { "id": "wk.zamu", "sw": "zamu", "en": "shift / turn", "so": "nobad (shift)", "v": "standard", "alt": ["shifti"], "note": { "en": "zamu ya usiku = night shift. Many Kenyans just say shift: Niko shift ya usiku.", "so": "zamu ya usiku = nobadda habeenka. Kenyaan badan waxay si fudud u yiraahdaan shift: Niko shift ya usiku." } },
+    { "id": "wk.nimechelewa", "sw": "Nimechelewa", "en": "I'm late", "so": "Waan daahay", "v": "standard", "syn": "late" },
+    { "id": "wk.likizo", "sw": "likizo", "en": "leave / time off", "so": "fasax", "v": "standard", "note": { "en": "Niko likizo = I'm on leave.", "so": "Niko likizo = fasax baan ku jiraa." } },
+
+    { "id": "wk.jua-kali", "sw": "jua kali", "en": "jua kali (informal sector)", "so": "jua kali (shaqooyinka farsamada ee bannaanka)", "v": "everyday", "note": { "en": "Literally 'fierce sun': craftsmen who work outdoors, such as welders, mechanics and furniture makers. A proud Kenyan term.", "so": "Macnaha erayga waa 'qorrax kulul': farsamayaqaannada bannaanka ka shaqeeya, sida alxamiyayaasha, makaanikyada iyo kuwa sameeya alaabta guryaha. Waa eray Kenyaanku ku faanaan." } },
+    { "id": "wk.kazi-ya-mikono", "sw": "kazi ya mikono", "en": "manual work / handwork", "so": "shaqo gacmeed", "v": "standard", "alt": ["kazi ya mkono"] },
+    { "id": "wk.kibarua", "sw": "kibarua", "en": "casual job (day labour)", "so": "shaqo maalinle ah", "v": "everyday", "note": { "en": "Also the casual worker himself. Plural: vibarua.", "so": "Sidoo kale waa qofka shaqadaas qabta. Wadarta: vibarua." } },
+    { "id": "wk.mshahara", "sw": "mshahara", "en": "salary / wages", "so": "mushahar", "v": "standard" },
+    { "id": "wk.tunalipwa", "sw": "Tunalipwa mwisho wa mwezi", "en": "We get paid at the end of the month", "so": "Mushaharka waxaa nala siiyaa dhammaadka bisha", "v": "standard" },
+    { "id": "wk.natafuta-kazi", "sw": "Natafuta kazi", "en": "I'm looking for work", "so": "Shaqo ayaan raadinayaa", "v": "everyday", "alt": ["ninatafuta kazi"] },
+
+    { "id": "wk.usaili", "sw": "usaili", "en": "job interview", "so": "wareysi shaqo", "v": "standard", "alt": ["interview"], "note": { "en": "Kenyan offices often just say interview. Usaili is the word used in job adverts.", "so": "Xafiisyada Kenya badanaa waxay si fudud u yiraahdaan interview. Usaili waa erayga ku qoran xayeysiinta shaqada." } },
+    { "id": "wk.cv", "sw": "CV", "en": "CV (résumé)", "so": "CV (taariikh-nololeedka shaqada)", "v": "everyday", "say": "si vi", "alt": ["si vi", "wasifu"], "note": { "en": "Said 'si-vi'. The formal Swahili word is wasifu.", "so": "Waxaa loogu dhawaaqaa 'si-vi'. Erayga rasmiga ah ee Sawaaxiliga waa wasifu." } },
+    { "id": "wk.uzoefu", "sw": "uzoefu", "en": "(work) experience", "so": "khibrad", "v": "standard" },
+    { "id": "wk.nina-uzoefu", "sw": "Nina uzoefu wa miaka mitatu", "en": "I have three years' experience", "so": "Waxaan leeyahay khibrad saddex sano ah", "v": "standard" },
+    { "id": "wk.nafasi-ya-kazi", "sw": "nafasi ya kazi", "en": "job vacancy", "so": "boos shaqo oo bannaan", "v": "standard" },
+    { "id": "wk.mwajiri", "sw": "mwajiri", "en": "employer", "so": "shaqo-bixiye", "v": "standard", "syn": "boss" },
+
+    { "id": "wk.mdosi", "sw": "mdosi", "en": "boss / big man (Sheng)", "so": "madaxa / nin lacag leh (Sheng)", "v": "sheng", "syn": "boss", "note": { "en": "Also used for any rich, important person.", "so": "Sidoo kale waxaa loogu yeeraa qof kasta oo hodan ah oo muhiim ah." } },
+    { "id": "wk.niko-job", "sw": "Niko job", "en": "I'm at work (Sheng)", "so": "Shaqada ayaan joogaa (Sheng)", "v": "sheng", "syn": "at-work" },
+    { "id": "wk.chapa-kazi", "sw": "Chapa kazi!", "en": "Work hard! (lit. beat the work)", "so": "Si adag u shaqee!", "v": "everyday", "note": { "en": "A hard worker is a mchapakazi, a popular Kenyan compliment.", "so": "Qofka si adag u shaqeeya waa mchapakazi, waana amaan caan ka ah Kenya." } },
+    { "id": "wk.kazi-ni-kazi", "sw": "Kazi ni kazi", "en": "A job is a job (no work is shameful)", "so": "Shaqo waa shaqo", "v": "everyday" }
+  ],
+  "lessons": [
+    {
+      "id": "jobs",
+      "title": { "en": "Jobs", "so": "Shaqooyinka" },
+      "items": ["wk.kazi", "wk.mwalimu", "wk.daktari", "wk.mkulima", "wk.fundi", "wk.mpishi", "wk.karani"],
+      "extra": [
+        { "type": "gap", "before": "Mama yangu ni", "after": ". Anafundisha shule ya msingi.", "options": ["mkulima", "mpishi", "mwalimu"], "answer": 2, "meaning": { "en": "My mother is a teacher. She teaches at a primary school.", "so": "Hooyaday waa macallimad. Waxay wax ka dhigtaa dugsi hoose." } },
+        { "type": "respond", "heard": "Gari langu limeharibika.", "options": ["Hongera!", "Pole! Tafuta fundi.", "Mimi ni mkulima."], "answer": 1, "explain": { "en": "'My car has broken down.' – 'Oh no! Find a fundi (mechanic).'", "so": "'Gaarigaygu wuu xumaaday.' – 'Waan ka xumahay! Raadi fundi (makaanik).'" } },
+        { "type": "build", "prompt": { "en": "My father is a farmer", "so": "Aabbahay waa beeraley" }, "answer": "Baba yangu ni mkulima", "extra": ["mpishi", "mama"] }
+      ]
+    },
+    {
+      "id": "more-jobs",
+      "title": { "en": "At the workplace", "so": "Goobta shaqada" },
+      "items": ["wk.mlinzi", "wk.muuguzi", "wk.mfanyabiashara", "wk.mfanyakazi", "wk.bosi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mlinzi", "sw": "Habari ya asubuhi, mama. Karibu.", "en": "Good morning, madam. Welcome.", "so": "Subax wanaagsan, marwo. Soo dhawoow." },
+            { "who": "Mwikali", "sw": "Asante, mzee. Mimi ni mfanyakazi mpya hapa. Mimi ni muuguzi.", "en": "Thank you, sir. I'm a new employee here. I'm a nurse.", "so": "Mahadsanid, adeer. Waxaan ahay shaqaale cusub oo halkan ah. Kalkaaliso caafimaad baan ahay." },
+            { "who": "Mlinzi", "sw": "Karibu sana! Bosi yuko ndani, ofisi ya kwanza kulia.", "en": "You're very welcome! The boss is inside, first office on the right.", "so": "Aad baad u soo dhowdahay! Madaxu gudaha ayuu joogaa, xafiiska koowaad ee midigta." },
+            { "who": "Mwikali", "sw": "Asante sana, mzee.", "en": "Thank you very much, sir.", "so": "Aad iyo aad baad u mahadsantahay, adeer." }
+          ],
+          "question": { "en": "What is Mwikali's job?", "so": "Mwikali maxay ka shaqaysaa?" },
+          "options": [
+            { "en": "Nurse", "so": "Kalkaaliso caafimaad" },
+            { "en": "Teacher", "so": "Macallimad" },
+            { "en": "Guard", "so": "Waardiyad" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Wewe ni mfanyabiashara?", "options": ["Kuna baridi leo.", "Asante kwa chakula.", "Ndiyo, nina duka Eastleigh."], "answer": 2, "explain": { "en": "'Are you a businessperson?' – 'Yes, I have a shop in Eastleigh.'", "so": "'Ma ganacsade baad tahay?' – 'Haa, dukaan baan ku leeyahay Eastleigh.'" } },
+        { "type": "gap", "before": "Usiku,", "after": " analinda nyumba zetu.", "options": ["mlinzi", "mpishi", "mwalimu"], "answer": 0, "meaning": { "en": "At night, the watchman guards our houses.", "so": "Habeenkii, waardiyuhu wuxuu ilaaliyaa guryahayaga." } }
+      ]
+    },
+    {
+      "id": "your-job",
+      "title": { "en": "Talking about your job", "so": "Ka hadalka shaqadaada" },
+      "items": ["wk.unafanya-kazi-gani", "wk.mimi-ni-fundi", "wk.unafanya-wapi", "wk.nafanya-westlands", "wk.ofisi", "wk.kampuni"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Otieno", "sw": "Amina, unafanya kazi gani?", "en": "Amina, what do you do?", "so": "Amina, maxaad ka shaqaysaa?" },
+            { "who": "Amina", "sw": "Mimi ni karani katika kampuni ya simu.", "en": "I'm a clerk at a phone company.", "so": "Waxaan karraani ka ahay shirkad taleefan." },
+            { "who": "Otieno", "sw": "Unafanya kazi wapi?", "en": "Where do you work?", "so": "Xaggee ka shaqaysaa?" },
+            { "who": "Amina", "sw": "Nafanya kazi Westlands. Na wewe?", "en": "I work in Westlands. And you?", "so": "Westlands ayaan ka shaqeeyaa. Adiguna?" },
+            { "who": "Otieno", "sw": "Mimi ni fundi wa magari. Nafanya kazi Kariobangi.", "en": "I'm a mechanic. I work in Kariobangi.", "so": "Anigu makaanik baan ahay. Kariobangi ayaan ka shaqeeyaa." }
+          ],
+          "question": { "en": "Where does Amina work?", "so": "Amina xaggee ka shaqaysaa?" },
+          "options": [
+            { "en": "In Kariobangi", "so": "Kariobangi" },
+            { "en": "In Westlands", "so": "Westlands" },
+            { "en": "At home", "so": "Guriga" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Unafanya kazi gani?", "options": ["Mimi ni mwalimu.", "Nafanya kazi kesho.", "Ofisi iko wapi?"], "answer": 0, "explain": { "en": "'What work do you do?' – 'I'm a teacher.' Answer with Mimi ni + your job.", "so": "'Maxaad ka shaqaysaa?' – 'Macallin baan ahay.' Ku jawaab Mimi ni + shaqadaada." } },
+        { "type": "build", "prompt": { "en": "I work in an office", "so": "Xafiis ayaan ka shaqeeyaa" }, "answer": "Nafanya kazi ofisini", "extra": ["gani", "shule"] }
+      ]
+    },
+    {
+      "id": "hours",
+      "title": { "en": "Hours, shifts and being late", "so": "Saacadaha, nobadaha iyo daahitaanka" },
+      "items": ["wk.kazini", "wk.naanza-saa-mbili", "wk.zamu", "wk.nimechelewa", "wk.likizo"],
+      "extra": [
+        { "type": "respond", "heard": "Kwa nini umechelewa?", "options": ["Asante kwa chakula.", "Mimi ni mpishi.", "Samahani, nilikuwa kwa jam."], "answer": 2, "explain": { "en": "'Why are you late?' – 'Sorry, I was stuck in traffic.'", "so": "'Maxaad u daahday?' – 'Iga raalli ahaw, ciriiriga gaadiidka ayaan ku jiray.'" } },
+        { "type": "gap", "before": "Nina zamu ya", "after": " leo, kwa hiyo nitalala mchana.", "options": ["ofisi", "usiku", "kazini"], "answer": 1, "meaning": { "en": "I'm on the night shift today, so I'll sleep during the day.", "so": "Maanta nobadda habeenka ayaan hayaa, sidaas darteed maalintii ayaan seexan doonaa." } },
+        { "type": "build", "prompt": { "en": "I'm on leave this week", "so": "Toddobaadkan fasax baan ku jiraa" }, "answer": "Niko likizo wiki hii", "extra": ["kazini", "zamu"] }
+      ]
+    },
+    {
+      "id": "jua-kali-and-pay",
+      "title": { "en": "Jua kali and pay", "so": "Jua kali iyo mushaharka" },
+      "items": ["wk.jua-kali", "wk.kazi-ya-mikono", "wk.kibarua", "wk.mshahara", "wk.tunalipwa", "wk.natafuta-kazi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Baraka", "sw": "Kamau, siku hizi unafanya kazi wapi?", "en": "Kamau, where are you working these days?", "so": "Kamau, maalmahan xaggee ka shaqaysaa?" },
+            { "who": "Kamau", "sw": "Nafanya kazi ya jua kali pale Kamukunji. Natengeneza masanduku ya chuma.", "en": "I do jua kali work at Kamukunji. I make metal boxes.", "so": "Shaqo jua kali ah ayaan ka qabtaa Kamukunji. Waxaan sameeyaa sanaadiiq bir ah." },
+            { "who": "Baraka", "sw": "Unapata mshahara mzuri?", "en": "Do you get a good salary?", "so": "Mushahar fiican ma heshaa?" },
+            { "who": "Kamau", "sw": "Hakuna mshahara. Wateja wananilipa kila siku.", "en": "There's no salary. Customers pay me every day.", "so": "Mushahar ma jiro. Macaamiishu maalin kasta ayay lacag i siiyaan." }
+          ],
+          "question": { "en": "How does Kamau get paid?", "so": "Sidee lacag loogu bixiyaa Kamau?" },
+          "options": [
+            { "en": "At the end of the month", "so": "Dhammaadka bisha" },
+            { "en": "He doesn't get paid", "so": "Lacag lama siiyo" },
+            { "en": "Customers pay him every day", "so": "Macaamiishu maalin kasta ayay lacag siiyaan" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Natafuta kazi, lakini sijapata.", "options": ["Usijali, utapata.", "Hongera kwa harusi!", "Kuna baridi sana."], "answer": 0, "explain": { "en": "'I'm looking for work, but I haven't found any yet.' – 'Don't worry, you'll find some.'", "so": "'Shaqo ayaan raadinayaa, laakiin weli ma helin.' – 'Ha welwelin, waad heli doontaa.'" } },
+        { "type": "gap", "before": "Mshahara wangu ni", "after": " sana, natafuta kazi nyingine.", "options": ["haraka", "mdogo", "kesho"], "answer": 1, "meaning": { "en": "My salary is very small; I'm looking for another job.", "so": "Mushaharkaygu aad buu u yar yahay; shaqo kale ayaan raadinayaa." } }
+      ]
+    },
+    {
+      "id": "job-interview",
+      "goals": ["business"],
+      "title": { "en": "The job interview", "so": "Wareysiga shaqada" },
+      "items": ["wk.usaili", "wk.cv", "wk.uzoefu", "wk.nina-uzoefu", "wk.nafasi-ya-kazi", "wk.mwajiri"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Bi Nekesa", "sw": "Karibu, Abdi. Kaa chini. Una uzoefu gani?", "en": "Welcome, Abdi. Have a seat. What experience do you have?", "so": "Soo dhawoow, Abdi. Fadhiiso. Khibrad noocee ah ayaad leedahay?" },
+            { "who": "Abdi", "sw": "Nina uzoefu wa miaka mitatu kama karani wa benki.", "en": "I have three years' experience as a bank clerk.", "so": "Waxaan leeyahay khibrad saddex sano ah oo karraani bangi ah." },
+            { "who": "Bi Nekesa", "sw": "Vizuri. Umeleta vyeti vyako?", "en": "Good. Have you brought your certificates?", "so": "Waa fiican tahay. Shahaadooyinkaaga ma keentay?" },
+            { "who": "Abdi", "sw": "Ndiyo, hivi hapa.", "en": "Yes, here they are.", "so": "Haa, waa kuwan." },
+            { "who": "Bi Nekesa", "sw": "Asante. Tutakupigia simu wiki ijayo.", "en": "Thank you. We'll call you next week.", "so": "Mahadsanid. Toddobaadka soo socda ayaan ku soo wici doonnaa." }
+          ],
+          "question": { "en": "How many years of experience does Abdi have?", "so": "Abdi immisa sano oo khibrad ah ayuu leeyahay?" },
+          "options": [
+            { "en": "One", "so": "Hal sano" },
+            { "en": "Three", "so": "Saddex sano" },
+            { "en": "Five", "so": "Shan sano" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Tuna nafasi ya kazi ya mpishi.", "options": ["Mvua inanyesha.", "Nimeshiba, asante.", "Nina uzoefu wa miaka miwili kama mpishi."], "answer": 2, "explain": { "en": "'We have a vacancy for a cook.' – 'I have two years' experience as a cook.'", "so": "'Boos bannaan oo kariye ah ayaan haynaa.' – 'Waxaan leeyahay laba sano oo khibrad ah oo kariye ahaan.'" } },
+        { "type": "build", "prompt": { "en": "I'm looking for a job as a cook", "so": "Shaqo kariye ayaan raadinayaa" }, "answer": "Natafuta kazi ya mpishi", "extra": ["uzoefu", "ofisi"] }
+      ]
+    },
+    {
+      "id": "work-slang",
+      "goals": ["street"],
+      "title": { "en": "Work talk on the street (Sheng)", "so": "Hadalka shaqada ee waddada (Sheng)" },
+      "items": ["wk.mdosi", "wk.niko-job", "wk.chapa-kazi", "wk.kazi-ni-kazi"],
+      "extra": [
+        { "type": "respond", "heard": "Uko wapi, msee?", "options": ["Niko job, tutaongea baadaye.", "Hii ni bei ya jumla.", "Kuna mafuriko."], "answer": 0, "explain": { "en": "'Where are you, man?' – 'I'm at work, we'll talk later.'", "so": "'Xaggee joogtaa, saaxiib?' – 'Shaqada ayaan joogaa, goor dambe ayaan wada hadli doonnaa.'" } },
+        { "type": "gap", "before": "Kazi ni", "after": ", hakuna kazi mbaya.", "options": ["mbali", "kazi", "mvua"], "answer": 1, "meaning": { "en": "A job is a job; no work is bad.", "so": "Shaqo waa shaqo; ma jirto shaqo xun." } },
+        { "type": "build", "prompt": { "en": "My boss is at work (Sheng)", "so": "Madaxaygu shaqada ayuu joogaa (Sheng)" }, "answer": "Mdosi wangu yuko job", "extra": ["mvua", "jana"] }
+      ]
+    }
+  ]
+}

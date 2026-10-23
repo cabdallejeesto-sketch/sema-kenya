@@ -94,7 +94,7 @@
     { "id": "n.chapaa", "sw": "chapaa", "en": "money (Sheng)", "so": "lacag (Sheng)", "v": "sheng", "syn": "money" },
     { "id": "n.doo", "sw": "doo", "en": "cash / money (Sheng)", "so": "lacag caddaan ah (Sheng)", "v": "sheng", "syn": "money" },
     { "id": "n.mbao", "sw": "mbao", "en": "twenty shillings (Sheng)", "so": "labaatan shilin (Sheng)", "v": "sheng" },
-    { "id": "n.thao", "sw": "thao", "en": "a thousand shillings (Sheng)", "so": "kun shilin (Sheng)", "v": "sheng" },
+    { "id": "n.thao", "sw": "thao", "en": "a thousand shillings (Sheng)", "so": "kun shilin (Sheng)", "v": "sheng", "syn": "thousand" },
     { "id": "n.sina-doo", "sw": "Sina doo", "en": "I'm broke (I have no money)", "so": "Lacag ma haysto", "v": "sheng" },
 
     { "id": "n.mteja", "sw": "mteja", "en": "customer", "so": "macmiil", "v": "standard" },

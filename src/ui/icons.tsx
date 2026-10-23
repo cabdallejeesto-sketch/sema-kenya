@@ -93,3 +93,13 @@ export const Flag = ({ size, ...p }: P) => (
     <path d="M5 21V4M5 4h11l-2 4 2 4H5" />
   </svg>
 );
+export const Play = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}>
+    <path d="M7 4.5v15l12-7.5z" fill="currentColor" />
+  </svg>
+);
+export const StopIcon = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}>
+    <rect x="6" y="6" width="12" height="12" rx="2" fill="currentColor" />
+  </svg>
+);

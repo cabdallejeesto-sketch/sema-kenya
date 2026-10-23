@@ -1,0 +1,53 @@
+Sema Kenya Language Platform - License
+Copyright (c) 2026 cabdallejeesto-sketch (https://github.com/cabdallejeesto-sketch). All rights reserved.
+
+This is NOT open-source software. The code, lesson content, translations, audio recordings,
+images and design in this repository (together, "the Project") belong to the copyright owner.
+You may only use the Project as this license allows.
+
+1. WHAT YOU MAY DO
+
+   a. Use the Sema Kenya website (https://cabdallejeesto-sketch.github.io/sema-kenya/) for free,
+      for your own personal, non-commercial learning.
+   b. Read the source code and content on GitHub, inside this repository, using GitHub's website.
+   c. Report mistakes and suggest improvements through GitHub issues or pull requests. Forking on
+      GitHub is allowed only as far as GitHub's Terms of Service require for that purpose.
+   d. Install the website on your phone or computer as an app and use it offline. The copy your
+      browser keeps for this is allowed for your own personal learning only.
+
+2. WHAT YOU MAY NOT DO (unless the copyright owner gives you written permission)
+
+   a. Download, clone or copy the Project, or any part of it, to your own computer, server, cloud
+      storage or any place outside this GitHub repository (except the browser copy in 1.d).
+   b. Copy, reuse, modify, translate, republish or share any part of the Project, including the
+      lesson texts, translations, audio clips, exercises, design and code.
+   c. Use the Project or any part of it in another app, website, course, book, video or product,
+      whether free or paid.
+   d. Use the Project for any commercial purpose.
+   e. Scrape, bulk-download or harvest the content or audio, or use any part of the Project to
+      train artificial intelligence or machine-learning models.
+   f. Remove or change this license or the copyright notice.
+
+3. THIRD-PARTY PARTS
+
+   Open-source libraries used by the Project (such as React and Vite) stay under their own licenses;
+   this license does not change them. The audio was made with Microsoft text-to-speech voices; any
+   rights in those voices belong to their owners. Traditional Swahili proverbs and folktale openings
+   are part of the public cultural heritage; only the Project's own selection, explanations and
+   translations of them are covered here.
+
+4. CONTRIBUTIONS
+
+   If you send a suggestion, issue or pull request, you agree that the copyright owner may use it in
+   the Project, without payment, under this license.
+
+5. NO WARRANTY
+
+   The Project is provided "as is", without any warranty. Lessons may contain mistakes and are marked
+   "not yet checked" until a native Kenyan speaker has reviewed them. The copyright owner is not
+   responsible for any loss or damage from using the Project.
+
+6. PERMISSION
+
+   To ask for permission to do anything not allowed above, open an issue in this repository.
+   Breaking this license ends your right to use the Project.

@@ -1,0 +1,255 @@
+{
+  "id": "friends",
+  "order": 17,
+  "level": "A2",
+  "color": "#db2777",
+  "reviewed": false,
+  "title": { "en": "Friends & Making Plans", "so": "Saaxiibbada iyo Qorsheynta" },
+  "swTitle": "Marafiki na Mipango",
+  "description": {
+    "en": "Talk about your friends, invite people out, agree on a time and place, and say yes or no politely, including by text.",
+    "so": "Ka hadal saaxiibbadaa, dadka u yeer inaad dibadda u baxdaan, ku heshiiya waqti iyo meel, oo si edeb leh u dheh haa ama maya, xataa fariin qoraal ah."
+  },
+  "guide": [
+    {
+      "title": { "en": "Friends in Kenya", "so": "Saaxiibbada Kenya" },
+      "body": {
+        "en": "Rafiki is a friend. In school Swahili the plural is also rafiki, but Kenyans very often say marafiki. Mwenzangu (my mate) is used for classmates, colleagues and anyone you share something with. Close friends drop by, share food and help each other with money and jobs. You met the Sheng word beshte (best friend) in the Family unit.",
+        "so": "Rafiki waa saaxiib. Sawaaxiliga dugsiga wadartuna waa rafiki, laakiin Kenyaanku inta badan waxay yiraahdaan marafiki. Mwenzangu (jaalkay) waxaa loo isticmaalaa ardayda fasalka, asxaabta shaqada iyo qof kasta oo aad wax la wadaagto. Saaxiibbada dhow way is booqdaan, cuntada way wadaagaan, waxayna isku caawiyaan lacag iyo shaqo. Erayga Sheng ee beshte (saaxiibka ugu fiican) waxaad ku baratay cutubka Qoyska."
+      },
+      "examples": [
+        { "sw": "Huyu ni mwenzangu wa kazi.", "en": "This is my workmate.", "so": "Kani waa jaalkay shaqada.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Inviting and meeting up", "so": "Martiqaadka iyo kulanka" },
+      "body": {
+        "en": "Invite with Twende (let's go) plus a verb ending in -e: Twende tutembee (let's go for a walk), Twende tutazame mpira (let's go and watch football). Fix the place with Tukutane wapi? and the time with Tukutane saa ngapi? Remember Swahili time: saa nane mchana is 2 p.m., saa moja jioni is 7 p.m.",
+        "so": "Ku martiqaad Twende (aan tagno) iyo fal ku dhammaada -e: Twende tutembee (aan socod u baxno), Twende tutazame mpira (aan u tagno oo kubadda cagta daawanno). Meesha ku go'aami Tukutane wapi? waqtigana Tukutane saa ngapi? Xusuuso waqtiga Sawaaxiliga: saa nane mchana waa 2 galabnimo, saa moja jioni waa 7 fiidnimo."
+      },
+      "examples": [
+        { "sw": "Tukutane saa nane mchana.", "en": "Let's meet at two in the afternoon.", "so": "Aan ku kulanno labada galabnimo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Saying no without saying no", "so": "Maya oo aan maya la oran" },
+      "body": {
+        "en": "A flat Hapana! can sound harsh. Kenyans soften a refusal: Pole, siwezi leo (Sorry, I can't today), Labda wikendi ijayo (Maybe next weekend). Nitaona (I'll see) and Nitajaribu (I'll try) often politely mean no, so don't count on that friend!",
+        "so": "Hapana! oo qallafsan waxay u ekaan kartaa mid adag. Kenyaanku way jilciyaan diidmada: Pole, siwezi leo (Waan ka xumahay, maanta ma awoodo), Labda wikendi ijayo (Malaha dhammaadka toddobaadka soo socda). Nitaona (Waan ka fiirsan doonaa) iyo Nitajaribu (Waan isku dayi doonaa) badanaa si edeb leh ayay maya u tilmaamaan, markaa saaxiibkaas ha isku hallayn!"
+      },
+      "examples": [
+        { "sw": "Pole, siwezi leo. Labda wikendi ijayo.", "en": "Sorry, I can't today. Maybe next weekend.", "so": "Waan ka xumahay, maanta ma awoodo. Malaha dhammaadka toddobaadka soo socda.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Texting the Kenyan way", "so": "Fariimaha qoraalka sida Kenya" },
+      "body": {
+        "en": "Kenyan texts mix Swahili, English and Sheng. People drop vowels (nko njiani for niko njiani, nmefika for nimefika), write sai for sasa hivi and add English freely: Nitakutext later. This course teaches the full forms so you can read and say them, but don't be surprised by the short versions.",
+        "so": "Fariimaha Kenya waxay isku daraan Sawaaxili, Ingiriis iyo Sheng. Dadku shaqallada way tuuraan (nko njiani halkii niko njiani, nmefika halkii nimefika), waxay qoraan sai halkii sasa hivi, Ingiriisna si xor ah ayay ugu daraan: Nitakutext later. Koorsadani waxay baraysaa qaababka buuxa si aad u akhrido oo aad u dhawaaqdo, laakiin ha la yaabin qaababka gaagaaban."
+      },
+      "examples": [
+        { "sw": "Niko njiani, nafika sasa hivi.", "en": "I'm on my way, I'll be there in a moment.", "so": "Waan soo socdaa, hadda ayaan imanayaa.", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "fr.rafiki", "sw": "rafiki", "en": "friend", "so": "saaxiib", "v": "standard", "syn": "friend", "note": { "en": "Rafiki yangu = my friend. Plural: rafiki in school Swahili, marafiki in everyday Kenyan speech.", "so": "Rafiki yangu = saaxiibkay. Wadarta: rafiki Sawaaxiliga dugsiga, marafiki hadalka maalinlaha ah ee Kenya." } },
+    { "id": "fr.urafiki", "sw": "urafiki", "en": "friendship", "so": "saaxiibtinimo", "v": "standard" },
+    { "id": "fr.mwenzangu", "sw": "mwenzangu", "en": "my mate / my colleague", "so": "jaalkay / saaxiibkay", "v": "standard", "syn": "friend", "note": { "en": "From mwenzi (companion). Mwenzako = your mate, wenzangu = my mates.", "so": "Waxay ka timid mwenzi (wehel). Mwenzako = jaalkaa, wenzangu = jaalladayda." } },
+    { "id": "fr.huyu-ni-rafiki", "sw": "Huyu ni rafiki yangu", "en": "This is my friend", "so": "Kani waa saaxiibkay", "v": "standard" },
+    { "id": "fr.tulisoma-pamoja", "sw": "Tulisoma pamoja", "en": "We studied together", "so": "Wax ayaan wada baranay", "v": "standard", "note": { "en": "Tu- (we) + -li- (past) + soma (study). Many Kenyan friendships start at school.", "so": "Tu- (annaga) + -li- (waqti tegay) + soma (wax baro). Saaxiibtinimo badan oo Kenya ah waxay ka bilaabataa dugsiga." } },
+    { "id": "fr.tumejuana", "sw": "Tumejuana muda mrefu", "en": "We've known each other a long time", "so": "Muddo dheer ayaan is naqaannay", "v": "standard", "note": { "en": "-ana = each other: kujua (to know), kujuana (to know each other).", "so": "-ana = midba midka kale: kujua (aqoon), kujuana (is aqoon)." } },
+
+    { "id": "fr.uko-free", "sw": "Uko free Jumamosi?", "en": "Are you free on Saturday?", "so": "Sabtida waqti ma haysataa?", "v": "everyday", "say": "Uko frii Jumamosi?", "alt": ["uko frii jumamosi", "una nafasi jumamosi"], "note": { "en": "Kenyans mix in English free. The fully Swahili way: Una nafasi Jumamosi?", "so": "Kenyaanku waxay ku daraan erayga Ingiriiska free. Qaabka Sawaaxili ee buuxa: Una nafasi Jumamosi?" } },
+    { "id": "fr.twende", "sw": "Twende!", "en": "Let's go!", "so": "Aan tagno!", "v": "standard", "syn": "go", "note": { "en": "Add a verb ending in -e: Twende tutembee = Let's go for a walk.", "so": "Ku dar fal ku dhammaada -e: Twende tutembee = Aan socod u baxno." } },
+    { "id": "fr.tukutane-wapi", "sw": "Tukutane wapi?", "en": "Where shall we meet?", "so": "Xaggee ku kulannaa?", "v": "standard" },
+    { "id": "fr.tukutane-saa-ngapi", "sw": "Tukutane saa ngapi?", "en": "What time shall we meet?", "so": "Goorma ayaan kulannaa?", "v": "standard" },
+    { "id": "fr.tukutane-saa-nane", "sw": "Tukutane saa nane", "en": "Let's meet at two (p.m.)", "so": "Aan ku kulanno labada galabnimo", "v": "standard", "note": { "en": "Swahili time counts from sunrise: saa nane is the eighth hour, so 2 p.m.", "so": "Waqtiga Sawaaxiligu wuxuu ka bilaabmaa qorrax-ka-soo-bax: saa nane waa saacadda siddeedaad, markaa 2 galabnimo." } },
+    { "id": "fr.nitakupigia", "sw": "Nitakupigia", "en": "I'll call you", "so": "Waan ku soo wici doonaa", "v": "standard", "note": { "en": "Ni-ta-ku-pigia = I-will-you-call. Nipigie = call me.", "so": "Ni-ta-ku-pigia = aniga-waan-ku-wici doonaa. Nipigie = i soo wac." } },
+
+    { "id": "fr.sawa-poa", "sw": "Sawa, poa!", "en": "Okay, cool!", "so": "Hagaag, fiican!", "v": "everyday", "syn": "okay" },
+    { "id": "fr.bila-shaka", "sw": "Bila shaka!", "en": "Of course! / Definitely!", "so": "Haa, dabcan!", "v": "standard", "syn": "okay", "note": { "en": "Lit. without doubt.", "so": "Macnaha: shaki la'aan." } },
+    { "id": "fr.nitakuja", "sw": "Nitakuja", "en": "I'll come", "so": "Waan iman doonaa", "v": "standard", "note": { "en": "In Sheng you will also hear Nitakam.", "so": "Sheng waxaad sidoo kale maqli doontaa Nitakam." } },
+    { "id": "fr.pole-siwezi", "sw": "Pole, siwezi", "en": "Sorry, I can't", "so": "Waan ka xumahay, ma awoodo", "v": "everyday", "alt": ["samahani siwezi"], "note": { "en": "Kenyans often use pole (sympathy) as a soft 'sorry' here. Samahani, siwezi also works.", "so": "Kenyaanku badanaa halkan pole (tacsi) waxay u isticmaalaan 'ka xumahay' jilicsan. Samahani, siwezi sidoo kale waa sax." } },
+    { "id": "fr.niko-busy", "sw": "Niko busy", "en": "I'm busy", "so": "Waan mashquulsanahay", "v": "everyday", "say": "Niko bizi", "alt": ["niko bize", "niko bizi", "nina shughuli"], "note": { "en": "Often written niko bize. Standard: Nina shughuli nyingi.", "so": "Badanaa waxaa loo qoraa niko bize. Caadiga: Nina shughuli nyingi." } },
+    { "id": "fr.labda-wikendi", "sw": "Labda wikendi ijayo", "en": "Maybe next weekend", "so": "Malaha dhammaadka toddobaadka soo socda", "v": "everyday", "note": { "en": "Labda = maybe, ijayo = next (lit. that is coming).", "so": "Labda = malaha, ijayo = soo socda." } },
+    { "id": "fr.nitaona", "sw": "Nitaona", "en": "I'll see", "so": "Waan ka fiirsan doonaa", "v": "standard", "note": { "en": "Often a polite way of saying no.", "so": "Badanaa waa hab edeb leh oo maya lagu yiraahdo." } },
+
+    { "id": "fr.wikendi", "sw": "wikendi", "en": "weekend", "so": "dhammaadka toddobaadka", "v": "everyday", "alt": ["mwisho wa wiki"], "note": { "en": "From English. The standard form is mwisho wa wiki.", "so": "Waxay ka timid Ingiriiska. Qaabka caadiga ahi waa mwisho wa wiki." } },
+    { "id": "fr.kwenda-kanisani", "sw": "kwenda kanisani", "en": "to go to church", "so": "kaniisadda tegid", "v": "standard", "note": { "en": "Kanisa = church; kanisani = at or to church. Sunday mornings are busy on Kenyan roads.", "so": "Kanisa = kaniisad; kanisani = kaniisadda (ku jira ama loo socdo). Axadda subaxdeeda waddooyinka Kenya way mashquul yihiin." } },
+    { "id": "fr.kwenda-msikitini", "sw": "kwenda msikitini", "en": "to go to the mosque", "so": "masjidka tegid", "v": "standard", "note": { "en": "Msikiti = mosque; msikitini = at or to the mosque. Friday prayers fill the mosques of Eastleigh and Mombasa.", "so": "Msikiti = masjid; msikitini = masjidka (ku jira ama loo socdo). Salaadda Jimcaha masaajidda Eastleigh iyo Mombasa way buuxdaa." } },
+    { "id": "fr.kutazama-mpira", "sw": "kutazama mpira", "en": "to watch football", "so": "kubadda cagta daawasho", "v": "standard", "alt": ["kuangalia mpira"], "note": { "en": "Mpira = ball, and also football. Many Kenyans watch big matches together in cafés and halls.", "so": "Mpira = kubad, sidoo kale kubadda cagta. Kenyaan badan ciyaaraha waaweyn waxay ku wada daawadaan makhaayadaha iyo hoolalka." } },
+    { "id": "fr.kwenda-beach", "sw": "kwenda beach", "en": "to go to the beach", "so": "xeebta tegid", "v": "everyday", "say": "kwenda biichi", "alt": ["kwenda ufukweni", "kwenda bichi"], "note": { "en": "Standard: kwenda ufukweni. In Mombasa families head to the beach on Sunday afternoons.", "so": "Caadiga: kwenda ufukweni. Mombasa, qoysasku Axadda galabtii xeebta ayay aadaan." } },
+    { "id": "fr.kutembea", "sw": "kutembea", "en": "to walk / to go out and about", "so": "socod / dalxiis", "v": "standard", "note": { "en": "Kutembelea means to visit: Nitamtembelea shangazi = I'll visit my aunt.", "so": "Kutembelea waxay ka dhigan tahay booqasho: Nitamtembelea shangazi = Eeddo ayaan booqan doonaa." } },
+    { "id": "fr.kula-nje", "sw": "kula nje", "en": "to eat out", "so": "dibadda wax ka cunid", "v": "everyday", "note": { "en": "Lit. to eat outside. Twende tukale nje leo = Let's go and eat out today.", "so": "Macnaha: dibadda wax ku cunid. Twende tukale nje leo = Aan maanta dibadda wax ka cunno." } },
+
+    { "id": "fr.uko-wapi", "sw": "Uko wapi?", "en": "Where are you?", "so": "Xaggee joogtaa?", "v": "standard" },
+    { "id": "fr.niko-njiani", "sw": "Niko njiani", "en": "I'm on my way", "so": "Waan soo socdaa", "v": "standard", "note": { "en": "Lit. I'm on the road. A Kenyan joke: sometimes it means 'I haven't left yet'!", "so": "Macnaha: waddada ayaan ku jiraa. Kaftan Kenya: mararka qaar waxay ka dhigan tahay 'weli ma bixin'!" } },
+    { "id": "fr.nisubiri", "sw": "Nisubiri", "en": "Wait for me", "so": "I sug", "v": "standard", "alt": ["ningoje"] },
+    { "id": "fr.nimefika", "sw": "Nimefika", "en": "I've arrived / I'm here", "so": "Waan imid / Waan soo gaadhay", "v": "standard" },
+    { "id": "fr.uko-karibu", "sw": "Uko karibu?", "en": "Are you nearby?", "so": "Ma u dhowdahay?", "v": "standard", "note": { "en": "Karibu here means near. Niko karibu = I'm nearly there.", "so": "Karibu halkan waxay ka dhigan tahay u dhow. Niko karibu = Waan soo dhowaaday." } },
+    { "id": "fr.tuonane", "sw": "Tuonane kesho", "en": "See you tomorrow", "so": "Berri is aragno", "v": "standard", "syn": "bye", "note": { "en": "Lit. let's see each other tomorrow.", "so": "Macnaha: berri aan is aragno." } },
+
+    { "id": "fr.nitakutext", "sw": "Nitakutext", "en": "I'll text you", "so": "Fariin ayaan kuu soo diri doonaa", "v": "everyday", "say": "Nitakuteksti", "alt": ["nitakuteksti", "nitakutumia ujumbe"], "note": { "en": "English text with Swahili grammar. Standard: Nitakutumia ujumbe.", "so": "Erayga Ingiriiska text oo leh naxwe Sawaaxili. Caadiga: Nitakutumia ujumbe." } },
+    { "id": "fr.nijulishe", "sw": "Nijulishe", "en": "Let me know", "so": "I soo ogeysii", "v": "standard" },
+    { "id": "fr.mbona-hujibu", "sw": "Mbona hujibu?", "en": "Why aren't you replying?", "so": "Maxaad u jawaabi weyday?", "v": "everyday", "alt": ["kwa nini hujibu"], "note": { "en": "Kujibu = to reply; hujibu = you don't reply. Mbona is the everyday Kenyan 'why'.", "so": "Kujibu = jawaabid; hujibu = ma jawaabtid. Mbona waa 'maxay' maalinlaha Kenya." } },
+    { "id": "fr.nitumie-location", "sw": "Nitumie location", "en": "Send me your location", "so": "Goobta aad joogto ii soo dir", "v": "everyday", "say": "Nitumie lokesheni", "alt": ["nitumie lokesheni"], "note": { "en": "Kenyans use the English word for a map pin sent by phone.", "so": "Kenyaanku waxay isticmaalaan erayga Ingiriiska ee goobta taleefanka lagu diro." } },
+    { "id": "fr.sasa-hivi", "sw": "sasa hivi", "en": "right now / in a moment", "so": "hadda / dhawaan", "v": "standard", "syn": "now", "note": { "en": "Young people shorten it to sai in speech and texts. Nafika sasa hivi = I'll be there in a moment.", "so": "Dhallinyaradu hadalka iyo fariimaha waxay u soo gaabiyaan sai. Nafika sasa hivi = Dhawaan ayaan imanayaa." } },
+    { "id": "fr.group", "sw": "Nimekuongeza kwa group", "en": "I've added you to the group", "so": "Kooxda ayaan kugu daray", "v": "everyday", "say": "Nimekuongeza kwa grupu", "alt": ["nimekuongeza kwa grupu", "nimekuongeza kwenye kikundi"], "note": { "en": "Kenyans plan almost everything in phone chat groups. Kwa is the everyday Kenyan 'in'; standard: kwenye kikundi.", "so": "Kenyaanku wax walba waxay ku qorsheeyaan kooxaha sheekada taleefanka. Kwa waa 'ku' maalinlaha Kenya; caadiga: kwenye kikundi." } }
+  ],
+  "lessons": [
+    {
+      "id": "friends-my-friends",
+      "title": { "en": "My friends", "so": "Saaxiibbadayda" },
+      "items": ["fr.rafiki", "fr.urafiki", "fr.mwenzangu", "fr.huyu-ni-rafiki", "fr.tulisoma-pamoja", "fr.tumejuana"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Halima, huyu ni rafiki yangu Wanjiku.", "en": "Halima, this is my friend Wanjiku.", "so": "Halima, kani waa saaxiibaddayda Wanjiku." },
+            { "who": "Halima", "sw": "Karibu, Wanjiku! Mmejuana wapi?", "en": "Welcome, Wanjiku! Where did you two meet?", "so": "Soo dhawoow, Wanjiku! Xaggee iska barteen?" },
+            { "who": "Wanjiku", "sw": "Tulisoma pamoja Garissa.", "en": "We studied together in Garissa.", "so": "Garissa ayaan wax ku wada baranay." },
+            { "who": "Amina", "sw": "Ndio, tumejuana muda mrefu sana!", "en": "Yes, we've known each other a very long time!", "so": "Haa, muddo aad u dheer ayaan is naqaannay!" }
+          ],
+          "question": { "en": "Where did Amina and Wanjiku meet?", "so": "Amina iyo Wanjiku xaggee bay iska barteen?" },
+          "options": [
+            { "en": "At work in Nairobi", "so": "Shaqada, Nairobi" },
+            { "en": "At school in Garissa", "so": "Dugsiga, Garissa" },
+            { "en": "On a matatu", "so": "Matatu dhexdeed" }
+          ],
+          "answer": 1
+        },
+        { "type": "build", "prompt": { "en": "This is my friend", "so": "Kani waa saaxiibkay" }, "answer": "Huyu ni rafiki yangu", "extra": ["urafiki", "pamoja"] },
+        { "type": "gap", "before": "Huyu ni", "after": " wa kazi.", "options": ["urafiki", "pamoja", "mwenzangu"], "answer": 2, "meaning": { "en": "This is my workmate.", "so": "Kani waa jaalkay shaqada." } }
+      ]
+    },
+    {
+      "id": "friends-inviting",
+      "title": { "en": "Inviting", "so": "Martiqaadka" },
+      "items": ["fr.uko-free", "fr.twende", "fr.tukutane-wapi", "fr.tukutane-saa-ngapi", "fr.tukutane-saa-nane", "fr.nitakupigia"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Otieno", "sw": "Sasa Baraka! Una nafasi Jumamosi?", "en": "Hi Baraka! Are you free on Saturday?", "so": "Haye Baraka! Sabtida waqti ma haysataa?" },
+            { "who": "Baraka", "sw": "Ndio. Kuna nini?", "en": "Yes. What's up?", "so": "Haa. Maxaa jira?" },
+            { "who": "Otieno", "sw": "Twende tutazame mpira Kasarani!", "en": "Let's go and watch football at Kasarani!", "so": "Aan u tagno Kasarani oo kubadda cagta daawanno!" },
+            { "who": "Baraka", "sw": "Poa! Tukutane saa ngapi?", "en": "Cool! What time shall we meet?", "so": "Fiican! Goorma ayaan kulannaa?" },
+            { "who": "Otieno", "sw": "Tukutane saa nane, nje ya uwanja.", "en": "Let's meet at two, outside the stadium.", "so": "Aan ku kulanno labada galabnimo, garoonka bannaankiisa." }
+          ],
+          "question": { "en": "Where will they meet?", "so": "Halkee bay ku kulmayaan?" },
+          "options": [
+            { "en": "Outside the stadium", "so": "Garoonka bannaankiisa" },
+            { "en": "At Baraka's house", "so": "Guriga Baraka" },
+            { "en": "In town", "so": "Magaalada" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Tukutane wapi?", "options": ["Saa nane mchana.", "Kwenye hoteli ya Mama Zawadi.", "Shikamoo."], "answer": 1, "explain": { "en": "Wapi asks 'where', so answer with a place. Saa nane mchana answers 'what time?'.", "so": "Wapi waxay weydiisaa 'xaggee', markaa ku jawaab meel. Saa nane mchana waxay ka jawaabtaa 'goorma?'." } },
+        { "type": "build", "prompt": { "en": "I'll call you tomorrow", "so": "Berri ayaan ku soo wici doonaa" }, "answer": "Nitakupigia kesho", "extra": ["twende", "wapi"] }
+      ]
+    },
+    {
+      "id": "friends-yes-or-no",
+      "title": { "en": "Yes or no", "so": "Haa ama maya" },
+      "items": ["fr.sawa-poa", "fr.bila-shaka", "fr.nitakuja", "fr.pole-siwezi", "fr.niko-busy", "fr.labda-wikendi", "fr.nitaona"],
+      "extra": [
+        { "type": "respond", "heard": "Twende tutembee Jumapili?", "options": ["Nimefika.", "Uko wapi?", "Pole, siwezi. Labda wikendi ijayo."], "answer": 2, "explain": { "en": "'Shall we go for a walk on Sunday?' – 'Sorry, I can't. Maybe next weekend.'", "so": "'Axadda ma socod baan u baxnaa?' – 'Waan ka xumahay, ma awoodo. Malaha dhammaadka toddobaadka soo socda.'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Chebet", "sw": "Mwikali, una nafasi kesho jioni?", "en": "Mwikali, are you free tomorrow evening?", "so": "Mwikali, berri fiidkii waqti ma haysataa?" },
+            { "who": "Mwikali", "sw": "Pole, siwezi. Nina shughuli nyingi kazini.", "en": "Sorry, I can't. I have a lot to do at work.", "so": "Waan ka xumahay, ma awoodo. Shaqo badan ayaan hayaa." },
+            { "who": "Chebet", "sw": "Sawa. Na Jumamosi je?", "en": "Okay. And what about Saturday?", "so": "Hagaag. Sabtidase?" },
+            { "who": "Mwikali", "sw": "Jumamosi, bila shaka! Nitakuja.", "en": "Saturday, definitely! I'll come.", "so": "Sabtida, haa dabcan! Waan iman doonaa." }
+          ],
+          "question": { "en": "When will Mwikali come?", "so": "Mwikali goorma ayay imanaysaa?" },
+          "options": [
+            { "en": "Tomorrow evening", "so": "Berri fiidkii" },
+            { "en": "On Saturday", "so": "Sabtida" },
+            { "en": "Next month", "so": "Bisha dambe" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Pole, siwezi leo. Labda wikendi", "after": ".", "options": ["ijayo", "jana", "nane"], "answer": 0, "meaning": { "en": "Sorry, I can't today. Maybe next weekend.", "so": "Waan ka xumahay, maanta ma awoodo. Malaha dhammaadka toddobaadka soo socda." } }
+      ]
+    },
+    {
+      "id": "friends-weekend",
+      "title": { "en": "The weekend", "so": "Dhammaadka toddobaadka" },
+      "items": ["fr.wikendi", "fr.kwenda-kanisani", "fr.kwenda-msikitini", "fr.kutazama-mpira", "fr.kwenda-beach", "fr.kutembea", "fr.kula-nje"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Kamau, wikendi hii utafanya nini?", "en": "Kamau, what will you do this weekend?", "so": "Kamau, dhammaadka toddobaadkan maxaad samayn doontaa?" },
+            { "who": "Kamau", "sw": "Jumapili asubuhi naenda kanisani. Mchana tutatazama mpira.", "en": "On Sunday morning I'm going to church. In the afternoon we'll watch football.", "so": "Axadda subaxdeeda kaniisadda ayaan tegayaa. Galabtii kubadda cagta ayaan daawan doonnaa." },
+            { "who": "Abdi", "sw": "Mimi Ijumaa naenda msikitini. Jumamosi tutaenda ufukweni na familia.", "en": "I'm going to the mosque on Friday. On Saturday we'll go to the beach with the family.", "so": "Anigu Jimcaha masjidka ayaan tegayaa. Sabtida qoyska ayaan xeebta la aadi doonnaa." },
+            { "who": "Kamau", "sw": "Poa! Jumapili jioni tukale nje pamoja?", "en": "Cool! Shall we eat out together on Sunday evening?", "so": "Fiican! Axadda fiidkeeda ma wada dibadda wax ka cunnaa?" },
+            { "who": "Abdi", "sw": "Bila shaka!", "en": "Definitely!", "so": "Haa, dabcan!" }
+          ],
+          "question": { "en": "Where is Abdi going on Friday?", "so": "Abdi Jimcaha xaggee buu tegayaa?" },
+          "options": [
+            { "en": "To church", "so": "Kaniisadda" },
+            { "en": "To the mosque", "so": "Masjidka" },
+            { "en": "To the beach", "so": "Xeebta" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Jumapili tunaenda kutazama", "after": " Kasarani.", "options": ["mpira", "kanisani", "nje"], "answer": 0, "meaning": { "en": "On Sunday we're going to watch football at Kasarani.", "so": "Axadda waxaan u socdaa inaan kubadda cagta ka daawanno Kasarani." } },
+        { "type": "build", "prompt": { "en": "Let's go and eat out", "so": "Aan u baxno oo dibadda wax ka cunno" }, "answer": "Twende tukale nje", "extra": ["kanisani", "msikitini"] }
+      ]
+    },
+    {
+      "id": "friends-meeting-up",
+      "title": { "en": "Meeting up", "so": "Kulanka" },
+      "items": ["fr.uko-wapi", "fr.uko-karibu", "fr.niko-njiani", "fr.nisubiri", "fr.nimefika", "fr.tuonane"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Zawadi", "sw": "Halo Omar, uko wapi?", "en": "Hello Omar, where are you?", "so": "Haloo Omar, xaggee joogtaa?" },
+            { "who": "Omar", "sw": "Niko njiani, lakini niko kwa jam.", "en": "I'm on my way, but I'm stuck in traffic.", "so": "Waan soo socdaa, laakiin ciriiriga gaadiidka ayaan ku jiraa." },
+            { "who": "Zawadi", "sw": "Sawa, nitakusubiri hapa hotelini.", "en": "Okay, I'll wait for you here at the café.", "so": "Hagaag, halkan makhaayadda ayaan kugu sugi doonaa." },
+            { "who": "Omar", "sw": "Samahani, nimechelewa! Sasa nimefika.", "en": "Sorry, I'm late! I'm here now.", "so": "Waan ka xumahay, waan soo daahay! Hadda waan imid." }
+          ],
+          "question": { "en": "Why is Omar late?", "so": "Maxaa Omar daahiyey?" },
+          "options": [
+            { "en": "He forgot", "so": "Wuu ilaaway" },
+            { "en": "He was at work", "so": "Shaqada ayuu joogay" },
+            { "en": "He was in a traffic jam", "so": "Ciriiriga gaadiidka ayuu ku jiray" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Uko wapi?", "options": ["Tuonane kesho.", "Niko njiani, nafika sasa hivi.", "Bila shaka."], "answer": 1, "explain": { "en": "'Where are you?' – 'I'm on my way, I'll be there in a moment.' (Sometimes that's not quite true!)", "so": "'Xaggee joogtaa?' – 'Waan soo socdaa, dhawaan ayaan imanayaa.' (Mararka qaar run ma aha!)" } },
+        { "type": "gap", "before": "Samahani,", "after": "! Kulikuwa na jam.", "options": ["nimefika", "nisubiri", "nimechelewa"], "answer": 2, "meaning": { "en": "Sorry, I'm late! There was a traffic jam.", "so": "Waan ka xumahay, waan soo daahay! Ciriiri gaadiid ayaa jiray." } }
+      ]
+    },
+    {
+      "id": "friends-texting",
+      "title": { "en": "Texting", "so": "Fariimaha qoraalka" },
+      "items": ["fr.nitakutext", "fr.nijulishe", "fr.mbona-hujibu", "fr.nitumie-location", "fr.sasa-hivi", "fr.group"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Nekesa", "sw": "Mambo! Tunakutana saa ngapi leo?", "en": "Hey! What time are we meeting today?", "so": "Iska warran! Maanta goorma ayaan kulmaynaa?" },
+            { "who": "Wafula", "sw": "Saa kumi jioni. Nijulishe ukiwa njiani.", "en": "At four in the afternoon. Let me know when you're on your way.", "so": "Afarta galabnimo. I soo ogeysii markaad soo socoto." },
+            { "who": "Nekesa", "sw": "Sawa. Nitawaambia wengine pia.", "en": "Okay. I'll tell the others too.", "so": "Hagaag. Kuwa kalena waan u sheegi doonaa." },
+            { "who": "Wafula", "sw": "Poa. Ukifika, nipigie.", "en": "Cool. When you arrive, call me.", "so": "Fiican. Markaad timaaddo, i soo wac." }
+          ],
+          "question": { "en": "What time are they meeting?", "so": "Goorma ayay kulmayaan?" },
+          "options": [
+            { "en": "At 4 p.m.", "so": "Afarta galabnimo" },
+            { "en": "At 10 a.m.", "so": "Tobanka subaxnimo" },
+            { "en": "At 8 p.m.", "so": "Siddeedda habeennimo" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "Let me know when you arrive", "so": "I soo ogeysii markaad timaaddo" }, "answer": "Nijulishe ukifika", "extra": ["nimefika", "kesho"] },
+        { "type": "respond", "heard": "Nitakutumia ujumbe baadaye, sawa?", "options": ["Nimechelewa.", "Sawa, poa!", "Nimeshiba."], "answer": 1, "explain": { "en": "'I'll send you a message later, okay?' – 'Okay, cool!'", "so": "'Goor dambe fariin ayaan kuu soo diri doonaa, hagaag?' – 'Hagaag, fiican!'" } },
+        { "type": "gap", "before": "Niko njiani, nafika", "after": ".", "options": ["sasa hivi", "jana", "wikendi"], "answer": 0, "meaning": { "en": "I'm on my way, I'll be there in a moment.", "so": "Waan soo socdaa, dhawaan ayaan imanayaa." } }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,8 @@
   --amber: #b45309;
   --amber-soft: #fef3c7;
   --gold: #f59e0b;
+  --speak: #1784c7;
+  --speak-dark: #0f5c8c;
   --shadow: 0 2px 0 rgba(28, 25, 23, 0.08);
   --radius: 16px;
   --font: 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -176,6 +178,20 @@ h2 { font-size: 1.15rem; margin: 1rem 0 0.5rem; }
 
 /* ---------- path ---------- */
 .unit { margin: 1.2rem 0 2.2rem; }
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.4rem 0 1rem;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+.section-head::before, .section-head::after { content: ''; flex: 1; height: 2px; background: var(--line); }
+.unit:first-of-type .section-head { margin-top: 0.4rem; }
+.jump { display: block; margin: 0.4rem auto 0; }
+.row-buttons { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.4rem 0 0.8rem; }
 .unit-head {
   display: flex;
   gap: 0.8rem;
@@ -261,19 +277,27 @@ h2 { font-size: 1.15rem; margin: 1rem 0 0.5rem; }
 .prompt { display: flex; align-items: center; gap: 0.7rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
 .speak-row { display: inline-flex; gap: 0.35rem; align-items: center; }
 .speak {
-  background: var(--blue);
+  background: var(--speak);
   color: #fff;
   border: 0;
   border-radius: 12px;
   width: 42px;
   height: 42px;
+  flex-shrink: 0;
   display: grid;
   place-items: center;
-  box-shadow: 0 3px 0 rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  box-shadow: 0 4px 0 var(--speak-dark);
+  transition: transform 0.06s, box-shadow 0.06s;
 }
-.speak-slow { width: 36px; height: 36px; background: var(--surface-2); color: var(--blue); }
-.speak-big { width: 76px; height: 76px; border-radius: 20px; }
-.speak-big + .speak-slow { width: 52px; height: 52px; }
+.speak:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--speak-dark); }
+.speak-slow { width: 36px; height: 36px; background: var(--surface-2); color: var(--speak); box-shadow: 0 3px 0 var(--line); }
+.speak-slow:active { box-shadow: 0 0 0 var(--line); }
+.speak-big { width: 84px; height: 84px; border-radius: 22px; box-shadow: 0 6px 0 var(--speak-dark); }
+.speak-big + .speak-slow { width: 54px; height: 54px; border-radius: 16px; }
+.speak.playing { animation: speaking 0.9s ease-in-out infinite; }
+@keyframes speaking { 50% { outline: 6px solid color-mix(in srgb, var(--speak) 30%, transparent); } }
+@media (prefers-reduced-motion: reduce) { .speak.playing { animation: none; outline: 4px solid color-mix(in srgb, var(--speak) 35%, transparent); } }
 
 .options { display: grid; gap: 0.65rem; }
 .option {
@@ -386,6 +410,14 @@ h2 { font-size: 1.15rem; margin: 1rem 0 0.5rem; }
 }
 .line-right .line-bubble { background: var(--green-soft); }
 .line-meaning { display: block; font-size: 0.86rem; color: var(--muted); margin-top: 0.15rem; }
+.line-narration .line-bubble { background: var(--surface-2); border-color: transparent; max-width: 88%; }
+.line-bubble.line-playing { border-color: var(--speak); box-shadow: 0 0 0 3px color-mix(in srgb, var(--speak) 25%, transparent); }
+.story-head { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
+.story-title { font-size: 1.2rem; margin: 0; }
+.play-all { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.45rem 0.85rem; color: var(--speak); border-color: var(--speak); }
+.story-again { margin: 0 0 1rem; border: 2px solid var(--line); border-radius: 14px; padding: 0.6rem 0.8rem; background: var(--surface); }
+.story-again summary { cursor: pointer; font-weight: 700; }
+.story-again[open] summary { margin-bottom: 0.6rem; }
 
 /* ---------- complete ---------- */
 .complete { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 2rem 1rem; gap: 0.6rem; }

@@ -1,0 +1,205 @@
+{
+  "id": "my-day",
+  "order": 7,
+  "level": "A1",
+  "color": "#4338ca",
+  "reviewed": false,
+  "title": { "en": "My Day", "so": "Maalintayda" },
+  "swTitle": "Siku Yangu",
+  "description": {
+    "en": "Name the days of the week, talk about the time of day and describe your daily routine with the present tense.",
+    "so": "Magacaw maalmaha toddobaadka, ka hadal waqtiyada maalinta oo sharax nidaamkaaga maalinlaha ah adigoo isticmaalaya waqtiga joogga ah."
+  },
+  "guide": [
+    {
+      "title": { "en": "The Swahili week", "so": "Toddobaadka Sawaaxiliga" },
+      "body": {
+        "en": "The Swahili week starts on Saturday. Jumamosi is 'day one' after Friday, Jumapili 'day two', Jumatatu 'day three', Jumanne 'day four' and Jumatano 'day five'. Alhamisi and Ijumaa come from Arabic, just like Somali Khamiis and Jimce. You don't need a word for 'on': Jumatatu naenda kazini means 'On Monday I go to work'.",
+        "so": "Toddobaadka Sawaaxiligu wuxuu ka bilaabmaa Sabtida. Jumamosi waa 'maalinta koowaad' Jimcaha kadib, Jumapili 'maalinta labaad', Jumatatu 'maalinta saddexaad', Jumanne 'maalinta afraad', Jumatano-na 'maalinta shanaad'. Alhamisi iyo Ijumaa waxay ka yimaadeen Carabiga, sida Khamiis iyo Jimce ee Soomaaliga. Uma baahnid eray u dhigma 'on': Jumatatu naenda kazini waxay ka dhigan tahay 'Isniinta shaqada ayaan aadaa'."
+      },
+      "examples": [
+        { "sw": "Leo ni Jumanne.", "en": "Today is Tuesday.", "so": "Maanta waa Talaado.", "v": "standard" },
+        { "sw": "Ijumaa naenda msikitini.", "en": "On Friday I go to the mosque.", "so": "Jimcaha masjidka ayaan aadaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "The present tense: -na-", "so": "Waqtiga joogga: -na-" },
+      "body": {
+        "en": "A Swahili verb is built from pieces: who + when + action. The piece -na- means now or usually: ni + na + soma = ninasoma (I read / I'm reading). In everyday speech Kenyans shorten ni-na- to na-: naenda, nasoma, naamka. Both forms are correct; the full form is more common in writing.",
+        "so": "Falka Sawaaxiliga wuxuu ka samaysan yahay qaybo: cidda + goorta + ficilka. Qaybta -na- waxay ka dhigan tahay hadda ama caadiyan: ni + na + soma = ninasoma (waan akhriyaa / waan akhrinayaa). Hadalka maalinlaha ah Kenyaanku ni-na- waxay u gaabiyaan na-: naenda, nasoma, naamka. Labada qaabba waa sax; qaabka buuxa ayaa qoraalka ku badan."
+      },
+      "examples": [
+        { "sw": "Ninaenda kazini.", "en": "I'm going to work.", "so": "Shaqada ayaan u socdaa.", "v": "standard" },
+        { "sw": "Naenda kazini.", "en": "I'm going to work.", "so": "Shaqada ayaan u socdaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Who is doing it? Subject prefixes", "so": "Yaa samaynaya? Horgalayaasha falka" },
+      "body": {
+        "en": "The first piece tells you who: ni- (I), u- (you), a- (he or she), tu- (we), m- (you all), wa- (they). So: ninakula (I eat), unakula (you eat), anakula (he or she eats), tunakula (we eat), mnakula (you all eat), wanakula (they eat). Swahili has no separate he and she: anakula covers both.",
+        "so": "Qaybta koowaad waxay kuu sheegaysaa cidda: ni- (aniga), u- (adiga), a- (isaga ama iyada), tu- (annaga), m- (idinka), wa- (iyaga). Sidaas: ninakula (waan cunaa), unakula (waad cuntaa), anakula (wuu cunaa ama way cuntaa), tunakula (waan cunnaa), mnakula (waad cuntaan), wanakula (way cunaan). Sawaaxiligu ma kala saaro isaga iyo iyada: anakula labadaba wuu qabsadaa."
+      },
+      "examples": [
+        { "sw": "Anaenda shuleni.", "en": "He or she goes to school.", "so": "Iskuulka ayuu aadaa ama ayay aaddaa.", "v": "standard" },
+        { "sw": "Tunaishi Mombasa.", "en": "We live in Mombasa.", "so": "Mombasa ayaan ku noolnahay.", "v": "standard" },
+        { "sw": "Wanafanya kazi sokoni.", "en": "They work at the market.", "so": "Suuqa ayay ka shaqeeyaan.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Short verbs and saying no", "so": "Falalka gaagaaban iyo diidmada" },
+      "body": {
+        "en": "Very short verbs like kula (to eat) and kunywa (to drink) keep their ku- in the present: ninakula or nakula (I eat), ninakunywa or nakunywa (I drink). To say what you don't do, start with si- and end with -i: sifanyi kazi (I don't work), siendi (I'm not going), sili (I don't eat).",
+        "so": "Falalka aadka u gaagaaban sida kula (cunid) iyo kunywa (cabid) waxay ku haystaan ku- waqtiga joogga: ninakula ama nakula (waan cunaa), ninakunywa ama nakunywa (waan cabbaa). Si aad u sheegto waxaadan samayn, ku bilow si- oo ku dhammee -i: sifanyi kazi (ma shaqeeyo), siendi (ma socdo), sili (ma cuno)."
+      },
+      "examples": [
+        { "sw": "Nakula ugali.", "en": "I eat ugali.", "so": "Ugali ayaan cunaa.", "v": "everyday" },
+        { "sw": "Sifanyi kazi Jumapili.", "en": "I don't work on Sunday.", "so": "Axadda ma shaqeeyo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Times of the day", "so": "Waqtiyada maalinta" },
+      "body": {
+        "en": "Asubuhi is morning, mchana the middle of the day, jioni evening and usiku night. Remember Swahili time from the numbers unit: the clock starts at 6 a.m., so saa moja asubuhi is 7 a.m. and saa nne usiku is 10 p.m.",
+        "so": "Asubuhi waa subax, mchana waa duhurka iyo galabta hore, jioni waa fiid, usiku-na waa habeen. Xusuuso waqtiga Sawaaxiliga ee cutubka tirooyinka: saacaddu waxay ka bilaabataa 6-da subaxnimo, sidaas darteed saa moja asubuhi waa 7-da subaxnimo, saa nne usiku-na waa 10-ka habeennimo."
+      },
+      "examples": [
+        { "sw": "Naamka saa kumi na mbili asubuhi.", "en": "I wake up at 6 a.m.", "so": "Waxaan toosaa 6-da subaxnimo.", "v": "everyday" },
+        { "sw": "Nalala saa nne usiku.", "en": "I go to bed at 10 p.m.", "so": "Waxaan seexdaa 10-ka habeennimo.", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "d.siku", "sw": "siku", "en": "day", "so": "maalin", "v": "standard", "syn": "day" },
+    { "id": "d.jumamosi", "sw": "Jumamosi", "en": "Saturday", "so": "Sabti", "v": "standard", "syn": "saturday", "note": { "en": "The first day of the Swahili week. Sheng: Sato.", "so": "Maalinta koowaad ee toddobaadka Sawaaxiliga. Sheng: Sato." } },
+    { "id": "d.jumapili", "sw": "Jumapili", "en": "Sunday", "so": "Axad", "v": "standard", "syn": "sunday" },
+    { "id": "d.jumatatu", "sw": "Jumatatu", "en": "Monday", "so": "Isniin", "v": "standard", "syn": "monday" },
+    { "id": "d.jumanne", "sw": "Jumanne", "en": "Tuesday", "so": "Talaado", "v": "standard", "syn": "tuesday" },
+    { "id": "d.jumatano", "sw": "Jumatano", "en": "Wednesday", "so": "Arbaco", "v": "standard", "syn": "wednesday" },
+
+    { "id": "d.alhamisi", "sw": "Alhamisi", "en": "Thursday", "so": "Khamiis", "v": "standard", "syn": "thursday" },
+    { "id": "d.ijumaa", "sw": "Ijumaa", "en": "Friday", "so": "Jimce", "v": "standard", "syn": "friday" },
+    { "id": "d.wiki", "sw": "wiki", "en": "week", "so": "toddobaad", "v": "standard", "syn": "week" },
+    { "id": "d.siku-gani", "sw": "Leo ni siku gani?", "en": "What day is it today?", "so": "Maanta waa maalintee?", "v": "standard" },
+    { "id": "d.kila-siku", "sw": "kila siku", "en": "every day", "so": "maalin kasta", "v": "standard" },
+
+    { "id": "d.alfajiri", "sw": "alfajiri", "en": "dawn / very early morning", "so": "waaberi", "v": "standard", "note": { "en": "Also the time of the dawn prayer.", "so": "Sidoo kale waa waqtiga salaadda subax." } },
+    { "id": "d.asubuhi", "sw": "asubuhi", "en": "morning", "so": "subax", "v": "standard" },
+    { "id": "d.mchana", "sw": "mchana", "en": "afternoon / daytime", "so": "duhur / galab", "v": "standard", "note": { "en": "Roughly from midday to about 4 p.m. Also 'daytime' as opposed to night.", "so": "Qiyaastii duhurka ilaa 4-ta galabnimo. Sidoo kale 'maalinta' marka loo eego habeenka." } },
+    { "id": "d.jioni", "sw": "jioni", "en": "evening", "so": "fiid", "v": "standard" },
+    { "id": "d.usiku", "sw": "usiku", "en": "night", "so": "habeen", "v": "standard" },
+    { "id": "d.mapema", "sw": "mapema", "en": "early", "so": "goor hore", "v": "standard", "syn": "early" },
+
+    { "id": "d.naamka", "sw": "Naamka", "en": "I wake up", "so": "Waan toosaa", "v": "everyday", "alt": ["ninaamka"] },
+    { "id": "d.naoga", "sw": "Naoga", "en": "I take a shower / I bathe", "so": "Waan qubaystaa", "v": "everyday", "alt": ["ninaoga"] },
+    { "id": "d.napiga-mswaki", "sw": "Napiga mswaki", "en": "I brush my teeth", "so": "Ilkaha ayaan cadaydaa", "v": "everyday", "alt": ["ninapiga mswaki"], "note": { "en": "Mswaki is a toothbrush; originally a chewing stick, like the Somali caday.", "so": "Mswaki waa burushka ilkaha; asal ahaan waa caday, sida Soomaaliga." } },
+    { "id": "d.navaa-nguo", "sw": "Navaa nguo", "en": "I get dressed", "so": "Dharka ayaan xirtaa", "v": "everyday", "alt": ["ninavaa nguo"] },
+    { "id": "d.nakunywa-chai", "sw": "Nakunywa chai", "en": "I drink tea", "so": "Shaah ayaan cabbaa", "v": "everyday", "alt": ["ninakunywa chai"], "note": { "en": "Kunywa keeps its ku-: nakunywa, not nanywa.", "so": "Kunywa waxay haysaa ku-: nakunywa, ma aha nanywa." } },
+    { "id": "d.naenda-kazini", "sw": "Naenda kazini", "en": "I go to work", "so": "Shaqada ayaan aadaa", "v": "everyday", "alt": ["ninaenda kazini"] },
+
+    { "id": "d.nakula-mchana", "sw": "Nakula chakula cha mchana", "en": "I eat lunch", "so": "Qadada ayaan cunaa", "v": "everyday", "alt": ["ninakula chakula cha mchana", "nakula lunch"], "note": { "en": "Many Kenyans simply say lunch and supper. Supper is chakula cha jioni.", "so": "Kenyaan badan waxay iska yiraahdaan lunch iyo supper. Casho waa chakula cha jioni." } },
+    { "id": "d.narudi-nyumbani", "sw": "Narudi nyumbani", "en": "I go back home", "so": "Guriga ayaan ku noqdaa", "v": "everyday", "alt": ["ninarudi nyumbani"] },
+    { "id": "d.nasoma", "sw": "Nasoma", "en": "I read / I study", "so": "Waan akhriyaa / Wax baan bartaa", "v": "everyday", "alt": ["ninasoma"] },
+    { "id": "d.napumzika", "sw": "Napumzika", "en": "I rest", "so": "Waan nastaa", "v": "everyday", "alt": ["ninapumzika"] },
+    { "id": "d.nalala", "sw": "Nalala", "en": "I sleep / I go to bed", "so": "Waan seexdaa", "v": "everyday", "alt": ["ninalala"], "syn": "sleep" },
+
+    { "id": "d.unafanya-nini", "sw": "Unafanya nini?", "en": "What are you doing?", "so": "Maxaad samaynaysaa?", "v": "standard" },
+    { "id": "d.anaenda-shuleni", "sw": "Anaenda shuleni", "en": "He/She goes to school", "so": "Iskuulka ayuu/ayay aadaa", "v": "standard", "alt": ["anaenda shule"], "note": { "en": "You will often hear Anaenda shule, without -ni.", "so": "Badanaa waxaad maqli doontaa Anaenda shule, iyadoo aan -ni lahayn." } },
+    { "id": "d.tunaishi-nairobi", "sw": "Tunaishi Nairobi", "en": "We live in Nairobi", "so": "Nairobi ayaan ku noolnahay", "v": "standard" },
+    { "id": "d.mnaenda-wapi", "sw": "Mnaenda wapi?", "en": "Where are you (all) going?", "so": "Xaggee u socotaan?", "v": "standard" },
+    { "id": "d.wanafanya-kazi", "sw": "Wanafanya kazi", "en": "They work / They are working", "so": "Way shaqeeyaan / Way shaqaynayaan", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "saturday-to-wednesday",
+      "title": { "en": "Saturday to Wednesday", "so": "Sabti ilaa Arbaco" },
+      "items": ["d.siku", "d.jumamosi", "d.jumapili", "d.jumatatu", "d.jumanne", "d.jumatano"],
+      "extra": [
+        { "type": "gap", "before": "Leo ni Jumamosi. Kesho ni", "after": ".", "options": ["Jumapili", "Jumatatu", "Jumatano"], "answer": 0, "meaning": { "en": "Today is Saturday. Tomorrow is Sunday.", "so": "Maanta waa Sabti. Berri waa Axad." } },
+        { "type": "respond", "heard": "Leo ni Jumatatu?", "options": ["Nina njaa.", "Hapana, leo ni Jumanne.", "Asante kwa chakula."], "answer": 1, "explain": { "en": "'Is today Monday?' – 'No, today is Tuesday.'", "so": "'Maanta ma Isniin baa?' – 'Maya, maanta waa Talaado.'" } },
+        { "type": "build", "prompt": { "en": "Today is Wednesday", "so": "Maanta waa Arbaco" }, "answer": "Leo ni Jumatano", "extra": ["kesho", "Jumapili"] }
+      ]
+    },
+    {
+      "id": "the-whole-week",
+      "title": { "en": "Thursday, Friday and the week", "so": "Khamiis, Jimce iyo toddobaadka" },
+      "items": ["d.alhamisi", "d.ijumaa", "d.wiki", "d.siku-gani", "d.kila-siku"],
+      "extra": [
+        { "type": "respond", "heard": "Leo ni siku gani?", "options": ["Saa tatu.", "Kila siku.", "Leo ni Ijumaa."], "answer": 2, "explain": { "en": "'What day is it today?' – 'Today is Friday.'", "so": "'Maanta waa maalintee?' – 'Maanta waa Jimce.'" } },
+        { "type": "gap", "before": "Kila Ijumaa naenda", "after": ".", "options": ["msikitini", "wiki", "siku"], "answer": 0, "meaning": { "en": "Every Friday I go to the mosque.", "so": "Jimce kasta masjidka ayaan aadaa." } },
+        { "type": "build", "prompt": { "en": "A week has seven days", "so": "Toddobaadku wuxuu leeyahay toddoba maalmood" }, "answer": "Wiki ina siku saba", "extra": ["mbili", "Alhamisi"] }
+      ]
+    },
+    {
+      "id": "morning-to-night",
+      "title": { "en": "Morning to night", "so": "Subax ilaa habeen" },
+      "items": ["d.alfajiri", "d.asubuhi", "d.mchana", "d.jioni", "d.usiku", "d.mapema"],
+      "extra": [
+        { "type": "gap", "before": "Mchana kuna jua, lakini", "after": " kuna giza.", "options": ["mchana", "jua", "usiku"], "answer": 2, "meaning": { "en": "In the daytime there is sun, but at night it is dark.", "so": "Maalintii qorrax baa jirta, laakiin habeenkii mugdi baa jira." } },
+        { "type": "respond", "heard": "Habari za jioni?", "options": ["Nzuri, asante.", "Alfajiri.", "Kila siku."], "answer": 0, "explain": { "en": "'Good evening, how are you?' – 'Fine, thanks.'", "so": "'Fiid wanaagsan, sidee tahay?' – 'Fiican, mahadsanid.'" } },
+        { "type": "build", "prompt": { "en": "See you tomorrow morning", "so": "Berri subax ayaan is arki doonnaa" }, "answer": "Tuonane kesho asubuhi", "extra": ["jana", "usiku"] }
+      ]
+    },
+    {
+      "id": "my-morning",
+      "title": { "en": "My morning", "so": "Subaxdayda" },
+      "items": ["d.naamka", "d.naoga", "d.napiga-mswaki", "d.navaa-nguo", "d.nakunywa-chai", "d.naenda-kazini"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Baraka", "sw": "Mwanaisha, unaamka saa ngapi?", "en": "Mwanaisha, what time do you wake up?", "so": "Mwanaisha, saacaddee ayaad toostaa?" },
+            { "who": "Mwanaisha", "sw": "Naamka saa kumi na moja alfajiri.", "en": "I wake up at five, at dawn.", "so": "Waxaan toosaa shanta waaberiga." },
+            { "who": "Baraka", "sw": "Mapema sana!", "en": "Very early!", "so": "Aad bay u hore tahay!" },
+            { "who": "Mwanaisha", "sw": "Ndiyo. Naswali, naoga, kisha nakunywa chai.", "en": "Yes. I pray, I shower, then I drink tea.", "so": "Haa. Waan tukadaa, waan qubaystaa, kadibna shaah ayaan cabbaa." },
+            { "who": "Baraka", "sw": "Mimi naamka saa moja na nusu!", "en": "I wake up at half past seven!", "so": "Aniga waxaan toosaa toddobada iyo badh!" }
+          ],
+          "question": { "en": "What time does Mwanaisha wake up?", "so": "Mwanaisha saacaddee ayay toostaa?" },
+          "options": [
+            { "en": "At half past seven", "so": "Toddobada iyo badh" },
+            { "en": "At five in the morning", "so": "Shanta subaxnimo" },
+            { "en": "At seven in the morning", "so": "Toddobada subaxnimo" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Kila asubuhi, napiga", "after": ".", "options": ["chai", "mswaki", "kazini"], "answer": 1, "meaning": { "en": "Every morning I brush my teeth.", "so": "Subax kasta ilkaha ayaan cadaydaa." } },
+        { "type": "build", "prompt": { "en": "I get dressed and go to work", "so": "Dharka ayaan xirtaa oo shaqada ayaan aadaa" }, "answer": "Navaa nguo na naenda kazini", "extra": ["naoga", "nyumbani"] }
+      ]
+    },
+    {
+      "id": "afternoon-and-evening",
+      "title": { "en": "Afternoon and evening", "so": "Galabta iyo fiidka" },
+      "items": ["d.nakula-mchana", "d.narudi-nyumbani", "d.nasoma", "d.napumzika", "d.nalala"],
+      "extra": [
+        { "type": "respond", "heard": "Unafanya nini jioni?", "options": ["Narudi nyumbani na napumzika.", "Jumatatu.", "Nina kiu."], "answer": 0, "explain": { "en": "'What do you do in the evening?' – 'I go home and rest.'", "so": "'Fiidkii maxaad samaysaa?' – 'Guriga ayaan ku noqdaa oo waan nastaa.'" } },
+        { "type": "gap", "before": "Nimechoka. Nalala saa tatu", "after": ".", "options": ["chai", "mswaki", "usiku"], "answer": 2, "meaning": { "en": "I'm tired. I go to bed at nine at night.", "so": "Waan daalay. Waxaan seexdaa saddexda habeennimo." } },
+        { "type": "build", "prompt": { "en": "I go back home in the evening", "so": "Fiidkii guriga ayaan ku noqdaa" }, "answer": "Narudi nyumbani jioni", "extra": ["asubuhi", "kazini"], "accept": ["Jioni narudi nyumbani"] }
+      ]
+    },
+    {
+      "id": "who-does-what",
+      "title": { "en": "Who is doing what?", "so": "Yaa maxaa sameeya?" },
+      "items": ["d.unafanya-nini", "d.anaenda-shuleni", "d.tunaishi-nairobi", "d.mnaenda-wapi", "d.wanafanya-kazi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Achieng", "sw": "Sasa Kamau! Unafanya nini?", "en": "Hi Kamau! What are you doing?", "so": "Iska warran Kamau! Maxaad samaynaysaa?" },
+            { "who": "Kamau", "sw": "Poa! Napumzika tu. Watoto wanasoma.", "en": "Fine! I'm just resting. The children are studying.", "so": "Fiican! Waan nasanayaa uun. Carruurtu wax bay akhrinayaan." },
+            { "who": "Achieng", "sw": "Mnaenda wapi Jumamosi?", "en": "Where are you all going on Saturday?", "so": "Sabtida xaggee u socotaan?" },
+            { "who": "Kamau", "sw": "Tunaenda kwa nyanya yao Nakuru.", "en": "We're going to their grandmother's in Nakuru.", "so": "Waxaan u soconnaa ayeeyadood oo Nakuru joogta." }
+          ],
+          "question": { "en": "Where is Kamau's family going on Saturday?", "so": "Qoyska Kamau xaggee u socdaa Sabtida?" },
+          "options": [
+            { "en": "To the market", "so": "Suuqa" },
+            { "en": "To the mosque", "so": "Masjidka" },
+            { "en": "To the grandmother's in Nakuru", "so": "Ayeeyada oo Nakuru joogta" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Mnaenda wapi?", "options": ["Tunaenda sokoni.", "Nina njaa.", "Jumanne."], "answer": 0, "explain": { "en": "'Where are you all going?' – 'We're going to the market.'", "so": "'Xaggee u socotaan?' – 'Suuqa ayaan u soconnaa.'" } },
+        { "type": "gap", "before": "Baraka na Zawadi", "after": " kazi Mombasa.", "options": ["anafanya", "wanafanya", "ninafanya"], "answer": 1, "meaning": { "en": "Baraka and Zawadi work in Mombasa.", "so": "Baraka iyo Zawadi waxay ka shaqeeyaan Mombasa." } },
+        { "type": "build", "prompt": { "en": "She goes to school every day", "so": "Iskuulka ayay aaddaa maalin kasta" }, "answer": "Anaenda shuleni kila siku", "extra": ["wanaenda", "jana"] }
+      ]
+    }
+  ]
+}

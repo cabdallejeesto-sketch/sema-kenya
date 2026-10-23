@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
-import { getLesson, getUnit } from './content';
+import { getLesson, getUnit, type IndexedItem } from './content';
 import { buildLesson, buildPractice } from './engine/generate';
+import { canSpeak, prefetch } from './engine/speech';
+import { itemSpeech, lessonSpeech, NARRATOR, type Speech } from './engine/voice-lines';
 import { currentStreak, dayKey } from './engine/progress';
 import { dueItems, weakestItems } from './engine/srs';
 import { GuideView } from './ui/Guide';
@@ -28,25 +30,31 @@ function useHash(): [string, (h: string) => void] {
   return [hash, go];
 }
 
+const canListen = (it: IndexedItem) => canSpeak(itemSpeech(it));
+
 function LessonRoute({ unitId, lessonId, go }: { unitId: string; lessonId: string; go: (h: string) => void }) {
-  const { p, voice } = useStore();
+  const { p } = useStore();
   const unit = getUnit(unitId);
   const lesson = getLesson(unitId, lessonId);
   // Built once when the lesson opens, so saving progress at the end does not rebuild it.
-  const [exercises] = useState(() =>
-    unit && lesson ? buildLesson(unit, lesson, { states: p.items, canListen: voice.available }) : [],
-  );
+  const [exercises] = useState(() => (unit && lesson ? buildLesson(unit, lesson, { states: p.items, canListen }) : []));
+  useEffect(() => {
+    if (unit && lesson) prefetch(lessonSpeech(unit, lesson));
+  }, [unit, lesson]);
   if (!unit || !lesson) return <p className="page">Lesson not found.</p>;
   return <Player exercises={exercises} lessonKey={`${unitId}/${lessonId}`} title={lesson.title[p.lang]} onExit={() => go('#/')} />;
 }
 
 function PracticeRoute({ go }: { go: (h: string) => void }) {
-  const { p, voice, t } = useStore();
+  const { p, t } = useStore();
   const [exercises] = useState(() => {
     const due = dueItems(p.items, Date.now(), 12);
     const ids = due.length >= 4 ? due : [...new Set([...due, ...weakestItems(p.items, 12)])].slice(0, 12);
-    return buildPractice(ids, voice.available);
+    return buildPractice(ids, canListen);
   });
+  useEffect(() => {
+    prefetch(exercises.flatMap((e): Speech[] => ('item' in e ? [[itemSpeech(e.item), NARRATOR]] : [])));
+  }, [exercises]);
   if (!exercises.length) {
     go('#/practice');
     return null;

@@ -1,0 +1,234 @@
+{
+  "id": "food",
+  "order": 5,
+  "level": "A1",
+  "color": "#b45309",
+  "reviewed": false,
+  "title": { "en": "Food & Eating Out", "so": "Cuntada iyo Makhaayadaha" },
+  "swTitle": "Chakula",
+  "description": {
+    "en": "Learn the dishes Kenyans love, order at a hoteli or kibanda, say what you like and ask for the bill.",
+    "so": "Baro cuntooyinka Kenyaanku jecel yihiin, wax ka dalbo hoteli ama kibanda, sheeg waxaad jeceshahay oo weydii biilka."
+  },
+  "goals": ["travel", "family"],
+  "guide": [
+    {
+      "title": { "en": "Kenya's everyday plate", "so": "Saxanka maalinlaha ah ee Kenya" },
+      "body": {
+        "en": "Ugali (stiff maize porridge) with sukuma wiki (greens) is the everyday meal in most Kenyan homes. You eat ugali with your right hand: roll a small ball and use it to scoop the stew. Chapati is a treat for weekends and holidays, and nyama choma (grilled goat or beef) is what friends share on a Saturday.",
+        "so": "Ugali (soor adag oo galley ah) iyo sukuma wiki (caleen cagaaran) waa cuntada maalinlaha ah ee guryaha Kenya intooda badan. Ugali waxaa lagu cunaa gacanta midig: kubbad yar samee oo ku qaado maraqa. Chapati (sabaayad) waa cunto gaar ah oo la cuno fasaxyada iyo dhammaadka toddobaadka, nyama choma (hilib ari ama lo' oo la dubay) waa waxa saaxiibbadu wadaagaan Sabtida."
+      },
+      "examples": [
+        { "sw": "Ugali na sukuma wiki, tafadhali.", "en": "Ugali and sukuma wiki, please.", "so": "Ugali iyo sukuma wiki, fadlan.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Ordering at a hoteli", "so": "Dalbashada hoteli-ga" },
+      "body": {
+        "en": "In Kenya a hoteli is usually a small eating place, and a kibanda is a small roadside food stall. Ordering with Nipe... (Give me...) is normal, not rude; add tafadhali to be polite. Ningependa... (I would like...) is softer. When you finish, say Lete bili or Bili, tafadhali.",
+        "so": "Kenya, hoteli badanaa waa meel yar oo wax lagu cuno, kibanda-na waa dukaan cunto oo yar oo waddada dhinaceeda ah. In aad ku dalbato Nipe... (I sii...) waa caadi, edeb darro ma aha; ku dar tafadhali si aad edeb u muujiso. Ningependa... (Waxaan jeclaan lahaa...) way ka jilicsan tahay. Markaad dhammayso, dheh Lete bili ama Bili, tafadhali."
+      },
+      "examples": [
+        { "sw": "Nipe chai na mandazi mbili, tafadhali.", "en": "Give me tea and two mandazis, please.", "so": "Shaah iyo laba mandaasi i sii, fadlan.", "v": "everyday" },
+        { "sw": "Ningependa pilau na kachumbari.", "en": "I would like pilau and kachumbari.", "so": "Waxaan jeclaan lahaa pilau iyo kachumbari.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Likes and dislikes", "so": "Waxa la jecel yahay iyo waxa aan la jeclayn" },
+      "body": {
+        "en": "Napenda means 'I like' (full form: ninapenda). To say 'I don't like', start with si- and change the final -a to -i: Sipendi. The same pattern turns kula (to eat) into Sili (I don't eat). Ask someone with Unapenda...? (Do you like...?).",
+        "so": "Napenda waxay ka dhigan tahay 'waan jeclahay' (qaabka buuxa: ninapenda). Si aad u tiraahdo 'ma jecli', ku bilow si- oo -a dhammaadka u beddel -i: Sipendi. Isla qaabkaas ayaa kula (cunid) ka dhiga Sili (ma cuno). Qof weydii adigoo leh Unapenda...? (Ma jeceshahay...?)."
+      },
+      "examples": [
+        { "sw": "Napenda chapati.", "en": "I like chapati.", "so": "Sabaayad waan jeclahay.", "v": "standard" },
+        { "sw": "Sipendi samaki.", "en": "I don't like fish.", "so": "Kalluun ma jecli.", "v": "standard" },
+        { "sw": "Unapenda nyama choma?", "en": "Do you like nyama choma?", "so": "Hilib la dubay ma jeceshahay?", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenya vs Tanzania at the table", "so": "Kenya iyo Tanzania miiska cuntada" },
+      "body": {
+        "en": "Kenyans say mandazi and samosa; in Tanzania you will hear maandazi and sambusa. Chips are chips in Kenya and chipsi in Tanzania. The Kenyan hoteli is called mgahawa (restaurant) in textbook Swahili.",
+        "so": "Kenyaanku waxay yiraahdaan mandazi iyo samosa; Tanzania waxaad maqli doontaa maandazi iyo sambusa. Chips Kenya waa chips, Tanzania-na waa chipsi. Hoteli-da Kenya, Sawaaxiliga buugaagta waxaa lagu yiraahdaa mgahawa (makhaayad)."
+      }
+    },
+    {
+      "title": { "en": "Halal food", "so": "Cunto xalaal ah" },
+      "body": {
+        "en": "Many hotelis in Eastleigh, Garissa and Mombasa are Muslim-run and show a Halal sign. Elsewhere, ask Nyama hii ni halali? (Is this meat halal?). Street snacks like smokies and mutura are usually not halal.",
+        "so": "Hoteliyo badan oo Eastleigh, Garissa iyo Mombasa ku yaal waxaa maamula Muslimiin, waxayna dhigaan calaamadda Halal. Meelaha kale, weydii Nyama hii ni halali? (Hilibkan xalaal ma yahay?). Cuntada fudud ee waddooyinka sida smokie iyo mutura badanaa xalaal ma aha."
+      },
+      "examples": [
+        { "sw": "Samahani, nyama hii ni halali?", "en": "Excuse me, is this meat halal?", "so": "Iga raalli ahaw, hilibkan xalaal ma yahay?", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "fd.chakula", "sw": "chakula", "en": "food", "so": "cunto", "v": "standard", "syn": "food" },
+    { "id": "fd.ugali", "sw": "ugali", "en": "ugali (maize-flour staple)", "so": "ugali (soor galley ah)", "v": "standard", "note": { "en": "Eaten with the right hand, with stew or greens.", "so": "Waxaa lagu cunaa gacanta midig, maraq ama khudaar la jira." } },
+    { "id": "fd.sukuma-wiki", "sw": "sukuma wiki", "en": "sukuma wiki (cooked kale)", "so": "sukuma wiki (caleen cagaaran oo la kariyey)", "v": "everyday", "note": { "en": "Literally 'push the week': cheap greens that get you to the end of the week.", "so": "Macnaha erayga waa 'toddobaadka riix': caleen jaban oo kuu gudbisa dhammaadka toddobaadka." } },
+    { "id": "fd.nyama-choma", "sw": "nyama choma", "en": "nyama choma (grilled meat)", "so": "hilib la dubay (nyama choma)", "v": "standard", "note": { "en": "Usually goat or beef, shared with friends and eaten with kachumbari.", "so": "Badanaa waa hilib ari ama lo', saaxiibbo ayaa wadaaga, waxaana lagu cunaa kachumbari." } },
+    { "id": "fd.chapati", "sw": "chapati", "en": "chapati (flatbread)", "so": "sabaayad (chapati)", "v": "standard", "syn": "chapati" },
+    { "id": "fd.githeri", "sw": "githeri", "en": "githeri (maize and beans)", "so": "githeri (galley iyo digir la isku kariyey)", "v": "everyday", "note": { "en": "A Gikuyu word now used all over Kenya. A common school lunch.", "so": "Eray Gikuyu ah oo hadda Kenya oo dhan laga isticmaalo. Waa qado caadi ah oo iskuulada laga cuno." } },
+
+    { "id": "fd.pilau", "sw": "pilau", "en": "pilau (spiced rice)", "so": "pilau (bariis xawaash leh)", "v": "standard", "note": { "en": "A coastal dish now loved all over Kenya, cooked for weddings and Idd.", "so": "Cunto xeebta ka timid oo hadda Kenya oo dhan laga jecel yahay; waxaa loo kariyaa arrooska iyo Ciidda." } },
+    { "id": "fd.wali", "sw": "wali", "en": "cooked rice", "so": "bariis la kariyey", "v": "standard", "note": { "en": "Uncooked rice is mchele.", "so": "Bariiska aan la karin waa mchele." } },
+    { "id": "fd.matoke", "sw": "matoke", "en": "matoke (cooked green bananas)", "so": "matoke (muus cagaaran oo la kariyey)", "v": "everyday", "note": { "en": "Popular in western Kenya and Kisii. Cooked as a stew, not eaten sweet.", "so": "Aad loogu jecel yahay galbeedka Kenya iyo Kisii. Waxaa loo kariyaa maraq ahaan, looma cuno sida muus macaan." } },
+    { "id": "fd.kachumbari", "sw": "kachumbari", "en": "kachumbari (tomato and onion salad)", "so": "kachumbari (saladh yaanyo iyo basal ah)", "v": "standard" },
+    { "id": "fd.samaki", "sw": "samaki", "en": "fish", "so": "kalluun", "v": "standard", "note": { "en": "Tilapia from Lake Victoria (ngege) is famous in Kisumu.", "so": "Kalluunka tilapia ee Harada Fiktooriya (ngege) wuxuu caan ku yahay Kisumu." } },
+    { "id": "fd.kuku", "sw": "kuku", "en": "chicken", "so": "digaag", "v": "standard", "note": { "en": "Kuku kienyeji is free-range village chicken, a favourite.", "so": "Kuku kienyeji waa digaag tuulo oo xor u daaqa, aad baana loo jecel yahay." } },
+
+    { "id": "fd.chai", "sw": "chai", "en": "tea", "so": "shaah", "v": "standard", "syn": "tea", "note": { "en": "Kenyan chai is usually boiled with milk and sugar.", "so": "Shaaha Kenya badanaa waxaa lagu kariyaa caano iyo sonkor." } },
+    { "id": "fd.maziwa", "sw": "maziwa", "en": "milk", "so": "caano", "v": "standard" },
+    { "id": "fd.kahawa", "sw": "kahawa", "en": "coffee", "so": "qaxwo / bun", "v": "standard", "syn": "coffee" },
+    { "id": "fd.soda", "sw": "soda", "en": "soft drink (soda)", "so": "cabitaan fudud (soodhe)", "v": "everyday", "note": { "en": "Kenyans call any fizzy drink soda.", "so": "Kenyaanku cabitaan kasta oo hawo leh waxay ugu yeeraan soda." } },
+    { "id": "fd.mandazi", "sw": "mandazi", "en": "mandazi (fried dough snack)", "so": "mandaasi (kac-kac)", "v": "everyday", "tz": "maandazi", "syn": "mandazi", "note": { "en": "The classic breakfast with chai.", "so": "Waa quraacda caadiga ah ee shaaha lala cuno." } },
+    { "id": "fd.samosa", "sw": "samosa", "en": "samosa", "so": "sambuus", "v": "everyday", "tz": "sambusa" },
+
+    { "id": "fd.kibanda", "sw": "kibanda", "en": "food stall / kiosk", "so": "dukaan cunto oo yar (kibanda)", "v": "everyday", "note": { "en": "A small roadside stall selling cheap food and tea.", "so": "Dukaan yar oo waddada dhinaceeda ah oo iibiya cunto jaban iyo shaah." } },
+    { "id": "fd.mhudumu", "sw": "mhudumu", "en": "waiter / waitress", "so": "adeege (weyter)", "v": "standard", "note": { "en": "To call the waiter, Kenyans usually just say Samahani!", "so": "Si loogu yeero adeegaha, Kenyaanku badanaa waxay iska yiraahdaan Samahani!" } },
+    { "id": "fd.kuna-nini", "sw": "Kuna nini leo?", "en": "What do you have today? (lit. What is there today?)", "so": "Maanta maxaa jira?", "v": "everyday" },
+    { "id": "fd.nipe", "sw": "Nipe chapati mbili", "en": "Give me two chapatis", "so": "Laba sabaayadood i sii", "v": "everyday", "alt": ["nipe chapati mbili tafadhali"], "note": { "en": "Nipe (give me) is a normal way to order in Kenya. Add tafadhali to be polite.", "so": "Nipe (i sii) waa hab caadi ah oo Kenya wax loogu dalbado. Ku dar tafadhali si aad edeb u muujiso." } },
+    { "id": "fd.ningependa", "sw": "Ningependa pilau, tafadhali", "en": "I would like pilau, please", "so": "Waxaan jeclaan lahaa pilau, fadlan", "v": "standard", "alt": ["ningependa pilau tafadhali", "ningependa pilau"] },
+    { "id": "fd.nifungie", "sw": "Nifungie", "en": "Pack it for me (to take away)", "so": "Ii duub, waan la tagayaa", "v": "everyday", "note": { "en": "Lit. 'tie it up for me'. You will also hear take away.", "so": "Macnaha erayga waa 'ii xidh'. Sidoo kale waxaad maqli doontaa take away." } },
+
+    { "id": "fd.nina-njaa", "sw": "Nina njaa", "en": "I'm hungry", "so": "Waan gaajaysanahay", "v": "standard", "syn": "hungry" },
+    { "id": "fd.nina-kiu", "sw": "Nina kiu", "en": "I'm thirsty", "so": "Waan harraadsanahay", "v": "standard", "syn": "thirsty" },
+    { "id": "fd.karibu-tule", "sw": "Karibu tule", "en": "Come and eat with us", "so": "Kaalay aan wada cunno", "v": "everyday", "note": { "en": "Kenyans invite anyone who arrives while they are eating. A polite reply is Asante, nimeshiba.", "so": "Kenyaanku waxay ku casuumaan qof kasta oo yimaada iyagoo wax cunaya. Jawaab edeb leh waa Asante, nimeshiba." } },
+    { "id": "fd.kitamu", "sw": "Chakula ni kitamu", "en": "The food is tasty", "so": "Cuntadu way macaan tahay", "v": "standard", "syn": "tasty", "alt": ["chakula ni kitamu sana"], "note": { "en": "-tamu means sweet or tasty. With chakula it becomes kitamu.", "so": "-tamu waxay ka dhigan tahay macaan ama dhadhan fiican. Marka la raaciyo chakula waxay noqotaa kitamu." } },
+    { "id": "fd.lete-bili", "sw": "Lete bili", "en": "Bring the bill", "so": "Biilka keen", "v": "everyday", "alt": ["lete bill", "bili tafadhali", "lete bili tafadhali"], "syn": "bill", "note": { "en": "Also written bill. Bili, tafadhali = The bill, please.", "so": "Sidoo kale waxaa loo qoraa bill. Bili, tafadhali = Biilka, fadlan." } },
+
+    { "id": "fd.nyama", "sw": "nyama", "en": "meat", "so": "hilib", "v": "standard" },
+    { "id": "fd.napenda", "sw": "Napenda ugali", "en": "I like ugali", "so": "Ugali waan jeclahay", "v": "standard", "alt": ["ninapenda ugali"] },
+    { "id": "fd.sipendi", "sw": "Sipendi samaki", "en": "I don't like fish", "so": "Kalluun ma jecli", "v": "standard" },
+    { "id": "fd.unapenda", "sw": "Unapenda chai?", "en": "Do you like tea?", "so": "Shaah ma jeceshahay?", "v": "standard" },
+    { "id": "fd.sili-nyama", "sw": "Sili nyama", "en": "I don't eat meat", "so": "Hilib ma cuno", "v": "standard" },
+    { "id": "fd.ni-halali", "sw": "Nyama hii ni halali?", "en": "Is this meat halal?", "so": "Hilibkan xalaal ma yahay?", "v": "standard", "alt": ["ni halali"] },
+
+    { "id": "fd.smokie-pasua", "sw": "smokie pasua", "en": "smokie pasua (split sausage with kachumbari)", "so": "smokie pasua (sausage la kala jeexay oo kachumbari lagu shubay)", "v": "everyday", "say": "smoki pasua", "alt": ["smoki pasua"], "note": { "en": "A smokie is a small smoked sausage; pasua means 'split'. Sold from carts all over Nairobi. Many smokies contain pork.", "so": "Smokie waa sausage yar oo qiiq lagu bislaaday; pasua waxay ka dhigan tahay 'kala jeex'. Waxaa laga iibiyaa gaari-gacan Nairobi oo dhan. Smokie badan waxaa ku jira hilib doofaar." } },
+    { "id": "fd.mutura", "sw": "mutura", "en": "mutura (Kenyan grilled sausage)", "so": "mutura (sausage Kenyan ah oo la dubay)", "v": "everyday", "note": { "en": "Goat intestines stuffed with meat and blood, grilled by the roadside in the evening. Not halal.", "so": "Xiidmaha ariga oo lagu buuxiyey hilib iyo dhiig, fiidkii waddada dhinaceeda ayaa lagu dubaa. Xalaal ma aha." } },
+    { "id": "fd.mahindi-choma", "sw": "mahindi choma", "en": "roast maize (corn on the cob)", "so": "galley la dubay", "v": "everyday", "note": { "en": "Grilled on charcoal and rubbed with lemon and chilli.", "so": "Dhuxul ayaa lagu dubaa, waxaana lagu marsadaa liin iyo basbaas." } },
+    { "id": "fd.chips", "sw": "chips", "en": "chips (fries)", "so": "baradho shiilan (chips)", "v": "everyday", "say": "chipsi", "tz": "chipsi", "alt": ["chipsi"] },
+    { "id": "fd.chapo", "sw": "chapo", "en": "chapati (Sheng)", "so": "sabaayad (Sheng)", "v": "sheng", "syn": "chapati" }
+  ],
+  "lessons": [
+    {
+      "id": "kenyan-staples",
+      "title": { "en": "Kenya's staples", "so": "Cuntooyinka aasaasiga ah ee Kenya" },
+      "items": ["fd.chakula", "fd.ugali", "fd.sukuma-wiki", "fd.nyama-choma", "fd.chapati", "fd.githeri"],
+      "extra": [
+        { "type": "gap", "before": "Tunakula ugali na sukuma", "after": " leo.", "options": ["wiki", "choma", "chapati"], "answer": 0, "meaning": { "en": "We're eating ugali and sukuma wiki today.", "so": "Maanta waxaan cunaynaa ugali iyo sukuma wiki." } },
+        { "type": "build", "prompt": { "en": "Ugali and sukuma wiki, please", "so": "Ugali iyo sukuma wiki, fadlan" }, "answer": "Ugali na sukuma wiki tafadhali", "extra": ["chai", "choma"] },
+        { "type": "respond", "heard": "Karibu! Unakula nini leo?", "options": ["Kwaheri.", "Nyama choma na chapati.", "Niko kwa jam."], "answer": 1, "explain": { "en": "'Welcome! What are you eating today?' – 'Nyama choma and chapati.'", "so": "'Soo dhowow! Maanta maxaad cunaysaa?' – 'Hilib la dubay iyo sabaayad.'" } }
+      ]
+    },
+    {
+      "id": "rice-fish-chicken",
+      "title": { "en": "Rice, fish and chicken", "so": "Bariis, kalluun iyo digaag" },
+      "items": ["fd.pilau", "fd.wali", "fd.matoke", "fd.kachumbari", "fd.samaki", "fd.kuku"],
+      "extra": [
+        { "type": "respond", "heard": "Unataka pilau au wali?", "options": ["Bado.", "Kushoto.", "Pilau, tafadhali."], "answer": 2, "explain": { "en": "'Do you want pilau or plain rice?' – 'Pilau, please.'", "so": "'Ma rabtaa pilau mise bariis caadi ah?' – 'Pilau, fadlan.'" } },
+        { "type": "build", "prompt": { "en": "Fish and rice", "so": "Kalluun iyo bariis" }, "answer": "Samaki na wali", "extra": ["kuku", "matoke"], "accept": ["Wali na samaki"] },
+        { "type": "gap", "before": "Nyama choma na", "after": "!", "options": ["kachumbari", "wiki", "bado"], "answer": 0, "meaning": { "en": "Grilled meat with kachumbari!", "so": "Hilib la dubay iyo kachumbari!" } }
+      ]
+    },
+    {
+      "id": "chai-time",
+      "title": { "en": "Chai time", "so": "Waqtiga shaaha" },
+      "items": ["fd.chai", "fd.maziwa", "fd.kahawa", "fd.soda", "fd.mandazi", "fd.samosa"],
+      "extra": [
+        { "type": "respond", "heard": "Nikuletee chai?", "options": ["Hapana, kahawa tafadhali.", "Nashuka hapa.", "Tuko wapi?"], "answer": 0, "explain": { "en": "'Shall I bring you tea?' – 'No, coffee please.'", "so": "'Shaah ma kuu keenaa?' – 'Maya, qaxwo fadlan.'" } },
+        { "type": "build", "prompt": { "en": "Tea with milk", "so": "Shaah caano leh" }, "answer": "Chai ya maziwa", "extra": ["soda", "kahawa"] },
+        { "type": "gap", "before": "Chai na", "after": ", tafadhali.", "options": ["jam", "mandazi", "stage"], "answer": 1, "meaning": { "en": "Tea and a mandazi, please.", "so": "Shaah iyo mandaasi, fadlan." } }
+      ]
+    },
+    {
+      "id": "ordering",
+      "title": { "en": "Ordering food", "so": "Dalbashada cuntada" },
+      "items": ["fd.kibanda", "fd.mhudumu", "fd.kuna-nini", "fd.nipe", "fd.ningependa", "fd.nifungie"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mhudumu", "sw": "Karibu, dada! Nikuletee nini?", "en": "Welcome, sister! What can I bring you?", "so": "Soo dhowow, walaal! Maxaan kuu keenaa?" },
+            { "who": "Halima", "sw": "Kuna nini leo?", "en": "What do you have today?", "so": "Maanta maxaa jira?" },
+            { "who": "Mhudumu", "sw": "Kuna pilau, chapati na samaki.", "en": "There's pilau, chapati and fish.", "so": "Waxaa jira pilau, sabaayad iyo kalluun." },
+            { "who": "Halima", "sw": "Ningependa pilau na kachumbari, tafadhali.", "en": "I'd like pilau and kachumbari, please.", "so": "Waxaan jeclaan lahaa pilau iyo kachumbari, fadlan." },
+            { "who": "Mhudumu", "sw": "Sawa. Na chai?", "en": "Okay. And tea?", "so": "Hagaag. Shaahna?" },
+            { "who": "Halima", "sw": "Hapana, asante. Nipe soda.", "en": "No, thanks. Give me a soda.", "so": "Maya, mahadsanid. Soodhe i sii." }
+          ],
+          "question": { "en": "What does Halima drink?", "so": "Halima maxay cabbaysaa?" },
+          "options": [
+            { "en": "Tea", "so": "Shaah" },
+            { "en": "Coffee", "so": "Qaxwo" },
+            { "en": "A soda", "so": "Soodhe" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Utakula hapa au nikufungie?", "options": ["Nifungie, tafadhali.", "Sipendi.", "Simama!"], "answer": 0, "explain": { "en": "'Will you eat here or shall I pack it for you?' – 'Pack it for me, please.'", "so": "'Halkan ma ku cunaysaa mise waan kuu duubaa?' – 'Ii duub, fadlan.'" } },
+        { "type": "build", "prompt": { "en": "Give me two chapatis, please", "so": "Laba sabaayadood i sii, fadlan" }, "answer": "Nipe chapati mbili tafadhali", "extra": ["moja", "soda"] }
+      ]
+    },
+    {
+      "id": "hungry-and-paying",
+      "title": { "en": "Hungry, full and paying", "so": "Gaajo, dhereg iyo lacag bixin" },
+      "items": ["fd.nina-njaa", "fd.nina-kiu", "fd.karibu-tule", "fd.kitamu", "fd.lete-bili"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Omar", "sw": "Nina njaa sana!", "en": "I'm very hungry!", "so": "Aad baan u gaajaysanahay!" },
+            { "who": "Otieno", "sw": "Karibu tule. Kuna ugali na samaki.", "en": "Come and eat with us. There's ugali and fish.", "so": "Kaalay aan wada cunno. Waxaa jira ugali iyo kalluun." },
+            { "who": "Omar", "sw": "Asante! Chakula ni kitamu sana.", "en": "Thanks! The food is very tasty.", "so": "Mahadsanid! Cuntadu aad bay u macaan tahay." },
+            { "who": "Otieno", "sw": "Mhudumu, lete bili, tafadhali.", "en": "Waiter, bring the bill, please.", "so": "Adeege, biilka keen, fadlan." },
+            { "who": "Mhudumu", "sw": "Ni shilingi mia nne.", "en": "It's four hundred shillings.", "so": "Waa afar boqol oo shilin." }
+          ],
+          "question": { "en": "How much is the bill?", "so": "Biilku waa immisa?" },
+          "options": [
+            { "en": "Forty shillings", "so": "Afartan shilin" },
+            { "en": "Four hundred shillings", "so": "Afar boqol oo shilin" },
+            { "en": "One hundred shillings", "so": "Boqol shilin" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Karibu tule!", "options": ["Lete bili.", "Simama!", "Asante, nimeshiba."], "answer": 2, "explain": { "en": "'Come and eat with us!' – 'Thank you, I'm full.' A polite way to say no.", "so": "'Kaalay aan wada cunno!' – 'Mahadsanid, waan dhergay.' Hab edeb leh oo lagu diido." } },
+        { "type": "gap", "before": "Nina", "after": ". Nipe maji, tafadhali.", "options": ["kiu", "bili", "samaki"], "answer": 0, "meaning": { "en": "I'm thirsty. Give me water, please.", "so": "Waan harraadsanahay. Biyo i sii, fadlan." } }
+      ]
+    },
+    {
+      "id": "likes-and-dislikes",
+      "title": { "en": "What I like", "so": "Waxa aan jeclahay" },
+      "items": ["fd.nyama", "fd.napenda", "fd.sipendi", "fd.unapenda", "fd.sili-nyama", "fd.ni-halali"],
+      "extra": [
+        { "type": "respond", "heard": "Unapenda nyama choma?", "options": ["Lete bili.", "Ndiyo, napenda sana!", "Nashuka hapa."], "answer": 1, "explain": { "en": "'Do you like nyama choma?' – 'Yes, I like it a lot!'", "so": "'Hilib la dubay ma jeceshahay?' – 'Haa, aad baan u jeclahay!'" } },
+        { "type": "gap", "before": "Sipendi", "after": ", napenda chai.", "options": ["njaa", "hapa", "kahawa"], "answer": 2, "meaning": { "en": "I don't like coffee, I like tea.", "so": "Qaxwo ma jecli, shaah baan jeclahay." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Samahani, nyama hii ni halali?", "en": "Excuse me, is this meat halal?", "so": "Iga raalli ahaw, hilibkan xalaal ma yahay?" },
+            { "who": "Mhudumu", "sw": "Ndiyo, mama. Hapa kila kitu ni halali.", "en": "Yes, madam. Everything here is halal.", "so": "Haa, hooyo. Halkan wax walba waa xalaal." },
+            { "who": "Amina", "sw": "Asante. Nipe nyama choma na chapati mbili.", "en": "Thank you. Give me nyama choma and two chapatis.", "so": "Mahadsanid. I sii hilib la dubay iyo laba sabaayadood." }
+          ],
+          "question": { "en": "What does the waiter say?", "so": "Adeeguhu muxuu yiri?" },
+          "options": [
+            { "en": "Everything here is halal", "so": "Halkan wax walba waa xalaal" },
+            { "en": "There is no meat today", "so": "Maanta hilib ma jiro" },
+            { "en": "The chapatis are finished", "so": "Sabaayaddii way dhammaatay" }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "street-food",
+      "goals": ["street"],
+      "title": { "en": "Street food", "so": "Cuntada waddooyinka" },
+      "items": ["fd.smokie-pasua", "fd.mutura", "fd.mahindi-choma", "fd.chips", "fd.chapo"],
+      "extra": [
+        { "type": "respond", "heard": "Mahindi choma, ishirini!", "options": ["Pole pole.", "Sawa, nipe moja.", "Simama!"], "answer": 1, "explain": { "en": "'Roast maize, twenty (shillings)!' – 'Okay, give me one.'", "so": "'Galley la dubay, labaatan (shilin)!' – 'Hagaag, mid i sii.'" } },
+        { "type": "build", "prompt": { "en": "Give me two chapatis (Sheng)", "so": "Laba sabaayadood i sii (Sheng)" }, "answer": "Nipe chapo mbili", "extra": ["moja", "mutura"] },
+        { "type": "gap", "before": "Jioni tunanunua mahindi", "after": " barabarani.", "options": ["choma", "pasua", "chapo"], "answer": 0, "meaning": { "en": "In the evening we buy roast maize by the road.", "so": "Fiidkii waxaan iibsannaa galley la dubay oo waddada dhinaceeda laga iibiyo." } }
+      ]
+    }
+  ]
+}

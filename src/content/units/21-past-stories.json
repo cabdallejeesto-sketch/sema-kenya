@@ -1,0 +1,360 @@
+{
+  "id": "past-stories",
+  "order": 21,
+  "level": "B1",
+  "color": "#6d28d9",
+  "reviewed": false,
+  "title": { "en": "Telling What Happened", "so": "Ka Sheekaynta Wixii Dhacay" },
+  "swTitle": "Yaliyotokea",
+  "description": {
+    "en": "Tell stories about the past: what you did yesterday, what has just happened and what hasn't happened yet, with the words that keep a story moving.",
+    "so": "Ka sheekee waxyaabihii hore: wixii aad shalay samaysay, wixii hadda dhacay iyo wixii aan weli dhicin, adigoo adeegsanaya erayada sheekada hore u wada."
+  },
+  "guide": [
+    {
+      "title": { "en": "The past tense: -li-", "so": "Wakhtiga tegay: -li-" },
+      "body": {
+        "en": "To say what happened, put li between the subject prefix and the verb. The subject prefixes are ni (I), u (you), a (he/she), tu (we), m (you all) and wa (they). With fika (arrive): nilifika = I arrived, ulifika = you arrived, alifika = he/she arrived, tulifika = we arrived, mlifika = you all arrived, walifika = they arrived. One-syllable verbs keep their ku: nilikula (I ate), nilikunywa (I drank), walikuja (they came). For enda (go), Kenyans say nilienda; the textbook form is nilikwenda.",
+        "so": "Si aad u sheegto wixii dhacay, li dhig inta u dhexeysa horgalaha qofka iyo falka. Horgalayaashu waa ni (aniga), u (adiga), a (isaga/iyada), tu (annaga), m (idinka) iyo wa (iyaga). Fika (gaarid): nilifika = waan gaaray, ulifika = waad gaartay, alifika = wuu/way gaartay, tulifika = waan gaarnay, mlifika = waad gaarteen, walifika = way gaareen. Falalka hal-xubneedka ahi ku-dooda way hayaan: nilikula (wax baan cunay), nilikunywa (waan cabbay), walikuja (way yimaadeen). Enda (tag), Kenyaanku waxay yiraahdaan nilienda; qaabka buugaagtu waa nilikwenda."
+      },
+      "examples": [
+        { "sw": "Nilifika Nairobi jana usiku.", "en": "I arrived in Nairobi last night.", "so": "Xalay ayaan Nairobi gaaray.", "v": "standard" },
+        { "sw": "Tulienda sokoni na mama.", "en": "We went to the market with Mum.", "so": "Hooyo ayaan suuqa la aadnay.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "The perfect -me-: it has happened", "so": "-me-: wax dhacay oo saamayntoodu jirto" },
+      "body": {
+        "en": "Me means something has happened and still matters now: nimefika (I've arrived, so I'm here), amelala (he has fallen asleep, so he's asleep), nimechoka (I've got tired, so I'm tired). Kenyans use -me- much more than English uses 'have done'. Nimekula often just means 'I ate' (today, recently). Rule of thumb: with a finished time such as jana or wiki iliyopita, use -li- (Nilikula jana). For today, just now, or a result you can still see, use -me- (Nimekula, nimeshiba). Add sha for 'already': nimeshakula = I've already eaten.",
+        "so": "Me waxay muujisaa in wax dhaceen oo hadda weli muhiim yihiin: nimefika (waan imid, hadda halkan ayaan joogaa), amelala (wuu seexday, hadda wuu hurdaa), nimechoka (waan daalay, hadda waan daallanahay). Kenyaanku -me- aad bay u isticmaalaan, in ka badan inta Ingiriisigu isticmaalo 'have done'. Nimekula badanaa waxay ka dhigan tahay 'wax baan cunay' (maanta, dhawaan). Xeerka guud: marka uu jiro wakhti dhammaaday sida jana ama wiki iliyopita, isticmaal -li- (Nilikula jana). Maanta, hadda uun, ama natiijo weli muuqata, isticmaal -me- (Nimekula, nimeshiba). Ku dar sha si aad u tiraahdo 'horay': nimeshakula = horay ayaan wax u cunay."
+      },
+      "examples": [
+        { "sw": "Umekula? Ndiyo, nimekula.", "en": "Have you eaten? Yes, I've eaten.", "so": "Wax ma cuntay? Haa, waan cunay.", "v": "standard" },
+        { "sw": "Nilikula ugali jana.", "en": "I ate ugali yesterday.", "so": "Shalay ugali ayaan cunay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Saying 'didn't' and 'not yet'", "so": "Sida loo yiraahdo 'ma aan' iyo 'weli ma'" },
+      "body": {
+        "en": "For 'didn't', use a negative prefix plus ku, and the verb keeps its final a: sikufika = I didn't arrive, hukufika = you didn't arrive, hakufika = he/she didn't arrive, hatukufika = we didn't arrive, hamkufika = you all didn't arrive, hawakufika = they didn't arrive. Short verbs: sikula (I didn't eat), hakuja (he/she didn't come). For 'haven't yet', use ja instead: sijafika = I haven't arrived yet, sijala = I haven't eaten yet, hajaja = he/she hasn't come yet. Kenyans often add bado (still): Bado sijala.",
+        "so": "'Ma aan' (wakhtiga tegay) waxaa lagu sameeyaa horgale diidmo ah oo lagu daro ku, falkuna a-da dhammaadka way haysaa: sikufika = ma aan gaarin, hukufika = ma aadan gaarin, hakufika = ma uu/ay gaarin, hatukufika = ma aannu gaarin, hamkufika = ma aydaan gaarin, hawakufika = ma ay gaarin. Falalka gaagaaban: sikula (wax ma aan cunin), hakuja (ma iman). 'Weli ma' waxaa loo isticmaalaa ja: sijafika = weli ma aan gaarin, sijala = weli wax ma aan cunin, hajaja = weli ma iman. Kenyaanku badanaa waxay ku daraan bado (weli): Bado sijala."
+      },
+      "examples": [
+        { "sw": "Hakuja kazini jana.", "en": "He didn't come to work yesterday.", "so": "Shalay shaqada ma uu iman.", "v": "standard" },
+        { "sw": "Bado sijala, nina njaa.", "en": "I haven't eaten yet, I'm hungry.", "so": "Weli wax ma aan cunin, waan gaajaysanahay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Keeping a story moving", "so": "Sida sheekada hore loogu wado" },
+      "body": {
+        "en": "Kenyan storytellers love sequence words. Start with siku moja (one day), jana, juzi or wiki iliyopita. Go on with kwanza (first), halafu or kisha (then) and baadaye (later), and finish with mwishowe (in the end). Ghafla (suddenly) brings the drama. In a chain of events, Swahili often switches to ka after the first verb: Nilifika, nikala, nikalala (I arrived, ate and slept). To say 'when I arrived', add po: nilipofika. Listeners keep you going with Ehe? (And then?), Kweli? (Really?) or Wacha! (No way!).",
+        "so": "Sheeko-yaqaannada Kenya aad bay u jecel yihiin erayada isku xigxiga. Ku bilow siku moja (maalin maalmaha ka mid ah), jana, juzi ama wiki iliyopita. Ku sii wad kwanza (marka hore), halafu ama kisha (kadib) iyo baadaye (dabadeed), kuna dhammee mwishowe (ugu dambayn). Ghafla (si lama filaan ah) ayaa xiisaha keenta. Marka dhacdooyin isku xigaan, Swahiligu badanaa wuxuu u beddelaa ka falka koowaad kadib: Nilifika, nikala, nikalala (Waan imid, wax baan cunay, waanan seexday). Si aad u tiraahdo 'markii aan gaaray', ku dar po: nilipofika. Dhegeystayaashu waxay kugu dhiirrigeliyaan Ehe? (Haddana?), Kweli? (Run?) ama Wacha! (Iska daa!)."
+      },
+      "examples": [
+        { "sw": "Kwanza nilioga, halafu nikala, kisha nikaenda kazini.", "en": "First I showered, then I ate, then I went to work.", "so": "Marka hore waan qubaystay, kadib wax baan cunay, kadibna shaqada ayaan aaday.", "v": "standard" },
+        { "sw": "Nilipofika nyumbani, ghafla stima zilipotea.", "en": "When I got home, suddenly the power went off.", "so": "Markii aan guriga gaaray, si lama filaan ah ayay korontadu u go'day.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Time words for the past", "so": "Erayada wakhtiga tegay" },
+      "body": {
+        "en": "Jana is yesterday and juzi the day before yesterday. Jana usiku is last night. For last week or last month, add iliyopita or uliopita ('which has passed'): wiki iliyopita, mwezi uliopita. Last year is mwaka jana. Zamani means long ago, and is how many old stories begin.",
+        "so": "Jana waa shalay, juzina waa dorraad. Jana usiku waa xalay. Toddobaadkii hore ama bishii hore, ku dar iliyopita ama uliopita ('kii tegay'): wiki iliyopita, mwezi uliopita. Sannadkii hore waa mwaka jana. Zamani waxay ka dhigan tahay waagii hore, sheekooyin badan oo hore sidaas ayay ku bilowdaan."
+      },
+      "examples": [
+        { "sw": "Mwezi uliopita nilihamia Eastleigh.", "en": "Last month I moved to Eastleigh.", "so": "Bishii hore ayaan u guuray Eastleigh.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "ps.nilikula", "sw": "Nilikula", "en": "I ate", "so": "Wax baan cunay", "v": "standard", "note": { "en": "Kula keeps its ku: ni + li + kula.", "so": "Kula ku-deeda way haysaa: ni + li + kula." } },
+    { "id": "ps.ulienda", "sw": "Ulienda wapi?", "en": "Where did you go?", "so": "Xaggee baad aaday?", "v": "everyday", "tz": "Ulikwenda wapi?", "alt": ["ulikwenda wapi"], "note": { "en": "Kenyans say ulienda; the textbook form is ulikwenda.", "so": "Kenyaanku waxay yiraahdaan ulienda; qaabka buugaagtu waa ulikwenda." } },
+    { "id": "ps.alifika", "sw": "Alifika jana", "en": "He/she arrived yesterday", "so": "Shalay buu/bay yimid", "v": "standard" },
+    { "id": "ps.tulikuwa", "sw": "Tulikuwa nyumbani", "en": "We were at home", "so": "Guriga ayaan joognay", "v": "standard", "note": { "en": "Tulikuwa = we were. Nilikuwa = I was.", "so": "Tulikuwa = waan ahayn / joognay. Nilikuwa = waan ahaa / joogay." } },
+    { "id": "ps.walikuja", "sw": "Walikuja", "en": "They came", "so": "Way yimaadeen", "v": "standard", "note": { "en": "Kuja is short, so it keeps ku: wa + li + kuja.", "so": "Kuja waa gaaban, sidaas darteed ku way haysaa: wa + li + kuja." } },
+    { "id": "ps.ulifanya-nini", "sw": "Ulifanya nini jana?", "en": "What did you do yesterday?", "so": "Shalay maxaad samaysay?", "v": "standard" },
+
+    { "id": "ps.juzi", "sw": "juzi", "en": "the day before yesterday", "so": "dorraad", "v": "standard" },
+    { "id": "ps.jana-usiku", "sw": "jana usiku", "en": "last night", "so": "xalay", "v": "standard" },
+    { "id": "ps.wiki-iliyopita", "sw": "wiki iliyopita", "en": "last week", "so": "toddobaadkii hore", "v": "standard", "note": { "en": "Iliyopita = 'which has passed'. Mwezi uliopita = last month.", "so": "Iliyopita = 'kii tegay'. Mwezi uliopita = bishii hore." } },
+    { "id": "ps.mwaka-jana", "sw": "mwaka jana", "en": "last year", "so": "sannadkii hore", "v": "standard", "alt": ["mwaka uliopita"] },
+    { "id": "ps.zamani", "sw": "zamani", "en": "long ago / in the old days", "so": "waagii hore", "v": "standard" },
+
+    { "id": "ps.nimekula", "sw": "Nimekula", "en": "I've eaten (just now / today)", "so": "Wax baan cunay (hadda)", "v": "standard", "note": { "en": "Kenyans use this for 'I ate' when it was today.", "so": "Kenyaanku tan waxay u isticmaalaan 'wax baan cunay' marka ay maanta ahayd." } },
+    { "id": "ps.amefika", "sw": "Amefika", "en": "He/she has arrived (is here)", "so": "Wuu yimid (hadda wuu joogaa)", "v": "standard" },
+    { "id": "ps.amelala", "sw": "Amelala", "en": "He/she is asleep (lit. has fallen asleep)", "so": "Wuu/Way hurdaa", "v": "standard", "syn": "asleep", "note": { "en": "-me- often describes a state: amelala (asleep), nimechoka (tired), nimeshiba (full).", "so": "-me- badanaa waxay sharraxdaa xaalad: amelala (hurda), nimechoka (daallan), nimeshiba (dheregsan)." } },
+    { "id": "ps.nimeshakula", "sw": "Nimeshakula", "en": "I've already eaten", "so": "Horay ayaan wax u cunay", "v": "everyday", "note": { "en": "-mesha- = already. Very common in Kenya.", "so": "-mesha- = horay / durba. Aad bay Kenya ugu badan tahay." } },
+    { "id": "ps.umepotea", "sw": "Umepotea!", "en": "Long time no see! (lit. You've got lost!)", "so": "Waad naga maqnayd!", "v": "everyday", "syn": "long-time", "note": { "en": "A friendly tease for someone you haven't seen for a while.", "so": "Kaftan saaxiibtinimo oo loogu yeero qof aadan muddo arag." } },
+    { "id": "ps.gari-limeharibika", "sw": "Gari limeharibika", "en": "The vehicle has broken down", "so": "Gaarigii wuu xumaaday", "v": "standard", "note": { "en": "Gari takes li-: gari limeharibika. With simu (phone): simu imeharibika.", "so": "Gari waxay qaadataa li-: gari limeharibika. Simu (taleefan): simu imeharibika." } },
+
+    { "id": "ps.sikula", "sw": "Sikula", "en": "I didn't eat", "so": "Wax ma aan cunin", "v": "standard" },
+    { "id": "ps.hakuja", "sw": "Hakuja", "en": "He/she didn't come", "so": "Ma iman", "v": "standard" },
+    { "id": "ps.hatukuenda", "sw": "Hatukuenda", "en": "We didn't go", "so": "Ma aannu tagin", "v": "everyday", "tz": "Hatukwenda", "alt": ["hatukwenda"] },
+    { "id": "ps.sikujua", "sw": "Sikujua", "en": "I didn't know", "so": "Ma aan ogeyn", "v": "standard" },
+    { "id": "ps.sijala", "sw": "Sijala", "en": "I haven't eaten yet", "so": "Weli wax ma aan cunin", "v": "standard", "note": { "en": "-ja- = not yet. Bado sijala = I still haven't eaten.", "so": "-ja- = weli ma. Bado sijala = weli wax ma aan cunin." } },
+    { "id": "ps.bado-sijafika", "sw": "Bado sijafika", "en": "I'm not there yet (I haven't arrived yet)", "so": "Weli ma aan gaarin", "v": "standard", "note": { "en": "The classic phone answer when you're running late.", "so": "Jawaabta caadiga ah ee taleefanka marka aad daahayso." } },
+
+    { "id": "ps.siku-moja", "sw": "siku moja", "en": "one day (story opening)", "so": "maalin maalmaha ka mid ah", "v": "standard", "note": { "en": "Also used for the future: siku moja = some day.", "so": "Sidoo kale mustaqbalka: siku moja = maalin uun." } },
+    { "id": "ps.kwanza", "sw": "kwanza", "en": "first / first of all", "so": "marka hore", "v": "standard", "syn": "first" },
+    { "id": "ps.halafu", "sw": "halafu", "en": "then / and then", "so": "kadib", "v": "everyday", "syn": "then", "note": { "en": "Very common in speech. Kisha is a little more formal.", "so": "Aad bay hadalka ugu badan tahay. Kisha waa xoogaa ka rasmisan." } },
+    { "id": "ps.kisha", "sw": "kisha", "en": "then / after that", "so": "kadibna", "v": "standard", "syn": "then" },
+    { "id": "ps.baadaye", "sw": "baadaye", "en": "later / afterwards", "so": "dabadeed", "v": "standard", "syn": "then", "note": { "en": "On its own, Baadaye! also means 'See you later!'.", "so": "Kaligeed, Baadaye! sidoo kale waxay ka dhigan tahay 'Goor dambe ayaan kula kulmi!'." } },
+    { "id": "ps.ghafla", "sw": "ghafla", "en": "suddenly", "so": "si lama filaan ah", "v": "standard" },
+    { "id": "ps.mwishowe", "sw": "mwishowe", "en": "in the end / finally", "so": "ugu dambayn", "v": "standard", "syn": "finally", "alt": ["mwishoni"] },
+
+    { "id": "ps.nilipofika", "sw": "Nilipofika", "en": "When I arrived", "so": "Markii aan gaaray", "v": "standard", "note": { "en": "-po- = when: ni + li + po + fika. Alipofika = when he/she arrived.", "so": "-po- = markii: ni + li + po + fika. Alipofika = markii uu/ay gaaray." } },
+    { "id": "ps.ilikuwa-aje", "sw": "Ilikuwa aje?", "en": "How did it go? / How was it?", "so": "Sidee ahayd?", "v": "everyday", "syn": "how-was-it", "tz": "Ilikuwaje?", "alt": ["ilikuwaje"] },
+    { "id": "ps.nini-kilitokea", "sw": "Nini kilitokea?", "en": "What happened?", "so": "Maxaa dhacay?", "v": "standard", "syn": "what-happened", "alt": ["kulitokea nini"], "note": { "en": "You'll also hear Kulitokea nini?", "so": "Waxaad sidoo kale maqli doontaa Kulitokea nini?" } },
+    { "id": "ps.sikuamini", "sw": "Sikuamini!", "en": "I couldn't believe it! (lit. I didn't believe)", "so": "Ma rumaysan karin!", "v": "standard" },
+    { "id": "ps.bahati-nzuri", "sw": "kwa bahati nzuri", "en": "luckily / fortunately", "so": "nasiib wanaag", "v": "standard", "syn": "luckily" },
+    { "id": "ps.bahati-mbaya", "sw": "kwa bahati mbaya", "en": "unfortunately", "so": "nasiib darro", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "what-happened",
+      "title": { "en": "What happened: -li-", "so": "Wixii dhacay: -li-" },
+      "items": ["ps.nilikula", "ps.ulienda", "ps.alifika", "ps.tulikuwa", "ps.walikuja", "ps.ulifanya-nini"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Nekesa", "sw": "Wafula, ulifanya nini jana?", "en": "Wafula, what did you do yesterday?", "so": "Wafula, shalay maxaad samaysay?" },
+            { "who": "Wafula", "sw": "Nilienda Eldoret kumwona babu.", "en": "I went to Eldoret to see Grandpa.", "so": "Waxaan aaday Eldoret si aan awoowe u arko." },
+            { "who": "Nekesa", "sw": "Ulisafiri kwa basi?", "en": "Did you travel by bus?", "so": "Bas ma ku safartay?" },
+            { "who": "Wafula", "sw": "Hapana, kwa matatu. Tulifika saa nne asubuhi.", "en": "No, by matatu. We arrived at ten in the morning.", "so": "Maya, matatu. Tobanka subaxnimo ayaan gaarnay." },
+            { "who": "Nekesa", "sw": "Na babu alifurahi?", "en": "And was Grandpa happy?", "so": "Awowgaana ma faraxsanaa?" },
+            { "who": "Wafula", "sw": "Sana! Tulikula nyama choma pamoja.", "en": "Very! We ate nyama choma together.", "so": "Aad! Nyama choma (hilib dubban) ayaan wada cunnay." }
+          ],
+          "question": { "en": "How did Wafula travel to Eldoret?", "so": "Wafula sidee buu Eldoret ugu safray?" },
+          "options": [
+            { "en": "By bus", "so": "Bas" },
+            { "en": "By plane", "so": "Diyaarad" },
+            { "en": "By matatu", "so": "Matatu" }
+          ],
+          "answer": 2
+        },
+        { "type": "gap", "before": "Jana", "after": " sokoni na dada yangu.", "options": ["nilienda", "ninaenda", "nitaenda"], "answer": 0, "meaning": { "en": "Yesterday I went to the market with my sister.", "so": "Shalay waxaan suuqa la aaday walaashay." } },
+        { "type": "build", "prompt": { "en": "They came yesterday", "so": "Shalay ayay yimaadeen" }, "answer": "Walikuja jana", "extra": ["kesho", "wanakuja"], "accept": ["Jana walikuja"] }
+      ]
+    },
+    {
+      "id": "when-was-it",
+      "title": { "en": "When was it?", "so": "Goormay ahayd?" },
+      "items": ["ps.juzi", "ps.jana-usiku", "ps.wiki-iliyopita", "ps.mwaka-jana", "ps.zamani"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Otieno's trip to Kisumu", "so": "Safarkii Otieno ee Kisumu" },
+          "lines": [
+            { "sw": "Wiki iliyopita, Otieno alisafiri kutoka Nairobi kwenda Kisumu.", "en": "Last week, Otieno travelled from Nairobi to Kisumu.", "so": "Toddobaadkii hore, Otieno wuxuu ka safray Nairobi una safray Kisumu." },
+            { "sw": "Alipanda basi saa mbili usiku.", "en": "He got on a bus at eight in the evening.", "so": "Wuxuu fuulay bas siddeedda habeennimo." },
+            { "sw": "Basi lilikuwa limejaa watu, lakini safari ilikuwa nzuri.", "en": "The bus was full of people, but the journey was good.", "so": "Basku dad buu ka buuxay, laakiin safarku wuu fiicnaa." },
+            { "sw": "Alifika Kisumu asubuhi na mapema.", "en": "He arrived in Kisumu early in the morning.", "so": "Wuxuu Kisumu gaaray subax hore." },
+            { "sw": "Mama yake alimpikia samaki na ugali.", "en": "His mother cooked him fish and ugali.", "so": "Hooyadiis waxay u karisay kalluun iyo ugali." },
+            { "sw": "Juzi, Otieno alienda ziwani na rafiki zake.", "en": "The day before yesterday, Otieno went to the lake with his friends.", "so": "Dorraad, Otieno wuxuu harada la aaday saaxiibbadiis." },
+            { "sw": "Walitazama jua likitua juu ya Ziwa Viktoria.", "en": "They watched the sun set over Lake Victoria.", "so": "Waxay daawadeen qorraxda oo ku dhacaysa Harada Fiktooriya." },
+            { "sw": "Jana usiku, alirudi Nairobi akiwa na furaha.", "en": "Last night he came back to Nairobi, happy.", "so": "Xalay, wuxuu ku soo noqday Nairobi isagoo faraxsan." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "When did Otieno travel to Kisumu?", "so": "Goorma ayuu Otieno u safray Kisumu?" },
+              "options": [
+                { "en": "Last week", "so": "Toddobaadkii hore" },
+                { "en": "Last year", "so": "Sannadkii hore" },
+                { "en": "Yesterday", "so": "Shalay" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What did his mother cook?", "so": "Hooyadiis maxay karisay?" },
+              "options": [
+                { "en": "Chapati and beans", "so": "Sabaayad iyo digir" },
+                { "en": "Fish and ugali", "so": "Kalluun iyo ugali" },
+                { "en": "Rice and meat", "so": "Bariis iyo hilib" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "When did he come back to Nairobi?", "so": "Goorma ayuu Nairobi ku soo noqday?" },
+              "options": [
+                { "en": "The day before yesterday", "so": "Dorraad" },
+                { "en": "This morning", "so": "Saaka" },
+                { "en": "Last night", "so": "Xalay" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "gap", "before": "Nilimwona", "after": " sokoni, si jana.", "options": ["juzi", "kesho", "wiki ijayo"], "answer": 0, "meaning": { "en": "I saw him at the market the day before yesterday, not yesterday.", "so": "Dorraad ayaan suuqa ku arkay, ma ahayn shalay." } },
+        { "type": "respond", "heard": "Ulifika lini Nairobi?", "options": ["Nitafika kesho.", "Mwaka jana, mwezi wa sita.", "Sina doo."], "answer": 1, "explain": { "en": "'When did you arrive in Nairobi?' – 'Last year, in June.' Mwezi wa sita = the sixth month.", "so": "'Goorma ayaad Nairobi timid?' – 'Sannadkii hore, bishii lixaad.' Mwezi wa sita = bisha lixaad." } }
+      ]
+    },
+    {
+      "id": "it-has-happened",
+      "title": { "en": "It has happened: -me-", "so": "Way dhacday: -me-" },
+      "items": ["ps.nimekula", "ps.amefika", "ps.amelala", "ps.nimeshakula", "ps.umepotea", "ps.gari-limeharibika"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Halo, Abdi! Umepotea! Uko wapi siku hizi?", "en": "Hello, Abdi! Long time no see! Where are you these days?", "so": "Haloo, Abdi! Waad naga maqnayd! Xaggee joogtaa maalmahan?" },
+            { "who": "Abdi", "sw": "Niko Eastleigh. Nimefungua duka jipya.", "en": "I'm in Eastleigh. I've opened a new shop.", "so": "Eastleigh ayaan joogaa. Dukaan cusub ayaan furay." },
+            { "who": "Halima", "sw": "Hongera! Umekula? Njoo tunywe chai.", "en": "Congratulations! Have you eaten? Come, let's have tea.", "so": "Hambalyo! Wax ma cuntay? Kaalay aan shaah cabno." },
+            { "who": "Abdi", "sw": "Asante, nimeshakula. Lakini nimechoka sana leo.", "en": "Thanks, I've already eaten. But I'm very tired today.", "so": "Mahadsanid, horay ayaan wax u cunay. Laakiin maanta aad baan u daallanahay." },
+            { "who": "Halima", "sw": "Pole! Basi tutaonana kesho.", "en": "Poor you! Then we'll see each other tomorrow.", "so": "Ilaahay ha ku siiyo xoog! Haddaba berri ayaan kulmi doonnaa." }
+          ],
+          "question": { "en": "Why doesn't Abdi come for tea?", "so": "Abdi muxuu shaaha ugu iman waayay?" },
+          "options": [
+            { "en": "He has already eaten and he is tired", "so": "Horay ayuu wax u cunay, wuuna daallan yahay" },
+            { "en": "His shop is closed", "so": "Dukaankiisu waa xiran yahay" },
+            { "en": "He is in Kisumu", "so": "Kisumu ayuu joogaa" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Matatu haiendi. Gari", "after": ".", "options": ["limeharibika", "limekula", "limelala"], "answer": 0, "meaning": { "en": "The matatu isn't moving. The vehicle has broken down.", "so": "Matatu-gu ma socdo. Gaarigii wuu xumaaday." } },
+        { "type": "respond", "heard": "Umekula?", "options": ["Nitaenda kesho.", "Ndiyo, nimeshakula. Asante.", "Nilikula mwaka jana."], "answer": 1, "explain": { "en": "'Have you eaten?' – 'Yes, I've already eaten. Thanks.' Umekula? is also a caring way to greet someone.", "so": "'Wax ma cuntay?' – 'Haa, horay ayaan wax u cunay. Mahadsanid.' Umekula? sidoo kale waa hab daryeel leh oo qof loo salaamo." } },
+        { "type": "build", "prompt": { "en": "My friend has arrived", "so": "Saaxiibkay wuu yimid" }, "answer": "Rafiki yangu amefika", "extra": ["sijafika", "zamani"] }
+      ]
+    },
+    {
+      "id": "didnt-and-not-yet",
+      "title": { "en": "Didn't and not yet", "so": "Ma dhicin iyo weli ma" },
+      "items": ["ps.sikula", "ps.hakuja", "ps.hatukuenda", "ps.sikujua", "ps.sijala", "ps.bado-sijafika"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mama Wanjiku", "sw": "Wanjiku, mbona hukuenda shuleni leo?", "en": "Wanjiku, why didn't you go to school today?", "so": "Wanjiku, maxaad maanta dugsiga u aadi weyday?" },
+            { "who": "Wanjiku", "sw": "Mama, sikujua kuna shule. Mwalimu alisema ni likizo!", "en": "Mum, I didn't know there was school. The teacher said it was a holiday!", "so": "Hooyo, ma aan ogeyn in dugsi jiro. Macallinku wuxuu yiri waa fasax!" },
+            { "who": "Mama Wanjiku", "sw": "Likizo ni wiki ijayo. Na kaka yako Kamau, yuko wapi?", "en": "The holiday is next week. And your brother Kamau, where is he?", "so": "Fasaxu waa toddobaadka soo socda. Walaalkaa Kamaana xaggee buu joogaa?" },
+            { "who": "Wanjiku", "sw": "Bado hajarudi. Hakuja nyumbani kwa chakula cha mchana.", "en": "He hasn't come back yet. He didn't come home for lunch.", "so": "Weli ma soo noqon. Qadada guriga uma iman." },
+            { "who": "Mama Wanjiku", "sw": "Ah! Leo ni siku ndefu.", "en": "Oh! Today is a long day.", "so": "Ah! Maanta waa maalin dheer." }
+          ],
+          "question": { "en": "Why didn't Wanjiku go to school?", "so": "Wanjiku maxay dugsiga u aadi weyday?" },
+          "options": [
+            { "en": "She was sick", "so": "Way jirranayd" },
+            { "en": "She thought it was a holiday", "so": "Waxay u maleysay inay fasax tahay" },
+            { "en": "She went to the market", "so": "Suuqa ayay aaday" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Bado", "after": ". Nina njaa sana.", "options": ["sijala", "nimekula", "nilikula"], "answer": 0, "meaning": { "en": "I haven't eaten yet. I'm very hungry.", "so": "Weli wax ma aan cunin. Aad baan u gaajaysanahay." } },
+        { "type": "respond", "heard": "Uko wapi? Tunakungoja!", "options": ["Nilikula juzi.", "Asante kwa chakula.", "Bado sijafika, niko kwa jam."], "answer": 2, "explain": { "en": "'Where are you? We're waiting for you!' – 'I'm not there yet, I'm stuck in traffic.'", "so": "'Xaggee joogtaa? Waan ku sugaynaa!' – 'Weli ma aan gaarin, ciriiriga gaadiidka ayaan ku jiraa.'" } },
+        { "type": "build", "prompt": { "en": "We didn't go to the market", "so": "Suuqa ma aannu tagin" }, "answer": "Hatukuenda sokoni", "extra": ["tulienda", "sikula"], "accept": ["Hatukwenda sokoni"] }
+      ]
+    },
+    {
+      "id": "first-then-finally",
+      "title": { "en": "First, then, finally", "so": "Marka hore, kadib, ugu dambayn" },
+      "items": ["ps.siku-moja", "ps.kwanza", "ps.halafu", "ps.kisha", "ps.baadaye", "ps.ghafla", "ps.mwishowe"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Amina's first day in Nairobi", "so": "Maalintii ugu horreysay ee Amina ku joogtay Nairobi" },
+          "lines": [
+            { "sw": "Siku moja mwaka jana, Amina alifika Nairobi kutoka Garissa.", "en": "One day last year, Amina arrived in Nairobi from Garissa.", "so": "Maalin maalmaha ka mid ah sannadkii hore, Amina waxay Nairobi uga timid Garissa." },
+            { "sw": "Kwanza, alipanda matatu kwenda Eastleigh kwa shangazi yake.", "en": "First, she took a matatu to her aunt's place in Eastleigh.", "so": "Marka hore, waxay fuushay matatu u socota Eastleigh, gurigii eeddadeed." },
+            { "sw": "Matatu ilikuwa na muziki wa sauti ya juu, na konda aliongea haraka sana.", "en": "The matatu had loud music, and the conductor talked very fast.", "so": "Matatu-gu muusig cod dheer ayuu lahaa, kirishboyguna aad buu u degdeg hadlayay." },
+            { "sw": "Halafu, ghafla, aligundua kwamba alikuwa amepita mahali pa kushuka.", "en": "Then, suddenly, she realised she had gone past her stop.", "so": "Kadib, si lama filaan ah, waxay ogaatay inay dhaaftay meeshii ay ka degi lahayd." },
+            { "who": "Amina", "sw": "Konda, nishukishe hapa tafadhali!", "en": "Conductor, drop me here please!", "so": "Kirishboy, fadlan halkan i deji!" },
+            { "sw": "Baadaye, alitembea mpaka nyumbani kwa shangazi yake.", "en": "Later, she walked to her aunt's house.", "so": "Dabadeed, waxay lugeysay ilaa gurigii eeddadeed." },
+            { "sw": "Shangazi alimpikia chai na sambusa.", "en": "Her aunt made her tea and samosas.", "so": "Eeddadeed waxay u samaysay shaah iyo sambuus." },
+            { "sw": "Mwishowe, Amina alilala mapema. Siku ya kwanza ilikuwa ndefu, lakini nzuri.", "en": "In the end, Amina went to bed early. The first day was long, but good.", "so": "Ugu dambayn, Amina goor hore ayay seexatay. Maalintii ugu horreysay way dheerayd, laakiin way fiicnayd." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Where did Amina come from?", "so": "Amina xaggee ayay ka timid?" },
+              "options": [
+                { "en": "Mombasa", "so": "Mombasa" },
+                { "en": "Garissa", "so": "Garissa" },
+                { "en": "Kisumu", "so": "Kisumu" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What problem did she have on the matatu?", "so": "Dhibaatee ayay matatu-ga ku qabsatay?" },
+              "options": [
+                { "en": "She went past her stop", "so": "Waxay dhaaftay meeshii ay ka degi lahayd" },
+                { "en": "She lost her phone", "so": "Taleefankeedii ayaa ka lumay" },
+                { "en": "She had no money for the fare", "so": "Lacag safar ma haysan" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "How was her first day?", "so": "Maalinteedii ugu horreysay sidee ahayd?" },
+              "options": [
+                { "en": "Short and boring", "so": "Gaaban oo caajis ah" },
+                { "en": "Terrible", "so": "Aad u xun" },
+                { "en": "Long but good", "so": "Dheer laakiin fiican" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "gap", "before": "Kwanza tulikula,", "after": " tukaenda sokoni.", "options": ["jana", "halafu", "kwanza"], "answer": 1, "meaning": { "en": "First we ate, then we went to the market.", "so": "Marka hore wax baan cunnay, kadibna suuqa ayaan aadnay." } },
+        { "type": "build", "prompt": { "en": "Suddenly it started to rain", "so": "Si lama filaan ah ayuu roob u bilaabmay" }, "answer": "Ghafla mvua ilianza kunyesha", "extra": ["mwishowe", "kesho"] }
+      ]
+    },
+    {
+      "id": "telling-the-story",
+      "title": { "en": "Telling the story", "so": "Sheekaynta" },
+      "items": ["ps.nilipofika", "ps.ilikuwa-aje", "ps.nini-kilitokea", "ps.sikuamini", "ps.bahati-nzuri", "ps.bahati-mbaya"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Abdi and Grandpa's goat", "so": "Abdi iyo rigii awoowe" },
+          "lines": [
+            { "sw": "Zamani, Abdi alipokuwa mtoto, aliishi na babu yake huko Garissa.", "en": "Long ago, when Abdi was a child, he lived with his grandfather in Garissa.", "so": "Waagii hore, markii Abdi yaraa, wuxuu awoowihiis kula noolaa Garissa." },
+            { "sw": "Babu alikuwa na mbuzi mweupe aliyeitwa Faraji.", "en": "Grandpa had a white goat called Faraji.", "so": "Awoowe wuxuu lahaa ri cad oo la odhan jiray Faraji." },
+            { "sw": "Siku moja asubuhi, Abdi alipofika zizini, Faraji hakuwepo!", "en": "One morning, when Abdi got to the pen, Faraji wasn't there!", "so": "Subax subaxyada ka mid ah, markii Abdi xeradii gaaray, Faraji ma joogin!" },
+            { "sw": "Kwanza walimtafuta karibu na kisima, halafu sokoni.", "en": "First they looked for him near the well, then at the market.", "so": "Marka hore waxay ka raadiyeen ceelka agtiisa, kadibna suuqa." },
+            { "sw": "Kwa bahati mbaya, hawakumwona popote.", "en": "Unfortunately, they didn't see him anywhere.", "so": "Nasiib darro, meelna kuma ay arkin." },
+            { "sw": "Mwishowe, jirani yao, Mama Halima, aliwaita kutoka shambani kwake.", "en": "In the end, their neighbour, Mama Halima, called them from her garden.", "so": "Ugu dambayn, deriskooda, Mama Halima, ayaa uga yeertay beerteeda." },
+            { "who": "Mama Halima", "sw": "Njooni haraka! Faraji anakula sukuma wiki yangu!", "en": "Come quickly! Faraji is eating my sukuma wiki!", "so": "Dhaqso u kaalaya! Faraji ayaa cunaya sukuma wiki-gayga!" },
+            { "sw": "Babu alicheka sana. Kwa bahati nzuri, Mama Halima pia alicheka.", "en": "Grandpa laughed a lot. Luckily, Mama Halima laughed too.", "so": "Awoowe aad buu u qoslay. Nasiib wanaag, Mama Halima sidoo kale way qososhay." },
+            { "sw": "Tangu siku hiyo, babu alifunga zizi kila usiku.", "en": "From that day on, Grandpa locked the pen every night.", "so": "Maalintaas laga bilaabo, awoowe xerada wuu xiri jiray habeen kasta." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Where was Faraji in the end?", "so": "Ugu dambayn Faraji xaggee buu joogay?" },
+              "options": [
+                { "en": "At the market", "so": "Suuqa" },
+                { "en": "Near the well", "so": "Ceelka agtiisa" },
+                { "en": "In the neighbour's garden", "so": "Beerta deriska" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What did Grandpa do after that day?", "so": "Awoowe muxuu samayn jiray maalintaas kadib?" },
+              "options": [
+                { "en": "He locked the pen every night", "so": "Habeen kasta xerada wuu xiri jiray" },
+                { "en": "He sold the goat", "so": "Rigii wuu iibiyay" },
+                { "en": "He moved to Nairobi", "so": "Nairobi ayuu u guuray" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Chebet", "sw": "Kiprotich! Safari ya Mombasa ilikuwa aje?", "en": "Kiprotich! How was the trip to Mombasa?", "so": "Kiprotich! Safarkii Mombasa sidee ahaa?" },
+            { "who": "Kiprotich", "sw": "Ilikuwa poa, lakini kwa bahati mbaya, gari letu liliharibika njiani.", "en": "It was cool, but unfortunately our car broke down on the way.", "so": "Wuu fiicnaa, laakiin nasiib darro, gaarigayagii ayaa jidka ku xumaaday." },
+            { "who": "Chebet", "sw": "Wacha! Nini kilitokea baadaye?", "en": "No way! What happened after that?", "so": "Iska daa! Maxaa dhacay kadib?" },
+            { "who": "Kiprotich", "sw": "Tulingoja masaa matatu. Kwa bahati nzuri, fundi mmoja alitusaidia.", "en": "We waited three hours. Luckily, a mechanic helped us.", "so": "Saddex saacadood ayaan sugnay. Nasiib wanaag, makaanik ayaa na caawiyay." },
+            { "who": "Chebet", "sw": "Pole sana! Na mlipofika?", "en": "So sorry! And when you got there?", "so": "Aad baan uga xumahay! Markii aad gaarteenna?" },
+            { "who": "Kiprotich", "sw": "Tulipofika Mombasa, tulienda moja kwa moja ufukweni!", "en": "When we got to Mombasa, we went straight to the beach!", "so": "Markii aan Mombasa gaarnay, si toos ah ayaan xeebta u aadnay!" }
+          ],
+          "question": { "en": "What happened on the way to Mombasa?", "so": "Maxaa ka dhacay jidka Mombasa?" },
+          "options": [
+            { "en": "They got lost", "so": "Way lumeen" },
+            { "en": "Their car broke down", "so": "Gaarigoodii ayaa xumaaday" },
+            { "en": "It rained a lot", "so": "Roob badan ayaa da'ay" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Nini kilitokea?", "options": ["Nitakula kesho.", "Karibu tena.", "Gari liliharibika, lakini sasa tuko sawa."], "answer": 2, "explain": { "en": "'What happened?' – 'The car broke down, but now we're fine.'", "so": "'Maxaa dhacay?' – 'Gaarigii wuu xumaaday, laakiin hadda waan fiicannahay.'" } }
+      ]
+    }
+  ]
+}

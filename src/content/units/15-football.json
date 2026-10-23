@@ -1,0 +1,268 @@
+{
+  "id": "football",
+  "order": 15,
+  "level": "A2",
+  "color": "#1d4ed8",
+  "reviewed": false,
+  "title": { "en": "Football", "so": "Kubadda Cagta" },
+  "swTitle": "Mpira wa Miguu",
+  "description": {
+    "en": "Talk football like a Kenyan fan: teams, players, goals and results, from Gor Mahia and AFC Leopards to Harambee Stars.",
+    "so": "Kubadda cagta uga hadal sida taageere reer Kenya ah: kooxaha, ciyaartoyda, goolasha iyo natiijooyinka, laga bilaabo Gor Mahia iyo AFC Leopards ilaa Harambee Stars."
+  },
+  "goals": ["sports"],
+  "guide": [
+    {
+      "title": { "en": "Saying 'football'", "so": "Sida loo yiraahdo 'kubadda cagta'" },
+      "body": {
+        "en": "The full name is mpira wa miguu (ball of the feet), but most Kenyans just say mpira or soka. Newspapers and radio also use kandanda. Many football words come from English: goli, refa, penalti, kocha, beki. In the news you will also hear the formal words bao (goal), mwamuzi (referee) and mlinda mlango (goalkeeper).",
+        "so": "Magaca buuxa waa mpira wa miguu (kubadda cagaha), laakiin Kenyaanka badankoodu waxay yiraahdaan mpira ama soka. Wargeysyada iyo raadiyuhu waxay sidoo kale isticmaalaan kandanda. Erayo badan oo kubadda cagta ah waxay ka yimaadeen Ingiriisiga: goli, refa, penalti, kocha, beki. Wararka waxaad sidoo kale ka maqli doontaa erayada rasmiga ah bao (gool), mwamuzi (garsoore) iyo mlinda mlango (goolhaye)."
+      },
+      "examples": [
+        { "sw": "Unapenda mpira?", "en": "Do you like football?", "so": "Kubadda cagta ma jeceshahay?", "v": "everyday" },
+        { "sw": "Kipa amedaka mpira.", "en": "The keeper has caught the ball.", "so": "Goolhayuhu kubadda wuu qabtay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "The Mashemeji derby", "so": "Ciyaarta Mashemeji" },
+      "body": {
+        "en": "Kenya's biggest club match is Gor Mahia against AFC Leopards. Gor Mahia fans call their club K'Ogalo, and AFC Leopards are called Ingwe (leopard). The match is the Mashemeji derby, from shemeji (in-law). The two clubs' traditional supporters come from neighbouring communities in western Kenya with many marriages between them, so rival fans jokingly call each other in-laws.",
+        "so": "Ciyaarta kooxeed ee ugu weyn Kenya waa Gor Mahia iyo AFC Leopards. Taageerayaasha Gor Mahia kooxdooda waxay ugu yeeraan K'Ogalo, AFC Leopards-na waxaa loo yaqaan Ingwe (shabeel). Ciyaarta waxaa la yiraahdaa Mashemeji derby, oo ka timid shemeji (xidid). Taageerayaasha dhaqameed ee labada kooxood waxay ka yimaadaan bulshooyin deris ah oo ku nool galbeedka Kenya, kuwaas oo aad isu guursada, sidaas darteed taageerayaasha is-diidan waxay kaftan ahaan isugu yeeraan xididdo."
+      },
+      "examples": [
+        { "sw": "Leo ni mechi ya Mashemeji!", "en": "Today is the Mashemeji derby!", "so": "Maanta waa ciyaarta Mashemeji!", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Harambee Stars and the big stadiums", "so": "Harambee Stars iyo garoomada waaweyn" },
+      "body": {
+        "en": "Kenya's men's national team is Harambee Stars and the women's team is Harambee Starlets. Harambee means 'let's all pull together' and is Kenya's national motto. Big matches are played in Nairobi at Kasarani (Moi International Sports Centre) and at Nyayo National Stadium.",
+        "so": "Xulka qaranka ragga Kenya waa Harambee Stars, kan haweenkana waa Harambee Starlets. Harambee waxay ka dhigan tahay 'aan wada jiidno', waana halku-dhegga qaranka Kenya. Ciyaaraha waaweyn waxaa lagu ciyaaraa Nairobi, garoonka Kasarani (Moi International Sports Centre) iyo Nyayo National Stadium."
+      },
+      "examples": [
+        { "sw": "Twende Kasarani tuangalie timu ya taifa!", "en": "Let's go to Kasarani and watch the national team!", "so": "Aan aadno Kasarani oo daawanno xulka qaranka!", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "The Premier League at the base", "so": "Premier League-ka iyo 'base'-ka" },
+      "body": {
+        "en": "Many Kenyans follow English Premier League clubs as closely as local ones. Friends watch weekend matches together at their base (usual hangout), at a hoteli with a TV, or in a video hall where you pay a few shillings to watch. Scores use bila (without) for nil: mbili bila is 2–0, moja moja is 1–1, mbili kwa moja is 2–1.",
+        "so": "Kenyaan badan waxay kooxaha Premier League-ka Ingiriiska ula socdaan sida kuwa gudaha oo kale. Saaxiibbadu ciyaaraha dhammaadka toddobaadka waxay ku wada daawadaan base-kooda (meesha ay caadi ahaan ku kulmaan), hoteli TV leh, ama video hall oo aad shilin yar ku bixiso si aad u daawato. Natiijooyinka, eber waxaa loo yiraahdaa bila (la'aan): mbili bila waa 2–0, moja moja waa 1–1, mbili kwa moja waa 2–1."
+      },
+      "examples": [
+        { "sw": "Tuliwachapa mbili bila.", "en": "We beat them two-nil.", "so": "Laba iyo eber ayaan ku garaacnay.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Talking about results", "so": "Ka hadalka natiijooyinka" },
+      "body": {
+        "en": "Fans talk about results with -me- (has/have) and -li- (did). Tumeshinda! = We've won! Tulishinda jana = We won yesterday. Tumewachapa! (We've thrashed them!) is what you shout after a big win. You will learn these tenses fully in the unit Telling what happened.",
+        "so": "Taageerayaashu natiijooyinka waxay kaga hadlaan -me- (hadda dhacay) iyo -li- (wakhti tegay). Tumeshinda! = Waan guulaysannay! Tulishinda jana = Shalay ayaan guulaysannay. Tumewachapa! (Waan garaacnay!) waa waxa aad ku qayliso guul weyn kadib. Wakhtiyadan si buuxda ayaad ugu baran doontaa cutubka Telling what happened."
+      },
+      "examples": [
+        { "sw": "Tumeshinda! Tumewachapa tatu bila!", "en": "We've won! We've thrashed them three-nil!", "so": "Waan guulaysannay! Saddex iyo eber ayaan ku garaacnay!", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "sp.mpira", "sw": "mpira", "en": "ball", "so": "kubad", "v": "standard", "syn": "football", "note": { "en": "Kenyans also use mpira for the game itself: Unaenda mpira? (Are you going to the match?)", "so": "Kenyaanku mpira waxay sidoo kale ugu yeeraan ciyaarta lafteeda: Unaenda mpira? (Ciyaarta ma u socotaa?)" } },
+    { "id": "sp.mpira-wa-miguu", "sw": "mpira wa miguu", "en": "football (full name)", "so": "kubadda cagta", "v": "standard", "syn": "football", "note": { "en": "Literally 'ball of the feet'.", "so": "Macnaha ereyga: 'kubadda cagaha'." } },
+    { "id": "sp.soka", "sw": "soka", "en": "soccer (casual)", "so": "kubadda cagta (soka)", "v": "everyday", "syn": "football", "alt": ["kandanda"], "note": { "en": "News and radio also say kandanda.", "so": "Wararka iyo raadiyuhu waxay sidoo kale yiraahdaan kandanda." } },
+    { "id": "sp.timu", "sw": "timu", "en": "team", "so": "koox", "v": "standard" },
+    { "id": "sp.mechi", "sw": "mechi", "en": "match / game", "so": "ciyaar (kulan)", "v": "standard", "syn": "match" },
+    { "id": "sp.uwanja", "sw": "uwanja", "en": "stadium / pitch", "so": "garoon", "v": "standard", "syn": "stadium", "note": { "en": "Uwanja is any open ground: uwanja wa ndege is an airport, uwanja wa michezo a sports ground.", "so": "Uwanja waa dhul kasta oo bannaan: uwanja wa ndege waa garoonka diyaaradaha, uwanja wa michezo waa garoonka ciyaaraha." } },
+    { "id": "sp.kucheza-mpira", "sw": "kucheza mpira", "en": "to play football", "so": "kubad ciyaarid", "v": "standard" },
+
+    { "id": "sp.mchezaji", "sw": "mchezaji", "en": "player", "so": "ciyaaryahan", "v": "standard", "note": { "en": "Plural: wachezaji (players).", "so": "Wadarta: wachezaji (ciyaartoy)." } },
+    { "id": "sp.kipa", "sw": "kipa", "en": "goalkeeper", "so": "goolhaye", "v": "everyday", "syn": "goalkeeper", "alt": ["golikipa"], "note": { "en": "Formal: mlinda mlango (guard of the door).", "so": "Qaabka rasmiga ah: mlinda mlango (ilaaliyaha albaabka)." } },
+    { "id": "sp.beki", "sw": "beki", "en": "defender", "so": "daafac", "v": "everyday", "syn": "defender", "note": { "en": "From English 'back'. Formal: mlinzi.", "so": "Waxay ka timid Ingiriisiga 'back'. Qaabka rasmiga ah: mlinzi." } },
+    { "id": "sp.mshambuliaji", "sw": "mshambuliaji", "en": "striker / attacker", "so": "weeraryahan", "v": "standard", "syn": "striker", "note": { "en": "Fans also say straika.", "so": "Taageerayaashu waxay sidoo kale yiraahdaan straika." } },
+    { "id": "sp.kocha", "sw": "kocha", "en": "coach / manager", "so": "tababare", "v": "standard", "syn": "coach" },
+
+    { "id": "sp.goli", "sw": "goli", "en": "goal", "so": "gool", "v": "everyday", "syn": "goal", "note": { "en": "Goli is both the goalposts and a goal scored.", "so": "Goli waa labadaba: tiirarka goolka iyo goolka la dhaliyo." } },
+    { "id": "sp.bao", "sw": "bao", "en": "goal (scored, in the news)", "so": "gool (la dhaliyay, wararka)", "v": "standard", "syn": "goal", "note": { "en": "The word news reports use for goals scored: mabao mawili = two goals.", "so": "Ereyga wararku u isticmaalaan goolasha la dhaliyo: mabao mawili = laba gool." } },
+    { "id": "sp.kufunga-bao", "sw": "kufunga bao", "en": "to score a goal", "so": "gool dhalin", "v": "standard", "alt": ["kufunga goli"], "note": { "en": "Kufunga means 'to close' or 'to tie', and in sport 'to score'. Amefunga! = He has scored!", "so": "Kufunga waxay ka dhigan tahay 'xirid', ciyaarahana 'dhalin'. Amefunga! = Wuu dhaliyay!" } },
+    { "id": "sp.kushinda", "sw": "kushinda", "en": "to win", "so": "guulaysi", "v": "standard", "syn": "win" },
+    { "id": "sp.kushindwa", "sw": "kushindwa", "en": "to lose / be beaten", "so": "laga badiyo (guuldarro)", "v": "standard", "syn": "lose", "note": { "en": "Literally 'to be won over'. Tulishindwa = we lost.", "so": "Macnaha ereyga: 'in lagaa guulaysto'. Tulishindwa = waa nalaga badiyay." } },
+    { "id": "sp.sare", "sw": "sare", "en": "a draw (tie)", "so": "barbaro", "v": "standard", "syn": "draw", "alt": ["droo"], "note": { "en": "Kenyans also say droo. Walitoka sare = they drew.", "so": "Kenyaanku waxay sidoo kale yiraahdaan droo. Walitoka sare = barbaro ayay ku kala tageen." } },
+
+    { "id": "sp.mashabiki", "sw": "mashabiki", "en": "fans / supporters", "so": "taageerayaal", "v": "standard", "syn": "fans", "note": { "en": "One fan is shabiki. Kushabikia = to support a team.", "so": "Hal taageere waa shabiki. Kushabikia = koox taageerid." } },
+    { "id": "sp.timu-yako", "sw": "Timu yako ni gani?", "en": "Which team do you support? (lit. Your team is which?)", "so": "Kooxdaadu waa tee?", "v": "everyday", "syn": "which-team" },
+    { "id": "sp.mechi-saa-ngapi", "sw": "Mechi ni saa ngapi?", "en": "What time is the match?", "so": "Ciyaartu saacaddee bay tahay?", "v": "everyday" },
+    { "id": "sp.mechi-iko-aje", "sw": "Mechi iko aje?", "en": "How's the match going?", "so": "Ciyaartu sidee bay u socotaa?", "v": "everyday", "tz": "Mechi inaendeleaje?", "note": { "en": "Iko aje? is the Kenyan way to ask 'how is it?'.", "so": "Iko aje? waa sida Kenya loo weydiiyo 'sidee tahay?'." } },
+    { "id": "sp.tumewachapa", "sw": "Tumewachapa!", "en": "We've thrashed them!", "so": "Waan garaacnay!", "v": "everyday", "syn": "we-won", "note": { "en": "Kuchapa means 'to beat' (hit). Fans love it after a win.", "so": "Kuchapa waxay ka dhigan tahay 'garaacid'. Taageerayaashu aad bay u jecel yihiin guul kadib." } },
+    { "id": "sp.tatu-bila", "sw": "tatu bila", "en": "three-nil (3–0)", "so": "saddex iyo eber (3–0)", "v": "everyday", "note": { "en": "Bila means 'without'. Moja moja = 1–1, mbili kwa moja = 2–1.", "so": "Bila waxay ka dhigan tahay 'la'aan'. Moja moja = 1–1, mbili kwa moja = 2–1." } },
+
+    { "id": "sp.refa", "sw": "refa", "en": "referee", "so": "garsoore", "v": "everyday", "syn": "referee", "note": { "en": "Formal: mwamuzi (judge).", "so": "Qaabka rasmiga ah: mwamuzi (garsoore)." } },
+    { "id": "sp.penalti", "sw": "penalti", "en": "penalty (kick)", "so": "rigoore", "v": "everyday", "note": { "en": "In commentary: mkwaju wa penalti (penalty kick).", "so": "Faallada ciyaaraha: mkwaju wa penalti (laadka rigoorada)." } },
+    { "id": "sp.kadi-nyekundu", "sw": "kadi nyekundu", "en": "red card", "so": "kaarka cas", "v": "standard" },
+    { "id": "sp.kadi-njano", "sw": "kadi ya njano", "en": "yellow card", "so": "kaarka jaallaha ah", "v": "standard", "alt": ["kadi njano"] },
+    { "id": "sp.filimbi", "sw": "Refa amepiga filimbi", "en": "The referee has blown the whistle", "so": "Garsooruhu foodhida wuu afuufay", "v": "standard", "note": { "en": "Filimbi = whistle. Kupiga filimbi = to blow the whistle.", "so": "Filimbi = foodhi. Kupiga filimbi = foodhi afuufid." } },
+
+    { "id": "sp.timu-ya-taifa", "sw": "timu ya taifa", "en": "national team", "so": "xulka qaranka", "v": "standard" },
+    { "id": "sp.harambee-stars", "sw": "Harambee Stars", "en": "Harambee Stars (Kenya men's national team)", "so": "Harambee Stars (xulka qaranka ragga Kenya)", "v": "standard", "say": "Harambee Staas", "note": { "en": "Harambee = 'let's all pull together', Kenya's national motto.", "so": "Harambee = 'aan wada jiidno', halku-dhegga qaranka Kenya." } },
+    { "id": "sp.harambee-starlets", "sw": "Harambee Starlets", "en": "Harambee Starlets (Kenya women's national team)", "so": "Harambee Starlets (xulka qaranka haweenka Kenya)", "v": "standard", "say": "Harambee Staalets" },
+    { "id": "sp.kogalo", "sw": "K'Ogalo", "en": "K'Ogalo (nickname of Gor Mahia)", "so": "K'Ogalo (naanaysta Gor Mahia)", "v": "everyday", "say": "Kogalo", "alt": ["kogalo"] },
+    { "id": "sp.ingwe", "sw": "Ingwe", "en": "Ingwe (nickname of AFC Leopards, 'leopard')", "so": "Ingwe (naanaysta AFC Leopards, 'shabeel')", "v": "everyday" },
+    { "id": "sp.mashemeji", "sw": "Mashemeji Derby", "en": "Mashemeji derby (Gor Mahia v AFC Leopards)", "so": "Ciyaarta Mashemeji (Gor Mahia iyo AFC Leopards)", "v": "everyday", "say": "Mashemeji Dabi", "alt": ["mashemeji dabi", "mechi ya mashemeji"], "note": { "en": "Shemeji means in-law. Rival fans jokingly call each other in-laws.", "so": "Shemeji waa xidid. Taageerayaasha is-diidan waxay kaftan ahaan isugu yeeraan xididdo." } },
+
+    { "id": "sp.base", "sw": "base", "en": "base (usual hangout spot, Sheng)", "so": "base (meesha saaxiibbadu ku kulmaan, Sheng)", "v": "sheng", "say": "beis", "alt": ["beis"], "note": { "en": "Friends' usual meeting place, often where they watch matches.", "so": "Meesha saaxiibbadu caadi ahaan ku kulmaan, inta badan halkaas ayay ciyaaraha ku daawadaan." } },
+    { "id": "sp.kuwatch", "sw": "kuwatch", "en": "to watch (Sheng)", "so": "daawasho (Sheng)", "v": "sheng", "syn": "watch", "say": "kuwach", "alt": ["kuwach"], "note": { "en": "From English 'watch'. Standard: kutazama or kuangalia.", "so": "Waxay ka timid Ingiriisiga 'watch'. Qaabka caadiga ah: kutazama ama kuangalia." } },
+    { "id": "sp.unasupport", "sw": "Unasupport timu gani?", "en": "Which team do you support? (Sheng)", "so": "Kooxdee taageertaa? (Sheng)", "v": "sheng", "syn": "which-team", "say": "Unasaporti timu gani?", "alt": ["unasaport timu gani", "unashabikia timu gani"], "note": { "en": "The standard verb is kushabikia: Unashabikia timu gani?", "so": "Falka caadiga ahi waa kushabikia: Unashabikia timu gani?" } },
+    { "id": "sp.mafans", "sw": "mafans", "en": "fans (Sheng)", "so": "taageerayaal (Sheng)", "v": "sheng", "syn": "fans", "note": { "en": "English 'fans' with the Swahili plural ma-.", "so": "Ingiriisiga 'fans' oo lagu daray horgalaha wadarta Swahiliga ma-." } },
+    { "id": "sp.kichapo", "sw": "kichapo", "en": "a thrashing (heavy defeat)", "so": "jab culus (guuldarro weyn)", "v": "everyday", "note": { "en": "From kuchapa (to beat). Walipata kichapo = they got thrashed.", "so": "Waxay ka timid kuchapa (garaacid). Walipata kichapo = si xun ayaa looga adkaaday." } }
+  ],
+  "lessons": [
+    {
+      "id": "football-basics",
+      "title": { "en": "Football basics", "so": "Aasaasiga kubadda cagta" },
+      "items": ["sp.mpira", "sp.mpira-wa-miguu", "sp.soka", "sp.timu", "sp.mechi", "sp.uwanja", "sp.kucheza-mpira"],
+      "extra": [
+        { "type": "respond", "heard": "Unapenda kucheza mpira?", "options": ["Nimeshiba.", "Ndiyo, sana!", "Kushoto."], "answer": 1, "explain": { "en": "'Do you like playing football?' – 'Yes, a lot!'", "so": "'Ma jeceshahay kubad ciyaarista?' – 'Haa, aad!'" } },
+        { "type": "build", "prompt": { "en": "The match is at Kasarani today", "so": "Maanta ciyaartu waxay ka dhacaysaa Kasarani" }, "answer": "Mechi iko Kasarani leo", "extra": ["timu", "jana"], "accept": ["Leo mechi iko Kasarani"] },
+        { "type": "gap", "before": "Wanacheza mpira wa", "after": " uwanjani.", "options": ["kesho", "ndege", "miguu"], "answer": 2, "meaning": { "en": "They're playing football at the stadium.", "so": "Garoonka ayay kubadda cagta ku ciyaarayaan." } }
+      ]
+    },
+    {
+      "id": "the-players",
+      "title": { "en": "Players", "so": "Ciyaartoyda" },
+      "items": ["sp.mchezaji", "sp.kipa", "sp.beki", "sp.mshambuliaji", "sp.kocha"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Baraka", "sw": "Farah, unacheza nafasi gani?", "en": "Farah, what position do you play?", "so": "Farah, kaalintee ayaad ka ciyaartaa?" },
+            { "who": "Farah", "sw": "Mimi ni beki. Na wewe?", "en": "I'm a defender. And you?", "so": "Anigu waxaan ahay daafac. Adiguna?" },
+            { "who": "Baraka", "sw": "Mimi ni mshambuliaji. Nafunga mabao mengi!", "en": "I'm a striker. I score lots of goals!", "so": "Anigu waxaan ahay weeraryahan. Gool badan ayaan dhaliyaa!" },
+            { "who": "Farah", "sw": "Na kipa wetu ni nani?", "en": "And who is our goalkeeper?", "so": "Goolhayahayaguse waa kuma?" },
+            { "who": "Baraka", "sw": "Sijui. Uliza kocha.", "en": "I don't know. Ask the coach.", "so": "Ma garanayo. Tababaraha weydii." }
+          ],
+          "question": { "en": "What position does Farah play?", "so": "Farah kaalintee ayuu ka ciyaaraa?" },
+          "options": [
+            { "en": "Striker", "so": "Weeraryahan" },
+            { "en": "Defender", "so": "Daafac" },
+            { "en": "Goalkeeper", "so": "Goolhaye" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Timu moja ina wachezaji kumi na", "after": " uwanjani.", "options": ["moja", "tano", "tisa"], "answer": 0, "meaning": { "en": "One team has eleven players on the pitch.", "so": "Hal koox waxay garoonka ku leedahay kow iyo toban ciyaaryahan." } },
+        { "type": "build", "prompt": { "en": "The coach is very happy", "so": "Tababaruhu aad buu u faraxsan yahay" }, "answer": "Kocha amefurahi sana", "extra": ["beki", "kesho"] }
+      ]
+    },
+    {
+      "id": "goals-and-results",
+      "title": { "en": "Goals and results", "so": "Goolasha iyo natiijooyinka" },
+      "items": ["sp.goli", "sp.bao", "sp.kufunga-bao", "sp.kushinda", "sp.kushindwa", "sp.sare"],
+      "extra": [
+        { "type": "gap", "before": "Mshambuliaji amefunga", "after": "!", "options": ["kadi", "bao", "nauli"], "answer": 1, "meaning": { "en": "The striker has scored a goal!", "so": "Weeraryahanku gool buu dhaliyay!" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kamau", "sw": "Otieno, mechi ya jana ilikuwa aje?", "en": "Otieno, how was yesterday's match?", "so": "Otieno, ciyaartii shalay sidee ahayd?" },
+            { "who": "Otieno", "sw": "Tulitoka sare, moja moja.", "en": "We drew, one-all.", "so": "Barbaro ayaan ku kala tagnay, kow iyo kow." },
+            { "who": "Kamau", "sw": "Nani alifunga bao lenu?", "en": "Who scored your goal?", "so": "Yaa idiin dhaliyay goolka?" },
+            { "who": "Otieno", "sw": "Mshambuliaji wetu mpya.", "en": "Our new striker.", "so": "Weeraryahankayaga cusub." }
+          ],
+          "question": { "en": "What was the result?", "so": "Natiijadu maxay ahayd?" },
+          "options": [
+            { "en": "They won 2–0", "so": "Way guulaysteen 2–0" },
+            { "en": "They lost", "so": "Waa laga badiyay" },
+            { "en": "A 1–1 draw", "so": "Barbaro 1–1 ah" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Tulishinda mbili bila!", "options": ["Safi sana!", "Pole sana.", "Nishukishe hapa."], "answer": 0, "explain": { "en": "'We won two-nil!' – 'Great!' Pole sana is for bad news.", "so": "'Laba iyo eber ayaan ku guulaysannay!' – 'Aad u fiican!' Pole sana waa war xun." } },
+        { "type": "build", "prompt": { "en": "We lost yesterday", "so": "Shalay waa nalaga badiyay" }, "answer": "Tulishindwa jana", "extra": ["tulishinda", "leo"], "accept": ["Jana tulishindwa"] }
+      ]
+    },
+    {
+      "id": "fan-talk",
+      "title": { "en": "Fan talk", "so": "Hadalka taageerayaasha" },
+      "items": ["sp.mashabiki", "sp.timu-yako", "sp.mechi-saa-ngapi", "sp.mechi-iko-aje", "sp.tumewachapa", "sp.tatu-bila"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Wafula, timu yako ni gani?", "en": "Wafula, which team do you support?", "so": "Wafula, kooxdaadu waa tee?" },
+            { "who": "Wafula", "sw": "Gor Mahia, bila shaka! Na wewe?", "en": "Gor Mahia, of course! And you?", "so": "Gor Mahia, shaki la'aan! Adiguna?" },
+            { "who": "Abdi", "sw": "Mimi ni shabiki wa timu ya taifa. Mechi ni saa ngapi leo?", "en": "I'm a national team fan. What time is the match today?", "so": "Anigu waxaan taageeraa xulka qaranka. Maanta ciyaartu saacaddee bay tahay?" },
+            { "who": "Wafula", "sw": "Saa tisa alasiri, pale Kasarani.", "en": "At three in the afternoon, at Kasarani.", "so": "Saddexda galabnimo, garoonka Kasarani." },
+            { "who": "Abdi", "sw": "Poa! Twende pamoja.", "en": "Cool! Let's go together.", "so": "Fiican! Aan wada aadno." }
+          ],
+          "question": { "en": "What time is the match?", "so": "Ciyaartu saacaddee bay tahay?" },
+          "options": [
+            { "en": "9 a.m.", "so": "9-ka subaxnimo" },
+            { "en": "3 p.m.", "so": "3-da galabnimo" },
+            { "en": "9 p.m.", "so": "9-ka habeennimo" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Mechi iko aje?", "options": ["Nashuka hapa.", "Karibu sana.", "Ni moja bila, tunaongoza!"], "answer": 2, "explain": { "en": "'How's the match going?' – 'It's one-nil, we're leading!'", "so": "'Ciyaartu sidee bay u socotaa?' – 'Waa kow iyo eber, annagaa hoggaaminayna!'" } },
+        { "type": "build", "prompt": { "en": "We've thrashed them three-nil!", "so": "Saddex iyo eber ayaan ku garaacnay!" }, "answer": "Tumewachapa tatu bila", "extra": ["sare", "mbili"] }
+      ]
+    },
+    {
+      "id": "the-referee",
+      "goals": ["sports"],
+      "title": { "en": "The referee and the rules", "so": "Garsooraha iyo sharciyada" },
+      "items": ["sp.refa", "sp.penalti", "sp.kadi-nyekundu", "sp.kadi-njano", "sp.filimbi"],
+      "extra": [
+        { "type": "gap", "before": "Refa amempa beki kadi", "after": ".", "options": ["nyekundu", "kubwa", "mbali"], "answer": 0, "meaning": { "en": "The referee has given the defender a red card.", "so": "Garsooruhu daafaca kaar cas ayuu siiyay." } },
+        { "type": "respond", "heard": "Refa, hiyo ni penalti!", "options": ["Asante kwa chakula.", "Hapana, hakuna penalti.", "Safari njema!"], "answer": 1, "explain": { "en": "A player shouts 'Referee, that's a penalty!' The referee answers 'No, there's no penalty.'", "so": "Ciyaaryahan ayaa ku qayliyay 'Garsoore, taasi waa rigoore!' Garsooruhu wuxuu ku jawaabay 'Maya, rigoore ma jirto.'" } },
+        { "type": "build", "prompt": { "en": "The striker has got a yellow card", "so": "Weeraryahanku wuxuu helay kaar jaalle ah" }, "answer": "Mshambuliaji amepata kadi ya njano", "extra": ["nyekundu", "refa"] }
+      ]
+    },
+    {
+      "id": "kenyan-football",
+      "goals": ["sports"],
+      "title": { "en": "Kenyan football", "so": "Kubadda cagta Kenya" },
+      "items": ["sp.timu-ya-taifa", "sp.harambee-stars", "sp.harambee-starlets", "sp.kogalo", "sp.ingwe", "sp.mashemeji"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Nekesa", "sw": "Jumapili ni mechi ya Mashemeji!", "en": "Sunday is the Mashemeji derby!", "so": "Axadda waa ciyaarta Mashemeji!" },
+            { "who": "Otieno", "sw": "Najua! Gor Mahia watashinda.", "en": "I know! Gor Mahia will win.", "so": "Waan ogahay! Gor Mahia ayaa guulaysan doonta." },
+            { "who": "Nekesa", "sw": "Wapi! Ingwe ni timu bora.", "en": "No way! Ingwe is the better team.", "so": "Iska daa! Ingwe ayaa koox ka fiican." },
+            { "who": "Otieno", "sw": "Sawa, shemeji. Tutaonana uwanjani!", "en": "Okay, in-law. See you at the stadium!", "so": "Hagaag, xidid. Garoonka nagu kulan!" }
+          ],
+          "question": { "en": "Why does Otieno call Nekesa 'shemeji'?", "so": "Otieno muxuu Nekesa ugu yeeray 'shemeji'?" },
+          "options": [
+            { "en": "She is his sister", "so": "Waa walaashiis" },
+            { "en": "She is the referee", "so": "Iyadu waa garsooraha" },
+            { "en": "Fans of these two clubs jokingly call each other in-laws", "so": "Taageerayaasha labadan kooxood waxay kaftan ahaan isugu yeeraan xididdo" }
+          ],
+          "answer": 2
+        },
+        { "type": "gap", "before": "Harambee Starlets ni timu ya taifa ya", "after": ".", "options": ["wanawake", "watoto", "wazee"], "answer": 0, "meaning": { "en": "Harambee Starlets is the women's national team.", "so": "Harambee Starlets waa xulka qaranka haweenka." } },
+        { "type": "respond", "heard": "Wewe ni shabiki wa Gor Mahia?", "options": ["Nauli ni mia.", "Ndiyo, Gor milele!", "Tuko wapi?"], "answer": 1, "explain": { "en": "'Are you a Gor Mahia fan?' – 'Yes, Gor forever!'", "so": "'Ma taageere Gor Mahia baad tahay?' – 'Haa, Gor weligeed!'" } }
+      ]
+    },
+    {
+      "id": "at-the-base",
+      "goals": ["sports", "street"],
+      "title": { "en": "Watching at the base (Sheng)", "so": "Daawashada 'base'-ka (Sheng)" },
+      "items": ["sp.base", "sp.kuwatch", "sp.unasupport", "sp.mafans", "sp.kichapo"],
+      "extra": [
+        { "type": "respond", "heard": "Tukutane wapi kuangalia mechi?", "options": ["Nimeshiba.", "Kwa base kama kawaida.", "Pole sana."], "answer": 1, "explain": { "en": "'Where shall we meet to watch the match?' – 'At the base as usual.'", "so": "'Xaggee ku kulannaa si aan ciyaarta u daawanno?' – 'Base-ka sidii caadada ahayd.'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mutua", "sw": "Niaje! Leo tunawatch mechi kwa base?", "en": "Hey! Are we watching the match at the base today?", "so": "Iska warran! Maanta ciyaarta ma base-ka ayaan ku daawanaynaa?" },
+            { "who": "Omar", "sw": "Poa! Mafans wote watakuwa pale.", "en": "Cool! All the fans will be there.", "so": "Fiican! Taageerayaasha oo dhan halkaas ayay joogi doonaan." },
+            { "who": "Mutua", "sw": "Unasupport timu gani leo?", "en": "Which team are you supporting today?", "so": "Maanta kooxdee taageeraysaa?" },
+            { "who": "Omar", "sw": "Ingwe! Wapinzani watapata kichapo.", "en": "Ingwe! The other side will get thrashed.", "so": "Ingwe! Kooxda kale si xun ayaa looga adkaan doonaa." }
+          ],
+          "question": { "en": "Where will they watch the match?", "so": "Xaggee ayay ciyaarta ku daawan doonaan?" },
+          "options": [
+            { "en": "At their usual hangout (base)", "so": "Meeshooda caadiga ah (base-ka)" },
+            { "en": "At the stadium", "so": "Garoonka" },
+            { "en": "At home", "so": "Guriga" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "They got thrashed yesterday", "so": "Shalay si xun ayaa looga adkaaday" }, "answer": "Walipata kichapo jana", "extra": ["base", "mafans"], "accept": ["Jana walipata kichapo"] }
+      ]
+    }
+  ]
+}

@@ -28,6 +28,18 @@ export default defineConfig(({ command }) => ({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,json,webmanifest}'],
+        // Audio clips are not downloaded up front: each one is kept the first time it is played.
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/audio/') && url.pathname.endsWith('.mp3'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'sema-audio',
+              expiration: { maxEntries: 8000 },
+              cacheableResponse: { statuses: [200] },
+            },
+          },
+        ],
       },
     }),
   ],

@@ -1,0 +1,345 @@
+{
+  "id": "coast-lamu",
+  "order": 28,
+  "level": "B2",
+  "color": "#155e75",
+  "reviewed": false,
+  "title": { "en": "Coastal Heritage II: Lamu", "so": "Dhaxalka Xeebta II: Lamu" },
+  "swTitle": "Urithi wa Pwani: Lamu",
+  "description": {
+    "en": "Visit Lamu's car-free Old Town, sail on a dhow, read the sayings on a kanga and learn how centuries of sea trade shaped Swahili words, festivals and poetry.",
+    "so": "Booqo Magaalada Qadiimka ah ee Lamu oo aan baabuur lahayn, doonni dhaqameed raac, akhri oraahda kanga ku qoran, oo baro sida qarniyo ganacsi badeed u qaabeeyeen erayada, dabaaldegyada iyo gabayada Iswaahiliga."
+  },
+  "goals": ["travel"],
+  "guide": [
+    {
+      "title": { "en": "Lamu: a town without cars", "so": "Lamu: magaalo aan baabuur lahayn" },
+      "body": {
+        "en": "Lamu Old Town, on Lamu island in the north of Kenya's coast, is one of the oldest Swahili towns that people still live in, and it is a UNESCO World Heritage site. Locals call it Amu. Its alleys (vichochoro) are too narrow for cars, so people walk, and donkeys (punda) carry goods. The houses are built of coral stone, with famous carved wooden doors. Visitors fly to the airport on Manda island and cross to Lamu by boat.",
+        "so": "Magaalada Qadiimka ah ee Lamu, oo ku taal jasiiradda Lamu ee waqooyiga xeebta Kenya, waa mid ka mid ah magaalooyinka Iswaahiliga ugu da'da weyn ee weli la deggan yahay, waana goob dhaxal adduun ah oo UNESCO diiwaangelisay. Dadka deegaanku waxay ugu yeeraan Amu. Luuqyadeeda (vichochoro) aad bay ugu cidhiidhi yihiin baabuurta, sidaas darteed dadku way lugeeyaan, dameeruhuna (punda) alaabta ayay qaadaan. Guryaha waxaa laga dhisay dhagax shacaab ah, waxayna leeyihiin albaabbo alwaax ah oo si qurux badan loo xardhay. Booqdayaashu waxay ku degaan garoonka jasiiradda Manda, kadibna doon ayay ku tallowaan Lamu."
+      },
+      "examples": [
+        { "sw": "Hakuna magari mjini Lamu, kwa hiyo tunatembea.", "en": "There are no cars in Lamu town, so we walk.", "so": "Magaalada Lamu baabuur ma leh, sidaas darteed waan lugeynaa.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Dhows and the monsoon winds", "so": "Doonyaha iyo dabaylaha xilliyeedka" },
+      "body": {
+        "en": "A jahazi is a large wooden sailing ship (a dhow); a ngalawa is a small outrigger canoe used by fishermen. For centuries the monsoon winds ran the trade: the kaskazi (north-east monsoon, roughly December to March) brought dhows south from Arabia, Persia and India, and the kusi (south-east monsoon, roughly April to September) carried them home. Don't confuse kaskazi (the wind) with kaskazini (north). The captain is the nahodha, the same word as Somali naakhuude; both come from Persian.",
+        "so": "Jahazi waa markab weyn oo alwaax ah oo shiraac leh (doonni dhaqameed); ngalawa waa huuri yar oo garbo leh oo kalluumaysatadu isticmaalaan. Qarniyo badan dabaylaha xilliyeedka ayaa ganacsiga waday: kaskazi (dabaysha waqooyi-bari, qiyaastii Diseembar ilaa Maarso) waxay doonyaha koonfur u soo wadi jirtay iyagoo ka imanaya Carabta, Faaris iyo Hindiya, kusi (dabaysha koonfur-bari, qiyaastii Abriil ilaa Sebtembar) ayaana dib u celin jirtay. Ha isku khaldin kaskazi (dabaysha) iyo kaskazini (waqooyi). Kabtanka doonnida waxaa la yiraahdaa nahodha, waa isla erayga Soomaaliga ah naakhuude; labaduba waxay ka yimaadeen af Faarisi."
+      },
+      "examples": [
+        { "sw": "Nahodha anasubiri upepo wa kaskazi.", "en": "The captain is waiting for the north-east monsoon.", "so": "Naakhuudahu wuxuu sugayaa dabaysha waqooyi-bari.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Words that came by sea", "so": "Erayo badda ka yimid" },
+      "body": {
+        "en": "Kiswahili is a Bantu language born on the East African coast. Through trade it took in many words: from Arabic come kitabu (book), dunia (world), habari (news), saa (hour, clock) and karne (century); from Persian come bandari (port) and nahodha (captain). Even the name Swahili comes from Arabic sawahil, 'coasts'. Somali speakers will recognise many of these, because Somali borrowed the same Arabic words: saacad, kitaab, qarni.",
+        "so": "Iswaahiligu waa af Bantu ah oo ku dhashay xeebta Bariga Afrika. Ganacsiga darteed erayo badan ayuu qaatay: Carabi waxaa ka yimid kitabu (buug), dunia (adduun), habari (war), saa (saacad) iyo karne (qarni); Faarisi waxaa ka yimid bandari (deked) iyo nahodha (naakhuude). Xataa magaca Swahili wuxuu ka yimid Carabiga sawahil, 'xeebaha'. Dadka Soomaalida ahi kuwan badankood way garan doonaan, maxaa yeelay Soomaaligu isla erayadaas Carabiga ah ayuu amaahday: saacad, kitaab, qarni."
+      },
+      "examples": [
+        { "sw": "Neno karne lina asili ya Kiarabu.", "en": "The word karne is of Arabic origin.", "so": "Erayga karne asalkiisu waa Carabi.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kanga: cloth that speaks", "so": "Kanga: maro hadasha" },
+      "body": {
+        "en": "A kanga is a printed cotton cloth worn by women all along the coast and across Kenya. It has a border (pindo), a central design (mji) and a saying (jina). Kangas are sold as a pair (doti), and are given as gifts at weddings, births and Idd. The saying is how a kanga 'speaks': a woman may choose one to send a gentle message, a blessing or a warning without saying a word. Many sayings are traditional proverbs.",
+        "so": "Kanga waa maro suuf ah oo daabacan oo haweenku xirtaan xeebta oo dhan iyo Kenya oo dhanba. Waxay leedahay qarfka (pindo), naqshadda dhexe (mji) iyo oraah (jina). Kanga waxaa loo iibiyaa lammaane (doti), waxaana hadiyad ahaan loo bixiyaa arooska, dhalashada iyo Ciidda. Oraahdu waa sida ay kangadu u 'hadasho': haweeney ayaa dooran karta mid ay ku dirto farriin jilicsan, ducada ama digniin iyadoon hal eray odhan. Oraahyo badan waa maahmaahyo hore."
+      },
+      "examples": [
+        { "sw": "Jina la kanga hii ni zuri sana.", "en": "The saying on this kanga is very nice.", "so": "Oraahda kangadan aad bay u fiican tahay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Poetry, taarab and Kiamu", "so": "Gabayga, taarab iyo Kiamu" },
+      "body": {
+        "en": "Swahili poetry is old and respected. A classic shairi has stanzas (beti) of four lines (mishororo); each line usually has sixteen syllables (mizani) in two halves, with rhymes (vina) in the middle and at the end. An utenzi is a long narrative poem. Taarab is sung poetry, played with the udi (oud), violins and keyboards, popular at coastal weddings. Lamu also has its own old dialect, Kiamu, important in classical poetry. In this course we teach standard forms, but you will hear Kiamu on the island.",
+        "so": "Gabayga Iswaahiligu waa mid qadiim ah oo la ixtiraamo. Shairi caadi ah wuxuu leeyahay beyd (beti) ka kooban afar sadar (mishororo); sadar kastaa badanaa wuxuu leeyahay lix iyo toban xubnood (mizani) oo laba qaybood ah, qaafiyado (vina) dhexda iyo dhammaadkaba ku jira. Utenzi waa gabay dheer oo sheeko ka sheekeeya. Taarab waa gabay la luuqeeyo, oo lagu tumo cuud (udi), kamanjo iyo kiiboord, aadna looga jecel yahay arooska xeebta. Lamu waxay kaloo leedahay lahjad u gaar ah oo qadiim ah, Kiamu, oo muhiim u ah gabayga qadiimka. Koorsadan qaababka caadiga ah ayaan barnaa, laakiin jasiiradda waxaad ka maqli doontaa Kiamu."
+      },
+      "examples": [
+        { "sw": "Shairi hili lina beti nne.", "en": "This poem has four stanzas.", "so": "Gabaygani wuxuu leeyahay afar beyd.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "c2.amu", "sw": "Amu", "en": "Lamu (local Swahili name)", "so": "Lamu (magaca dadka deegaanka)", "v": "coastal", "note": { "en": "Its old dialect is called Kiamu.", "so": "Lahjaddeeda qadiimka ah waxaa la yiraahdaa Kiamu." } },
+    { "id": "c2.urithi-wa-dunia", "sw": "urithi wa dunia", "en": "world heritage", "so": "dhaxal adduun", "v": "standard", "note": { "en": "Eneo la urithi wa dunia = a World Heritage site. Lamu Old Town and Fort Jesus are both on the list.", "so": "Eneo la urithi wa dunia = goob dhaxal adduun ah. Magaalada Qadiimka ah ee Lamu iyo Fort Jesus labaduba liiska ayay ku jiraan." } },
+    { "id": "c2.punda", "sw": "punda", "en": "donkey", "so": "dameer", "v": "standard", "note": { "en": "Punda milia (zebra) is literally a 'striped donkey'. Lamu even has a donkey sanctuary.", "so": "Punda milia (dameer-farow) macno ahaan waa 'dameer xariijimo leh'. Lamu xataa waxay leedahay xarun lagu daryeelo dameeraha." } },
+    { "id": "c2.hakuna-magari", "sw": "Hakuna magari mjini Lamu", "en": "There are no cars in Lamu town", "so": "Magaalada Lamu baabuur ma leh", "v": "standard" },
+    { "id": "c2.kichochoro", "sw": "kichochoro", "en": "narrow alley / lane", "so": "luuq cidhiidhi ah", "v": "standard", "syn": "alley", "note": { "en": "Plural vichochoro. Lamu's vichochoro are barely wide enough for two donkeys.", "so": "Wadarta waa vichochoro. Luuqyada Lamu ayaa si dirqi ah laba dameer u qaada." } },
+
+    { "id": "c2.jahazi", "sw": "jahazi", "en": "dhow (large wooden sailing ship)", "so": "doonni dhaqameed (markab alwaax ah oo shiraac leh)", "v": "standard", "syn": "boat", "note": { "en": "Plural majahazi. You met it in Okoa Jahazi (lit. 'save the dhow').", "so": "Wadarta waa majahazi. Waxaad hore ugu aragtay Okoa Jahazi (macno ahaan: 'badbaadi doonnida')." } },
+    { "id": "c2.ngalawa", "sw": "ngalawa", "en": "outrigger canoe", "so": "huuri yar oo garbo leh", "v": "standard", "syn": "boat", "note": { "en": "A narrow canoe with side floats, used by fishermen near the shore.", "so": "Huuri cidhiidhi ah oo dhinacyada ka leh alwaax sabbeeya, kalluumaysatada xeebta u dhow ayaa isticmaala." } },
+    { "id": "c2.tanga", "sw": "tanga", "en": "sail", "so": "shiraac", "v": "standard", "note": { "en": "Plural matanga. Kupandisha tanga = to raise the sail.", "so": "Wadarta waa matanga. Kupandisha tanga = shiraaca kor u qaadid." } },
+    { "id": "c2.nahodha", "sw": "nahodha", "en": "captain (of a boat or ship)", "so": "naakhuude", "v": "standard", "syn": "captain", "note": { "en": "Same Persian origin as Somali naakhuude.", "so": "Isla asal Faarisi ah ayuu la leeyahay naakhuudaha Soomaaliga." } },
+    { "id": "c2.kaskazi", "sw": "kaskazi", "en": "north-east monsoon (about Dec to Mar)", "so": "dabaysha waqooyi-bari (qiyaastii Dis ilaa Maa)", "v": "standard", "note": { "en": "Not the same as kaskazini (north). It is also the hot season on the coast.", "so": "Lama mid aha kaskazini (waqooyi). Sidoo kale waa xilliga kulul ee xeebta." } },
+    { "id": "c2.kusi", "sw": "kusi", "en": "south-east monsoon (about Apr to Sep)", "so": "dabaysha koonfur-bari (qiyaastii Abr ilaa Seb)", "v": "standard", "note": { "en": "A cooler, windier season; the sea is rougher.", "so": "Waa xilli qabow oo dabayl badan; baddu way kacsan tahay." } },
+
+    { "id": "c2.historia", "sw": "historia", "en": "history", "so": "taariikh", "v": "standard" },
+    { "id": "c2.karne", "sw": "karne", "en": "century", "so": "qarni", "v": "standard", "note": { "en": "From Arabic qarn, like Somali qarni. Karne ya kumi na nne = the fourteenth century.", "so": "Waxay ka timid Carabiga qarn, sida qarniga Soomaaliga. Karne ya kumi na nne = qarnigii afar iyo tobnaad." } },
+    { "id": "c2.uarabuni", "sw": "Uarabuni", "en": "Arabia", "so": "Carabta (dhulka Carabta)", "v": "standard", "note": { "en": "Kiarabu = Arabic (language), Mwarabu = an Arab.", "so": "Kiarabu = Carabi (luqadda), Mwarabu = qof Carab ah." } },
+    { "id": "c2.uajemi", "sw": "Uajemi", "en": "Persia (Iran)", "so": "Faaris (Iiraan)", "v": "standard", "note": { "en": "Kiajemi = Persian (language). Today the country is usually called Iran.", "so": "Kiajemi = Faarisi (luqadda). Maanta dalka badanaa waxaa la yiraahdaa Iiraan." } },
+    { "id": "c2.asili-ya-kiarabu", "sw": "neno lenye asili ya Kiarabu", "en": "a word of Arabic origin", "so": "eray asalkiisu Carabi yahay", "v": "standard" },
+    { "id": "c2.utamaduni", "sw": "utamaduni", "en": "culture", "so": "dhaqan", "v": "standard", "syn": "culture", "note": { "en": "Plural tamaduni. Kitamaduni = traditional, cultural.", "so": "Wadarta waa tamaduni. Kitamaduni = dhaqameed." } },
+
+    { "id": "c2.maulidi", "sw": "Maulidi", "en": "Maulidi (celebration of the Prophet's birthday)", "so": "Mawliid (dabaaldegga dhalashada Nebiga)", "v": "standard", "note": { "en": "Lamu's Maulidi is the most famous in East Africa and draws visitors from far away.", "so": "Mawliidka Lamu waa kan ugu caansan Bariga Afrika, wuxuuna soo jiitaa martiyo meelo fog ka yimaada." } },
+    { "id": "c2.kaswida", "sw": "kaswida", "en": "qasida (religious praise song)", "so": "qasiido", "v": "standard", "note": { "en": "Sung in Swahili or Arabic, often by groups with drums (tari).", "so": "Waxaa lagu luuqeeyaa Iswaahili ama Carabi, badanaa kooxo durbaan (tari) wata." } },
+    { "id": "c2.msafara", "sw": "msafara", "en": "procession / convoy", "so": "socod wadareed / kolonyo", "v": "standard", "note": { "en": "From the same root as safari. Plural misafara.", "so": "Isla xididka safari ayay ka timid. Wadarta waa misafara." } },
+    { "id": "c2.mbio-za-punda", "sw": "mbio za punda", "en": "donkey race", "so": "orodka dameeraha", "v": "standard", "note": { "en": "A crowd favourite at the yearly Lamu Cultural Festival.", "so": "Dadku aad bay u jecel yihiin, waxayna ka dhacdaa Bandhigga Dhaqanka Lamu ee sannadlaha ah." } },
+    { "id": "c2.mbio-za-jahazi", "sw": "mbio za jahazi", "en": "dhow race", "so": "tartanka doonyaha dhaqameedka", "v": "standard" },
+
+    { "id": "c2.kanga", "sw": "kanga", "en": "kanga (printed cotton wrap with a saying)", "so": "kanga (go' suuf ah oo daabacan oo oraah leh)", "v": "standard", "alt": ["khanga", "leso"], "note": { "en": "On parts of the coast it is also called leso.", "so": "Qaybo ka mid ah xeebta waxaa sidoo kale lagu yiraahdaa leso." } },
+    { "id": "c2.jina-la-kanga", "sw": "jina la kanga", "en": "the saying on a kanga (lit. the kanga's name)", "so": "oraahda kanga ku qoran", "v": "standard" },
+    { "id": "c2.doti", "sw": "doti", "en": "a pair (of kangas, sold together)", "so": "lammaane (laba kanga oo wada socda)", "v": "standard", "note": { "en": "Doti moja ya kanga = one pair of kangas: one to wrap the waist, one for the shoulders or head.", "so": "Doti moja ya kanga = hal lammaane kanga ah: mid sinta lagu xiro, mid garbaha ama madaxa." } },
+    { "id": "c2.kikoi", "sw": "kikoi", "en": "kikoi (striped cotton wrap, mostly for men)", "so": "kikoi (macawis xariijimo leh)", "v": "standard" },
+    { "id": "c2.mapenzi-kikohozi", "sw": "Mapenzi ni kikohozi, hayafichiki", "en": "Love is like a cough: it cannot be hidden", "so": "Jacaylku waa sida qufaca: lama qarin karo", "v": "standard", "alt": ["mapenzi ni kikohozi hayafichiki"], "note": { "en": "A classic kanga saying, often given by a bride or a happy wife.", "so": "Waa oraah kanga caan ah, badanaa aroosad ama xaas faraxsan ayaa bixisa." } },
+    { "id": "c2.asiyekujua", "sw": "Asiyekujua hakuthamini", "en": "Whoever doesn't know you doesn't value you", "so": "Qofka aan ku aqoon qiimahaaga ma garto", "v": "standard", "note": { "en": "A traditional saying, worn as a quiet reply to someone who looks down on you.", "so": "Waa oraah hore, waxaana loo xirtaa jawaab aamusan oo qof ku quudhsaday loo celiyo." } },
+
+    { "id": "c2.shairi", "sw": "shairi", "en": "poem (rhymed, in metre)", "so": "gabay", "v": "standard", "syn": "poem", "note": { "en": "Plural mashairi. Pupils study mashairi for their Kiswahili exams.", "so": "Wadarta waa mashairi. Ardaydu waxay mashairi u bartaan imtixaannada Iswaahiliga." } },
+    { "id": "c2.mshairi", "sw": "mshairi", "en": "poet", "so": "abwaan / gabayaa", "v": "standard", "note": { "en": "Plural washairi.", "so": "Wadarta waa washairi." } },
+    { "id": "c2.ubeti", "sw": "ubeti", "en": "verse / stanza", "so": "beyd / tix", "v": "standard", "note": { "en": "Plural beti. From Arabic bayt, like Somali beyd.", "so": "Wadarta waa beti. Waxay ka timid Carabiga bayt, sida beydka Soomaaliga." } },
+    { "id": "c2.vina", "sw": "vina", "en": "rhymes (in a poem)", "so": "qaafiyado", "v": "standard", "note": { "en": "Singular kina. Vina vya kati = middle rhymes, vina vya mwisho = end rhymes.", "so": "Keli waa kina. Vina vya kati = qaafiyadaha dhexe, vina vya mwisho = qaafiyadaha dhammaadka." } },
+    { "id": "c2.utenzi", "sw": "utenzi", "en": "long narrative poem (epic)", "so": "gabay dheer oo sheeko ah", "v": "standard", "alt": ["utendi"], "note": { "en": "Plural tenzi. Utendi is the older coastal form of the word.", "so": "Wadarta waa tenzi. Utendi waa qaabka xeebta ee hore ee erayga." } }
+  ],
+  "lessons": [
+    {
+      "id": "lamu-old-town",
+      "title": { "en": "Lamu Old Town", "so": "Magaalada Qadiimka ah ee Lamu" },
+      "items": ["c2.amu", "c2.urithi-wa-dunia", "c2.punda", "c2.hakuna-magari", "c2.kichochoro"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Halima arrives in Lamu", "so": "Halima waxay timid Lamu" },
+          "lines": [
+            { "sw": "Halima alisafiri kwa ndege kutoka Nairobi hadi kisiwa cha Manda.", "en": "Halima flew from Nairobi to Manda island.", "so": "Halima waxay diyaarad ku soo raacday Nairobi ilaa jasiiradda Manda." },
+            { "sw": "Uwanja wa ndege uko Manda, kwa hiyo alivuka bahari kwa mashua hadi Lamu.", "en": "The airport is on Manda, so she crossed the sea by boat to Lamu.", "so": "Garoonka diyaaraduhu wuxuu ku yaal Manda, sidaas darteed waxay doon ku tallowday badda ilaa Lamu." },
+            { "sw": "Alipofika, alishangaa kuona kwamba hakuna magari mjini.", "en": "When she arrived, she was surprised to see that there were no cars in town.", "so": "Markay timid, waxay la yaabtay inay aragto in magaalada aan baabuur lahayn." },
+            { "sw": "Badala yake, punda walibeba mizigo, mchanga na hata mawe ya kujengea.", "en": "Instead, donkeys carried luggage, sand and even building stones.", "so": "Taa beddelkeeda, dameeraha ayaa qaadayay alaabta, ciidda iyo xataa dhagxaanta dhismaha." },
+            { "sw": "Vichochoro vya Mji wa Kale ni vyembamba sana, na nyumba nyingi zimejengwa kwa mawe ya matumbawe.", "en": "The alleys of the Old Town are very narrow, and many houses are built of coral stone.", "so": "Luuqyada Magaalada Qadiimka ahi aad bay u cidhiidhi yihiin, guryo badanna waxaa laga dhisay dhagax shacaab ah." },
+            { "sw": "Milango yake ya mbao imechongwa kwa ustadi mkubwa.", "en": "Its wooden doors are carved with great skill.", "so": "Albaabbadeeda alwaaxda ah si xirfad weyn leh ayaa loo xardhay." },
+            { "sw": "Mwongozaji wake, Bwana Omar, alimweleza historia ya mji.", "en": "Her guide, Mr Omar, told her the history of the town.", "so": "Hagaheeda, Mudane Omar, ayaa u sharraxay taariikhda magaalada." },
+            { "who": "Omar", "sw": "Amu ni mmoja wa miji ya zamani zaidi ya Waswahili ambayo bado inakaliwa na watu.", "en": "Amu is one of the oldest Swahili towns that people still live in.", "so": "Amu waa mid ka mid ah magaalooyinka Iswaahiliga ugu da'da weyn ee dadku weli deggan yihiin." },
+            { "who": "Omar", "sw": "Ndiyo maana Mji wa Kale wa Lamu ni eneo la urithi wa dunia.", "en": "That's why Lamu Old Town is a World Heritage site.", "so": "Taasi waa sababta Magaalada Qadiimka ah ee Lamu ay u tahay goob dhaxal adduun ah." },
+            { "sw": "Jioni, Halima aliketi kwenye baraza akinywa kahawa na kuwatazama punda wakipita.", "en": "In the evening, Halima sat on a stone bench drinking coffee and watching the donkeys go by.", "so": "Fiidkii, Halima waxay ku fadhiisatay kursiga dhagaxa ah iyadoo qaxwo cabbaysa oo daawanaysa dameeraha dhaafaya." },
+            { "who": "Halima", "sw": "Hapa maisha ni pole pole. Sihitaji gari kabisa!", "en": "Here life is slow. I don't need a car at all!", "so": "Halkan noloshu waa tartiib. Gaari haba yaraatee uma baahni!" }
+          ],
+          "questions": [
+            {
+              "question": { "en": "How did Halima get from Manda to Lamu?", "so": "Sidee bay Halima uga gudubtay Manda ilaa Lamu?" },
+              "options": [
+                { "en": "By car", "so": "Baabuur" },
+                { "en": "On a donkey", "so": "Dameer" },
+                { "en": "By boat", "so": "Doon" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What carries goods around Lamu town?", "so": "Maxaa alaabta ku qaada magaalada Lamu?" },
+              "options": [
+                { "en": "Donkeys", "so": "Dameerro" },
+                { "en": "Boda bodas", "so": "Boda boda" },
+                { "en": "Matatus", "so": "Matatu" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "Why is the Old Town a World Heritage site?", "so": "Maxay Magaalada Qadiimka ahi goob dhaxal adduun ah u tahay?" },
+              "options": [
+                { "en": "It has the biggest port in Kenya", "so": "Waxay leedahay dekedda ugu weyn Kenya" },
+                { "en": "It is one of the oldest Swahili towns still lived in", "so": "Waa mid ka mid ah magaalooyinka Iswaahiliga ugu da'da weyn ee weli la deggan yahay" },
+                { "en": "It has a famous airport", "so": "Waxay leedahay garoon caan ah" }
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Kuna teksi hapa Lamu?", "options": ["Ndiyo, nyingi sana, na zina rangi ya njano.", "Hapana, hakuna magari mjini. Tembea au panda punda.", "Nimeshiba, asante."], "answer": 1, "explain": { "en": "'Are there taxis here in Lamu?' – 'No, there are no cars in town. Walk or ride a donkey.'", "so": "'Taksi miyaa jira halkan Lamu?' – 'Maya, magaalada baabuur ma leh. Lugee ama dameer fuul.'" } },
+        { "type": "build", "prompt": { "en": "There are no cars in Lamu town", "so": "Magaalada Lamu baabuur ma leh" }, "answer": "Hakuna magari mjini Lamu", "extra": ["kichochoro", "urithi"] }
+      ]
+    },
+    {
+      "id": "dhows-and-winds",
+      "goals": ["travel"],
+      "title": { "en": "Dhows and the winds", "so": "Doonyaha iyo dabaylaha" },
+      "items": ["c2.jahazi", "c2.ngalawa", "c2.tanga", "c2.nahodha", "c2.kaskazi", "c2.kusi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mwanaisha", "sw": "Nahodha, jahazi lako linaenda wapi leo?", "en": "Captain, where is your dhow going today?", "so": "Naakhuude, doonnidaadu xaggee bay maanta u socotaa?" },
+            { "who": "Nahodha", "sw": "Tunaenda Shela na kurudi. Upepo ni mzuri leo.", "en": "We're going to Shela and back. The wind is good today.", "so": "Shela ayaan u soconnaa oo dib u soo laabanaynaa. Dabayshu maanta way fiican tahay." },
+            { "who": "Mwanaisha", "sw": "Mnaondoka saa ngapi, na bei ni pesa ngapi?", "en": "What time do you leave, and how much is it?", "so": "Goormaad baxaysaan, qiimuhuna waa immisa?" },
+            { "who": "Nahodha", "sw": "Saa tatu asubuhi. Ni shilingi elfu mbili kwa mtu, pamoja na chakula cha mchana.", "en": "Nine in the morning. It's two thousand shillings per person, lunch included.", "so": "Saddexda subaxnimo. Waa labo kun oo shilin qofkiiba, qadada oo ku jirta." },
+            { "who": "Mwanaisha", "sw": "Je, mnatumia injini?", "en": "Do you use an engine?", "so": "Miyaad matoor isticmaashaan?" },
+            { "who": "Nahodha", "sw": "Hapana, tunatumia tanga tu. Ndiyo raha ya jahazi!", "en": "No, we only use the sail. That's the joy of a dhow!", "so": "Maya, shiraaca oo keliya ayaan isticmaalnaa. Taasi waa macaanka doonnida!" }
+          ],
+          "question": { "en": "How does the dhow move?", "so": "Sidee bay doonnidu u socotaa?" },
+          "options": [
+            { "en": "With an engine", "so": "Matoor" },
+            { "en": "Only with its sail", "so": "Shiraaceeda oo keliya" },
+            { "en": "The crew paddle it", "so": "Shaqaalaha ayaa seebiya" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Wavuvi wadogo hutumia", "after": " kuvua samaki karibu na pwani.", "options": ["punda", "kichochoro", "ngalawa"], "answer": 2, "meaning": { "en": "Small-scale fishermen use outrigger canoes to fish near the shore.", "so": "Kalluumaysatada yaryari waxay huuriyo garbo leh u isticmaalaan kalluumaysiga meel xeebta u dhow." } },
+        { "type": "gap", "before": "Zamani, majahazi yalikuja kutoka Uarabuni kwa upepo wa", "after": ".", "options": ["kaskazi", "mvua", "kusi"], "answer": 0, "meaning": { "en": "Long ago, dhows came from Arabia on the north-east monsoon.", "so": "Waagii hore, doonyaha dhaqameedku waxay ka iman jireen Carabta iyagoo raacaya dabaysha waqooyi-bari." } }
+      ]
+    },
+    {
+      "id": "history-and-words",
+      "title": { "en": "History and borrowed words", "so": "Taariikh iyo erayo la amaahday" },
+      "items": ["c2.historia", "c2.karne", "c2.uarabuni", "c2.uajemi", "c2.asili-ya-kiarabu", "c2.utamaduni"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Words that came by sea", "so": "Erayo badda ka yimid" },
+          "lines": [
+            { "sw": "Kwa karne nyingi, majahazi yalisafiri kati ya pwani ya Afrika Mashariki, Uarabuni, Uajemi na India.", "en": "For many centuries, dhows sailed between the East African coast, Arabia, Persia and India.", "so": "Qarniyo badan, doonyo dhaqameed ayaa u dhexeeyay xeebta Bariga Afrika, Carabta, Faaris iyo Hindiya." },
+            { "sw": "Upepo wa kaskazi uliyaleta kusini, na upepo wa kusi uliyarudisha kaskazini.", "en": "The kaskazi wind brought them south, and the kusi wind took them back north.", "so": "Dabaysha kaskazi ayaa koonfur u keeni jirtay, dabaysha kusi-na waqooyi ayay dib ugu celin jirtay." },
+            { "sw": "Wafanyabiashara walileta nguo, vyombo na viungo.", "en": "Traders brought cloth, dishes and spices.", "so": "Ganacsatadu waxay keeni jireen dhar, weelal iyo xawaash." },
+            { "sw": "Kutoka Lamu walichukua mbao za mikoko na bidhaa nyingine.", "en": "From Lamu they took mangrove poles and other goods.", "so": "Lamu waxay ka qaadan jireen tiirarka geedaha mangroofka iyo badeecado kale." },
+            { "sw": "Wageni wengine walioa na kukaa pwani, na tamaduni zikachanganyika.", "en": "Some visitors married and settled on the coast, and the cultures mixed.", "so": "Martida qaarkood way guursadeen oo xeebta degeen, dhaqammaduna way isku dhex galeen." },
+            { "sw": "Hata hivyo, Kiswahili ni lugha ya Kibantu, na chimbuko lake ni hapa Afrika.", "en": "Even so, Kiswahili is a Bantu language, and its roots are here in Africa.", "so": "Si kastaba ha ahaatee, Iswaahiligu waa af Bantu ah, asalkiisuna waa halkan Afrika." },
+            { "sw": "Lakini lugha hii ilipokea maneno mengi kutoka kwa wageni.", "en": "But the language took in many words from the visitors.", "so": "Laakiin luqaddani erayo badan ayay ka qaadatay martida." },
+            { "sw": "Maneno kama kitabu, dunia, habari na karne yametoka Kiarabu.", "en": "Words like kitabu, dunia, habari and karne come from Arabic.", "so": "Erayo sida kitabu, dunia, habari iyo karne waxay ka yimaadeen Carabi." },
+            { "sw": "Maneno kama bandari na nahodha yametoka Kiajemi.", "en": "Words like bandari and nahodha come from Persian.", "so": "Erayo sida bandari iyo nahodha waxay ka yimaadeen Faarisi." },
+            { "sw": "Hata jina Kiswahili lina asili ya Kiarabu, kutoka neno linalomaanisha pwani.", "en": "Even the name Kiswahili is of Arabic origin, from a word meaning coast.", "so": "Xataa magaca Kiswahili asalkiisu waa Carabi, wuxuuna ka yimid eray macnihiisu yahay xeeb." },
+            { "sw": "Ndiyo maana Msomali husikia maneno mengi ya Kiswahili yanayofanana na ya Kisomali, kama saa na karne.", "en": "That's why a Somali hears many Swahili words that sound like Somali ones, such as saa and karne.", "so": "Taasi waa sababta qofka Soomaaliga ahi u maqlo erayo badan oo Iswaahili ah oo la mid ah kuwa Soomaaliga, sida saa iyo karne." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Which wind brought the dhows south?", "so": "Dabayshee ayaa doonyaha koonfur u keentay?" },
+              "options": [
+                { "en": "The kusi", "so": "Kusi" },
+                { "en": "The rain wind", "so": "Dabaysha roobka" },
+                { "en": "The kaskazi", "so": "Kaskazi" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "Where does the word bandari come from?", "so": "Erayga bandari xaggee buu ka yimid?" },
+              "options": [
+                { "en": "Arabic", "so": "Carabi" },
+                { "en": "Persian", "so": "Faarisi" },
+                { "en": "English", "so": "Ingiriis" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What kind of language is Kiswahili?", "so": "Iswaahiligu waa af noocee ah?" },
+              "options": [
+                { "en": "A Bantu language from Africa", "so": "Af Bantu ah oo Afrika ka soo jeeda" },
+                { "en": "A dialect of Arabic", "so": "Lahjad Carabi ah" },
+                { "en": "A Persian language", "so": "Af Faarisi ah" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "gap", "before": "Neno bandari lina asili ya", "after": ".", "options": ["Kibantu", "Kiajemi", "Kiingereza"], "answer": 1, "meaning": { "en": "The word bandari is of Persian origin.", "so": "Erayga bandari asalkiisu waa Faarisi." } },
+        { "type": "build", "prompt": { "en": "Swahili culture is very old", "so": "Dhaqanka Iswaahiligu aad buu qadiim u yahay" }, "answer": "Utamaduni wa Waswahili ni wa zamani sana", "extra": ["karne", "historia"] }
+      ]
+    },
+    {
+      "id": "maulidi-and-festivals",
+      "title": { "en": "Maulidi and festivals", "so": "Mawliidka iyo dabaaldegyada" },
+      "items": ["c2.maulidi", "c2.kaswida", "c2.msafara", "c2.mbio-za-punda", "c2.mbio-za-jahazi"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Omar's first Maulidi in Lamu", "so": "Mawliidkii ugu horreeyay ee Omar ee Lamu" },
+          "lines": [
+            { "sw": "Kila mwaka, wakati wa Maulidi, maelfu ya wageni huja Lamu.", "en": "Every year, at Maulidi, thousands of visitors come to Lamu.", "so": "Sannad kasta, xilliga Mawliidka, kumanaan marti ah ayaa yimaada Lamu." },
+            { "sw": "Wanatoka sehemu nyingi za Kenya na hata nchi jirani.", "en": "They come from many parts of Kenya and even from neighbouring countries.", "so": "Waxay ka yimaadaan qaybo badan oo Kenya ah iyo xataa dalalka deriska ah." },
+            { "sw": "Mwaka huu, Omar na mama yake walisafiri kutoka Garissa kumtembelea nyanya yake.", "en": "This year, Omar and his mother travelled from Garissa to visit his grandmother.", "so": "Sannadkan, Omar iyo hooyadii waxay ka soo safreen Garissa si ay u booqdaan ayeeyadiis." },
+            { "sw": "Maulidi ni sherehe ya kukumbuka kuzaliwa kwa Mtume Muhammad.", "en": "Maulidi is a celebration remembering the birth of the Prophet Muhammad.", "so": "Mawliidku waa dabaaldeg lagu xusuusto dhalashadii Nebi Muxammad." },
+            { "sw": "Usiku, watu wengi walikusanyika karibu na msikiti wa Riyadha kusikiliza kaswida.", "en": "At night, many people gathered near the Riyadha mosque to listen to qasidas.", "so": "Habeenkii, dad badan ayaa isugu yimid agagaarka masjidka Riyadha si ay u dhegaystaan qasiidooyin." },
+            { "sw": "Sauti za kaswida na tari zilijaa vichochoro vyote vya mji.", "en": "The sound of qasidas and drums filled every alley of the town.", "so": "Codadka qasiidooyinka iyo durbaannada ayaa buuxiyay luuqyada magaalada oo dhan." },
+            { "sw": "Siku iliyofuata, kulikuwa na msafara mrefu wa wanaume waliovaa kanzu nyeupe.", "en": "The next day there was a long procession of men wearing white kanzus.", "so": "Maalintii xigtay, waxaa jiray socod wadareed dheer oo rag khamiis cad xiran." },
+            { "sw": "Nyumbani, nyanya alipika chakula kingi, na kila mgeni alikaribishwa.", "en": "At home, Grandma cooked lots of food, and every guest was welcomed.", "so": "Guriga, ayeeyo cunto badan ayay karisay, marti kastana waa la soo dhoweeyay." },
+            { "who": "Nyanya", "sw": "Wahenga walisema, mgeni njoo mwenyeji apone. Karibu sana, mjukuu wangu!", "en": "The elders said, guest come, so the host may prosper. You're very welcome, my grandchild!", "so": "Waayeelladii hore waxay yiraahdeen, martiyow kaalay si martigeliyuhu u barwaaqoobo. Aad baad u soo dhowaatay, ilmahayga!" },
+            { "who": "Omar", "sw": "Asante, nyanya. Sijawahi kuona sherehe kubwa namna hii!", "en": "Thank you, Grandma. I've never seen such a big celebration!", "so": "Mahadsanid, ayeeyo. Weligay ma arag dabaaldeg intan le'eg!" }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What does Maulidi celebrate?", "so": "Mawliidku maxuu dabaaldegaa?" },
+              "options": [
+                { "en": "The end of Ramadan", "so": "Dhammaadka Ramadaan" },
+                { "en": "The birth of the Prophet Muhammad", "so": "Dhalashada Nebi Muxammad" },
+                { "en": "The new year", "so": "Sannadka cusub" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What were the men in the procession wearing?", "so": "Maxay xirnaayeen raggii socodka ku jiray?" },
+              "options": [
+                { "en": "Football shirts", "so": "Funaanado kubbadda cagta" },
+                { "en": "Kikois", "so": "Macawiisyo" },
+                { "en": "White kanzus", "so": "Khamiisyo cadcad" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "gap", "before": "Kwenye tamasha la utamaduni la Lamu, kuna mbio za", "after": " na mbio za jahazi.", "options": ["punda", "kaswida", "msafara"], "answer": 0, "meaning": { "en": "At the Lamu Cultural Festival there are donkey races and dhow races.", "so": "Bandhigga Dhaqanka Lamu waxaa ka dhaca orodka dameeraha iyo tartanka doonyaha." } },
+        { "type": "respond", "heard": "Umewahi kusikiliza kaswida za Maulidi?", "options": ["Hapana, sina doo.", "Nimechoka, nataka kulala.", "Ndiyo, nilizisikia Lamu mwaka jana. Zilikuwa nzuri sana."], "answer": 2, "explain": { "en": "'Have you ever listened to the Maulidi qasidas?' – 'Yes, I heard them in Lamu last year. They were beautiful.'", "so": "'Weligaa ma dhegaysatay qasiidooyinka Mawliidka?' – 'Haa, Lamu ayaan ku maqlay sannadkii hore. Aad bay u qurux badnaayeen.'" } }
+      ]
+    },
+    {
+      "id": "kanga-sayings",
+      "title": { "en": "Kanga sayings", "so": "Oraahda kanga" },
+      "items": ["c2.kanga", "c2.jina-la-kanga", "c2.doti", "c2.kikoi", "c2.mapenzi-kikohozi", "c2.asiyekujua"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Zawadi", "sw": "Habari, mama. Nataka kanga ya kumpa mama yangu.", "en": "Hello, madam. I want a kanga to give to my mother.", "so": "Iska warran, hooyo. Waxaan rabaa kanga aan hooyaday siiyo." },
+            { "who": "Muuzaji", "sw": "Karibu! Unataka jina gani? Hii inasema: Asiyekujua hakuthamini.", "en": "Welcome! Which saying do you want? This one says: Whoever doesn't know you doesn't value you.", "so": "Soo dhowow! Oraahdee ayaad rabtaa? Tani waxay leedahay: Qofka aan ku aqoon qiimahaaga ma garto." },
+            { "who": "Zawadi", "sw": "Hapana, hiyo inasikika kama lawama. Ni zawadi ya furaha.", "en": "No, that one sounds like a complaint. It's a happy gift.", "so": "Maya, taasi waxay u egtahay cabasho. Waa hadiyad farxadeed." },
+            { "who": "Muuzaji", "sw": "Basi chukua hii: Mapenzi ni kikohozi, hayafichiki.", "en": "Then take this one: Love is like a cough, it cannot be hidden.", "so": "Haddaba qaado tan: Jacaylku waa sida qufaca, lama qarin karo." },
+            { "who": "Zawadi", "sw": "Nzuri sana! Doti ni pesa ngapi?", "en": "Very nice! How much is the pair?", "so": "Aad bay u fiican tahay! Lammaanuhu waa immisa?" },
+            { "who": "Muuzaji", "sw": "Ni shilingi elfu moja na mia tano.", "en": "It's one thousand five hundred shillings.", "so": "Waa kun iyo shan boqol oo shilin." }
+          ],
+          "question": { "en": "Why doesn't Zawadi want the first kanga?", "so": "Maxay Zawadi u rabin kangada koowaad?" },
+          "options": [
+            { "en": "It is too expensive", "so": "Aad bay qaali u tahay" },
+            { "en": "The colour is ugly", "so": "Midabkeedu waa fool xun yahay" },
+            { "en": "Its saying sounds like a complaint", "so": "Oraahdeedu waxay u egtahay cabasho" }
+          ],
+          "answer": 2
+        },
+        { "type": "gap", "before": "Mapenzi ni kikohozi,", "after": ".", "options": ["huisha gogo", "hujaza kibaba", "hayafichiki"], "answer": 2, "meaning": { "en": "Love is like a cough: it cannot be hidden.", "so": "Jacaylku waa sida qufaca: lama qarin karo." } },
+        { "type": "respond", "heard": "Kanga hii inauzwa peke yake?", "options": ["Hapana, inauzwa doti, yaani mbili pamoja.", "Ndiyo, ni kikoi cha wanaume.", "Asiyekujua hakuthamini."], "answer": 0, "explain": { "en": "'Is this kanga sold on its own?' – 'No, it's sold as a doti, that is, two together.'", "so": "'Kangadan keligeed miyaa la iibiyaa?' – 'Maya, waxaa loo iibiyaa doti, taas oo ah laba wada socda.'" } }
+      ]
+    },
+    {
+      "id": "poetry-and-taarab",
+      "title": { "en": "Poetry and taarab", "so": "Gabayga iyo taarab" },
+      "items": ["c2.shairi", "c2.mshairi", "c2.ubeti", "c2.vina", "c2.utenzi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mwalimu", "sw": "Leo tutasoma shairi. Shairi hili lina beti ngapi?", "en": "Today we'll study a poem. How many stanzas does this poem have?", "so": "Maanta gabay ayaan baran doonnaa. Gabaygani immisa beyd ayuu leeyahay?" },
+            { "who": "Mwanaisha", "sw": "Lina beti tano, mwalimu.", "en": "It has five stanzas, teacher.", "so": "Shan beyd ayuu leeyahay, macallin." },
+            { "who": "Mwalimu", "sw": "Vizuri. Na kila ubeti una mishororo mingapi?", "en": "Good. And how many lines does each stanza have?", "so": "Waa fiican tahay. Beyd kastana immisa sadar ayuu leeyahay?" },
+            { "who": "Mwanaisha", "sw": "Una mishororo minne, na vina vya mwisho vinafanana.", "en": "It has four lines, and the end rhymes match.", "so": "Afar sadar ayuu leeyahay, qaafiyadaha dhammaadkuna way isku mid yihiin." },
+            { "who": "Mwalimu", "sw": "Sawa kabisa. Mshairi aliandika shairi hili kuhusu bahari ya Lamu.", "en": "Exactly right. The poet wrote this poem about the sea at Lamu.", "so": "Waa sax dhab ah. Abwaanku gabaygan wuxuu ka tiriyay badda Lamu." }
+          ],
+          "question": { "en": "How many lines does each stanza have?", "so": "Beyd kastaa immisa sadar ayuu leeyahay?" },
+          "options": [
+            { "en": "Four", "so": "Afar" },
+            { "en": "Five", "so": "Shan" },
+            { "en": "Two", "so": "Laba" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Unapenda muziki wa taarab?", "options": ["Hapana, sijawahi kupanda jahazi.", "Ndiyo, napenda sauti ya udi na maneno yake ya kishairi.", "Ni shilingi mia tano."], "answer": 1, "explain": { "en": "'Do you like taarab music?' – 'Yes, I love the sound of the oud and its poetic words.'", "so": "'Ma jeceshahay muusigga taarab?' – 'Haa, waxaan jeclahay codka cuudka iyo erayadiisa gabay-ka ah.'" } },
+        { "type": "build", "prompt": { "en": "The poet wrote a new poem", "so": "Abwaanku gabay cusub ayuu tiriyay" }, "answer": "Mshairi aliandika shairi jipya", "extra": ["ubeti", "vina"] },
+        { "type": "gap", "before": "Utenzi ni shairi refu linalosimulia", "after": ".", "options": ["hadithi", "vina", "punda"], "answer": 0, "meaning": { "en": "An utenzi is a long poem that tells a story.", "so": "Utenzi waa gabay dheer oo sheeko ka sheekeeya." } }
+      ]
+    }
+  ]
+}

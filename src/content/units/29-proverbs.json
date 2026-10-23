@@ -1,0 +1,319 @@
+{
+  "id": "proverbs",
+  "order": 29,
+  "level": "B2",
+  "color": "#713f12",
+  "reviewed": false,
+  "title": { "en": "Proverbs & Idioms", "so": "Maahmaahyo iyo Odhaahyo" },
+  "swTitle": "Methali na Nahau",
+  "description": {
+    "en": "Learn the methali and nahau Kenyans use in speeches, advice and everyday talk, and when each one fits.",
+    "so": "Baro maahmaahyada (methali) iyo odhaahyada (nahau) ee Kenyaanku ku isticmaalaan khudbadaha, talooyinka iyo hadalka maalinlaha ah, iyo goorta mid walba ku habboon yahay."
+  },
+  "guide": [
+    {
+      "title": { "en": "Methali in Kenyan life", "so": "Maahmaahyada nolosha Kenya" },
+      "body": {
+        "en": "Kenyans use methali to give advice gently, to settle an argument or to make a speech sound wise. You hear them at weddings and funerals, in sermons, on the radio and in newspapers, and pupils learn them at school for their essays (insha). A proverb is often introduced with Wahenga walisema (the elders of old said).",
+        "so": "Kenyaanku waxay maahmaahyada u adeegsadaan si ay talo si debecsan u bixiyaan, dood u xalliyaan, ama khudbad uga dhigaan mid caqli leh. Waxaad ka maqlaysaa arooska iyo aaska, waanooyinka diinta, raadiyaha iyo wargeysyada. Ardayduna dugsiga ayay ku bartaan si ay qormooyinkooda (insha) ugu adeegsadaan. Maahmaahda badanaa waxaa lagu horgeeyaa Wahenga walisema (waayeelladii hore waxay yiraahdeen)."
+      },
+      "examples": [
+        { "sw": "Wahenga walisema, haraka haraka haina baraka.", "en": "The elders of old said: haste brings no blessing.", "so": "Waayeelladii hore waxay yiraahdeen: degdeg barako ma leh.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Finish the proverb", "so": "Dhammee maahmaahda" },
+      "body": {
+        "en": "A Kenyan speaker often says only the first half of a proverb and lets the listeners finish it. If an elder says Haba na haba..., the room answers ...hujaza kibaba! Knowing both halves shows respect and good Swahili.",
+        "so": "Khudbadeeyaha Kenya badanaa wuxuu yiraahdaa qeybta hore oo keliya ee maahmaahda, dhagaystayaashuna way dhammeeyaan. Haddii oday yiraahdo Haba na haba..., qolka oo dhan ayaa ku jawaaba ...hujaza kibaba! Garashada labada qeybood waxay muujinaysaa ixtiraam iyo Iswaahili wanaagsan."
+      },
+      "examples": [
+        { "sw": "Haba na haba... hujaza kibaba!", "en": "Little by little... fills the measure!", "so": "Wax yar iyo wax yar... ayaa weelka buuxiya!", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "The grammar inside proverbs", "so": "Naxwaha ku jira maahmaahyada" },
+      "body": {
+        "en": "Proverbs repeat a few patterns. The habitual hu- states a general truth: huisha (always finishes), hulia (always cries), hujaza (always fills). Asiye- means 'the one who does not': asiyesikia (whoever does not listen), asiyefunzwa (whoever is not taught). The conditional -ki- means 'if' or 'when': yakimwagika (if it is spilt).",
+        "so": "Maahmaahyadu dhowr qaab ayay ku celceliyaan. Hu- waxay sheegtaa xaqiiqo guud: huisha (had iyo jeer way dhammaysaa), hulia (wuu ooyaa), hujaza (wuu buuxiyaa). Asiye- macnaheedu waa 'kan aan': asiyesikia (qofka aan maqlin), asiyefunzwa (qofka aan la barin). -ki- macnaheedu waa 'haddii' ama 'marka': yakimwagika (haddii la daadiyo)."
+      },
+      "examples": [
+        { "sw": "Bandu bandu huisha gogo.", "en": "Chip by chip finishes the log.", "so": "Jarid jarid ayaa qoriga dhammaysa.", "v": "standard" },
+        { "sw": "Asiyesikia la mkuu huvunjika guu.", "en": "Whoever ignores the elder breaks a leg.", "so": "Qofka aan maqlin waanada waayeelka lugta ayaa ka jabta.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Nahau: idioms", "so": "Nahau: odhaahyo" },
+      "body": {
+        "en": "In nahau the words don't mean what they say. Most are built on a verb, so you conjugate them like any verb: kufa moyo becomes Usife moyo! (Don't lose heart!) and kuvunja mbavu becomes Alituvunja mbavu (He cracked us up). Kupiga jeki and kula vumbi are especially Kenyan; you hear them on TV, in sport and in the news.",
+        "so": "Nahau-da erayadu ma laha macnaha ay muuqaal ahaan sheegaan. Badankood fal ayay ku dhisan yihiin, sidaas darteed u rogrog sida fal kasta: kufa moyo waxay noqotaa Usife moyo! (Ha quusan!), kuvunja mbavu waxay noqotaa Alituvunja mbavu (Aad buu noo qosliyey). Kupiga jeki iyo kula vumbi gaar ahaan waa Kenya; waxaad ka maqlaysaa TV-ga, ciyaaraha iyo wararka."
+      },
+      "examples": [
+        { "sw": "Usife moyo, jaribu tena.", "en": "Don't lose heart, try again.", "so": "Ha quusan, mar kale isku day.", "v": "standard" },
+        { "sw": "Mchekeshaji yule alituvunja mbavu.", "en": "That comedian cracked us up.", "so": "Majaajiliistahaas aad buu noo qosliyey.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "pv.methali", "sw": "methali", "en": "proverb", "so": "maahmaah", "v": "standard", "note": { "en": "The plural is also methali. Pupils learn them for Kiswahili exams and essays.", "so": "Wadarta sidoo kale waa methali. Ardaydu waxay u bartaan imtixaannada iyo qormooyinka Iswaahiliga." } },
+    { "id": "pv.wahenga-walisema", "sw": "Wahenga walisema", "en": "As the elders of old said", "so": "Waayeelladii hore waxay yiraahdeen", "v": "standard", "alt": ["wahenga walisema"], "note": { "en": "Wahenga are the wise people of long ago. A common way to start a proverb in a speech.", "so": "Wahenga waa dadkii caqliga lahaa ee waagii hore. Waa hab caadi ah oo maahmaah khudbad loogu bilaabo." } },
+    { "id": "pv.haraka-haraka", "sw": "Haraka haraka haina baraka", "en": "Hurry hurry brings no blessing (haste makes waste)", "so": "Degdeg barako ma leh", "v": "standard", "syn": "patience", "note": { "en": "Said to someone who rushes: a speeding driver, a student who finishes an exam too fast.", "so": "Waxaa loo yiraahdaa qof degdegaya: darawal xawaare badan wata, ama arday imtixaanka si degdeg ah u dhammeeyey." } },
+    { "id": "pv.pole-pole-ndio-mwendo", "sw": "Pole pole ndio mwendo", "en": "Slowly is the way to go (slow and steady)", "so": "Tartiib tartiib ayaa socod ah", "v": "standard", "syn": "patience", "alt": ["polepole ndio mwendo", "pole pole ndiyo mwendo"], "note": { "en": "Kenyans say it to encourage someone who is learning or starting small, like you with Swahili.", "so": "Kenyaanku waxay ku dhiirrigeliyaan qof wax baranaya ama si yar u bilaabaya, sidaada oo kale oo Iswaahiliga baranaya." } },
+    { "id": "pv.mvumilivu", "sw": "Mvumilivu hula mbivu", "en": "The patient one eats ripe fruit", "so": "Qofka samra wuxuu cunaa midho bislaaday", "v": "standard", "syn": "patience", "note": { "en": "Said to someone waiting for a job, exam results, a visa or a business to grow.", "so": "Waxaa loo yiraahdaa qof sugaya shaqo, natiijada imtixaanka, fiisa ama ganacsi koraya." } },
+
+    { "id": "pv.bandu-bandu", "sw": "Bandu bandu huisha gogo", "en": "Chip by chip finishes the log", "so": "Jarid jarid ayaa qoriga dhammaysa", "v": "standard", "syn": "little-by-little", "note": { "en": "Small steady effort finishes a big job: paying off a loan, building a house over years.", "so": "Dadaal yar oo joogto ah ayaa shaqo weyn dhammeeya: bixinta deyn, ama guri sannado lagu dhisayo." } },
+    { "id": "pv.haba-na-haba", "sw": "Haba na haba hujaza kibaba", "en": "Little by little fills the measure", "so": "Wax yar iyo wax yar ayaa weelka buuxiya", "v": "standard", "syn": "little-by-little", "note": { "en": "The savers' favourite: chama (savings group) members, M-Pesa savers, a mama mboga putting coins aside.", "so": "Waa tan ay jecel yihiin dadka keydsada: xubnaha chama (koox keyd), kuwa M-Pesa ku keydsada, iyo mama mboga shilin shilin u dhigta." } },
+    { "id": "pv.penye-nia", "sw": "Penye nia pana njia", "en": "Where there is a will, there is a way", "so": "Meeshii rabitaan jiro, waddo ayaa jirta", "v": "standard", "note": { "en": "Used to encourage someone with a hard goal: school fees, a new business, a long race.", "so": "Waxaa lagu dhiirrigeliyaa qof hadaf adag leh: lacagta iskuulka, ganacsi cusub, ama orod dheer." } },
+    { "id": "pv.mtaka-cha-mvunguni", "sw": "Mtaka cha mvunguni sharti ainame", "en": "Who wants what is under the bed must bend down", "so": "Qofka doonaya waxa sariirta hoosteeda yaal waa inuu foorarsado", "v": "standard", "note": { "en": "Nothing comes without effort and humility. Said to young people who want success without work.", "so": "Waxba ma yimaadaan dadaal iyo is-hoosaysiin la'aan. Waxaa loo yiraahdaa dhallinyarada doonaya guul aan shaqo lahayn." } },
+    { "id": "pv.ukiona-vyaelea", "sw": "Ukiona vyaelea vimeundwa", "en": "If you see things afloat, they were built (success hides hard work)", "so": "Haddii aad aragto wax sabbaynaya, waa la sameeyey (guusha dadaal ayaa ka dambeeya)", "v": "standard", "note": { "en": "Vyaelea are boats. Said when people admire a successful shop or an athlete's medal: someone worked hard for it.", "so": "Vyaelea waa doonyo. Waxaa la yiraahdaa marka dadku la yaabaan dukaan guulaystay ama bilad ciyaaryahan: qof ayaa u dadaalay." } },
+
+    { "id": "pv.asiyesikia", "sw": "Asiyesikia la mkuu huvunjika guu", "en": "Whoever ignores the elder breaks a leg", "so": "Qofka aan maqlin waanada waayeelka lugta ayaa ka jabta", "v": "standard", "note": { "en": "A warning to listen to parents, elders and teachers, often said after something has gone wrong.", "so": "Waa digniin ah in la dhegaysto waalidka, waayeelka iyo macallimiinta. Badanaa waxaa la yiraahdaa ka dib marka wax khaldamaan." } },
+    { "id": "pv.usipoziba-ufa", "sw": "Usipoziba ufa utajenga ukuta", "en": "If you don't fill the crack, you will build a wall", "so": "Haddii aadan dillaaca xirin, darbi ayaad dhisi doontaa", "v": "standard", "note": { "en": "Fix small problems early: a small debt, a small quarrel, a cough that won't go.", "so": "Dhibaatooyinka yaryar goor hore xalli: deyn yar, khilaaf yar, ama qufac aan ba'ayn." } },
+    { "id": "pv.dalili-ya-mvua", "sw": "Dalili ya mvua ni mawingu", "en": "The sign of rain is clouds", "so": "Calaamadda roobku waa daruuraha", "v": "standard", "note": { "en": "Big events give warnings first. Said when you notice the early signs of trouble, or of success.", "so": "Arrimaha waaweyni calaamad ayay horey u bixiyaan. Waxaa la yiraahdaa marka aad aragto calaamadaha hore ee dhibaato ama guul." } },
+    { "id": "pv.maji-yakimwagika", "sw": "Maji yakimwagika hayazoleki", "en": "Spilt water cannot be gathered up", "so": "Biyaha daatay dib looma soo urursan karo", "v": "standard", "note": { "en": "What is done cannot be undone, so think before you act or speak.", "so": "Wixii dhacay dib looma celin karo, ee ka fikir intaadan samayn ama hadlin." } },
+    { "id": "pv.fimbo-ya-mbali", "sw": "Fimbo ya mbali haiui nyoka", "en": "A stick far away doesn't kill a snake", "so": "Ul fog mas ma dilo", "v": "standard", "note": { "en": "Help that is far away is no use in an emergency. Rely on those near you, such as neighbours.", "so": "Gargaarka meel fog jooga waxba kuma tarayo xaalad degdeg ah. Ku tiirso kuwa kuu dhow, sida deriskaaga." } },
+
+    { "id": "pv.kidole-kimoja", "sw": "Kidole kimoja hakivunji chawa", "en": "One finger cannot crush a louse", "so": "Far keliya injir ma dili karto", "v": "standard", "syn": "unity", "note": { "en": "We need each other. Heard at harambee fundraisers, chama meetings and team talks.", "so": "Midba midka kale ayuu u baahan yahay. Waxaa laga maqlaa ururinta lacagaha harambee, shirarka chama iyo kooxaha ciyaaraha." } },
+    { "id": "pv.mgeni-njoo", "sw": "Mgeni njoo mwenyeji apone", "en": "Guest, come, so that the host may prosper", "so": "Martiyow kaalay, si martigeliyuhu u barwaaqoobo", "v": "standard", "note": { "en": "Guests bring blessings, and often gifts or business. Said warmly when welcoming a visitor.", "so": "Martidu barako ayay keenaan, badanaa hadiyado ama ganacsi. Waxaa si diirran loo yiraahdaa marka marti la soo dhoweynayo." } },
+    { "id": "pv.akufaaye", "sw": "Akufaaye kwa dhiki ndiye rafiki", "en": "Whoever helps you in hardship is your true friend", "so": "Qofka kugu garab taagan dhibta ayaa saaxiibkaa ah", "v": "standard", "note": { "en": "The Kenyan version of 'a friend in need is a friend indeed'.", "so": "Waa sida Kenya loogu yiraahdo 'saaxiibka dhabta ahi waa kan dhibta kula jira'." } },
+    { "id": "pv.akili-ni-nywele", "sw": "Akili ni nywele, kila mtu ana zake", "en": "Brains are like hair: everyone has their own", "so": "Caqligu waa sida timaha: qof walba kiisa ayuu leeyahay", "v": "standard", "note": { "en": "People think differently, so respect other opinions. Also used to say: make your own decision.", "so": "Dadku si kala duwan ayay u fekeraan, ee ixtiraam fikradaha kale. Sidoo kale waxaa loola jeedaa: go'aankaaga adigu gaar." } },
+
+    { "id": "pv.mchelea-mwana", "sw": "Mchelea mwana kulia hulia yeye", "en": "Whoever fears a child's crying will cry himself", "so": "Qofka ka cabsada ooyinta ilmaha isaga ayaa ooya", "v": "standard", "note": { "en": "Parents who never correct a child will suffer later. Said about spoiling children.", "so": "Waalidka aan waligood ilmaha toosin ayaa hadhow dhibaatooda. Waxaa la yiraahdaa marka ilmo la xumeeyo." } },
+    { "id": "pv.samaki-mkunje", "sw": "Samaki mkunje angali mbichi", "en": "Bend the fish while it is still fresh (teach children while young)", "so": "Kalluunka qalooci inta uu cusub yahay (carruurta yaraantooda bar)", "v": "standard", "syn": "upbringing", "note": { "en": "A dried fish breaks if you bend it. Good habits are easiest to teach early.", "so": "Kalluunka qalalan haddii la qaloociyo wuu jabaa. Caadooyinka wanaagsan waxaa ugu fudud in goor hore la baro." } },
+    { "id": "pv.asiyefunzwa", "sw": "Asiyefunzwa na mamaye hufunzwa na ulimwengu", "en": "Whoever is not taught by his mother is taught by the world", "so": "Qofka aanay hooyadii barin, adduunyada ayaa bara", "v": "standard", "note": { "en": "If home doesn't teach good manners, life will teach them the hard way.", "so": "Haddii guriga aan laga barin anshax wanaagsan, noloshu si adag ayay u bari doontaa." } },
+    { "id": "pv.mtoto-umleavyo", "sw": "Mtoto umleavyo ndivyo akuavyo", "en": "As you raise a child, so he grows", "so": "Sidaad ilmaha u koriso ayuu u koraa", "v": "standard", "syn": "upbringing", "note": { "en": "Often said by grandparents and at school parents' days.", "so": "Badanaa waxaa yiraahda ayeeyada iyo awoowayaasha, iyo maalmaha waalidka ee dugsiga." } },
+
+    { "id": "pv.nahau", "sw": "nahau", "en": "idiom", "so": "odhaah sarbeeb ah", "v": "standard", "note": { "en": "Plural is also nahau. Many Kenyans also say msemo (saying).", "so": "Wadarta sidoo kale waa nahau. Kenyaan badan waxay sidoo kale yiraahdaan msemo (odhaah)." } },
+    { "id": "pv.kupiga-domo", "sw": "kupiga domo", "en": "to chatter / talk too much", "so": "hadal badan / sheeko aan waxba tarayn", "v": "everyday", "note": { "en": "Domo is a big mouth. Acha kupiga domo, fanya kazi! = Stop chattering and work! Fine with friends, not with elders.", "so": "Domo waa af weyn. Acha kupiga domo, fanya kazi! = Hadalka iska daa oo shaqee! Saaxiibbada waa la isku yiraahdaa, waayeelka lama yiraahdo." } },
+    { "id": "pv.kufa-moyo", "sw": "kufa moyo", "en": "to lose heart / give up", "so": "niyad jabid / quusasho", "v": "standard", "syn": "despair", "note": { "en": "Usife moyo! = Don't lose heart! Kukata tamaa means almost the same.", "so": "Usife moyo! = Ha quusan! Kukata tamaa ku dhawaad isku macne ayay yihiin." } },
+    { "id": "pv.kupiga-moyo-konde", "sw": "kupiga moyo konde", "en": "to take courage (lit. punch the heart)", "so": "isdhiirrigelin / geesinimo yeelasho", "v": "standard", "note": { "en": "Konde is a fist. Alipiga moyo konde akaenda kwa mahojiano = He took courage and went to the interview.", "so": "Konde waa feer. Alipiga moyo konde akaenda kwa mahojiano = Wuu isdhiirrigeliyey oo wareysiga shaqada ayuu aaday." } },
+    { "id": "pv.kuvunja-mbavu", "sw": "kuvunja mbavu", "en": "to make someone laugh hard (lit. break ribs)", "so": "qof aad u qoslin (macno ahaan: feeraha jebin)", "v": "standard", "note": { "en": "Alituvunja mbavu = He cracked us up. Kenyan comedy shows aim to vunja mbavu.", "so": "Alituvunja mbavu = Aad buu noo qosliyey. Barnaamijyada majaajillada Kenya waxay doonayaan inay dadka qosliyaan." } },
+
+    { "id": "pv.kutia-chumvi", "sw": "kutia chumvi", "en": "to exaggerate (lit. add salt)", "so": "buunbuunin (macno ahaan: cusbo ku darid)", "v": "standard", "syn": "exaggerate", "note": { "en": "Usitie chumvi! = Don't exaggerate! Said to someone whose story keeps growing.", "so": "Usitie chumvi! = Ha buunbuunin! Waxaa loo yiraahdaa qof sheekadiisu sii weynaanayso." } },
+    { "id": "pv.mkono-mrefu", "sw": "kuwa na mkono mrefu", "en": "to be light-fingered / a thief (lit. have a long hand)", "so": "gacan dheeraan / tuugnimo (macno ahaan: gacan dheer lahaansho)", "v": "standard", "note": { "en": "A polite, indirect way to say someone steals: Yule jamaa ana mkono mrefu.", "so": "Waa hab edeb leh oo dadban oo lagu sheego in qof wax xado: Yule jamaa ana mkono mrefu (Ninkaas gacan dheer ayuu leeyahay)." } },
+    { "id": "pv.kupiga-jeki", "sw": "kupiga jeki", "en": "to give a boost / to help (Kenyan)", "so": "kor u qaadid / gacan siin", "v": "everyday", "syn": "help", "note": { "en": "From the jack that lifts a car. Very common in Kenyan news: Mradi huu utawapiga jeki wakulima.", "so": "Waxay ka timid jeegga gaariga kor u qaada. Aad ayay ugu badan tahay wararka Kenya: Mradi huu utawapiga jeki wakulima (Mashruucani beeralayda ayuu kor u qaadi doonaa)." } },
+    { "id": "pv.kula-vumbi", "sw": "kula vumbi", "en": "to be left behind / lose out (lit. eat dust)", "so": "ka dambayn / guul-darraysi (macno ahaan: boodh cunid)", "v": "everyday", "note": { "en": "From a race: those behind eat the leader's dust. Used for losing a race, a match or a competition.", "so": "Waxay ka timid tartanka orodka: kuwa dambe boodhka kan hore ayay cunaan. Waxaa loo isticmaalaa guuldarrada orod, ciyaar ama tartan." } }
+  ],
+  "lessons": [
+    {
+      "id": "patience",
+      "title": { "en": "Patience", "so": "Samir" },
+      "items": ["pv.methali", "pv.wahenga-walisema", "pv.haraka-haraka", "pv.pole-pole-ndio-mwendo", "pv.mvumilivu"],
+      "extra": [
+        { "type": "gap", "before": "Haraka haraka haina", "after": ".", "options": ["njia", "baraka", "gogo"], "answer": 1, "meaning": { "en": "Haste brings no blessing.", "so": "Degdeg barako ma leh." } },
+        { "type": "respond", "heard": "Dereva, endesha haraka! Nimechelewa kazini.", "options": ["Mgeni njoo mwenyeji apone.", "Kidole kimoja hakivunji chawa.", "Pole, lakini haraka haraka haina baraka."], "answer": 2, "explain": { "en": "'Driver, go fast! I'm late for work.' The driver answers that haste brings no blessing.", "so": "'Darawal, si dhakhso ah u wad! Shaqada ayaan ka daahay.' Darawalku wuxuu ku jawaabay in degdeg aanay barako lahayn." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Nyanya", "sw": "Baraka, mtihani ulikuwaje?", "en": "Baraka, how was the exam?", "so": "Baraka, imtixaanku sidee ahaa?" },
+            { "who": "Baraka", "sw": "Nilimaliza mapema, lakini nimepata alama za chini.", "en": "I finished early, but I got low marks.", "so": "Goor hore ayaan dhammeeyey, laakiin dhibco hoose ayaan helay." },
+            { "who": "Nyanya", "sw": "Kwa nini ulikimbia? Wahenga walisema, haraka haraka haina baraka.", "en": "Why did you rush? The elders said, haste brings no blessing.", "so": "Maxaad u degdegtay? Waayeelladii hore waxay yiraahdeen, degdeg barako ma leh." },
+            { "who": "Baraka", "sw": "Ni kweli, Nyanya. Wakati ujao nitasoma maswali pole pole.", "en": "It's true, Grandma. Next time I'll read the questions slowly.", "so": "Waa run, Ayeeyo. Marka xigta su'aalaha si tartiib ah ayaan u akhrin doonaa." },
+            { "who": "Nyanya", "sw": "Vizuri, mjukuu wangu. Pole pole ndio mwendo.", "en": "Good, my grandchild. Slow and steady is the way.", "so": "Waa fiican tahay, ilmahayga. Tartiib tartiib ayaa socod ah." }
+          ],
+          "question": { "en": "What mistake did Baraka make?", "so": "Khaladkee ayuu Baraka sameeyey?" },
+          "options": [
+            { "en": "He forgot his pen", "so": "Qalinkiisa ayuu illaaway" },
+            { "en": "He rushed through the exam", "so": "Imtixaanka ayuu ku degdegay" },
+            { "en": "He arrived late", "so": "Wuu soo daahay" }
+          ],
+          "answer": 1
+        },
+        { "type": "build", "prompt": { "en": "The patient one eats ripe fruit", "so": "Qofka samra wuxuu cunaa midho bislaaday" }, "answer": "Mvumilivu hula mbivu", "extra": ["haraka", "baraka"] }
+      ]
+    },
+    {
+      "id": "little-by-little",
+      "title": { "en": "Little by little", "so": "Wax yar iyo wax yar" },
+      "items": ["pv.bandu-bandu", "pv.haba-na-haba", "pv.penye-nia", "pv.mtaka-cha-mvunguni", "pv.ukiona-vyaelea"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Zawadi's savings", "so": "Keydka Zawadi" },
+          "lines": [
+            { "sw": "Zawadi ni mama mboga katika mtaa wa Kawangware, Nairobi.", "en": "Zawadi is a vegetable seller in the Kawangware area of Nairobi.", "so": "Zawadi waa haweeney khudaar iibisa xaafadda Kawangware ee Nairobi." },
+            { "sw": "Kila jioni, baada ya kuuza sukuma wiki na nyanya, anaweka shilingi hamsini kando.", "en": "Every evening, after selling sukuma wiki and tomatoes, she puts fifty shillings aside.", "so": "Fiid kasta, kadib marka ay iibiso sukuma wiki iyo yaanyo, konton shilin ayay dhinac iska dhigtaa." },
+            { "sw": "Majirani walimcheka na kusema kwamba hamsini haiwezi kubadilisha maisha.", "en": "The neighbours laughed at her and said fifty can't change a life.", "so": "Deriskeedii way ku qosleen oo yiraahdeen konton shilin nolol ma beddeli karto." },
+            { "who": "Zawadi", "sw": "Haba na haba hujaza kibaba.", "en": "Little by little fills the measure.", "so": "Wax yar iyo wax yar ayaa weelka buuxiya." },
+            { "sw": "Kila siku alituma pesa hizo kwenye akaunti ya akiba kupitia simu yake.", "en": "Every day she sent that money to a savings account through her phone.", "so": "Maalin kasta lacagtaas ayay taleefankeeda ugu dirtay koonto keyd ah." },
+            { "sw": "Mwaka mmoja baadaye, alikuwa na zaidi ya shilingi elfu kumi na nane.", "en": "A year later, she had more than eighteen thousand shillings.", "so": "Sannad kadib, waxay haysatay in ka badan siddeed iyo toban kun oo shilin." },
+            { "sw": "Alinunua friji ndogo ya kuhifadhi mboga na matunda.", "en": "She bought a small fridge to keep vegetables and fruit.", "so": "Waxay iibsatay qaboojiye yar oo ay khudaarta iyo miraha ku kaydiso." },
+            { "sw": "Sasa mboga zake haziozi, na wateja wanakuja kutoka mtaa mzima.", "en": "Now her vegetables don't rot, and customers come from the whole neighbourhood.", "so": "Hadda khudaarteedu ma qurmato, macaamiishuna xaafadda oo dhan ayay ka yimaadaan." },
+            { "sw": "Majirani wale wale sasa wanamwuliza siri yake.", "en": "Those same neighbours now ask her for her secret.", "so": "Deriskii kuwaas ahaa hadda sirteeda ayay weydiiyaan." },
+            { "who": "Zawadi", "sw": "Ukiona vyaelea vimeundwa. Mtaka cha mvunguni sharti ainame.", "en": "Things afloat were built. Who wants what's under the bed must bend down.", "so": "Waxa sabbaynaya waa la sameeyey. Qofka doonaya waxa sariirta hoosteeda yaal waa inuu foorarsado." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "How much did Zawadi put aside every evening?", "so": "Immisa ayay Zawadi dhigan jirtay fiid kasta?" },
+              "options": [
+                { "en": "Twenty shillings", "so": "Labaatan shilin" },
+                { "en": "One hundred shillings", "so": "Boqol shilin" },
+                { "en": "Fifty shillings", "so": "Konton shilin" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What did she buy with her savings?", "so": "Maxay ku iibsatay lacagta ay keydsatay?" },
+              "options": [
+                { "en": "A small fridge", "so": "Qaboojiye yar" },
+                { "en": "A motorbike", "so": "Mooto" },
+                { "en": "A new phone", "so": "Taleefan cusub" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "gap", "before": "Bandu bandu huisha", "after": ".", "options": ["mvua", "gogo", "njia"], "answer": 1, "meaning": { "en": "Chip by chip finishes the log.", "so": "Jarid jarid ayaa qoriga dhammaysa." } },
+        { "type": "respond", "heard": "Nataka kuwa daktari, lakini sina pesa za chuo.", "options": ["Maji yakimwagika hayazoleki.", "Haraka haraka haina baraka.", "Usijali, penye nia pana njia."], "answer": 2, "explain": { "en": "'I want to be a doctor, but I have no money for college.' Where there's a will, there's a way.", "so": "'Waxaan rabaa inaan dhakhtar noqdo, laakiin lacag jaamacadda ma haysto.' Meeshii rabitaan jiro, waddo ayaa jirta." } }
+      ]
+    },
+    {
+      "id": "warnings",
+      "title": { "en": "Listen and act early", "so": "Dhegayso oo goor hore wax qabso" },
+      "items": ["pv.asiyesikia", "pv.usipoziba-ufa", "pv.dalili-ya-mvua", "pv.maji-yakimwagika", "pv.fimbo-ya-mbali"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Otieno's crack", "so": "Dillaaca Otieno" },
+          "lines": [
+            { "sw": "Otieno anaishi Kisumu, karibu na Ziwa Victoria.", "en": "Otieno lives in Kisumu, near Lake Victoria.", "so": "Otieno wuxuu ku nool yahay Kisumu, meel u dhow Harada Fiktooriya." },
+            { "sw": "Mwezi wa Machi, aliona ufa mdogo kwenye ukuta wa nyumba yake.", "en": "In March, he saw a small crack in the wall of his house.", "so": "Bishii Maarso, wuxuu arkay dillaac yar oo ku yaal darbiga gurigiisa." },
+            { "who": "Achieng", "sw": "Tafadhali ziba ufa huo kabla mvua kubwa haijaanza.", "en": "Please fill that crack before the heavy rain starts.", "so": "Fadlan dillaacaas xir inta aanu roobka weyni bilaabmin." },
+            { "who": "Otieno", "sw": "Ni ufa mdogo tu. Nitauziba mwezi ujao.", "en": "It's only a small crack. I'll fill it next month.", "so": "Waa dillaac yar oo keliya. Bisha soo socota ayaan xiri doonaa." },
+            { "sw": "Baba yake pia alimshauri, lakini Otieno hakusikia.", "en": "His father also advised him, but Otieno didn't listen.", "so": "Aabbihiis sidoo kale wuu la taliyey, laakiin Otieno ma dhegaysan." },
+            { "sw": "Kila jioni, mawingu meusi yalijaa angani.", "en": "Every evening, dark clouds filled the sky.", "so": "Fiid kasta, daruur madow ayaa cirka buuxisay." },
+            { "sw": "Usiku mmoja, mvua kubwa ilinyesha hadi asubuhi.", "en": "One night, heavy rain fell until morning.", "so": "Habeen ka mid ah, roob culus ayaa da'ay ilaa subaxdii." },
+            { "sw": "Maji yaliingia ndani ya ufa, na sehemu ya ukuta ikaanguka.", "en": "Water got into the crack, and part of the wall fell down.", "so": "Biyo ayaa dillaaca galay, qayb darbiga ka mid ahna way dhacday." },
+            { "sw": "Fundi alimwambia kwamba sasa anahitaji kujenga ukuta mpya mzima.", "en": "The builder told him that he now needed to build a whole new wall.", "so": "Fuundigii wuxuu u sheegay inuu hadda u baahan yahay inuu dhiso darbi cusub oo dhan." },
+            { "sw": "Otieno alitumia shilingi elfu thelathini badala ya elfu moja tu.", "en": "Otieno spent thirty thousand shillings instead of just one thousand.", "so": "Otieno wuxuu ku bixiyey soddon kun oo shilin halkii uu ka bixin lahaa kun keliya." },
+            { "who": "Achieng", "sw": "Usipoziba ufa, utajenga ukuta.", "en": "If you don't fill the crack, you'll build a wall.", "so": "Haddii aadan dillaaca xirin, darbi ayaad dhisi doontaa." },
+            { "who": "Otieno", "sw": "Ni kweli. Asiyesikia la mkuu huvunjika guu.", "en": "It's true. Whoever ignores the elder breaks a leg.", "so": "Waa run. Qofka aan maqlin waanada waayeelka lugta ayaa ka jabta." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Why did part of the wall fall?", "so": "Maxay qayb darbiga ka mid ahi u dhacday?" },
+              "options": [
+                { "en": "A matatu hit it", "so": "Matatu ayaa ku dhacay" },
+                { "en": "Rainwater got into the crack", "so": "Biyaha roobka ayaa dillaaca galay" },
+                { "en": "The builder broke it", "so": "Fuundigii ayaa jebiyey" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "Who warned Otieno?", "so": "Yaa Otieno uga digay?" },
+              "options": [
+                { "en": "His wife and his father", "so": "Xaaskiisa iyo aabbihiis" },
+                { "en": "His neighbour", "so": "Deriskiisa" },
+                { "en": "Nobody", "so": "Qofna" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "How much did the repair cost in the end?", "so": "Immisa ayuu dayactirku ugu dambayn ku kacay?" },
+              "options": [
+                { "en": "One thousand shillings", "so": "Kun shilin" },
+                { "en": "Three thousand shillings", "so": "Saddex kun oo shilin" },
+                { "en": "Thirty thousand shillings", "so": "Soddon kun oo shilin" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Nilimwambia rafiki yangu maneno mabaya jana, na sasa amekasirika sana.", "options": ["Haba na haba hujaza kibaba.", "Maji yakimwagika hayazoleki. Mwombe msamaha.", "Mvumilivu hula mbivu."], "answer": 1, "explain": { "en": "'I said bad things to my friend yesterday, and now he is very angry.' Words can't be taken back, so apologise.", "so": "'Shalay saaxiibkay ayaan erayo xun u sheegay, hadda aad ayuu u cadhaysan yahay.' Hadalka dib looma celin karo, ee cafis weydiiso." } },
+        { "type": "gap", "before": "Fimbo ya mbali haiui", "after": ".", "options": ["nyoka", "chawa", "guu"], "answer": 0, "meaning": { "en": "A stick far away doesn't kill a snake.", "so": "Ul fog mas ma dilo." } },
+        { "type": "gap", "before": "Dalili ya mvua ni", "after": ".", "options": ["ukuta", "baraka", "mawingu"], "answer": 2, "meaning": { "en": "The sign of rain is clouds.", "so": "Calaamadda roobku waa daruuraha." } }
+      ]
+    },
+    {
+      "id": "together",
+      "title": { "en": "Friends, guests and unity", "so": "Saaxiibbo, marti iyo midnimo" },
+      "items": ["pv.kidole-kimoja", "pv.mgeni-njoo", "pv.akufaaye", "pv.akili-ni-nywele"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Wanachama, mwezi huu tunahitaji kumsaidia Amina kulipa karo ya shule.", "en": "Members, this month we need to help Amina pay school fees.", "so": "Xubnaha, bishan waxaan u baahanahay inaan Amina ka caawinno bixinta lacagta iskuulka." },
+            { "who": "Farah", "sw": "Mimi peke yangu siwezi, lakini kila mtu akitoa kidogo tutafika.", "en": "I can't do it alone, but if everyone gives a little we'll get there.", "so": "Aniga keligay ma awoodo, laakiin haddii qof walba wax yar bixiyo waan gaadhaynaa." },
+            { "who": "Halima", "sw": "Kweli kabisa. Kidole kimoja hakivunji chawa.", "en": "Absolutely true. One finger cannot crush a louse.", "so": "Waa run dhab ah. Far keliya injir ma dili karto." },
+            { "who": "Amina", "sw": "Asanteni sana. Akufaaye kwa dhiki ndiye rafiki.", "en": "Thank you all very much. A friend in need is a friend indeed.", "so": "Aad baad u mahadsan tihiin. Qofka dhibta kula jiraa waa saaxiibka dhabta ah." }
+          ],
+          "question": { "en": "What is the chama planning to do?", "so": "Maxay chama-du qorshaynaysaa?" },
+          "options": [
+            { "en": "Buy a new phone for Farah", "so": "Inay Farah u iibsato taleefan cusub" },
+            { "en": "Help Amina pay school fees together", "so": "Inay si wadajir ah Amina uga caawiso lacagta iskuulka" },
+            { "en": "Close the group", "so": "Inay kooxda xidhaan" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Kidole kimoja hakivunji", "after": ".", "options": ["gogo", "chawa", "nyoka"], "answer": 1, "meaning": { "en": "One finger cannot crush a louse.", "so": "Far keliya injir ma dili karto." } },
+        { "type": "respond", "heard": "Karibu sana nyumbani kwetu! Umetuletea zawadi?", "options": ["Asiyesikia la mkuu huvunjika guu.", "Usipoziba ufa utajenga ukuta.", "Ndiyo. Mgeni njoo mwenyeji apone!"], "answer": 2, "explain": { "en": "A warm, joking reply when a guest arrives with a gift: guests bring blessings to the host.", "so": "Jawaab diirran oo kaftan leh marka marti hadiyad la timaado: martidu barako ayay u keenaan martigeliyaha." } }
+      ]
+    },
+    {
+      "id": "upbringing",
+      "goals": ["family"],
+      "title": { "en": "Raising children", "so": "Korinta carruurta" },
+      "items": ["pv.mchelea-mwana", "pv.samaki-mkunje", "pv.asiyefunzwa", "pv.mtoto-umleavyo"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Mwikali and the greeting", "so": "Mwikali iyo salaanta" },
+          "lines": [
+            { "sw": "Mwikali ni mama wa watoto wawili, na anaishi Machakos.", "en": "Mwikali is a mother of two, and she lives in Machakos.", "so": "Mwikali waa hooyo laba carruur ah, waxayna ku nooshahay Machakos." },
+            { "sw": "Mwanawe mdogo, Mutua, hakupenda kuwasalimia wageni.", "en": "Her younger son, Mutua, didn't like greeting visitors.", "so": "Wiilkeeda yar, Mutua, ma jeclayn inuu martida salaamo." },
+            { "sw": "Jirani yake alisema, mwache tu, bado ni mdogo.", "en": "Her neighbour said, just leave him, he's still small.", "so": "Deriskeedii wuxuu yiri, iska daa, weli waa yar yahay." },
+            { "who": "Mwikali", "sw": "Hapana. Samaki mkunje angali mbichi.", "en": "No. Bend the fish while it is still fresh.", "so": "Maya. Kalluunka qalooci inta uu cusub yahay." },
+            { "sw": "Kila mgeni alipofika, Mwikali alimwita Mutua amsalimie kwa heshima.", "en": "Whenever a visitor came, Mwikali called Mutua to greet them respectfully.", "so": "Mar kasta oo marti timaado, Mwikali waxay u yeeri jirtay Mutua si uu ixtiraam ugu salaamo." },
+            { "sw": "Mwanzoni Mutua alilia, lakini mama yake hakukubali.", "en": "At first Mutua cried, but his mother didn't give in.", "so": "Bilowgii Mutua wuu ooyay, laakiin hooyadii ma aqbalin." },
+            { "who": "Mwikali", "sw": "Mchelea mwana kulia hulia yeye.", "en": "Whoever fears a child's crying will cry himself.", "so": "Qofka ka cabsada ooyinta ilmaha isaga ayaa ooya." },
+            { "sw": "Miaka mitano baadaye, Mutua ni kijana mwenye adabu.", "en": "Five years later, Mutua is a well-mannered young man.", "so": "Shan sano kadib, Mutua waa wiil dhallinyaro ah oo edeb leh." },
+            { "sw": "Wazee wa kijiji wanamsifu kila wanapomwona.", "en": "The village elders praise him every time they see him.", "so": "Odayaasha tuuladu way ammaanaan mar kasta oo ay arkaan." },
+            { "who": "Jirani", "sw": "Ni kweli, mtoto umleavyo ndivyo akuavyo.", "en": "It's true: as you raise a child, so he grows.", "so": "Waa run: sidaad ilmaha u koriso ayuu u koraa." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What didn't Mutua like doing?", "so": "Maxaan Mutua jeclayn inuu sameeyo?" },
+              "options": [
+                { "en": "Going to school", "so": "Inuu iskuul aado" },
+                { "en": "Eating ugali", "so": "Inuu ugali cuno" },
+                { "en": "Greeting visitors", "so": "Inuu martida salaamo" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What did the neighbour advise at first?", "so": "Maxuu deriskii markii hore kula taliyay?" },
+              "options": [
+                { "en": "To leave Mutua alone because he was small", "so": "In Mutua la iska daayo maxaa yeelay waa yaraa" },
+                { "en": "To send Mutua to his grandmother", "so": "In Mutua ayeeyadiis loo diro" },
+                { "en": "To punish Mutua", "so": "In Mutua la ciqaabo" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "gap", "before": "Samaki mkunje angali", "after": ".", "options": ["mbichi", "mbivu", "mbali"], "answer": 0, "meaning": { "en": "Bend the fish while it is still fresh.", "so": "Kalluunka qalooci inta uu cusub yahay." } },
+        { "type": "respond", "heard": "Mtoto wa jirani hamheshimu mtu yeyote, na wazazi wake hawamwambii kitu.", "options": ["Asiyefunzwa na mamaye hufunzwa na ulimwengu.", "Pole pole ndio mwendo.", "Dalili ya mvua ni mawingu."], "answer": 0, "explain": { "en": "'The neighbour's child respects nobody, and his parents say nothing.' If home doesn't teach him, the world will.", "so": "'Ilmaha deriska qofna ma ixtiraamo, waalidkiisna waxba uma sheegaan.' Haddii guriga aan la barin, adduunyada ayaa bari doonta." } }
+      ]
+    },
+    {
+      "id": "idioms-feelings",
+      "title": { "en": "Idioms: heart and laughter", "so": "Odhaahyo: qalbiga iyo qosolka" },
+      "items": ["pv.nahau", "pv.kupiga-domo", "pv.kufa-moyo", "pv.kupiga-moyo-konde", "pv.kuvunja-mbavu"],
+      "extra": [
+        { "type": "respond", "heard": "Nimefeli mtihani wa kuendesha gari mara mbili. Sitajaribu tena.", "options": ["Usife moyo! Piga moyo konde ujaribu tena.", "Alituvunja mbavu.", "Acha kupiga domo."], "answer": 0, "explain": { "en": "'I've failed the driving test twice. I won't try again.' – 'Don't lose heart! Take courage and try again.'", "so": "'Laba jeer ayaan ku dhacay imtixaanka darawalnimada. Mar dambe isku dayi maayo.' – 'Ha quusan! Isdhiirrigeli oo mar kale isku day.'" } },
+        { "type": "build", "prompt": { "en": "Don't lose heart, try again", "so": "Ha quusan, mar kale isku day" }, "answer": "Usife moyo jaribu tena", "extra": ["mbavu", "domo"] },
+        { "type": "gap", "before": "Mchekeshaji yule alituvunja", "after": " jana usiku.", "options": ["jeki", "mbavu", "domo"], "answer": 1, "meaning": { "en": "That comedian cracked us up last night.", "so": "Majaajiliistahaas xalay aad buu noo qosliyey." } }
+      ]
+    },
+    {
+      "id": "idioms-news",
+      "title": { "en": "Idioms in the news and on the pitch", "so": "Odhaahyo wararka iyo garoonka" },
+      "items": ["pv.kutia-chumvi", "pv.mkono-mrefu", "pv.kupiga-jeki", "pv.kula-vumbi"],
+      "extra": [
+        { "type": "gap", "before": "Mradi mpya wa maji utawapiga", "after": " wakulima wa Kitui.", "options": ["chumvi", "vumbi", "jeki"], "answer": 2, "meaning": { "en": "The new water project will give Kitui's farmers a boost.", "so": "Mashruuca biyaha ee cusub wuxuu kor u qaadi doonaa beeralayda Kitui." } },
+        { "type": "respond", "heard": "Jana nilivua samaki mkubwa kama gari!", "options": ["Hongera kwa ushindi!", "Wee, usitie chumvi!", "Nimepata nafuu."], "answer": 1, "explain": { "en": "'Yesterday I caught a fish as big as a car!' – 'Hey, don't exaggerate!'", "so": "'Shalay kalluun gaari le'eg ayaan qabtay!' – 'Waryaa, ha buunbuunin!'" } },
+        { "type": "gap", "before": "Wanariadha wa Kenya waliongoza, na wengine wote walikula", "after": ".", "options": ["vumbi", "jeki", "mbavu"], "answer": 0, "meaning": { "en": "Kenya's athletes led, and all the others ate their dust.", "so": "Orodyahannada Kenya ayaa hormuud ahaa, kuwa kale oo dhammina boodhkooda ayay cuneen." } }
+      ]
+    }
+  ]
+}

@@ -76,7 +76,7 @@
     { "id": "f.ndugu", "sw": "ndugu", "en": "sibling / relative", "so": "walaal / qaraabo", "v": "standard" },
 
     { "id": "f.karibu-nyumbani", "sw": "Karibu nyumbani", "en": "Welcome to our home", "so": "Ku soo dhawoow gurigeenna", "v": "standard" },
-    { "id": "f.kaa-chini", "sw": "Kaa chini", "en": "Sit down", "so": "Fadhiiso", "v": "everyday", "tz": "Keti", "alt": ["keti", "keti chini"] },
+    { "id": "f.kaa-chini", "sw": "Kaa chini", "en": "Sit down", "so": "Fadhiiso", "v": "everyday", "tz": "Keti", "alt": ["keti", "keti chini"], "syn": "sit" },
     { "id": "f.nikuletee-chai", "sw": "Nikuletee chai?", "en": "Shall I bring you tea?", "so": "Shaah ma kuu keenaa?", "v": "standard" },
     { "id": "f.nipe-maji", "sw": "Nipe maji", "en": "Give me water", "so": "Biyo i sii", "v": "everyday", "tz": "Naomba maji", "note": { "en": "A direct request is normal and friendly in Kenya.", "so": "Codsi toos ah waa caadi oo waa saaxiibtinimo Kenya." } },
     { "id": "f.nimeshiba", "sw": "Nimeshiba", "en": "I'm full", "so": "Waan dhergay", "v": "standard" },

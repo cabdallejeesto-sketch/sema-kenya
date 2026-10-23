@@ -1,0 +1,303 @@
+{
+  "id": "media",
+  "order": 26,
+  "level": "B1",
+  "color": "#7e22ce",
+  "reviewed": false,
+  "title": { "en": "Music, Media & Going Out", "so": "Muusigga, Warbaahinta iyo Dibadda u Bixidda" },
+  "swTitle": "Muziki, Vyombo vya Habari na Burudani",
+  "description": {
+    "en": "Talk about Kenyan music styles, radio, TV and social media, say what you like and what you don't, and make plans to go out.",
+    "so": "Ka hadal noocyada muusigga Kenya, raadiyaha, telefishanka iyo baraha bulshada, sheeg waxaad jeceshahay iyo waxaadan jeclayn, oo qorshee inaad dibadda u baxdo."
+  },
+  "guide": [
+    {
+      "title": { "en": "Kenyan sounds", "so": "Codadka Kenya" },
+      "body": {
+        "en": "Benga is Kenyan dance music with fast, bright guitar. It was born around Lake Victoria in the 1960s and is now sung in many Kenyan languages. Gengetone is loud Nairobi party rap in Sheng that took off around 2019. Taarab is sung poetry from the coast, with Arabic and Indian influences. Bongo flava comes from Tanzania (Bongo is a nickname for Dar es Salaam and Tanzania) but plays everywhere in Kenya. Gospel is one of the biggest genres in the country.",
+        "so": "Benga waa muusig qoob-ka-ciyaar Kenya ah oo leh gitaar degdeg ah oo cod dhalaalaya. Wuxuu ka dhashay agagaarka harada Fiktooriya 1960-meeyadii, haddana waxaa lagu qaadaa luqado badan oo Kenya ah. Gengetone waa raab xaflado Nairobi oo cod dheer leh oo af Sheng ah, kaas oo caan noqday qiyaastii 2019. Taarab waa gabay la luuqeeyo oo xeebta ka yimid, leh saameyn Carabeed iyo Hindi. Bongo flava waxay ka timid Tanzania (Bongo waa naanaysta Dar es Salaam iyo Tanzania) laakiin meel kasta oo Kenya ah waa laga shidaa. Gospel-ka (heesaha diinta Masiixiga) waa mid ka mid ah noocyada ugu waaweyn dalka."
+      },
+      "examples": [
+        { "sw": "Bongo flava ni muziki kutoka Tanzania.", "en": "Bongo flava is music from Tanzania.", "so": "Bongo flava waa muusig ka yimid Tanzania.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "English verbs, Swahili grammar", "so": "Falal Ingiriis, naxwe Sawaaxili" },
+      "body": {
+        "en": "For online life Kenyans take English verbs and give them Swahili prefixes: kupost (to post), kushare (to share), kutrend (to trend), kudownload. The tenses work as usual: nimepost (I've posted), ameshare (she has shared), inatrend (it's trending). Standard Swahili has its own words too: kupakua (to download), kupakia (to upload), kushiriki (to share).",
+        "so": "Nolosha onlaynka, Kenyaanku waxay qaataan falal Ingiriis ah oo ay siiyaan horgalayaal Sawaaxili: kupost (soo dhigid), kushare (la wadaagid), kutrend (caan noqosho), kudownload. Waqtiyadu sidii caadiga ahayd ayay u shaqeeyaan: nimepost (waan soo dhigay), ameshare (way la wadaagtay), inatrend (waa la wada hadal hayaa). Sawaaxiliga caadiga ahi wuxuu leeyahay erayo u gaar ah: kupakua (soo dejin), kupakia (soo gelin), kushiriki (la wadaagid)."
+      },
+      "examples": [
+        { "sw": "Nimepakua wimbo mpya.", "en": "I've downloaded a new song.", "so": "Hees cusub ayaan soo dejiyey.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Radio is king", "so": "Raadiyuhu waa boqor" },
+      "body": {
+        "en": "Radio reaches almost every Kenyan home, in Swahili, English and local languages. Morning shows, listener call-ins and the evening news bulletin (taarifa ya habari) are part of daily life. For television the standard word is runinga, but most people just say TV. A kipindi is any radio or TV programme.",
+        "so": "Raadiyuhu wuxuu gaaraa ku dhawaad guri kasta oo Kenya ah, af Sawaaxili, Ingiriis iyo luqadaha deegaanka. Barnaamijyada subaxa, wicitaannada dhagaystayaasha iyo wararka fiidkii (taarifa ya habari) waa qayb ka mid ah nolol maalmeedka. Telefishanka, erayga caadiga ahi waa runinga, laakiin dadka badankoodu waxay yiraahdaan TV. Kipindi waa barnaamij kasta oo raadiye ama telefishan ah."
+      }
+    },
+    {
+      "title": { "en": "Saying what you like", "so": "Sheegidda waxaad jeceshahay" },
+      "body": {
+        "en": "Napenda (I like), sipendi (I don't like), napendelea X kuliko Y (I prefer X to Y). For habits Kenyans use huwa: Huwa nasikiliza redio asubuhi (I usually listen to the radio in the morning). School Swahili also has the hu- form: Mimi husikiliza redio. Mimi ni shabiki wa... means I'm a fan of...",
+        "so": "Napenda (waan jeclahay), sipendi (ma jecli), napendelea X kuliko Y (X ayaan ka jeclahay Y). Caadooyinka, Kenyaanku waxay isticmaalaan huwa: Huwa nasikiliza redio asubuhi (badanaa subaxdii raadiyaha ayaan dhagaystaa). Sawaaxiliga dugsiga wuxuu kaloo leeyahay qaabka hu-: Mimi husikiliza redio. Mimi ni shabiki wa... waxay ka dhigan tahay waxaan taageere u ahay..."
+      },
+      "examples": [
+        { "sw": "Napendelea redio kuliko runinga.", "en": "I prefer radio to TV.", "so": "Raadiyaha ayaan ka jeclahay telefishanka.", "v": "standard" },
+        { "sw": "Huwa natazama habari saa mbili usiku.", "en": "I usually watch the news at eight p.m.", "so": "Badanaa wararka ayaan daawadaa siddeedda habeennimo.", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "md.muziki", "sw": "muziki", "en": "music", "so": "muusig", "v": "standard" },
+    { "id": "md.wimbo", "sw": "wimbo", "en": "song", "so": "hees", "v": "standard", "syn": "song", "note": { "en": "Plural: nyimbo.", "so": "Wadarta: nyimbo." } },
+    { "id": "md.msanii", "sw": "msanii", "en": "artist / musician", "so": "fanaan", "v": "standard", "note": { "en": "In Kenya msanii usually means a singer or musician. Plural: wasanii.", "so": "Kenya, msanii badanaa waxay ka dhigan tahay fanaan hees qaada ama muusig tuma. Wadarta: wasanii." } },
+    { "id": "md.benga", "sw": "benga", "en": "benga (Kenyan guitar dance music)", "so": "benga (muusig qoob-ka-ciyaar Kenya oo gitaar leh)", "v": "standard" },
+    { "id": "md.gengetone", "sw": "gengetone", "en": "gengetone (Nairobi Sheng party rap)", "so": "gengetone (raab xaflado Nairobi oo af Sheng ah)", "v": "everyday", "say": "gengetoni", "note": { "en": "Named after genge, an older Nairobi hip hop style.", "so": "Waxaa loogu magac daray genge, hab hip hop Nairobi oo hore." } },
+    { "id": "md.bongo-flava", "sw": "bongo flava", "en": "bongo flava (Tanzanian pop)", "so": "bongo flava (muusig casri ah oo Tanzania ah)", "v": "everyday", "say": "bongo fleva", "alt": ["bongo fleva"], "note": { "en": "Tanzanian, not Kenyan, but hugely popular in Kenya too.", "so": "Waa Tanzania, ma aha Kenya, laakiin Kenya-na aad bay caan uga tahay." } },
+    { "id": "md.taarab", "sw": "taarab", "en": "taarab (coastal sung poetry music)", "so": "taarab (gabay la luuqeeyo oo xeebta ah)", "v": "standard", "say": "taarabu", "alt": ["taarabu", "tarabu"] },
+
+    { "id": "md.kusikiliza", "sw": "kusikiliza", "en": "to listen (to)", "so": "dhagaysi", "v": "standard", "alt": ["kuskiliza"], "note": { "en": "Fast Kenyan speech often says kuskiliza. Sikiliza! = Listen!", "so": "Hadalka degdega ah ee Kenya badanaa waa kuskiliza. Sikiliza! = Dhagayso!" } },
+    { "id": "md.redio", "sw": "redio", "en": "radio", "so": "raadiye", "v": "standard", "alt": ["radio"] },
+    { "id": "md.kutazama", "sw": "kutazama", "en": "to watch", "so": "daawasho", "v": "standard", "syn": "watch", "alt": ["kuangalia"], "note": { "en": "Kuangalia means the same and is very common in Kenya.", "so": "Kuangalia isla macnaha ayay leedahay, Kenya-na aad bay ugu badan tahay." } },
+    { "id": "md.runinga", "sw": "runinga", "en": "television", "so": "telefishan", "v": "standard", "syn": "tv", "alt": ["televisheni", "tv", "tivii"], "note": { "en": "Most Kenyans just say TV (tivii). Runinga is the word you hear on Swahili news.", "so": "Kenyaanka badankoodu waxay yiraahdaan TV (tivii). Runinga waa erayga laga maqlo wararka Sawaaxiliga." } },
+    { "id": "md.kipindi", "sw": "kipindi", "en": "programme (TV or radio)", "so": "barnaamij (telefishan ama raadiye)", "v": "standard", "note": { "en": "Plural: vipindi. It also means a period of time: kipindi cha mvua (the rainy season).", "so": "Wadarta: vipindi. Sidoo kale waxay ka dhigan tahay muddo: kipindi cha mvua (xilliga roobka)." } },
+    { "id": "md.taarifa", "sw": "taarifa ya habari", "en": "the news (bulletin)", "so": "wararka", "v": "standard", "alt": ["habari"], "note": { "en": "Habari alone also means news: Umesikia habari? = Have you heard the news?", "so": "Habari keligeed sidoo kale waa war: Umesikia habari? = Ma maqashay warka?" } },
+
+    { "id": "md.aina-gani", "sw": "Unapenda muziki wa aina gani?", "en": "What kind of music do you like?", "so": "Muusig noocee ah ayaad jeceshahay?", "v": "standard" },
+    { "id": "md.napendelea", "sw": "Napendelea redio kuliko runinga", "en": "I prefer radio to TV", "so": "Raadiyaha ayaan ka jeclahay telefishanka", "v": "standard", "note": { "en": "Napendelea X kuliko Y = I prefer X to Y. From kupenda (to like).", "so": "Napendelea X kuliko Y = X ayaan ka jeclahay Y. Waxay ka timid kupenda (jeclaan)." } },
+    { "id": "md.shabiki", "sw": "Mimi ni shabiki wa benga", "en": "I'm a benga fan", "so": "Taageere benga ayaan ahay", "v": "standard", "note": { "en": "Shabiki = fan; plural mashabiki. It works for music, football or anything else.", "so": "Shabiki = taageere; wadarta mashabiki. Waxay u shaqaysaa muusigga, kubadda cagta ama wax kasta." } },
+    { "id": "md.sipendi", "sw": "Sipendi sana aina hiyo", "en": "I don't really like that kind", "so": "Noocaas aad uma jecli", "v": "standard" },
+    { "id": "md.injili", "sw": "muziki wa injili", "en": "gospel music", "so": "muusigga gospel-ka (heesaha diinta Masiixiga)", "v": "standard", "alt": ["gospel", "nyimbo za injili"], "note": { "en": "Many Kenyans just say gospel. You hear it in matatus, shops and homes.", "so": "Kenyaan badan waxay yiraahdaan gospel. Waxaad ku maqlaysaa matatu-yada, dukaamada iyo guryaha." } },
+    { "id": "md.huwa", "sw": "Huwa nasikiliza redio asubuhi", "en": "I usually listen to the radio in the morning", "so": "Badanaa subaxdii raadiyaha ayaan dhagaystaa", "v": "everyday", "alt": ["mimi husikiliza redio asubuhi", "huwa ninasikiliza redio asubuhi"], "note": { "en": "Huwa + verb = usually. School Swahili also uses hu-: Mimi husikiliza redio asubuhi.", "so": "Huwa + fal = badanaa. Sawaaxiliga dugsiga wuxuu kaloo isticmaalaa hu-: Mimi husikiliza redio asubuhi." } },
+
+    { "id": "md.mitandao", "sw": "mitandao ya kijamii", "en": "social media", "so": "baraha bulshada", "v": "standard", "note": { "en": "Lit. social networks. In speech many people just say social media.", "so": "Macnaha: shabakadaha bulshada. Hadalka, dad badan waxay yiraahdaan social media." } },
+    { "id": "md.kupakua", "sw": "kupakua", "en": "to download", "so": "soo dejin", "v": "standard", "alt": ["kudownload"], "note": { "en": "The opposite, to upload, is kupakia. In everyday talk: kudownload.", "so": "Ka soo horjeedka, soo gelin, waa kupakia. Hadalka maalinlaha ah: kudownload." } },
+    { "id": "md.kupost", "sw": "kupost", "en": "to post (online)", "so": "soo dhigid (onlayn)", "v": "everyday", "say": "kuposti", "alt": ["kuposti", "ku-post"], "note": { "en": "Nimepost = I've posted. Standard: kuweka mtandaoni (to put online).", "so": "Nimepost = waan soo dhigay. Caadiga: kuweka mtandaoni (onlayn dhigid)." } },
+    { "id": "md.kushare", "sw": "kushare", "en": "to share (online)", "so": "la wadaagid (onlayn)", "v": "everyday", "say": "kushea", "alt": ["kushea", "ku-share", "kushiriki"], "note": { "en": "Standard: kushiriki.", "so": "Caadiga: kushiriki." } },
+    { "id": "md.kutrend", "sw": "kutrend", "en": "to trend (online)", "so": "caan noqosho (onlayn)", "v": "everyday", "say": "kutrendi", "alt": ["kutrendi", "ku-trend"], "note": { "en": "Inatrend = it's trending. Kenyans online are famous for making topics trend.", "so": "Inatrend = waa la wada hadal hayaa. Kenyaanka onlaynka waxay caan ku yihiin inay mawduucyo caan ka dhigaan." } },
+    { "id": "md.wafuasi", "sw": "wafuasi", "en": "followers", "so": "kuwa raacsan (followers)", "v": "standard", "note": { "en": "Singular: mfuasi. Ana wafuasi wengi = She has lots of followers.", "so": "Keli: mfuasi. Ana wafuasi wengi = Dad badan ayaa raacsan." } },
+
+    { "id": "md.twende-out", "sw": "Twende out", "en": "Let's go out", "so": "Aan dibadda u baxno", "v": "everyday", "say": "Twende aut", "alt": ["twende aut", "tutoke"], "note": { "en": "Kenyans mix in English out. In Swahili: Tutoke leo usiku? = Shall we go out tonight?", "so": "Kenyaanku waxay ku daraan erayga Ingiriiska out. Sawaaxili: Tutoke leo usiku? = Caawa ma dibadda u baxnaa?" } },
+    { "id": "md.tamasha", "sw": "tamasha", "en": "festival / concert", "so": "bandhig / xaflad weyn", "v": "standard", "note": { "en": "Any big public show of music, culture or sport. Tamasha la muziki = a music festival.", "so": "Bandhig kasta oo weyn oo muusig, dhaqan ama ciyaar ah. Tamasha la muziki = bandhig muusig." } },
+    { "id": "md.kiingilio", "sw": "kiingilio", "en": "entry fee", "so": "lacagta gelitaanka", "v": "standard", "note": { "en": "Kiingilio ni bure = Entry is free.", "so": "Kiingilio ni bure = Gelitaanku waa bilaash." } },
+    { "id": "md.club", "sw": "club", "en": "club (nightclub)", "so": "naadi (habeenkii)", "v": "everyday", "say": "klabu", "alt": ["klabu", "kilabu"] },
+    { "id": "md.kucheza-densi", "sw": "kucheza densi", "en": "to dance", "so": "qoob-ka-ciyaarid", "v": "everyday", "alt": ["kucheza dansi", "kudensi"], "note": { "en": "Kenyans say densi; dictionaries write dansi.", "so": "Kenyaanku waxay yiraahdaan densi; qaamuusyadu waxay qoraan dansi." } },
+    { "id": "md.burudani", "sw": "burudani", "en": "entertainment", "so": "madadaalo", "v": "standard" },
+
+    { "id": "md.ngoma", "sw": "ngoma", "en": "song / track (everyday)", "so": "hees (maalinle)", "v": "everyday", "syn": "song", "note": { "en": "In school Swahili ngoma is a drum or a traditional dance; young Kenyans use it for any song.", "so": "Sawaaxiliga dugsiga, ngoma waa durbaan ama cayaar dhaqameed; dhallinyarada Kenya waxay u isticmaalaan hees kasta." } },
+    { "id": "md.weka-ngoma", "sw": "Weka ngoma!", "en": "Put a song on!", "so": "Hees shid!", "v": "everyday" },
+    { "id": "md.ongeza-sauti", "sw": "Ongeza sauti", "en": "Turn the volume up", "so": "Codka kor u qaad", "v": "standard", "note": { "en": "The opposite: Punguza sauti (turn it down).", "so": "Ka soo horjeedka: Punguza sauti (codka dhimi)." } },
+    { "id": "md.inabamba", "sw": "Inabamba!", "en": "It's lit! (Sheng)", "so": "Waa cajiib! (Sheng)", "v": "sheng", "syn": "awesome", "note": { "en": "From kubamba (to thrill). Sherehe ilibamba = The party was great. Very informal.", "so": "Waxay ka timid kubamba (xiisaha kicin). Sherehe ilibamba = Xafladdu way fiicnayd. Aad bay u fudud tahay." } },
+    { "id": "md.ni-moto", "sw": "Ni moto!", "en": "It's fire! / It's great!", "so": "Waa dab! / Waa heer sare!", "v": "sheng", "syn": "awesome", "note": { "en": "Lit. it's fire. Used for a great song, outfit or match.", "so": "Macnaha: waa dab. Waxaa loo isticmaalaa hees, labbis ama ciyaar aad u fiican." } }
+  ],
+  "lessons": [
+    {
+      "id": "media-kenyan-music",
+      "title": { "en": "Kenyan music", "so": "Muusigga Kenya" },
+      "items": ["md.muziki", "md.wimbo", "md.msanii", "md.benga", "md.gengetone", "md.bongo-flava", "md.taarab"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Otieno", "sw": "Amina, unasikiliza nini?", "en": "Amina, what are you listening to?", "so": "Amina, maxaad dhagaysanaysaa?" },
+            { "who": "Amina", "sw": "Ni taarab kutoka Mombasa. Na wewe?", "en": "It's taarab from Mombasa. And you?", "so": "Waa taarab ka timid Mombasa. Adiguna?" },
+            { "who": "Otieno", "sw": "Mimi napenda benga. Baba yangu alinifundisha.", "en": "I like benga. My father taught me.", "so": "Anigu benga ayaan jeclahay. Aabbahay ayaa i baray." },
+            { "who": "Amina", "sw": "Na gengetone je?", "en": "And what about gengetone?", "so": "Gengetone-se?" },
+            { "who": "Otieno", "sw": "Hapana, kelele nyingi sana!", "en": "No, way too much noise!", "so": "Maya, buuq aad u badan!" }
+          ],
+          "question": { "en": "Which music does Otieno like?", "so": "Muusigee buu Otieno jecel yahay?" },
+          "options": [
+            { "en": "Taarab", "so": "Taarab" },
+            { "en": "Benga", "so": "Benga" },
+            { "en": "Gengetone", "so": "Gengetone" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Bongo flava ni muziki kutoka", "after": ".", "options": ["Tanzania", "Mombasa", "Eldoret"], "answer": 0, "meaning": { "en": "Bongo flava is music from Tanzania.", "so": "Bongo flava waa muusig ka yimid Tanzania." } },
+        { "type": "respond", "heard": "Unapenda wasanii gani?", "options": ["Ni saa nane.", "Sina doo.", "Napenda wasanii wa benga na taarab."], "answer": 2, "explain": { "en": "'Which artists do you like?' – 'I like benga and taarab artists.'", "so": "'Fannaaniintee ayaad jeceshahay?' – 'Waxaan jeclahay fannaaniinta benga iyo taarab.'" } }
+      ]
+    },
+    {
+      "id": "media-radio-tv",
+      "title": { "en": "Radio and TV", "so": "Raadiyaha iyo telefishanka" },
+      "items": ["md.kusikiliza", "md.redio", "md.kutazama", "md.runinga", "md.kipindi", "md.taarifa"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Mzee Wafula's radio", "so": "Raadiyaha Mzee Wafula" },
+          "lines": [
+            { "sw": "Kila asubuhi, Mzee Wafula anaamka saa kumi na moja.", "en": "Every morning, Mzee Wafula wakes up at five.", "so": "Subax kasta, Mzee Wafula wuxuu toosaa shanta subaxnimo." },
+            { "sw": "Anawasha redio na kusikiliza habari.", "en": "He turns on the radio and listens to the news.", "so": "Wuxuu shidaa raadiyaha oo dhagaystaa wararka." },
+            { "sw": "Kisha anasikiliza kipindi cha muziki wa benga.", "en": "Then he listens to a benga music programme.", "so": "Kadib wuxuu dhagaystaa barnaamij muusigga benga ah." },
+            { "sw": "Mjukuu wake, Baraka, anapenda runinga zaidi.", "en": "His grandson, Baraka, prefers television.", "so": "Baraka, oo ah wiilka wiilkiisa, telefishanka ayuu ka jecel yahay." },
+            { "sw": "Jioni, wanatazama taarifa ya habari pamoja saa mbili usiku.", "en": "In the evening they watch the news together at eight p.m.", "so": "Fiidkii, wararka ayay wada daawadaan siddeedda habeennimo." },
+            { "who": "Mzee Wafula", "sw": "Runinga ni nzuri, lakini redio ni rafiki yangu wa zamani.", "en": "TV is good, but the radio is my old friend.", "so": "Telefishanku wuu fiican yahay, laakiin raadiyuhu waa saaxiibkaygii hore." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What does Mzee Wafula listen to first every morning?", "so": "Mzee Wafula subax kasta marka hore maxuu dhagaystaa?" },
+              "options": [
+                { "en": "The news", "so": "Wararka" },
+                { "en": "Gospel music", "so": "Muusigga gospel-ka" },
+                { "en": "A football match", "so": "Ciyaar kubadda cagta" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What does Baraka prefer?", "so": "Baraka muxuu ka jecel yahay?" },
+              "options": [
+                { "en": "The radio", "so": "Raadiyaha" },
+                { "en": "Television", "so": "Telefishanka" },
+                { "en": "Benga", "so": "Benga" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "When do they watch the news together?", "so": "Goorma ayay wararka wada daawadaan?" },
+              "options": [
+                { "en": "At 5 a.m.", "so": "Shanta subaxnimo" },
+                { "en": "At noon", "so": "Duhurkii" },
+                { "en": "At 8 p.m.", "so": "Siddeedda habeennimo" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Umesikia habari za leo?", "options": ["Napenda benga.", "Ndio, nimesikia kwenye redio.", "Twende!"], "answer": 1, "explain": { "en": "'Have you heard today's news?' – 'Yes, I heard it on the radio.'", "so": "'Ma maqashay wararka maanta?' – 'Haa, raadiyaha ayaan ka maqlay.'" } },
+        { "type": "gap", "before": "Kila jioni tunatazama", "after": " pamoja.", "options": ["kusikiliza", "taarifa ya habari", "redio"], "answer": 1, "meaning": { "en": "Every evening we watch the news together.", "so": "Fiid kasta wararka ayaan wada daawannaa." } }
+      ]
+    },
+    {
+      "id": "media-what-you-like",
+      "title": { "en": "What do you like?", "so": "Maxaad jeceshahay?" },
+      "items": ["md.aina-gani", "md.napendelea", "md.shabiki", "md.sipendi", "md.injili", "md.huwa"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Baraka, unapenda muziki wa aina gani?", "en": "Baraka, what kind of music do you like?", "so": "Baraka, muusig noocee ah ayaad jeceshahay?" },
+            { "who": "Baraka", "sw": "Napenda muziki wa injili sana. Na wewe?", "en": "I really like gospel music. And you?", "so": "Aad baan u jeclahay muusigga gospel-ka. Adiguna?" },
+            { "who": "Halima", "sw": "Napendelea taarab. Huwa nasikiliza kila jioni.", "en": "I prefer taarab. I usually listen every evening.", "so": "Taarab ayaan door bidaa. Badanaa fiid kasta ayaan dhagaystaa." },
+            { "who": "Baraka", "sw": "Taarab? Sipendi sana aina hiyo, lakini nitajaribu.", "en": "Taarab? I don't really like that kind, but I'll give it a try.", "so": "Taarab? Noocaas aad uma jecli, laakiin waan isku dayi doonaa." },
+            { "who": "Halima", "sw": "Sawa! Nitakutumia wimbo mmoja.", "en": "Okay! I'll send you one song.", "so": "Hagaag! Hal hees ayaan kuu soo diri doonaa." }
+          ],
+          "question": { "en": "What will Halima do?", "so": "Halima maxay samayn doontaa?" },
+          "options": [
+            { "en": "Send Baraka a song", "so": "Hees ayay Baraka u diri doontaa" },
+            { "en": "Go to a concert", "so": "Bandhig muusig ayay aadi doontaa" },
+            { "en": "Turn off the radio", "so": "Raadiyaha ayay demin doontaa" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "I prefer benga to taarab", "so": "Benga ayaan ka jeclahay taarab" }, "answer": "Napendelea benga kuliko taarab", "extra": ["sipendi", "huwa"] },
+        { "type": "gap", "before": "Huwa", "after": " redio kila asubuhi.", "options": ["natazama", "nasikiliza", "nacheza"], "answer": 1, "meaning": { "en": "I usually listen to the radio every morning.", "so": "Badanaa subax kasta raadiyaha ayaan dhagaystaa." } }
+      ]
+    },
+    {
+      "id": "media-online",
+      "title": { "en": "Online", "so": "Onlaynka" },
+      "items": ["md.mitandao", "md.kupakua", "md.kupost", "md.kushare", "md.kutrend", "md.wafuasi"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Zawadi's video", "so": "Fiidiyowga Zawadi" },
+          "lines": [
+            { "sw": "Zawadi ni mwanafunzi Eldoret, na anapenda kupika.", "en": "Zawadi is a student in Eldoret, and she loves cooking.", "so": "Zawadi waa arday ku nool Eldoret, waxayna jeceshahay cunto karinta." },
+            { "sw": "Jumamosi moja, alipika chapati na kurekodi video fupi.", "en": "One Saturday, she cooked chapati and recorded a short video.", "so": "Sabti ka mid ah, waxay karisay chapati oo duubtay fiidiyow gaaban." },
+            { "sw": "Alipost video hiyo kwenye mitandao ya kijamii.", "en": "She posted the video on social media.", "so": "Fiidiyowgaas waxay soo dhigtay baraha bulshada." },
+            { "sw": "Wenzake wa shule waliisambaza, na watu wengi wakaanza kuitazama.", "en": "Her schoolmates shared it, and lots of people started watching it.", "so": "Asxaabteeda dugsiga ayaa faafiyey, dad badanna waxay bilaabeen inay daawadaan." },
+            { "sw": "Siku iliyofuata, video yake ilikuwa inatrend kote Kenya.", "en": "The next day, her video was trending all over Kenya.", "so": "Maalintii xigtay, fiidiyowgeeda ayaa Kenya oo dhan laga hadal hayay." },
+            { "sw": "Sasa ana wafuasi elfu kumi.", "en": "Now she has ten thousand followers.", "so": "Hadda waxaa raacsan toban kun oo qof." },
+            { "who": "Zawadi", "sw": "Nimefurahi sana! Wiki ijayo nitapost video ya mandazi.", "en": "I'm so happy! Next week I'll post a mandazi video.", "so": "Aad baan u faraxsanahay! Toddobaadka soo socda fiidiyow mandazi ah ayaan soo dhigi doonaa." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What did Zawadi cook in her video?", "so": "Zawadi maxay ku karisay fiidiyowgeeda?" },
+              "options": [
+                { "en": "Ugali", "so": "Ugali" },
+                { "en": "Chapati", "so": "Chapati" },
+                { "en": "Mandazi", "so": "Mandazi" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "How many followers does she have now?", "so": "Hadda immisa qof ayaa raacsan?" },
+              "options": [
+                { "en": "Ten thousand", "so": "Toban kun" },
+                { "en": "One thousand", "so": "Kun" },
+                { "en": "One hundred", "so": "Boqol" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What will her next video be about?", "so": "Fiidiyowgeeda xiga maxuu ku saabsanaan doonaa?" },
+              "options": [
+                { "en": "Chapati", "so": "Chapati" },
+                { "en": "Football", "so": "Kubadda cagta" },
+                { "en": "Mandazi", "so": "Mandazi" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "gap", "before": "Nimepakua", "after": " mpya wa benga.", "options": ["wafuasi", "wimbo", "mitandao"], "answer": 1, "meaning": { "en": "I've downloaded a new benga song.", "so": "Hees benga ah oo cusub ayaan soo dejiyey." } },
+        { "type": "build", "prompt": { "en": "She has many followers", "so": "Dad badan ayaa raacsan" }, "answer": "Ana wafuasi wengi", "extra": ["kupakua", "redio"] }
+      ]
+    },
+    {
+      "id": "media-going-out",
+      "title": { "en": "Going out", "so": "Dibadda u bixidda" },
+      "items": ["md.twende-out", "md.tamasha", "md.kiingilio", "md.club", "md.kucheza-densi", "md.burudani"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kiprotich", "sw": "Wikendi hii kuna tamasha la muziki Kasarani. Twende!", "en": "This weekend there's a music festival at Kasarani. Let's go!", "so": "Dhammaadka toddobaadkan bandhig muusig ayaa Kasarani ka dhacaya. Aan tagno!" },
+            { "who": "Nekesa", "sw": "Kiingilio ni pesa ngapi?", "en": "How much is the entry fee?", "so": "Lacagta gelitaanku waa immisa?" },
+            { "who": "Kiprotich", "sw": "Ni shilingi mia tano. Kutakuwa na benga na nyimbo za injili.", "en": "It's five hundred shillings. There will be benga and gospel songs.", "so": "Waa shan boqol oo shilin. Waxaa jiri doona benga iyo heesaha gospel-ka." },
+            { "who": "Nekesa", "sw": "Poa! Burudani nzuri. Nitakuja na dada yangu.", "en": "Cool! Good entertainment. I'll come with my sister.", "so": "Fiican! Madadaalo wanaagsan. Walaashay ayaan la iman doonaa." },
+            { "who": "Kiprotich", "sw": "Sawa, tukutane saa nane.", "en": "Okay, let's meet at two.", "so": "Hagaag, aan ku kulanno labada." }
+          ],
+          "question": { "en": "How much is the entry fee?", "so": "Lacagta gelitaanku waa immisa?" },
+          "options": [
+            { "en": "It's free", "so": "Waa bilaash" },
+            { "en": "A thousand shillings", "so": "Kun shilin" },
+            { "en": "Five hundred shillings", "so": "Shan boqol oo shilin" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Tutoke leo usiku?", "options": ["Ni benga.", "Pole, kesho nina kazi mapema.", "Wafuasi wengi."], "answer": 1, "explain": { "en": "'Shall we go out tonight?' – 'Sorry, I have work early tomorrow.'", "so": "'Caawa ma dibadda u baxnaa?' – 'Waan ka xumahay, berri shaqo goor hore ah ayaan leeyahay.'" } },
+        { "type": "gap", "before": "Kiingilio ni", "after": ", huhitaji kulipa.", "options": ["ghali", "redio", "bure"], "answer": 2, "meaning": { "en": "Entry is free, you don't need to pay.", "so": "Gelitaanku waa bilaash, uma baahnid inaad lacag bixiso." } }
+      ]
+    },
+    {
+      "id": "media-fan-talk",
+      "goals": ["street"],
+      "title": { "en": "Party talk", "so": "Hadalka xafladaha" },
+      "items": ["md.ngoma", "md.weka-ngoma", "md.ongeza-sauti", "md.inabamba", "md.ni-moto"],
+      "extra": [
+        { "type": "respond", "heard": "Ngoma hii inabamba!", "options": ["Pole sana.", "Ndio, ongeza sauti!", "Nimechelewa."], "answer": 1, "explain": { "en": "'This song is lit!' – 'Yes, turn it up!'", "so": "'Heestani waa cajiib!' – 'Haa, codka kor u qaad!'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mutua", "sw": "Sherehe hii inabamba!", "en": "This party is lit!", "so": "Xafladdani waa cajiib!" },
+            { "who": "Achieng", "sw": "Ndio! Ngoma hii ni moto. Ongeza sauti!", "en": "Yes! This song is fire. Turn it up!", "so": "Haa! Heestani waa dab. Codka kor u qaad!" },
+            { "who": "Mutua", "sw": "Siwezi, majirani watalalamika.", "en": "I can't, the neighbours will complain.", "so": "Ma awoodo, deriskii way cabanayaan." },
+            { "who": "Achieng", "sw": "Basi weka ngoma ya taarab, pole pole.", "en": "Then put on a taarab song, nice and soft.", "so": "Markaa hees taarab ah shid, si tartiib ah." }
+          ],
+          "question": { "en": "Why won't Mutua turn the volume up?", "so": "Maxaa Mutua u diiday inuu codka kor u qaado?" },
+          "options": [
+            { "en": "The neighbours will complain", "so": "Deriskii way cabanayaan" },
+            { "en": "He doesn't like the song", "so": "Heesta ma jecla" },
+            { "en": "The radio is broken", "so": "Raadiyuhu waa jaban yahay" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Ngoma hii ni", "after": "! Ongeza sauti.", "options": ["kipindi", "baridi", "moto"], "answer": 2, "meaning": { "en": "This song is fire! Turn it up.", "so": "Heestani waa dab! Codka kor u qaad." } }
+      ]
+    }
+  ]
+}

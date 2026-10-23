@@ -1,0 +1,302 @@
+{
+  "id": "sheng-street",
+  "order": 20,
+  "level": "B1",
+  "color": "#86198f",
+  "reviewed": false,
+  "title": { "en": "Nairobi Street Life (Sheng 2)", "so": "Nolosha Waddooyinka Nairobi (Sheng 2)" },
+  "swTitle": "Maisha ya Mtaani",
+  "description": {
+    "en": "Go deeper into Sheng: how new words are made, life in the mtaa, the daily hustle, being broke and making it, and how young Nairobians joke, party and give advice.",
+    "so": "Si qoto dheer u baro Sheng: sida erayo cusub loo sameeyo, nolosha xaafadda, halganka maalinlaha ah, lacag la'aanta iyo guusha, iyo sida dhallinyarada Nairobi u kaftamaan, u xafladeeyaan una talo bixiyaan."
+  },
+  "goals": ["street"],
+  "guide": [
+    {
+      "title": { "en": "How new Sheng words are made", "so": "Sida erayada cusub ee Sheng loo sameeyo" },
+      "body": {
+        "en": "Sheng uses a few tricks again and again. Shortening: dereva → dere, Saturday → Sato. English verbs inside Swahili grammar: kuhustle, kujienjoy, usimind. Borrowing from Kenyan languages such as Gikuyu, Luo and Luhya: nduthi (motorbike) comes from Gikuyu. Playful renaming: Nairobi → Kanairo. Some words were made by swapping syllables round, which makes talk hard for outsiders to follow.",
+        "so": "Sheng waxay mar walba isticmaashaa dhowr xeeladood. Soo gaabin: dereva → dere, Saturday → Sato. Ficillo Ingiriis ah oo naxwaha Sawaaxiliga lagu dhex geliyo: kuhustle, kujienjoy, usimind. Ka amaahasho luqadaha Kenya sida Gikuyu, Luo iyo Luhya: nduthi (mooto) waxay ka timid Gikuyu. Magac-bixin kaftan leh: Nairobi → Kanairo. Erayo qaarkood waxaa lagu sameeyey in qaybaha erayga la kala beddelo, taas oo ka dhigta hadalka mid ay dadka dibadda ahi fahmi waayaan."
+      },
+      "examples": [
+        { "sw": "Tutaonana Sato.", "en": "See you on Saturday.", "so": "Sabtida ayaan kulmi doonnaa.", "v": "sheng" },
+        { "sw": "Usimind, ni poa tu.", "en": "Never mind, it's all good.", "so": "Ha ka welwelin, waa hagaag uun.", "v": "sheng" }
+      ]
+    },
+    {
+      "title": { "en": "English verbs, Swahili grammar", "so": "Ficil Ingiriis, naxwe Sawaaxili" },
+      "body": {
+        "en": "However new the word, the grammar is Kiswahili. An English verb takes the normal prefixes and tense markers: nita-hustle (I will hustle), tuli-plan (we planned), usi-mind (don't mind). If you know your tenses, you can use any Sheng verb you hear.",
+        "so": "Erayga kasta oo cusub ha ahaadee, naxwuhu waa Sawaaxili. Ficil Ingiriis ah wuxuu qaataa horgalayaasha iyo calaamadaha wakhtiga ee caadiga ah: nita-hustle (waan dadaali doonaa), tuli-plan (waan qorsheynay), usi-mind (ha dareemin). Haddaad wakhtiyada taqaanno, ficil kasta oo Sheng ah oo aad maqasho waad isticmaali kartaa."
+      },
+      "examples": [
+        { "sw": "Jana tuliplan safari ya ocha.", "en": "Yesterday we planned the trip upcountry.", "so": "Shalay waxaan qorsheynay safarka miyiga.", "v": "sheng" }
+      ]
+    },
+    {
+      "title": { "en": "Sheng changes fast", "so": "Sheng si dhakhso ah ayay isu beddeshaa" },
+      "body": {
+        "en": "Every few years new words arrive and old ones start to sound dated, and each estate has its own favourites. The words in this unit are well known in Nairobi today, and the notes say which ones are older or may fade. Use Sheng with friends your age. With elders, at work or in an office, use everyday Kiswahili.",
+        "so": "Dhowr sano kasta erayo cusub ayaa yimaada, kuwii horena waxay bilaabaan inay u ekaadaan kuwo duugoobay, xaafad kastana erayo ay jeceshahay ayay leedahay. Erayada cutubkan maanta Nairobi waa lagu yaqaan, qoraalladuna waxay sheegayaan kuwa duugga ah ama laga yaabo inay libdhaan. Sheng la isticmaal saaxiibbada da'daada ah. Waayeelka, shaqada ama xafiiska, isticmaal Sawaaxiliga maalinlaha ah."
+      }
+    },
+    {
+      "title": { "en": "The mtaa and the hustle", "so": "Xaafadda iyo halganka" },
+      "body": {
+        "en": "Mtaani means 'in the hood', especially the busy estates of Eastlands. Life there is about the hustle: a small business, casual jobs, side gigs. People joke about being broke (kusota), dream of making it (kuomoka), and keep each other going with phrases like Kaza roho and Usikate tamaa.",
+        "so": "Mtaani macnaheedu waa 'xaafadda', gaar ahaan xaafadaha mashquulka ah ee Eastlands. Nolosha halkaas waa halgan: ganacsi yar, shaqooyin maalinle ah iyo shaqooyin dhinac ah. Dadku waxay ku kaftamaan lacag la'aanta (kusota), waxay ku riyoodaan guusha (kuomoka), waxayna isku dhiirrigeliyaan oraahyo sida Kaza roho iyo Usikate tamaa."
+      },
+      "examples": [
+        { "sw": "Mtaani kila mtu anatafuta.", "en": "In the hood everyone is out hustling (lit. searching).", "so": "Xaafadda qof walba wuu dadaalayaa (macnaha erayga: wuu raadinayaa).", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "s2.sheng", "sw": "Sheng", "en": "Sheng (Nairobi street language)", "so": "Sheng (luqadda waddooyinka Nairobi)", "v": "everyday", "note": { "en": "From SHeng = Swahili + ENGlish. Born in Nairobi's Eastlands estates, now heard all over Kenya.", "so": "Waxay ka timid SHeng = Swahili + ENGlish. Waxay ku dhalatay xaafadaha Eastlands ee Nairobi, hadda Kenya oo dhan ayaa laga maqlaa." } },
+    { "id": "s2.kuhustle", "sw": "kuhustle", "en": "to hustle, work hard to get by", "so": "in la dadaalo si nolol loo helo", "v": "sheng", "say": "kuhasol", "alt": ["kuhasol", "kuhasla"], "note": { "en": "English hustle + Swahili ku-. Very common and not dated. Nitahustle = I will hustle.", "so": "Ingiriisiga hustle + ku- Sawaaxili. Aad bay u caan tahay mana duugoobin. Nitahustle = waan dadaali doonaa." } },
+    { "id": "s2.kujienjoy", "sw": "kujienjoy", "en": "to enjoy yourself", "so": "inaad ku raaxaysato", "v": "sheng", "say": "kujienjoi", "syn": "enjoy", "note": { "en": "ku- + ji- (yourself) + English enjoy. Tujienjoy! = Let's have fun! Used by all ages.", "so": "ku- + ji- (naftaada) + Ingiriisiga enjoy. Tujienjoy! = Aan raaxaysanno! Da' kasta ayaa isticmaasha." } },
+    { "id": "s2.kuplan", "sw": "kuplan", "en": "to plan (Sheng)", "so": "in la qorsheeyo (Sheng)", "v": "sheng", "syn": "plan", "tz": "kupanga", "note": { "en": "The textbook word is kupanga. Tuplan Sato = let's plan for Saturday. Very common today.", "so": "Erayga buugaagtu waa kupanga. Tuplan Sato = aan Sabtida qorsheyno. Maanta aad bay u caan tahay." } },
+    { "id": "s2.usimind", "sw": "Usimind", "en": "Never mind / Don't worry about it", "so": "Ha ka welwelin / Iska daa", "v": "sheng", "say": "Usimaind", "alt": ["usimaind"], "syn": "okay", "tz": "Usijali", "note": { "en": "usi- (don't) + English mind. The textbook form is Usijali. Common for years and still going strong.", "so": "usi- (ha) + Ingiriisiga mind. Qaabka buugaagtu waa Usijali. Sannado badan ayay caan ahayd, weli way xoog badan tahay." } },
+    { "id": "s2.sato", "sw": "Sato", "en": "Saturday (Sheng)", "so": "Sabti (Sheng)", "v": "sheng", "syn": "saturday", "tz": "Jumamosi", "note": { "en": "Short for Saturday. The standard word is Jumamosi. Long-standing and still common.", "so": "Waa soo gaabinta Saturday. Erayga rasmiga ahi waa Jumamosi. Muddo dheer ayuu jiray, weli waa caadi." } },
+
+    { "id": "s2.nduthi", "sw": "nduthi", "en": "motorbike (Sheng, from Gikuyu)", "so": "mooto (Sheng, Gikuyu ka timid)", "v": "sheng", "syn": "motorbike", "note": { "en": "From Gikuyu. Used by all ages in Nairobi and central Kenya: Nitachukua nduthi = I'll take a motorbike taxi. Not dated.", "so": "Waxay ka timid Gikuyu. Da' kasta ayaa ku isticmaasha Nairobi iyo bartamaha Kenya: Nitachukua nduthi = Mooto ayaan raaci doonaa. Ma duugoobin." } },
+    { "id": "s2.jobo", "sw": "jobo", "en": "job / work (Sheng)", "so": "shaqo (Sheng)", "v": "sheng", "syn": "job", "tz": "kazi", "note": { "en": "English job + -o. Niko jobo = I'm at work. The standard word is kazi. Still common.", "so": "Ingiriisiga job + -o. Niko jobo = Shaqada ayaan joogaa. Erayga rasmiga ahi waa kazi. Weli waa caadi." } },
+    { "id": "s2.geto", "sw": "geto", "en": "my place / a young person's room (Sheng)", "so": "gurigayga / qolka qof dhallinyaro ah (Sheng)", "v": "sheng", "syn": "house", "alt": ["ghetto"], "note": { "en": "From English ghetto, but it just means your own room or house: Karibu kwa geto yangu. Used mostly by young men; common today.", "so": "Waxay ka timid Ingiriisiga ghetto, laakiin macnaheedu waa qolkaaga ama gurigaaga: Karibu kwa geto yangu. Badanaa wiilasha dhallinyarada ah ayaa isticmaala; maanta waa caadi." } },
+    { "id": "s2.ocha", "sw": "ocha", "en": "upcountry home / village (Sheng)", "so": "miyiga / tuulada (Sheng)", "v": "sheng", "syn": "village", "alt": ["ushago"], "note": { "en": "Naenda ocha = I'm going home to the village (often at Christmas). Ushago means the same. Both are widely used.", "so": "Naenda ocha = Tuuladayda ayaan u socdaa (badanaa Kirismaska). Ushago isku macne bay leeyihiin. Labaduba si ballaaran ayaa loo isticmaalaa." } },
+    { "id": "s2.mathree", "sw": "mathree", "en": "matatu (older Sheng)", "so": "matatu (Sheng duug ah)", "v": "sheng", "note": { "en": "Matatu → tatu (three) → English three. An older word, still understood; young people now say nganya for the flashy ones.", "so": "Matatu → tatu (saddex) → Ingiriisiga three. Eray hore, weli waa la fahmaa; dhallinyaradu hadda kuwa qurxoon waxay ku yiraahdaan nganya." }, "syn": "matatu" },
+    { "id": "s2.kanairo", "sw": "Kanairo", "en": "Nairobi (Sheng)", "so": "Nairobi (Sheng)", "v": "sheng", "alt": ["nai"], "note": { "en": "A playful nickname, also shortened to Nai. Long-standing and still common.", "so": "Naanays kaftan leh, waxaa kale oo loo soo gaabiyaa Nai. Muddo dheer ayuu jiray, weli waa caadi." } },
+
+    { "id": "s2.mtaani", "sw": "mtaani", "en": "in the hood / in the neighbourhood", "so": "xaafadda gudaheeda", "v": "everyday", "note": { "en": "Mtaa = street or neighbourhood; mtaani = in the hood. Watu wa mtaani = ordinary people from the estates.", "so": "Mtaa = waddo ama xaafad; mtaani = xaafadda gudaheeda. Watu wa mtaani = dadka caadiga ah ee xaafadaha." } },
+    { "id": "s2.kijiwe", "sw": "kijiwe", "en": "street-corner hangout (where idle young men sit)", "so": "geeska waddada ee dhallinyaradu ku fadhiistaan", "v": "sheng", "syn": "hangout", "note": { "en": "Lit. a small stone. Kijiweni = at the corner, often joking about being jobless. An older word, still known in Kenya and Tanzania.", "so": "Macnaha erayga: dhagax yar. Kijiweni = geeska waddada, badanaa iyadoo lagu kaftamayo shaqo la'aanta. Eray hore, weli Kenya iyo Tanzania waa lagu yaqaan." } },
+    { "id": "s2.ni-hustle-tu", "sw": "Ni hustle tu", "en": "It's just the hustle (just getting by)", "so": "Waa halgan uun", "v": "sheng", "say": "Ni hasol tu", "alt": ["ni hasol tu", "ni hasla tu"], "note": { "en": "A common answer to Uko aje? or Unafanya nini siku hizi? Current and very common.", "so": "Jawaab caadi ah oo loo bixiyo Uko aje? ama Unafanya nini siku hizi? Hadda aad bay u caan tahay." } },
+    { "id": "s2.kusota", "sw": "kusota", "en": "to be broke, struggling (Sheng)", "so": "in lacag la'aan lagu jiro (Sheng)", "v": "sheng", "syn": "broke", "note": { "en": "Nimesota = I'm totally broke. Long-standing Sheng and still common.", "so": "Nimesota = Gebi ahaanba lacag ma haysto. Sheng hore oo weli caadi ah." } },
+    { "id": "s2.kuomoka", "sw": "kuomoka", "en": "to make it, become well off (Sheng)", "so": "in la guuleysto oo la ladnaado (Sheng)", "v": "sheng", "syn": "rich", "note": { "en": "Ameomoka = he or she has made it. The opposite of kusota. Widely used today.", "so": "Ameomoka = wuu guuleystay. Waa ka soo horjeedka kusota. Maanta si ballaaran ayaa loo isticmaalaa." } },
+    { "id": "s2.hakuna-kulala", "sw": "Hakuna kulala", "en": "No sleeping! (keep working hard)", "so": "Hurdo ma jirto! (dadaal joogto ah)", "v": "everyday", "note": { "en": "A hustler's motto: no time to rest until you make it.", "so": "Halku-dhegga qofka dadaalaya: wakhti nasasho ma jiro ilaa aad guuleysato." } },
+
+    { "id": "s2.story-ingine", "sw": "Hiyo ni story ingine", "en": "That's another story / a different matter", "so": "Taasi waa sheeko kale", "v": "sheng", "say": "Hiyo ni stori ingine", "alt": ["hiyo ni stori ingine", "hiyo ni story nyingine"], "note": { "en": "Used to change the subject or to say something is complicated. Ingine is the everyday form of nyingine. Common for years.", "so": "Waxaa loo isticmaalaa in mawduuca la beddelo ama in la yiraahdo arrintu way adag tahay. Ingine waa qaabka maalinlaha ah ee nyingine. Sannado badan ayay caan ahayd." } },
+    { "id": "s2.ni-kubaya", "sw": "Ni kubaya", "en": "Things are tough / It's bad out here", "so": "Xaaladdu way adag tahay", "v": "sheng", "note": { "en": "Ku- here means 'the situation, out there': Mtaani ni kubaya = things are hard in the hood. Common today.", "so": "Ku- halkan waxay ka dhigan tahay 'xaaladda': Mtaani ni kubaya = xaafadda noloshu way adag tahay. Maanta waa caadi." } },
+    { "id": "s2.ni-poa-tu", "sw": "Ni poa tu", "en": "It's all good / No worries", "so": "Waa hagaag uun / Dhib ma leh", "v": "everyday", "syn": "okay", "note": { "en": "Calmer than Poa! on its own. Use it to reassure someone.", "so": "Way ka deggan tahay Poa! keligeed. U isticmaal in qof la xasilliyo." } },
+    { "id": "s2.maneno-mingi", "sw": "Maneno mingi!", "en": "Too much talk! (stop talking, act)", "so": "Hadal badan! (hadalka daa, wax qabo)", "v": "everyday", "tz": "Maneno mengi", "alt": ["maneno mengi"], "note": { "en": "Kenyans say mingi in daily speech; the standard form is maneno mengi. Said with a smile among friends.", "so": "Kenyaanku hadalka maalinlaha ah waxay yiraahdaan mingi; qaabka rasmiga ahi waa maneno mengi. Saaxiibbada dhexdooda dhoolacaddeyn ayaa lagu yiraahdaa." } },
+    { "id": "s2.kwani", "sw": "Kwani?", "en": "Why? / So what? (Kenyan)", "so": "Waayo? / Haddaba maxaa?", "v": "everyday", "note": { "en": "Very Kenyan. Kwani nini? = So what? Kwani hukuja? = Why didn't you come? The tone does the work.", "so": "Aad bay Kenya u tahay. Kwani nini? = Haddaba maxaa? Kwani hukuja? = Maxaad u iman weyday? Codka ayaa macnaha sameeya." } },
+    { "id": "s2.si-mchezo", "sw": "Si mchezo!", "en": "It's no joke! (seriously impressive or serious)", "so": "Ciyaar ma aha! (aad bay u weyn tahay ama u culus tahay)", "v": "everyday", "note": { "en": "Lit. it's not a game. Jam ya leo si mchezo! = Today's traffic is no joke!", "so": "Macnaha erayga: ciyaar ma aha. Jam ya leo si mchezo! = Ciriiriga maanta ciyaar ma aha!" } },
+
+    { "id": "s2.bash", "sw": "bash", "en": "party (Sheng)", "so": "xaflad (Sheng)", "v": "sheng", "syn": "party", "tz": "sherehe", "note": { "en": "From English. Kuna bash Sato = there's a party on Saturday. The standard word is sherehe. Long-standing.", "so": "Ingiriis ayay ka timid. Kuna bash Sato = Sabtida xaflad baa jirta. Erayga rasmiga ahi waa sherehe. Muddo dheer ayay jirtay." } },
+    { "id": "s2.kula-bata", "sw": "kula bata", "en": "to enjoy the good life (lit. to eat duck)", "so": "inaad nolosha ku raaxaysato (macnaha erayga: bata cunid)", "v": "sheng", "syn": "enjoy", "note": { "en": "Tunakula bata = we're living it up: holidays, nice meals, good times. Widely known across Kenya.", "so": "Tunakula bata = aad baan u raaxaysanaynaa: fasax, cunto fiican, wakhti wanaagsan. Kenya oo dhan waa lagu yaqaan." } },
+    { "id": "s2.tudunde", "sw": "Tudunde!", "en": "Let's dance! / Let's party!", "so": "Aan qoob-ka-ciyaarno! / Aan xafladeysanno!", "v": "sheng", "syn": "party", "note": { "en": "From kudunda, to bounce: to dance and party hard. Popular with the gengetone generation; it may start to sound dated.", "so": "Waxay ka timid kudunda, boodid: in si xoog leh loo qoob-ka-ciyaaro. Waxay caan ku tahay jiilka gengetone; waxaa laga yaabaa inay duugowdo." } },
+    { "id": "s2.inabamba", "sw": "Inabamba!", "en": "It's lit! / It's so much fun!", "so": "Aad bay u xiiso badan tahay!", "v": "sheng", "note": { "en": "From kubamba, to be exciting. Bash ilibamba = the party was great. Long-standing and still common.", "so": "Waxay ka timid kubamba, xiiso lahaansho. Bash ilibamba = xafladdu aad bay u fiicnayd. Muddo dheer ayay jirtay, weli waa caadi." } },
+    { "id": "s2.twende-out", "sw": "Twende out", "en": "Let's go out (for fun)", "so": "Aan dibadda u baxno (madadaalo)", "v": "sheng", "say": "Twende aut", "alt": ["twende aut"], "note": { "en": "Out = an evening out. Kutoka out = to go out. Common with young people in towns.", "so": "Out = fiid madadaalo ah. Kutoka out = in dibadda loo baxo. Dhallinyarada magaalooyinka way ku caan tahay." } },
+
+    { "id": "s2.kaa-chonjo", "sw": "Kaa chonjo", "en": "Stay alert / Watch out", "so": "Feejignaan / Isha ku hay", "v": "sheng", "note": { "en": "Lit. sit alert. Said about town, crowds and pickpockets. Common in Kenya and Tanzania; not dated.", "so": "Macnaha erayga: si feejig ah u fadhiiso. Waxaa la yiraahdaa marka laga hadlayo magaalada, dadka badan iyo tuugada jeebka. Kenya iyo Tanzania waa caadi; ma duugoobin." } },
+    { "id": "s2.kaza-roho", "sw": "Kaza roho", "en": "Be strong / Hang in there", "so": "Adkayso / Samir", "v": "everyday", "syn": "be-strong", "note": { "en": "Lit. tighten the soul. Said to a friend going through hard times.", "so": "Macnaha erayga: naftaada adkee. Waxaa loo yiraahdaa saaxiib wakhti adag ku jira." } },
+    { "id": "s2.usikate-tamaa", "sw": "Usikate tamaa", "en": "Don't give up", "so": "Ha quusan", "v": "standard", "syn": "be-strong", "note": { "en": "Lit. don't cut hope. Usi- + verb ending in -e = don't...", "so": "Macnaha erayga: rajada ha goyn. Usi- + fal ku dhammaada -e = ha..." } },
+    { "id": "s2.siku-ingine", "sw": "Kesho ni siku ingine", "en": "Tomorrow is another day", "so": "Berri waa maalin kale", "v": "everyday", "alt": ["kesho ni siku nyingine"], "note": { "en": "Standard Kiswahili says siku nyingine; ingine is everyday Kenyan speech.", "so": "Sawaaxiliga rasmiga ahi wuxuu yiraahdaa siku nyingine; ingine waa hadalka maalinlaha ah ee Kenya." } },
+    { "id": "s2.jiamini", "sw": "Jiamini!", "en": "Believe in yourself!", "so": "Naftaada ku kalsoonow!", "v": "standard", "note": { "en": "ji- = yourself + amini = believe, trust. Kujiamini = self-confidence.", "so": "ji- = naftaada + amini = rumayso, ku kalsoonow. Kujiamini = kalsoonida naftaada." } }
+  ],
+  "lessons": [
+    {
+      "id": "how-sheng-works",
+      "title": { "en": "How Sheng works", "so": "Sida Sheng u shaqeyso" },
+      "items": ["s2.sheng", "s2.kuhustle", "s2.kujienjoy", "s2.kuplan", "s2.usimind", "s2.sato"],
+      "extra": [
+        { "type": "gap", "before": "Tutaonana", "after": " jioni.", "options": ["Sato", "kuplan", "usimind"], "answer": 0, "meaning": { "en": "See you on Saturday evening.", "so": "Sabtida fiidkeeda ayaan kulmi doonnaa." } },
+        { "type": "build", "prompt": { "en": "Let's plan for Saturday", "so": "Aan Sabtida qorsheyno" }, "answer": "Tuplan Sato", "extra": ["usimind", "jana"] },
+        { "type": "respond", "heard": "Samahani, nimechelewa kidogo.", "options": ["Tujienjoy!", "Usimind, ni sawa.", "Sato."], "answer": 1, "explain": { "en": "'Sorry, I'm a bit late.' – 'Never mind, it's okay.'", "so": "'Raali ahow, wax yar ayaan soo daahay.' – 'Ha ka welwelin, waa hagaag.'" } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Zawadi", "sw": "Baraka, siku hizi unafanya nini?", "en": "Baraka, what are you up to these days?", "so": "Baraka, maalmahan maxaad qabanaysaa?" },
+            { "who": "Baraka", "sw": "Natafuta tu, beshte. Nauza viatu tao.", "en": "Just hustling, bestie. I sell shoes in town.", "so": "Waan dadaalayaa uun, saaxiibtay. Kabo ayaan magaalada ku iibiyaa." },
+            { "who": "Zawadi", "sw": "Poa sana! Tujienjoy Sato?", "en": "Very cool! Shall we have some fun on Saturday?", "so": "Aad u fiican! Sabtida ma raaxaysannaa?" },
+            { "who": "Baraka", "sw": "Sato nina kazi. Tuplan Jumapili.", "en": "On Saturday I'm working. Let's plan for Sunday.", "so": "Sabtida shaqo ayaan leeyahay. Aan Axadda qorsheyno." }
+          ],
+          "question": { "en": "When do they plan to meet?", "so": "Goormay qorsheynayaan inay kulmaan?" },
+          "options": [
+            { "en": "On Saturday", "so": "Sabtida" },
+            { "en": "Today", "so": "Maanta" },
+            { "en": "On Sunday", "so": "Axadda" }
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "borrowed-words",
+      "title": { "en": "Borrowed and remade words", "so": "Erayo la amaahday oo dib loo sameeyey" },
+      "items": ["s2.nduthi", "s2.jobo", "s2.geto", "s2.ocha", "s2.mathree", "s2.kanairo"],
+      "extra": [
+        { "type": "respond", "heard": "Uko wapi, msee?", "options": ["Nduthi.", "Ni Sato.", "Niko geto, nakuja sasa hivi."], "answer": 2, "explain": { "en": "'Where are you, man?' – 'I'm at my place, coming right now.'", "so": "'Xaggee joogtaa, saaxiib?' – 'Gurigayga ayaan joogaa, hadda ayaan imanayaa.'" } },
+        { "type": "gap", "before": "Nimechelewa, kwa hiyo nitachukua", "after": ".", "options": ["ocha", "nduthi", "jobo"], "answer": 1, "meaning": { "en": "I'm late, so I'll take a motorbike.", "so": "Waan daahay, sidaas darteed mooto ayaan raacayaa." } },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kamau", "sw": "Otieno, Krismasi hii utaenda ocha?", "en": "Otieno, are you going upcountry this Christmas?", "so": "Otieno, Kirismaskan miyiga ma u socotaa?" },
+            { "who": "Otieno", "sw": "Ndiyo, naenda Kisumu kuona mathe. Wewe je?", "en": "Yes, I'm going to Kisumu to see my mum. What about you?", "so": "Haa, Kisumu ayaan u socdaa si aan hooyo u arko. Adiguna?" },
+            { "who": "Kamau", "sw": "Mimi nitabaki Kanairo. Jobo haina likizo.", "en": "I'll stay in Nairobi. My job has no holiday.", "so": "Anigu Nairobi ayaan ku hadhayaa. Shaqadu fasax ma leh." },
+            { "who": "Otieno", "sw": "Pole sana. Basi tukutane base kabla sijaenda.", "en": "So sorry. Then let's meet at our spot before I go.", "so": "Waan ka xumahay. Haddaba aan ku kulanno meesheenna intaanan tegin." }
+          ],
+          "question": { "en": "Why is Kamau staying in Nairobi?", "so": "Kamau muxuu Nairobi ugu hadhayaa?" },
+          "options": [
+            { "en": "His job gives no holiday", "so": "Shaqadiisu fasax ma siiso" },
+            { "en": "He has no fare", "so": "Lacagta safarka ma haysto" },
+            { "en": "His mother lives in Nairobi", "so": "Hooyadiis Nairobi ayay ku nooshahay" }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "life-in-the-mtaa",
+      "goals": ["street"],
+      "title": { "en": "Life and hustle in the mtaa", "so": "Nolosha iyo halganka xaafadda" },
+      "items": ["s2.mtaani", "s2.kijiwe", "s2.ni-hustle-tu", "s2.kusota", "s2.kuomoka", "s2.hakuna-kulala"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Baraka's hustle", "so": "Halganka Baraka" },
+          "lines": [
+            { "sw": "Naitwa Baraka, na nimekulia mtaani Eastlands.", "en": "My name is Baraka, and I grew up in the hood in Eastlands.", "so": "Magacaygu waa Baraka, waxaanan ku soo koray xaafadaha Eastlands." },
+            { "sw": "Asubuhi mapema, nauza mandazi na chai kwa stage.", "en": "Early in the morning, I sell mandazi and tea at the matatu stop.", "so": "Subaxa hore, waxaan mandasi iyo shaah ku iibiyaa joogsiga baska." },
+            { "sw": "Mchana, napiga kibarua kwa jua kali.", "en": "In the afternoon, I do casual work at the jua kali workshops.", "so": "Galabtii, shaqo maalinle ah ayaan ka qabtaa goobaha jua kali." },
+            { "sw": "Wiki iliyopita nilisota kabisa, hata nauli sikuwa nayo.", "en": "Last week I was totally broke; I didn't even have the fare.", "so": "Toddobaadkii hore gebi ahaanba lacag ma haysan, xataa lacagtii safarka ma haysan." },
+            { "sw": "Lakini sikukaa kijiweni nikilalamika.", "en": "But I didn't sit at the street corner complaining.", "so": "Laakiin kuma fadhiisan geeska waddada anigoo cabanaya." },
+            { "sw": "Nilichapa kazi, na sasa nina doo kidogo.", "en": "I worked hard, and now I have a bit of cash.", "so": "Si adag ayaan u shaqeeyey, hadda lacag yar ayaan haystaa." },
+            { "sw": "Ndoto yangu ni kufungua duka langu siku moja.", "en": "My dream is to open my own shop one day.", "so": "Riyadaydu waa inaan maalin uun furto dukaan aan leeyahay." },
+            { "sw": "Siku hiyo, mtaa mzima utasema Baraka ameomoka.", "en": "That day, the whole hood will say Baraka has made it.", "so": "Maalintaas, xaafadda oo dhan waxay oran doontaa Baraka wuu guuleystay." },
+            { "sw": "Mpaka hapo, hakuna kulala!", "en": "Until then, no sleeping!", "so": "Ilaa inta, hurdo ma jirto!" }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What does Baraka sell in the morning?", "so": "Baraka subaxdii muxuu iibiyaa?" },
+              "options": [
+                { "en": "Shoes in town", "so": "Kabo magaalada" },
+                { "en": "Mandazi and tea at the stage", "so": "Mandasi iyo shaah joogsiga baska" },
+                { "en": "Phones", "so": "Taleefanno" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What happened last week?", "so": "Maxaa dhacay toddobaadkii hore?" },
+              "options": [
+                { "en": "He was so broke he had no fare", "so": "Lacag la'aan ayuu ku jiray, xataa lacagta safarka ma haysan" },
+                { "en": "He opened a shop", "so": "Dukaan ayuu furay" },
+                { "en": "He went upcountry", "so": "Miyiga ayuu tegay" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What is his dream?", "so": "Riyadiisu waa maxay?" },
+              "options": [
+                { "en": "To sit at the corner", "so": "Inuu geeska waddada fadhiisto" },
+                { "en": "To buy a motorbike", "so": "Inuu mooto iibsado" },
+                { "en": "To open his own shop", "so": "Inuu furto dukaan uu leeyahay" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Uko aje, bro? Unafanya nini siku hizi?", "options": ["Tujienjoy.", "Ni hustle tu, bro.", "Nduthi."], "answer": 1, "explain": { "en": "'How are you, bro? What are you up to these days?' – 'Just the hustle, bro.'", "so": "'Sidee tahay, walaal? Maalmahan maxaad qabanaysaa?' – 'Halgan uun, walaal.'" } },
+        { "type": "gap", "before": "Mwezi huu", "after": " kabisa, sina hata nauli.", "options": ["nimeomoka", "nimeshiba", "nimesota"], "answer": 2, "meaning": { "en": "This month I'm totally broke; I don't even have the fare.", "so": "Bishan gebi ahaanba lacag ma haysto, xataa lacagta safarka ma haysto." } }
+      ]
+    },
+    {
+      "id": "talk-and-attitude",
+      "goals": ["street"],
+      "title": { "en": "Talk and attitude", "so": "Hadal iyo dabeecad" },
+      "items": ["s2.story-ingine", "s2.ni-kubaya", "s2.ni-poa-tu", "s2.maneno-mingi", "s2.kwani", "s2.si-mchezo"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Niaje, Kamau? Mambo ya jobo?", "en": "Hey Kamau, what's up? How are things at work?", "so": "Kamau, maxaa la sheegay? Shaqadu sidee tahay?" },
+            { "who": "Kamau", "sw": "Ni kubaya, bro. Boss amepunguza mshahara.", "en": "Things are tough, bro. The boss has cut our pay.", "so": "Xaaladdu way adag tahay, walaal. Maamuluhu mushaharka ayuu dhimay." },
+            { "who": "Abdi", "sw": "Wacha! Na kodi je?", "en": "No way! And what about rent?", "so": "Ma run baa! Kiradana ka warran?" },
+            { "who": "Kamau", "sw": "Hiyo ni story ingine. Usiulize.", "en": "That's another story. Don't ask.", "so": "Taasi waa sheeko kale. Ha i weydiin." },
+            { "who": "Abdi", "sw": "Pole sana, bro. Tuko pamoja, nitakusaidia kidogo.", "en": "So sorry, bro. I've got your back; I'll help you a bit.", "so": "Aad baan uga xumahay, walaal. Waan ku garab taaganahay, wax yar ayaan ku caawin doonaa." }
+          ],
+          "question": { "en": "What does Abdi offer to do?", "so": "Abdi muxuu u bandhigay inuu sameeyo?" },
+          "options": [
+            { "en": "To help him a little", "so": "Inuu wax yar caawiyo" },
+            { "en": "To lend him a motorbike", "so": "Inuu mooto amaahiyo" },
+            { "en": "To talk to the boss", "so": "Inuu la hadlo maamulaha" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Kwani hukuja jana?", "options": ["Inabamba!", "Hiyo si mchezo.", "Samahani, nilikuwa jobo mpaka usiku."], "answer": 2, "explain": { "en": "'Why didn't you come yesterday?' – 'Sorry, I was at work until night.'", "so": "'Maxaad shalay u iman weyday?' – 'Raali ahow, shaqada ayaan joogay ilaa habeenkii.'" } },
+        { "type": "respond", "heard": "Nimekimbia kilomita ishirini leo asubuhi!", "options": ["Wacha! Hiyo si mchezo!", "Ni kubaya.", "Maneno mingi."], "answer": 0, "explain": { "en": "'I ran twenty kilometres this morning!' – 'No way! That's no joke!'", "so": "'Saaka labaatan kiilomitir ayaan orday!' – 'Ma run baa! Taasi ciyaar ma aha!'" } },
+        { "type": "gap", "before": "Usijali, bro. Hii shida si kubwa,", "after": ".", "options": ["ni kubaya", "ni poa tu", "maneno mingi"], "answer": 1, "meaning": { "en": "Don't worry, bro. This problem isn't big, it's all good.", "so": "Ha welwelin, walaal. Dhibaatadani ma weyna, waa hagaag uun." } }
+      ]
+    },
+    {
+      "id": "having-fun",
+      "goals": ["street"],
+      "title": { "en": "Having fun", "so": "Madadaalo" },
+      "items": ["s2.bash", "s2.kula-bata", "s2.tudunde", "s2.inabamba", "s2.twende-out"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Zawadi", "sw": "Chebet, form ni gani wikendi hii?", "en": "Chebet, what's the plan this weekend?", "so": "Chebet, toddobaad-dhammaadkan qorshuhu waa maxay?" },
+            { "who": "Chebet", "sw": "Kuna bash kwa Wanjiku Sato, ni siku yake ya kuzaliwa.", "en": "There's a party at Wanjiku's on Saturday; it's her birthday.", "so": "Sabtida xaflad baa ka dhacaysa Wanjiku, waa maalinteeda dhalashada." },
+            { "who": "Zawadi", "sw": "Poa! Bash za Wanjiku huwa zinabamba sana.", "en": "Cool! Wanjiku's parties are always so much fun.", "so": "Fiican! Xafladaha Wanjiku had iyo jeer aad bay u xiiso badan yihiin." },
+            { "who": "Chebet", "sw": "Kabisa. Tutakula bata na kudunda mpaka usiku!", "en": "Totally. We'll live it up and dance till late!", "so": "Gebi ahaanba. Waan raaxaysan doonnaa, waanna qoob-ka-ciyaari doonnaa ilaa habeen dambe!" },
+            { "who": "Zawadi", "sw": "Sawa, lakini nitarudi mapema. Mathe hapendi nichelewe.", "en": "Okay, but I'll go home early. My mum doesn't like me to be late.", "so": "Hagaag, laakiin goor hore ayaan guriga ku laaban doonaa. Hooyo ma jecla inaan daaho." }
+          ],
+          "question": { "en": "Why will Zawadi go home early?", "so": "Zawadi maxay goor hore guriga ugu laabanaysaa?" },
+          "options": [
+            { "en": "She has work on Sunday", "so": "Axadda shaqo ayay leedahay" },
+            { "en": "Her mum doesn't like her to be late", "so": "Hooyadeed ma jecla inay daahdo" },
+            { "en": "She is broke", "so": "Lacag ma haysato" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Bash ya jana ilikuwa aje?", "options": ["Ilibamba sana! Tulikula bata.", "Hakuna kulala.", "Niko geto."], "answer": 0, "explain": { "en": "'How was yesterday's party?' – 'It was so much fun! We really lived it up.'", "so": "'Xafladdii shalay sidee ahayd?' – 'Aad bay u xiiso badnayd! Aad baan u raaxaysannay.'" } },
+        { "type": "gap", "before": "Leo ni Ijumaa, kwa hiyo", "after": "!", "options": ["nimesota", "usikate tamaa", "tudunde"], "answer": 2, "meaning": { "en": "Today is Friday, so let's dance!", "so": "Maanta waa Jimce, sidaas darteed aan qoob-ka-ciyaarno!" } }
+      ]
+    },
+    {
+      "id": "street-advice",
+      "goals": ["street"],
+      "title": { "en": "Street advice", "so": "Talooyinka waddada" },
+      "items": ["s2.kaa-chonjo", "s2.kaza-roho", "s2.usikate-tamaa", "s2.siku-ingine", "s2.jiamini"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Abdi comes to Nairobi", "so": "Abdi wuxuu yimid Nairobi" },
+          "lines": [
+            { "sw": "Abdi ametoka Garissa kuja kusoma chuo Nairobi.", "en": "Abdi has come from Garissa to study at college in Nairobi.", "so": "Abdi wuxuu ka yimid Garissa si uu kulliyad ugu dhigto Nairobi." },
+            { "sw": "Binamu yake Farah amekaa Eastleigh kwa miaka mingi.", "en": "His cousin Farah has lived in Eastleigh for many years.", "so": "Ina-adeerkiis Farah wuxuu Eastleigh deganaa sannado badan." },
+            { "sw": "Siku ya kwanza, Farah anampa ushauri.", "en": "On the first day, Farah gives him some advice.", "so": "Maalinta ugu horreysa, Farah ayaa talo siinaya." },
+            { "who": "Farah", "sw": "Tao kuna watu wengi. Kaa chonjo na simu yako.", "en": "There are lots of people in town. Watch your phone.", "so": "Magaalada dad badan baa jooga. Taleefankaaga isha ku hay." },
+            { "who": "Farah", "sw": "Ukisota, usiogope kuniambia. Tuko pamoja.", "en": "If you're broke, don't be afraid to tell me. I've got your back.", "so": "Haddii lacagi kaa dhammaato, ha ka baqin inaad ii sheegto. Waan ku garab taaganahay." },
+            { "who": "Farah", "sw": "Na darasani, jiamini. Wewe ni mwerevu.", "en": "And in class, believe in yourself. You're clever.", "so": "Fasalkana, naftaada ku kalsoonow. Adigu waad caqli badan tahay." },
+            { "sw": "Mwezi wa kwanza ulikuwa mgumu kwa Abdi.", "en": "The first month was hard for Abdi.", "so": "Bishii ugu horreysay way ku adkayd Abdi." },
+            { "sw": "Lakini kila jioni Farah alimwambia kaza roho, kesho ni siku ingine.", "en": "But every evening Farah told him: hang in there, tomorrow is another day.", "so": "Laakiin fiid kasta Farah wuxuu ku oran jiray: adkayso, berri waa maalin kale." },
+            { "sw": "Leo Abdi amemaliza mwaka wa kwanza, na anacheka akikumbuka siku zile.", "en": "Today Abdi has finished his first year, and he laughs when he remembers those days.", "so": "Maanta Abdi wuxuu dhammeeyey sannadkii koowaad, wuuna qoslaa markuu xasuusto maalmahaas." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Where does Farah live?", "so": "Farah xaggee buu deggan yahay?" },
+              "options": [
+                { "en": "In Garissa", "so": "Garissa" },
+                { "en": "In Kisumu", "so": "Kisumu" },
+                { "en": "In Eastleigh", "so": "Eastleigh" }
+              ],
+              "answer": 2
+            },
+            {
+              "question": { "en": "What does Farah warn Abdi about in town?", "so": "Farah maxuu Abdi uga digay magaalada?" },
+              "options": [
+                { "en": "To watch his phone", "so": "Inuu taleefankiisa ilaaliyo" },
+                { "en": "To avoid matatus", "so": "Inuu ka fogaado matatu-yada" },
+                { "en": "To speak only Sheng", "so": "Inuu Sheng oo keliya ku hadlo" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Nimefeli mtihani tena. Nimechoka.", "options": ["Inabamba!", "Usikate tamaa, utaweza.", "Twende out."], "answer": 1, "explain": { "en": "'I've failed the exam again. I'm worn out.' – 'Don't give up, you'll make it.'", "so": "'Imtixaanka mar kale ayaan ku dhacay. Waan daalay.' – 'Ha quusan, waad ku guuleysan doontaa.'" } },
+        { "type": "build", "prompt": { "en": "Hang in there, tomorrow is another day", "so": "Adkayso, berri waa maalin kale" }, "answer": "Kaza roho kesho ni siku ingine", "extra": ["Sato", "kubaya"], "accept": ["Kaza roho kesho ni siku nyingine"] }
+      ]
+    }
+  ]
+}

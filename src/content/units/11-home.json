@@ -1,0 +1,268 @@
+{
+  "id": "home",
+  "order": 11,
+  "level": "A2",
+  "color": "#92400e",
+  "reviewed": false,
+  "title": { "en": "Home & Housing", "so": "Guriga iyo Hoyga" },
+  "swTitle": "Nyumbani",
+  "description": {
+    "en": "Name the rooms, rent a bedsitter, talk to the landlord, buy stima tokens and share the chores.",
+    "so": "Magacaw qolalka, kirayso bedsitter, la hadal milkiilaha guriga, iibso tokens-ka korontada oo qaybso shaqada guriga."
+  },
+  "goals": ["family"],
+  "guide": [
+    {
+      "title": { "en": "Renting in Kenyan towns", "so": "Kiraysiga magaalooyinka Kenya" },
+      "body": {
+        "en": "Most people in Nairobi rent. A single room is one room with a shared toilet; a bedsitter has its own small kitchen corner and bathroom; then come one-bedroom and two-bedroom flats. Rooms are often in a plot run by a caretaker. You pay kodi (rent) to the mwenye nyumba (landlord), usually by M-Pesa, plus a deposit when you move in.",
+        "so": "Dadka Nairobi intooda badan way kiraystaan. Single room waa hal qol oo musqushiisu wadaag tahay; bedsitter wuxuu leeyahay jiko yar iyo musqul u gaar ah; kadib waxaa jira guryo hal qol-jiif ama laba qol-jiif leh. Qolalka badanaa waxay ku yaallaan plot uu maamulo caretaker (ilaaliye). Kodi (kirada) waxaad siisaa mwenye nyumba (milkiilaha guriga), badanaa M-Pesa, iyo deposit marka aad soo guurto."
+      },
+      "examples": [
+        { "sw": "Natafuta nyumba ya kupanga.", "en": "I'm looking for a house to rent.", "so": "Guri kiro ah ayaan raadinayaa.", "v": "standard" },
+        { "sw": "Kodi ni elfu nane kwa mwezi.", "en": "The rent is eight thousand a month.", "so": "Kiradu waa siddeed kun bishii.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "In the kitchen: the -ni ending", "so": "Jikada: dhammaadka -ni" },
+      "body": {
+        "en": "Add -ni to a place noun to say 'in' or 'at': nyumba → nyumbani (at home), jiko → jikoni (in the kitchen), chumba → chumbani (in the room), shamba → shambani (at the farm). Use it with niko / yuko / wako: Niko nyumbani (I'm at home), Yuko jikoni (she's in the kitchen). To count rooms: chumba kimoja, vyumba viwili, vyumba vitatu.",
+        "so": "Ku dar -ni magaca meesha si aad u tiraahdo 'gudaha' ama 'ku': nyumba → nyumbani (guriga), jiko → jikoni (jikada gudaheeda), chumba → chumbani (qolka gudihiisa), shamba → shambani (beerta). La isticmaal niko / yuko / wako: Niko nyumbani (guriga ayaan joogaa), Yuko jikoni (jikada ayay ku jirtaa). Tirinta qolalka: chumba kimoja, vyumba viwili, vyumba vitatu."
+      },
+      "examples": [
+        { "sw": "Watoto wako chumbani.", "en": "The children are in the room.", "so": "Carruurtu qolka ayay ku jiraan.", "v": "standard" },
+        { "sw": "Nyumba yangu ina vyumba viwili.", "en": "My house has two rooms.", "so": "Gurigaygu wuxuu leeyahay laba qol.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Stima, water and gas", "so": "Koronto, biyo iyo gaas" },
+      "body": {
+        "en": "Kenyans say stima for electricity (Tanzanians say umeme). Most homes buy prepaid tokens with M-Pesa; when they run out, the lights go off. Power cuts happen too: Stima imepotea. Water is sometimes cut off, so many homes keep a tank, and people cook with a gas cylinder (mtungi wa gesi) or a charcoal jiko.",
+        "so": "Kenyaanku korontada waxay ku yiraahdaan stima (Tansaaniyaanku waxay yiraahdaan umeme). Guryaha badankood waxay M-Pesa ku iibsadaan tokens horay loo bixiyo; marka ay dhammaadaan, nalalku way damaan. Koronto go'idduna way dhacdaa: Stima imepotea. Biyaha mararka qaar waa la jaraa, sidaa darteed guryo badan waxay hayaan haan, dadkuna waxay wax ku kariyaan dhalada gaaska (mtungi wa gesi) ama jiko dhuxul ah."
+      },
+      "examples": [
+        { "sw": "Stima imepotea tena!", "en": "The power has gone off again!", "so": "Korontadii mar kale way go'day!", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Hodi and visiting", "so": "Hodi iyo booqashada" },
+      "body": {
+        "en": "At someone's door or gate, say Hodi! instead of only knocking. The family answers Karibu! When you visit, expect to be offered tea; it is polite to accept at least a little.",
+        "so": "Albaabka ama irridda qof, dheh Hodi! intii aad garaaci lahayd oo keliya. Reerku wuxuu kuugu jawaabayaa Karibu! Marka aad booqato, filo in shaah lagu siiyo; edeb ayay tahay inaad ugu yaraan wax yar ka qaadato."
+      },
+      "examples": [
+        { "sw": "Hodi! Kuna mtu nyumbani?", "en": "Hello! Is anyone at home?", "so": "Ma soo galaa? Guriga qof ma joogaa?", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Ushago: the home in the village", "so": "Ushago: guriga miyiga" },
+      "body": {
+        "en": "Many town people also have a rural home where their parents or grandparents live. In Sheng it is ushago; in standard Swahili people say nyumbani or shambani. At holiday time, such as Idd or Christmas, buses out of Nairobi fill up with people going ushago.",
+        "so": "Dad badan oo magaalada deggan waxay sidoo kale leeyihiin guri miyiga ah oo ay waalidkood ama awoowayaashood ku nool yihiin. Sheng-ka waa ushago; Sawaaxiliga caadiga ahna dadku waxay yiraahdaan nyumbani ama shambani. Waqtiga fasaxyada, sida Ciidda ama Kirismaska, basaska ka baxaya Nairobi waxaa ka buuxa dad u socda ushago."
+      },
+      "examples": [
+        { "sw": "Tutaenda ushago mwezi ujao.", "en": "We'll go upcountry next month.", "so": "Bisha soo socota ayaan miyiga u tegi doonnaa.", "v": "sheng" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "h.nyumba", "sw": "nyumba", "en": "house / home", "so": "guri", "v": "standard", "syn": "house", "note": { "en": "Nyumbani = at home. The plural is also nyumba.", "so": "Nyumbani = guriga (gudihiisa). Wadartuna waa nyumba." } },
+    { "id": "h.chumba", "sw": "chumba", "en": "room", "so": "qol", "v": "standard", "note": { "en": "Plural: vyumba. Chumba cha kulala = bedroom.", "so": "Wadarta: vyumba. Chumba cha kulala = qolka jiifka." } },
+    { "id": "h.sebule", "sw": "sebule", "en": "living room / sitting room", "so": "qolka fadhiga", "v": "standard", "note": { "en": "Many Kenyans simply say sitting room.", "so": "Kenyaan badan waxay si fudud u yiraahdaan sitting room." } },
+    { "id": "h.jiko", "sw": "jiko", "en": "kitchen / cooking stove", "so": "jikada / burjiko", "v": "standard", "note": { "en": "Jiko is both the kitchen and a charcoal stove. Jikoni = in the kitchen.", "so": "Jiko waa jikada iyo sidoo kale burjikada dhuxusha. Jikoni = jikada gudaheeda." } },
+    { "id": "h.choo", "sw": "choo", "en": "toilet", "so": "musqul", "v": "standard", "syn": "toilet", "note": { "en": "Choo kiko wapi? = Where is the toilet? Kenyans also say washroom.", "so": "Choo kiko wapi? = Musqushu xaggee ku taal? Kenyaanku sidoo kale waxay yiraahdaan washroom." } },
+    { "id": "h.bafu", "sw": "bafu", "en": "bathroom / shower room", "so": "qubeyska", "v": "standard", "note": { "en": "Kuoga = to take a bath or a shower.", "so": "Kuoga = qubeysi / maydhasho." } },
+
+    { "id": "h.kitanda", "sw": "kitanda", "en": "bed", "so": "sariir", "v": "standard" },
+    { "id": "h.kiti", "sw": "kiti", "en": "chair / seat", "so": "kursi", "v": "standard" },
+    { "id": "h.meza", "sw": "meza", "en": "table", "so": "miis", "v": "standard" },
+    { "id": "h.mlango", "sw": "mlango", "en": "door", "so": "albaab", "v": "standard", "note": { "en": "Funga mlango = close the door. Fungua mlango = open the door.", "so": "Funga mlango = albaabka xir. Fungua mlango = albaabka fur." } },
+    { "id": "h.dirisha", "sw": "dirisha", "en": "window", "so": "daaqad", "v": "standard" },
+    { "id": "h.ufunguo", "sw": "ufunguo", "en": "key", "so": "fure", "v": "standard", "alt": ["funguo"], "note": { "en": "Plural: funguo. In everyday speech many Kenyans say funguo for one key too.", "so": "Wadarta: funguo. Hadalka maalinlaha ah Kenyaan badan funguo ayay u yiraahdaan xitaa hal fure." } },
+
+    { "id": "h.kuna-mtu", "sw": "Kuna mtu nyumbani?", "en": "Is anyone at home?", "so": "Guriga qof ma joogaa?", "v": "standard", "note": { "en": "At the door, Kenyans first call Hodi! (may I come in?). The family answers Karibu!", "so": "Albaabka, Kenyaanku marka hore waxay yiraahdaan Hodi! (ma soo galaa?). Reerkuna wuxuu ku jawaabaa Karibu!" } },
+    { "id": "h.niko-nyumbani", "sw": "Niko nyumbani", "en": "I'm at home", "so": "Guriga ayaan joogaa", "v": "standard" },
+    { "id": "h.yuko-jikoni", "sw": "Mama yuko jikoni", "en": "Mum is in the kitchen", "so": "Hooyo jikada ayay ku jirtaa", "v": "standard", "note": { "en": "Add -ni to a place to say 'in' or 'at': jiko → jikoni, chumba → chumbani.", "so": "Ku dar -ni meel si aad u tiraahdo 'gudaha' ama 'ku': jiko → jikoni, chumba → chumbani." } },
+    { "id": "h.ndani", "sw": "ndani", "en": "inside", "so": "gudaha", "v": "standard", "note": { "en": "Karibu ndani = welcome, come inside.", "so": "Karibu ndani = soo dhawoow, soo gal." } },
+    { "id": "h.nje", "sw": "nje", "en": "outside", "so": "dibadda", "v": "standard" },
+
+    { "id": "h.bedsitter", "sw": "bedsitter", "en": "bedsitter (studio room)", "so": "bedsitter (qol keliya oo jiko iyo musqul leh)", "v": "everyday", "say": "bedsita", "alt": ["bedsita"], "note": { "en": "A single room is cheaper: one room with a shared toilet. A one-bedroom has a separate bedroom.", "so": "Single room waa ka jaban yahay: hal qol oo musqushu wadaag tahay. One-bedroom wuxuu leeyahay qol jiif oo gooni ah." } },
+    { "id": "h.plot", "sw": "plot", "en": "plot (compound of rental rooms)", "so": "plot (xero guryo kiro ah)", "v": "everyday", "say": "ploti", "alt": ["ploti"], "note": { "en": "In Kenyan towns a plot is a building or compound full of rooms for rent, often with a caretaker.", "so": "Magaalooyinka Kenya, plot waa dhismo ama xero ay ka buuxaan qolal kiro ah, badanaa leh ilaaliye (caretaker)." } },
+    { "id": "h.kupanga", "sw": "kupanga nyumba", "en": "to rent a house", "so": "guri kiraysasho", "v": "standard", "alt": ["panga nyumba"], "note": { "en": "Mpangaji = tenant. Nyumba za kupanga = houses for rent.", "so": "Mpangaji = kiraystaha. Nyumba za kupanga = guryo kiro ah." } },
+    { "id": "h.mwenye-nyumba", "sw": "mwenye nyumba", "en": "landlord / landlady", "so": "milkiilaha guriga", "v": "standard", "alt": ["landlord"], "syn": "landlord" },
+    { "id": "h.kodi", "sw": "kodi", "en": "rent", "so": "kirada", "v": "standard", "note": { "en": "Kodi also means tax. Kodi ya nyumba = house rent.", "so": "Kodi sidoo kale waxay ka dhigan tahay cashuur. Kodi ya nyumba = kirada guriga." } },
+    { "id": "h.deposit", "sw": "deposit", "en": "deposit (paid before moving in)", "so": "lacagta dammaanadda (deposit)", "v": "everyday", "say": "diposit", "alt": ["diposit"], "syn": "deposit", "note": { "en": "Usually one month's rent, paid together with the first month.", "so": "Badanaa waa kirada hal bil, waxaana lala bixiyaa bisha ugu horraysa." } },
+
+    { "id": "h.stima", "sw": "stima", "en": "electricity / power", "so": "koronto / laydh", "v": "everyday", "tz": "umeme", "syn": "electricity", "note": { "en": "From English 'steam'. Umeme is the textbook word and is also understood in Kenya.", "so": "Waxay ka timid erayga Ingiriisiga 'steam'. Umeme waa erayga buugaagta, Kenya-dana waa la fahmaa." } },
+    { "id": "h.stima-imepotea", "sw": "Stima imepotea", "en": "The power has gone off", "so": "Korontadii way go'day", "v": "everyday", "alt": ["stima imeenda"], "tz": "Umeme umekatika" },
+    { "id": "h.tokens", "sw": "kununua tokens", "en": "to buy power tokens (prepaid)", "so": "iibsashada tokens-ka korontada", "v": "everyday", "alt": ["kununua token", "kununua tokeni"], "note": { "en": "Most homes have prepaid meters. You pay by M-Pesa and get a number to type into the meter.", "so": "Guryaha badankoodu waxay leeyihiin mitirro horay loo bixiyo. Waxaad ku bixisaa M-Pesa, waxaadna helaysaa lambar aad ku qorto mitirka." } },
+    { "id": "h.maji-yamekatika", "sw": "Maji yamekatika", "en": "The water has been cut off", "so": "Biyihii way go'een", "v": "standard", "note": { "en": "Many homes keep a water tank (tanki) for these days.", "so": "Guryo badan waxay hayaan haan biyo (tanki) maalmahaas." } },
+    { "id": "h.gesi-imeisha", "sw": "Gesi imeisha", "en": "The gas has run out", "so": "Gaaskii wuu dhammaaday", "v": "everyday", "note": { "en": "Kenyans cook with gas cylinders (mtungi wa gesi) and refill them at the shop.", "so": "Kenyaanku waxay wax ku kariyaan dhalooyinka gaaska (mtungi wa gesi), dukaankana ayay ka buuxiyaan." } },
+    { "id": "h.washa-taa", "sw": "Washa taa", "en": "Switch on the light", "so": "Nalka shid", "v": "standard", "note": { "en": "Zima taa = switch off the light. Washa and zima also work for the TV and the radio.", "so": "Zima taa = nalka dami. Washa iyo zima sidoo kale waxaa loo isticmaalaa TV-ga iyo raadiyaha." } },
+
+    { "id": "h.kazi-za-nyumbani", "sw": "kazi za nyumbani", "en": "housework / chores", "so": "shaqada guriga", "v": "standard" },
+    { "id": "h.kufagia", "sw": "kufagia", "en": "to sweep", "so": "xaaqid", "v": "standard" },
+    { "id": "h.kupika", "sw": "kupika", "en": "to cook", "so": "wax karin", "v": "standard", "syn": "cook" },
+    { "id": "h.kufua", "sw": "kufua nguo", "en": "to wash clothes", "so": "dhar dhaqid", "v": "standard", "alt": ["fua nguo"], "note": { "en": "Use kufua for clothes and kuosha for dishes, hands and cars.", "so": "Kufua dharka ayaa loo isticmaalaa, kuosha-na weelasha, gacmaha iyo baabuurta." } },
+    { "id": "h.kuosha-vyombo", "sw": "kuosha vyombo", "en": "to wash the dishes", "so": "weelasha dhaqid", "v": "standard", "alt": ["osha vyombo"] },
+    { "id": "h.kupiga-deki", "sw": "kupiga deki", "en": "to mop the floor", "so": "sagxadda masaxid", "v": "everyday", "alt": ["kudeki"], "note": { "en": "A Kenyan expression from English 'deck'.", "so": "Waa oraah Kenyan ah oo ka timid erayga Ingiriisiga 'deck'." } },
+
+    { "id": "h.shamba", "sw": "shamba", "en": "farm / piece of land", "so": "beer", "v": "standard", "note": { "en": "Shambani = at the farm, in the countryside.", "so": "Shambani = beerta, miyiga." } },
+    { "id": "h.boma", "sw": "boma", "en": "homestead (family compound)", "so": "xerada reerka", "v": "standard", "note": { "en": "In the village, especially among herders, the boma is the family's compound with its houses and animals.", "so": "Tuulada, gaar ahaan xoolo-dhaqatada, boma waa xerada reerka oo leh guryaheeda iyo xoolaheeda." } },
+    { "id": "h.kuni", "sw": "kuni", "en": "firewood", "so": "xaabo", "v": "standard", "note": { "en": "Many rural homes still cook on firewood. Kuokota kuni = to collect firewood.", "so": "Guryo badan oo miyiga ah weli waxay wax ku kariyaan xaabo. Kuokota kuni = xaabo guratid." } },
+    { "id": "h.ushago", "sw": "ushago", "en": "rural home / upcountry (Sheng)", "so": "miyiga / tuulada (Sheng)", "v": "sheng", "note": { "en": "Nairobians go ushago for holidays such as Idd and Christmas, when the city goes quiet.", "so": "Dadka Nairobi waxay u tagaan ushago fasaxyada sida Ciidda iyo Kirismaska, marka magaaladu aamusto." } },
+    { "id": "h.mifugo", "sw": "mifugo", "en": "livestock", "so": "xoolaha", "v": "standard", "note": { "en": "Cows, goats, sheep and camels. Kufuga = to keep animals.", "so": "Lo', ari iyo geel. Kufuga = xoolo dhaqasho." } }
+  ],
+  "lessons": [
+    {
+      "id": "rooms",
+      "title": { "en": "Rooms of the house", "so": "Qolalka guriga" },
+      "items": ["h.nyumba", "h.chumba", "h.sebule", "h.jiko", "h.choo", "h.bafu"],
+      "extra": [
+        { "type": "respond", "heard": "Choo kiko wapi?", "options": ["Nimeshiba, asante.", "Ni pale, karibu na jiko.", "Ninaenda tao."], "answer": 1, "explain": { "en": "'Where is the toilet?' – 'It's there, near the kitchen.'", "so": "'Musqushu xaggee ku taal?' – 'Waa halkaas, jikada agteeda.'" } },
+        { "type": "gap", "before": "Nyumba yangu ina vyumba", "after": ".", "options": ["vitatu", "watatu", "matatu"], "answer": 0, "meaning": { "en": "My house has three rooms.", "so": "Gurigaygu wuxuu leeyahay saddex qol." } },
+        { "type": "build", "prompt": { "en": "This is the living room", "so": "Kani waa qolka fadhiga" }, "answer": "Hii ni sebule", "extra": ["huyu", "choo"] }
+      ]
+    },
+    {
+      "id": "in-the-house",
+      "title": { "en": "In the house", "so": "Guriga gudihiisa" },
+      "items": ["h.kitanda", "h.kiti", "h.meza", "h.mlango", "h.dirisha", "h.ufunguo"],
+      "extra": [
+        { "type": "build", "prompt": { "en": "Close the door", "so": "Albaabka xir" }, "answer": "Funga mlango", "extra": ["fungua", "dirisha"] },
+        { "type": "gap", "before": "Weka chai juu ya", "after": ".", "options": ["mlango", "meza", "ufunguo"], "answer": 1, "meaning": { "en": "Put the tea on the table.", "so": "Shaaha miiska saar." } },
+        { "type": "respond", "heard": "Ufunguo uko wapi?", "options": ["Uko mezani.", "Nimeshiba, asante.", "Safari njema!"], "answer": 0, "explain": { "en": "'Where is the key?' – 'It's on the table.' Mezani = on the table (meza + -ni).", "so": "'Furuhu xaggee buu yaal?' – 'Miiska ayuu saaran yahay.' Mezani = miiska dushiisa (meza + -ni)." } }
+      ]
+    },
+    {
+      "id": "at-the-door",
+      "title": { "en": "At the door", "so": "Albaabka" },
+      "items": ["h.kuna-mtu", "h.niko-nyumbani", "h.yuko-jikoni", "h.ndani", "h.nje"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Hodi!", "en": "May I come in?", "so": "Ma soo galaa?" },
+            { "who": "Zawadi", "sw": "Karibu! Karibu ndani.", "en": "Welcome! Come inside.", "so": "Soo dhawoow! Soo gal." },
+            { "who": "Abdi", "sw": "Asante. Mama yuko?", "en": "Thank you. Is Mama in?", "so": "Mahadsanid. Hooyo ma joogtaa?" },
+            { "who": "Zawadi", "sw": "Yuko jikoni. Kaa chini, nikuletee chai?", "en": "She's in the kitchen. Sit down; shall I bring you tea?", "so": "Jikada ayay ku jirtaa. Fadhiiso, shaah ma kuu keenaa?" }
+          ],
+          "question": { "en": "Where is Mama?", "so": "Hooyo xaggee joogtaa?" },
+          "options": [
+            { "en": "Outside", "so": "Dibadda" },
+            { "en": "In the kitchen", "so": "Jikada" },
+            { "en": "In town", "so": "Magaalada" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Hodi!", "options": ["Simama!", "Kwaheri!", "Karibu!"], "answer": 2, "explain": { "en": "Someone is at the door. Answer Karibu! (come in).", "so": "Qof baa albaabka taagan. Ugu jawaab Karibu! (soo gal)." } },
+        { "type": "build", "prompt": { "en": "The children are outside", "so": "Carruurtu dibadda ayay joogaan" }, "answer": "Watoto wako nje", "extra": ["ndani", "yuko"] }
+      ]
+    },
+    {
+      "id": "renting",
+      "title": { "en": "Renting a place", "so": "Kiraysiga guri" },
+      "items": ["h.bedsitter", "h.plot", "h.kupanga", "h.mwenye-nyumba", "h.kodi", "h.deposit"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Farah", "sw": "Habari, mzee. Natafuta nyumba ya kupanga.", "en": "Hello, sir. I'm looking for a house to rent.", "so": "Iska warran, adeer. Guri kiro ah ayaan raadinayaa." },
+            { "who": "Mutua", "sw": "Kuna chumba kimoja. Kodi ni elfu nane kwa mwezi.", "en": "There is one room. The rent is eight thousand a month.", "so": "Hal qol baa jira. Kiradu waa siddeed kun bishii." },
+            { "who": "Farah", "sw": "Na deposit ni ngapi?", "en": "And how much is the deposit?", "so": "Deposit-kuna waa immisa?" },
+            { "who": "Mutua", "sw": "Deposit ni kodi ya mwezi mmoja.", "en": "The deposit is one month's rent.", "so": "Deposit-ku waa kirada hal bil." },
+            { "who": "Farah", "sw": "Sawa. Naweza kuona chumba?", "en": "Okay. Can I see the room?", "so": "Hagaag. Qolka ma arki karaa?" }
+          ],
+          "question": { "en": "How much is the rent?", "so": "Kiradu waa immisa?" },
+          "options": [
+            { "en": "800 shillings a month", "so": "800 shilin bishii" },
+            { "en": "8,000 shillings a week", "so": "8,000 shilin toddobaadkii" },
+            { "en": "8,000 shillings a month", "so": "8,000 shilin bishii" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Kodi ni pesa ngapi?", "options": ["Iko jikoni.", "Ni elfu kumi kwa mwezi.", "Hodi!"], "answer": 1, "explain": { "en": "'How much is the rent?' – 'It's ten thousand a month.'", "so": "'Kiradu waa immisa?' – 'Waa toban kun bishii.'" } },
+        { "type": "gap", "before": "Nimelipa", "after": " ya mwezi huu.", "options": ["kodi", "kitanda", "nje"], "answer": 0, "meaning": { "en": "I've paid this month's rent.", "so": "Kirada bishan waan bixiyey." } },
+        { "type": "build", "prompt": { "en": "I want to rent a house", "so": "Waxaan rabaa inaan guri kiraysto" }, "answer": "Nataka kupanga nyumba", "extra": ["kodi", "nje"], "accept": ["Ninataka kupanga nyumba"] }
+      ]
+    },
+    {
+      "id": "stima-and-water",
+      "title": { "en": "Stima, water and gas", "so": "Koronto, biyo iyo gaas" },
+      "items": ["h.stima", "h.stima-imepotea", "h.tokens", "h.maji-yamekatika", "h.gesi-imeisha", "h.washa-taa"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Mbona giza? Stima imepotea?", "en": "Why is it dark? Has the power gone off?", "so": "Maxaa mugdi u ah? Korontadii ma go'day?" },
+            { "who": "Kamau", "sw": "Hapana, tokens zimeisha.", "en": "No, the tokens have run out.", "so": "Maya, tokens-kii ayaa dhammaaday." },
+            { "who": "Wanjiku", "sw": "Basi nunua tokens kwa simu.", "en": "Then buy tokens on your phone.", "so": "Haddaba tokens ku iibso taleefanka." },
+            { "who": "Kamau", "sw": "Sawa, ninanunua sasa hivi.", "en": "Okay, I'm buying them right now.", "so": "Hagaag, hadda isla markiiba waan iibsanayaa." }
+          ],
+          "question": { "en": "Why is the house dark?", "so": "Maxaa guriga mugdi u ah?" },
+          "options": [
+            { "en": "The tokens have run out", "so": "Tokens-kii ayaa dhammaaday" },
+            { "en": "There is a power cut in the area", "so": "Korontada xaafadda ayaa go'day" },
+            { "en": "The gas has run out", "so": "Gaaskii ayaa dhammaaday" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Gesi imeisha!", "options": ["Pole! Nitanunua nyingine.", "Hodi!", "Niko poa."], "answer": 0, "explain": { "en": "'The gas has run out!' – 'Oh no! I'll buy another one.'", "so": "'Gaaskii wuu dhammaaday!' – 'Ka xumahay! Mid kale ayaan iibsanayaa.'" } },
+        { "type": "gap", "before": "Maji", "after": " leo.", "options": ["imepotea", "yamekatika", "imeisha"], "answer": 1, "meaning": { "en": "The water has been cut off today.", "so": "Biyihii maanta way go'een." } },
+        { "type": "build", "prompt": { "en": "Switch off the light", "so": "Nalka dami" }, "answer": "Zima taa", "extra": ["washa", "maji"] }
+      ]
+    },
+    {
+      "id": "chores",
+      "title": { "en": "Chores", "so": "Shaqada guriga" },
+      "items": ["h.kazi-za-nyumbani", "h.kufagia", "h.kupika", "h.kufua", "h.kuosha-vyombo", "h.kupiga-deki"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mama", "sw": "Zawadi, umefagia?", "en": "Zawadi, have you swept?", "so": "Zawadi, ma xaaqday?" },
+            { "who": "Zawadi", "sw": "Ndiyo, mama. Nimefagia na nimepiga deki.", "en": "Yes, Mum. I've swept and mopped the floor.", "so": "Haa, hooyo. Waan xaaqay, sagxaddana waan masaxay." },
+            { "who": "Mama", "sw": "Asante. Sasa osha vyombo, mimi ninapika.", "en": "Thank you. Now wash the dishes; I'm cooking.", "so": "Mahadsanid. Hadda weelasha dhaq, anigu wax baan karinayaa." }
+          ],
+          "question": { "en": "What is Mama doing?", "so": "Hooyo maxay samaynaysaa?" },
+          "options": [
+            { "en": "Sweeping", "so": "Way xaaqaysaa" },
+            { "en": "Washing clothes", "so": "Dhar bay dhaqaysaa" },
+            { "en": "Cooking", "so": "Wax bay karinaysaa" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Leo ni zamu yako kuosha vyombo.", "options": ["Karibu ndani.", "Sawa, nitaosha sasa hivi.", "Safari njema!"], "answer": 1, "explain": { "en": "'Today it's your turn to wash the dishes.' – 'Okay, I'll wash them right now.'", "so": "'Maanta waa kaalintaada inaad weelasha dhaqdo.' – 'Hagaag, hadda ayaan dhaqayaa.'" } },
+        { "type": "gap", "before": "Baraka anafagia", "after": ".", "options": ["sebule", "kodi", "stima"], "answer": 0, "meaning": { "en": "Baraka is sweeping the living room.", "so": "Baraka wuxuu xaaqayaa qolka fadhiga." } },
+        { "type": "build", "prompt": { "en": "I'm washing clothes", "so": "Dhar ayaan dhaqayaa" }, "answer": "Ninafua nguo", "extra": ["kufagia", "vyombo"], "accept": ["Nafua nguo"] }
+      ]
+    },
+    {
+      "id": "home-in-the-village",
+      "goals": ["family"],
+      "title": { "en": "The home in the village", "so": "Guriga miyiga" },
+      "items": ["h.shamba", "h.boma", "h.ushago", "h.mifugo", "h.kuni"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Achieng", "sw": "Habari ya ushago?", "en": "How was upcountry?", "so": "Miyigu ka warran?" },
+            { "who": "Otieno", "sw": "Nzuri sana. Nilimsaidia babu shambani.", "en": "Very good. I helped Grandpa on the farm.", "so": "Aad buu u fiicnaa. Awoowe ayaan beerta kaga caawiyey." },
+            { "who": "Achieng", "sw": "Na mifugo je?", "en": "And the animals?", "so": "Xooluhuse?" },
+            { "who": "Otieno", "sw": "Iko salama. Babu ana ng'ombe kumi.", "en": "They're fine. Grandpa has ten cows.", "so": "Way nabad qabaan. Awoowe wuxuu leeyahay toban lo'." }
+          ],
+          "question": { "en": "Where did Otieno help his grandfather?", "so": "Xaggee buu Otieno awoowihiis ka caawiyey?" },
+          "options": [
+            { "en": "In the kitchen", "so": "Jikada" },
+            { "en": "On the farm", "so": "Beerta" },
+            { "en": "In town", "so": "Magaalada" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Utaenda ushago lini?", "options": ["Stima imepotea.", "Hodi!", "Wiki ijayo, kwa basi."], "answer": 2, "explain": { "en": "'When will you go upcountry?' – 'Next week, by bus.'", "so": "'Goorma ayaad miyiga u tegaysaa?' – 'Toddobaadka soo socda, bas ayaan raacayaa.'" } },
+        { "type": "gap", "before": "Nyanya yangu anapika kwa", "after": " shambani.", "options": ["kuni", "kodi", "deposit"], "answer": 0, "meaning": { "en": "My grandmother cooks with firewood at the farm.", "so": "Ayeeyaday beerta xaabo ayay wax ku karisaa." } },
+        { "type": "build", "prompt": { "en": "I'm going upcountry (Sheng)", "so": "Waxaan u socdaa miyiga (Sheng)" }, "answer": "Naenda ushago", "extra": ["kuni", "mifugo"], "accept": ["Ninaenda ushago"] }
+      ]
+    }
+  ]
+}

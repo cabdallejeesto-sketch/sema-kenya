@@ -1,0 +1,342 @@
+{
+  "id": "plans-future",
+  "order": 22,
+  "level": "B1",
+  "color": "#2563eb",
+  "reviewed": false,
+  "title": { "en": "Plans & the Future", "so": "Qorshayaasha iyo Mustaqbalka" },
+  "swTitle": "Mipango na Siku Zijazo",
+  "description": {
+    "en": "Say what you will and won't do, make plans that depend on 'if', and share your hopes and dreams, Mungu akipenda.",
+    "so": "Sheeg waxa aad samayn doonto iyo waxa aadan samayn doonin, samee qorshayaal ku xiran 'haddii', lana wadaag rajooyinkaaga iyo riyooyinkaaga, Mungu akipenda."
+  },
+  "guide": [
+    {
+      "title": { "en": "The future: -ta-", "so": "Mustaqbalka: -ta-" },
+      "body": {
+        "en": "Put ta between the subject prefix and the verb: nitafika = I will arrive, utafika = you will arrive, atafika = he/she will arrive, tutafika = we will arrive, mtafika = you all will arrive, watafika = they will arrive. One-syllable verbs keep their ku: nitakula (I'll eat), nitakunywa (I'll drink), atakuja (he'll come). For enda (go), Kenyans say nitaenda; the textbook form is nitakwenda. You already know one: tutaonana = we will see each other.",
+        "so": "Ta dhig inta u dhexeysa horgalaha qofka iyo falka: nitafika = waan gaari doonaa, utafika = waad gaari doontaa, atafika = wuu/way gaari doonaa, tutafika = waan gaari doonnaa, mtafika = waad gaari doontaan, watafika = way gaari doonaan. Falalka hal-xubneedka ahi ku-dooda way hayaan: nitakula (wax baan cuni doonaa), nitakunywa (waan cabbi doonaa), atakuja (wuu iman doonaa). Enda (tag), Kenyaanku waxay yiraahdaan nitaenda; qaabka buugaagtu waa nitakwenda. Mid hore ayaad u taqaannay: tutaonana = waan is arki doonnaa."
+      },
+      "examples": [
+        { "sw": "Nitaenda Mombasa wiki ijayo.", "en": "I'll go to Mombasa next week.", "so": "Toddobaadka soo socda ayaan Mombasa tegi doonaa.", "v": "everyday" },
+        { "sw": "Tutakula pamoja jioni.", "en": "We'll eat together in the evening.", "so": "Fiidkii ayaan wada cuni doonnaa.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Won't: the negative future", "so": "Ma ... doono: mustaqbalka diidmada" },
+      "body": {
+        "en": "Swap the subject prefix for a negative one and keep ta: sitafika = I won't arrive, hutafika = you won't arrive, hatafika = he/she won't arrive, hatutafika = we won't arrive, hamtafika = you all won't arrive, hawatafika = they won't arrive. Unlike the past, nothing else changes. Kenyans say sitaenda (textbook sitakwenda). A soft way to say no to a plan is Sitaweza (I won't be able to).",
+        "so": "Horgalaha caadiga ah ku beddel mid diidmo ah, tana hay: sitafika = ma gaari doono, hutafika = ma gaari doontid, hatafika = ma gaari doono (isaga/iyada), hatutafika = ma gaari doonno, hamtafika = ma gaari doontaan, hawatafika = ma gaari doonaan. Si ka duwan wakhtiga tegay, wax kale isma beddelaan. Kenyaanku waxay yiraahdaan sitaenda (buugaagta: sitakwenda). Hab jilicsan oo qorshe loogu diido waa Sitaweza (ma awoodi doono)."
+      },
+      "examples": [
+        { "sw": "Samahani, sitaweza kuja kesho.", "en": "Sorry, I won't be able to come tomorrow.", "so": "Raali ahow, berri ma iman karo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "If and when: -ki-, kama and ikiwa", "so": "Haddii iyo marka: -ki-, kama iyo ikiwa" },
+      "body": {
+        "en": "The quickest way to say 'if' or 'when' is ki in place of the tense: nikipata pesa = if I get money, ukifika = when you arrive, mvua ikinyesha = if it rains. The other half of the sentence usually takes -ta- or is a request: Nikipata pesa, nitanunua gari (If I get money, I'll buy a car). Ukifika, nipigie simu (When you arrive, call me). You can also use kama, or the more formal ikiwa, with a normal tense: Kama utakuja, nitapika pilau (If you come, I'll cook pilau).",
+        "so": "Habka ugu dhaqsaha badan ee loo yiraahdo 'haddii' ama 'marka' waa ki oo la dhigo meesha wakhtiga: nikipata pesa = haddii aan lacag helo, ukifika = markaad gaarto, mvua ikinyesha = haddii roob da'o. Qaybta kale ee jumladda badanaa waxay qaadataa -ta- ama waa codsi: Nikipata pesa, nitanunua gari (Haddii aan lacag helo, gaari baan iibsan doonaa). Ukifika, nipigie simu (Markaad gaarto, ii soo wac). Waxaad sidoo kale isticmaali kartaa kama, ama ikiwa oo ka rasmisan, iyadoo wakhti caadi ah la raacinayo: Kama utakuja, nitapika pilau (Haddii aad timaaddo, pilau baan karin doonaa)."
+      },
+      "examples": [
+        { "sw": "Mvua ikinyesha, hatutaenda sokoni.", "en": "If it rains, we won't go to the market.", "so": "Haddii roob da'o, suuqa ma tegi doonno.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Would: -nge- (a first look)", "so": "Lahaa: -nge- (aragti hore)" },
+      "body": {
+        "en": "For dreams and things that are not real, use nge in both halves: Ningekuwa na pesa, ningesafiri (If I had money, I would travel). Ningependa means 'I would like' and is a polite way to ask: Ningependa chai, tafadhali. Kama ningekuwa wewe = if I were you. For the past ('if I had known...') Swahili has ngali, but nge is enough for now, and many Kenyans use nge for both.",
+        "so": "Riyooyinka iyo waxyaabaha aan dhab ahayn, labada qaybood nge ku isticmaal: Ningekuwa na pesa, ningesafiri (Haddii aan lacag haysan lahaa, waan safri lahaa). Ningependa waxay ka dhigan tahay 'waxaan jeclaan lahaa', waana hab edeb leh oo wax loo codsado: Ningependa chai, tafadhali. Kama ningekuwa wewe = haddii aan adiga ahaan lahaa. Wakhtiga tegay ('haddii aan ogaan lahaa...') Swahiligu wuxuu leeyahay ngali, laakiin hadda nge ayaa ku filan, Kenyaan badanna labadaba nge ayay u isticmaalaan."
+      },
+      "examples": [
+        { "sw": "Ningependa kuwa daktari.", "en": "I would like to be a doctor.", "so": "Waxaan jeclaan lahaa inaan dhakhtar noqdo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Mungu akipenda and Inshallah", "so": "Mungu akipenda iyo Insha Allah" },
+      "body": {
+        "en": "Kenyans rarely talk about the future without adding Mungu akipenda (God willing, literally 'if God loves'). Notice the -ki- in akipenda! Among Muslims, at the coast, in Eastleigh and in North Eastern you will hear Inshallah just as often. Somali Kenyans use it all the time, so it won't be new to you.",
+        "so": "Kenyaanku dhif ayay mustaqbalka uga hadlaan iyagoon ku darin Mungu akipenda (haddii Ilaahay idmo, macnaha ereyga 'haddii Ilaah jeclaado'). Fiiri -ki- ee ku jirta akipenda! Muslimiinta dhexdooda, xeebta, Eastleigh iyo Waqooyi Bari, Inshallah ayaad isla inta maqli doontaa. Soomaalida Kenya had iyo jeer way isticmaalaan, sidaas darteed kuuma cusbaan doonto."
+      },
+      "examples": [
+        { "sw": "Tutaonana kesho, Mungu akipenda.", "en": "See you tomorrow, God willing.", "so": "Berri ayaan kulmi doonnaa, haddii Ilaahay idmo.", "v": "everyday" },
+        { "sw": "Nitafika saa tatu asubuhi, Inshallah.", "en": "I'll arrive at nine in the morning, God willing.", "so": "Sagaalka subaxnimo ayaan iman doonaa, Insha Allah.", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "fu.nitaenda", "sw": "Nitaenda", "en": "I will go", "so": "Waan tegi doonaa", "v": "everyday", "tz": "Nitakwenda", "alt": ["nitakwenda"] },
+    { "id": "fu.atakuja", "sw": "Atakuja", "en": "He/she will come", "so": "Wuu/Way iman doonaa", "v": "standard", "note": { "en": "Kuja keeps its ku: a + ta + kuja.", "so": "Kuja ku-deeda way haysaa: a + ta + kuja." } },
+    { "id": "fu.tutakula-pamoja", "sw": "Tutakula pamoja", "en": "We'll eat together", "so": "Waan wada cuni doonnaa", "v": "standard" },
+    { "id": "fu.watasafiri", "sw": "Watasafiri", "en": "They will travel", "so": "Way safri doonaan", "v": "standard" },
+    { "id": "fu.nitakuwa", "sw": "Nitakuwa", "en": "I will be", "so": "Waan ahaan doonaa", "v": "standard", "note": { "en": "Nitakuwa nyumbani = I'll be at home.", "so": "Nitakuwa nyumbani = guriga ayaan joogi doonaa." } },
+    { "id": "fu.utafanya-nini", "sw": "Utafanya nini kesho?", "en": "What will you do tomorrow?", "so": "Berri maxaad samayn doontaa?", "v": "standard" },
+
+    { "id": "fu.kesho-kutwa", "sw": "kesho kutwa", "en": "the day after tomorrow", "so": "saadambe", "v": "standard", "alt": ["keshokutwa"] },
+    { "id": "fu.wiki-ijayo", "sw": "wiki ijayo", "en": "next week", "so": "toddobaadka soo socda", "v": "standard", "note": { "en": "Ijayo = 'which is coming'. You met it in Nashuka stage ijayo.", "so": "Ijayo = 'kan soo socda'. Waxaad ku aragtay Nashuka stage ijayo." } },
+    { "id": "fu.mwezi-ujao", "sw": "mwezi ujao", "en": "next month", "so": "bisha soo socota", "v": "standard" },
+    { "id": "fu.mwaka-ujao", "sw": "mwaka ujao", "en": "next year", "so": "sannadka soo socda", "v": "standard", "alt": ["mwaka kesho"], "note": { "en": "In casual talk Kenyans also say mwaka kesho.", "so": "Hadalka caadiga ah Kenyaanku waxay sidoo kale yiraahdaan mwaka kesho." } },
+    { "id": "fu.hivi-karibuni", "sw": "hivi karibuni", "en": "soon / shortly", "so": "dhawaan", "v": "standard", "syn": "soon", "note": { "en": "With a past verb it means 'recently'.", "so": "Marka falku wakhti tegay yahay, waxay ka dhigan tahay 'dhawaan (wixii dhacay)'." } },
+
+    { "id": "fu.sitaenda", "sw": "Sitaenda", "en": "I won't go", "so": "Ma tegi doono", "v": "everyday", "tz": "Sitakwenda", "alt": ["sitakwenda"] },
+    { "id": "fu.hatutaenda", "sw": "Hatutaenda", "en": "We won't go", "so": "Ma tegi doonno", "v": "everyday", "tz": "Hatutakwenda", "alt": ["hatutakwenda"] },
+    { "id": "fu.hatakuja", "sw": "Hatakuja", "en": "He/she won't come", "so": "Ma iman doono", "v": "standard" },
+    { "id": "fu.sitachelewa", "sw": "Sitachelewa", "en": "I won't be late", "so": "Ma daahi doono", "v": "standard" },
+    { "id": "fu.sitasahau", "sw": "Sitasahau", "en": "I won't forget", "so": "Ma illoobi doono", "v": "standard" },
+
+    { "id": "fu.nikipata-pesa", "sw": "Nikipata pesa", "en": "If I get money", "so": "Haddii aan lacag helo", "v": "standard" },
+    { "id": "fu.ukifika", "sw": "Ukifika, nipigie simu", "en": "When you arrive, call me", "so": "Markaad gaarto, ii soo wac", "v": "standard", "alt": ["ukifika nipigie"] },
+    { "id": "fu.mvua-ikinyesha", "sw": "Mvua ikinyesha", "en": "If it rains", "so": "Haddii roob da'o", "v": "standard" },
+    { "id": "fu.kama", "sw": "kama", "en": "if", "so": "haddii", "v": "standard", "syn": "if", "note": { "en": "Kama also means 'like' or 'as': kama wewe = like you.", "so": "Kama sidoo kale waxay ka dhigan tahay 'sida': kama wewe = sidaada oo kale." } },
+    { "id": "fu.ikiwa", "sw": "ikiwa", "en": "if (formal)", "so": "haddii (rasmi)", "v": "standard", "syn": "if", "note": { "en": "More common in writing, news and speeches.", "so": "Waxay ku badan tahay qoraalka, wararka iyo khudbadaha." } },
+    { "id": "fu.mungu-akipenda", "sw": "Mungu akipenda", "en": "God willing (lit. if God loves)", "so": "Haddii Ilaahay idmo", "v": "standard", "syn": "god-willing" },
+    { "id": "fu.inshallah", "sw": "Inshallah", "en": "God willing (Arabic)", "so": "Insha Allah", "v": "everyday", "syn": "god-willing", "alt": ["insha allah", "inshaallah"], "note": { "en": "Very common among Muslims, at the coast and among Somali Kenyans.", "so": "Aad bay ugu badan tahay Muslimiinta, xeebta iyo Soomaalida Kenya." } },
+
+    { "id": "fu.mpango", "sw": "mpango", "en": "plan", "so": "qorshe", "v": "standard", "syn": "plan", "note": { "en": "Plural: mipango. Una mpango gani? = What's your plan?", "so": "Wadarta: mipango. Una mpango gani? = Qorshahaagu waa maxay?" } },
+    { "id": "fu.ndoto", "sw": "ndoto", "en": "dream", "so": "riyo", "v": "standard", "syn": "dream", "note": { "en": "Both a dream in your sleep and a dream for your life.", "so": "Labadaba: riyada hurdada iyo riyada nolosha." } },
+    { "id": "fu.lengo", "sw": "lengo", "en": "goal / aim", "so": "hadaf", "v": "standard", "syn": "aim", "note": { "en": "Plural: malengo.", "so": "Wadarta: malengo." } },
+    { "id": "fu.natumaini", "sw": "Natumaini", "en": "I hope", "so": "Waxaan rajaynayaa", "v": "standard", "syn": "hope", "alt": ["ninatumaini"], "note": { "en": "Natumaini utapita mtihani = I hope you'll pass the exam.", "so": "Natumaini utapita mtihani = Waxaan rajaynayaa inaad imtixaanka ku guulaysan doonto." } },
+    { "id": "fu.ningependa", "sw": "Ningependa", "en": "I would like", "so": "Waxaan jeclaan lahaa", "v": "standard", "syn": "would-like" },
+    { "id": "fu.nataka-kuwa", "sw": "Nataka kuwa mwalimu", "en": "I want to be a teacher", "so": "Waxaan rabaa inaan macallin noqdo", "v": "standard", "alt": ["ninataka kuwa mwalimu"] },
+
+    { "id": "fu.ningekuwa-na-pesa", "sw": "Ningekuwa na pesa", "en": "If I had money", "so": "Haddii aan lacag haysan lahaa", "v": "standard" },
+    { "id": "fu.ningesafiri", "sw": "ningesafiri", "en": "I would travel", "so": "waan safri lahaa", "v": "standard" },
+    { "id": "fu.ningefurahi", "sw": "Ningefurahi sana", "en": "I would be very happy", "so": "Aad baan u farxi lahaa", "v": "standard" },
+    { "id": "fu.kama-ningekuwa-wewe", "sw": "Kama ningekuwa wewe", "en": "If I were you", "so": "Haddii aan adiga ahaan lahaa", "v": "standard" },
+    { "id": "fu.ningekuja", "sw": "Ningekuja, lakini...", "en": "I would come, but...", "so": "Waan iman lahaa, laakiin...", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "will-ta",
+      "title": { "en": "Will: -ta-", "so": "Doonaa: -ta-" },
+      "items": ["fu.nitaenda", "fu.atakuja", "fu.tutakula-pamoja", "fu.watasafiri", "fu.nitakuwa", "fu.utafanya-nini"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Zawadi", "sw": "Baraka, utafanya nini kesho?", "en": "Baraka, what will you do tomorrow?", "so": "Baraka, berri maxaad samayn doontaa?" },
+            { "who": "Baraka", "sw": "Asubuhi nitaenda kazini. Jioni nitakuwa huru.", "en": "In the morning I'll go to work. In the evening I'll be free.", "so": "Subaxda shaqada ayaan aadi doonaa. Fiidka waan firaaqo ahaan doonaa." },
+            { "who": "Zawadi", "sw": "Poa! Njoo nyumbani. Tutakula pamoja.", "en": "Cool! Come over. We'll eat together.", "so": "Fiican! Guriga kaalay. Waan wada cuni doonnaa." },
+            { "who": "Baraka", "sw": "Sawa. Nitakuja saa moja jioni.", "en": "Okay. I'll come at seven in the evening.", "so": "Hagaag. Toddobada fiidnimo ayaan iman doonaa." },
+            { "who": "Zawadi", "sw": "Usichelewe! Mwikali atakuja pia.", "en": "Don't be late! Mwikali will come too.", "so": "Ha daahin! Mwikali sidoo kale way iman doontaa." }
+          ],
+          "question": { "en": "What time will Baraka come?", "so": "Baraka saacaddee ayuu iman doonaa?" },
+          "options": [
+            { "en": "7 a.m.", "so": "7-da subaxnimo" },
+            { "en": "1 p.m.", "so": "1-da duhurnimo" },
+            { "en": "7 p.m.", "so": "7-da fiidnimo" }
+          ],
+          "answer": 2
+        },
+        { "type": "gap", "before": "Kesho", "after": " sokoni na mama.", "options": ["nilienda", "nitaenda", "nimeenda"], "answer": 1, "meaning": { "en": "Tomorrow I'll go to the market with Mum.", "so": "Berri waxaan suuqa la aadi doonaa hooyo." } },
+        { "type": "build", "prompt": { "en": "They will travel tomorrow", "so": "Berri ayay safri doonaan" }, "answer": "Watasafiri kesho", "extra": ["walisafiri", "jana"], "accept": ["Kesho watasafiri"] }
+      ]
+    },
+    {
+      "id": "next-week-next-year",
+      "title": { "en": "Next week, next year", "so": "Toddobaadka iyo sannadka soo socda" },
+      "items": ["fu.kesho-kutwa", "fu.wiki-ijayo", "fu.mwezi-ujao", "fu.mwaka-ujao", "fu.hivi-karibuni"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Kiprotich's week ahead", "so": "Toddobaadka soo socda ee Kiprotich" },
+          "lines": [
+            { "sw": "Kiprotich anaishi Nairobi, lakini familia yake iko Eldoret.", "en": "Kiprotich lives in Nairobi, but his family is in Eldoret.", "so": "Kiprotich wuxuu ku nool yahay Nairobi, laakiin qoyskiisu waxay joogaan Eldoret." },
+            { "sw": "Wiki ijayo, dada yake Chebet atahitimu chuo kikuu.", "en": "Next week, his sister Chebet will graduate from university.", "so": "Toddobaadka soo socda, walaashiis Chebet waxay ka qalin-jebin doontaa jaamacadda." },
+            { "sw": "Kesho kutwa, Kiprotich ataomba ruhusa kazini.", "en": "The day after tomorrow, Kiprotich will ask for time off work.", "so": "Saadambe, Kiprotich wuxuu shaqada ka codsan doonaa fasax." },
+            { "sw": "Atapanda basi Ijumaa usiku, na atafika Eldoret Jumamosi asubuhi.", "en": "He'll take a bus on Friday night and arrive in Eldoret on Saturday morning.", "so": "Wuxuu fuuli doonaa bas habeenka Jimcaha, wuxuuna Eldoret gaari doonaa subaxa Sabtida." },
+            { "sw": "Mama yake atapika chapati na kuku kwa ajili ya sherehe.", "en": "His mother will cook chapati and chicken for the party.", "so": "Hooyadiis waxay xafladda u karin doontaa sabaayad iyo digaag." },
+            { "sw": "Mwezi ujao, Chebet ataanza kazi yake ya kwanza hospitalini.", "en": "Next month, Chebet will start her first job, at a hospital.", "so": "Bisha soo socota, Chebet waxay bilaabi doontaa shaqadeedii ugu horreysay, oo ah isbitaal." },
+            { "who": "Kiprotich", "sw": "Sitakosa sherehe hii kwa sababu yoyote!", "en": "I won't miss this party for any reason!", "so": "Xafladdan sabab kasta ha ahaatee ma seegi doono!" }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Why is Kiprotich going to Eldoret?", "so": "Kiprotich muxuu Eldoret ugu socdaa?" },
+              "options": [
+                { "en": "For his sister's graduation", "so": "Qalin-jebinta walaashiis" },
+                { "en": "For a new job", "so": "Shaqo cusub" },
+                { "en": "To buy a car", "so": "Inuu gaari iibsado" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "When will he arrive in Eldoret?", "so": "Goorma ayuu Eldoret gaari doonaa?" },
+              "options": [
+                { "en": "Friday morning", "so": "Subaxa Jimcaha" },
+                { "en": "Saturday morning", "so": "Subaxa Sabtida" },
+                { "en": "Next month", "so": "Bisha soo socota" }
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        { "type": "gap", "before": "Leo ni Jumatatu, kwa hivyo", "after": " ni Jumatano.", "options": ["jana", "juzi", "kesho kutwa"], "answer": 2, "meaning": { "en": "Today is Monday, so the day after tomorrow is Wednesday.", "so": "Maanta waa Isniin, sidaas darteed saadambe waa Arbaco." } },
+        { "type": "respond", "heard": "Utarudi lini?", "options": ["Wiki iliyopita.", "Mwezi ujao, Mungu akipenda.", "Nimeshakula."], "answer": 1, "explain": { "en": "'When will you come back?' – 'Next month, God willing.' Wiki iliyopita (last week) is in the past.", "so": "'Goorma ayaad soo noqon doontaa?' – 'Bisha soo socota, haddii Ilaahay idmo.' Wiki iliyopita (toddobaadkii hore) waa wakhti tegay." } }
+      ]
+    },
+    {
+      "id": "wont",
+      "title": { "en": "Won't", "so": "Ma ... doono" },
+      "items": ["fu.sitaenda", "fu.hatutaenda", "fu.hatakuja", "fu.sitachelewa", "fu.sitasahau"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Omar", "sw": "Mwanaisha, utakuja kwenye sherehe ya Halima Jumamosi?", "en": "Mwanaisha, will you come to Halima's party on Saturday?", "so": "Mwanaisha, xafladda Halima ma iman doontaa Sabtida?" },
+            { "who": "Mwanaisha", "sw": "Samahani, sitaweza. Nitasafiri kwenda Lamu.", "en": "Sorry, I won't be able to. I'll be travelling to Lamu.", "so": "Raali ahow, ma awoodi doono. Waxaan u safri doonaa Lamu." },
+            { "who": "Omar", "sw": "Ah, pole. Na dada yako, atakuja?", "en": "Ah, too bad. And your sister, will she come?", "so": "Ah, waan ka xumahay. Walaashaana, ma iman doontaa?" },
+            { "who": "Mwanaisha", "sw": "Hapana, naye hatakuja. Tutasafiri pamoja.", "en": "No, she won't come either. We're travelling together.", "so": "Maya, iyaduna ma iman doonto. Waan wada safri doonnaa." },
+            { "who": "Omar", "sw": "Sawa. Safari njema! Msisahau kuniletea halua.", "en": "Okay. Have a good trip! Don't forget to bring me halwa.", "so": "Hagaag. Safar wanaagsan! Ha iloobina inaad xalwad ii keentaan." }
+          ],
+          "question": { "en": "Why won't Mwanaisha come to the party?", "so": "Mwanaisha maxay xafladda u iman doonin?" },
+          "options": [
+            { "en": "She is sick", "so": "Way buka" },
+            { "en": "She has to work", "so": "Waa inay shaqaysaa" },
+            { "en": "She will be travelling to Lamu", "so": "Waxay u safri doontaa Lamu" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Usisahau mkutano wa kesho!", "options": ["Sitasahau, nitakuwa pale.", "Nilisahau jana.", "Sikula."], "answer": 0, "explain": { "en": "'Don't forget tomorrow's meeting!' – 'I won't forget, I'll be there.'", "so": "'Ha illoobin shirka berri!' – 'Ma illoobi doono, halkaas ayaan joogi doonaa.'" } },
+        { "type": "build", "prompt": { "en": "I won't be late tomorrow", "so": "Berri ma daahi doono" }, "answer": "Sitachelewa kesho", "extra": ["nitachelewa", "jana"], "accept": ["Kesho sitachelewa"] }
+      ]
+    },
+    {
+      "id": "if-and-when",
+      "title": { "en": "If and when: -ki-", "so": "Haddii iyo marka: -ki-" },
+      "items": ["fu.nikipata-pesa", "fu.ukifika", "fu.mvua-ikinyesha", "fu.kama", "fu.ikiwa", "fu.mungu-akipenda", "fu.inshallah"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Farah, ukifika Nairobi, nipigie simu.", "en": "Farah, when you get to Nairobi, call me.", "so": "Farah, markaad Nairobi gaarto, ii soo wac." },
+            { "who": "Farah", "sw": "Sawa, mama. Nikifika salama, nitakupigia mara moja.", "en": "Okay, Mum. When I arrive safely, I'll call you straight away.", "so": "Hagaag, hooyo. Markaan nabad ku gaaro, isla markiiba waan ku soo wici doonaa." },
+            { "who": "Halima", "sw": "Na mvua ikinyesha, usitembee usiku.", "en": "And if it rains, don't walk around at night.", "so": "Haddii roob da'ana, habeenkii ha socon." },
+            { "who": "Farah", "sw": "Usijali. Kama nitachelewa, nitalala kwa mjomba.", "en": "Don't worry. If I'm late, I'll sleep at my uncle's.", "so": "Ha welwelin. Haddii aan daaho, abtigay ayaan u seexan doonaa." },
+            { "who": "Halima", "sw": "Haya. Safari njema, mwanangu. Mungu akipenda, tutaonana mwezi ujao.", "en": "All right. Safe travels, my son. God willing, we'll see each other next month.", "so": "Hagaag. Safar wanaagsan, wiilkayga. Haddii Ilaahay idmo, bisha soo socota ayaan kulmi doonnaa." }
+          ],
+          "question": { "en": "Where will Farah sleep if he is late?", "so": "Farah xaggee buu seexan doonaa haddii uu daaho?" },
+          "options": [
+            { "en": "At a hotel", "so": "Huteel" },
+            { "en": "At his uncle's", "so": "Abtigiis" },
+            { "en": "At the bus station", "so": "Saldhigga baska" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Nikipata pesa,", "after": " gari.", "options": ["nitanunua", "nilinunua", "nimenunua"], "answer": 0, "meaning": { "en": "If I get money, I'll buy a car.", "so": "Haddii aan lacag helo, gaari baan iibsan doonaa." } },
+        { "type": "respond", "heard": "Tutaonana kesho?", "options": ["Hapana, wiki iliyopita.", "Ndiyo, Mungu akipenda.", "Nilikula jana."], "answer": 1, "explain": { "en": "'Will we see each other tomorrow?' – 'Yes, God willing.'", "so": "'Berri ma is arki doonnaa?' – 'Haa, haddii Ilaahay idmo.'" } },
+        { "type": "build", "prompt": { "en": "If it rains we won't go", "so": "Haddii roob da'o ma tegi doonno" }, "answer": "Mvua ikinyesha hatutaenda", "extra": ["tulienda", "jana"], "accept": ["Mvua ikinyesha hatutakwenda", "Hatutaenda mvua ikinyesha"] }
+      ]
+    },
+    {
+      "id": "hopes-and-dreams",
+      "title": { "en": "Hopes and dreams", "so": "Rajooyin iyo riyooyin" },
+      "items": ["fu.mpango", "fu.ndoto", "fu.lengo", "fu.natumaini", "fu.ningependa", "fu.nataka-kuwa"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Farah's dream", "so": "Riyada Farah" },
+          "lines": [
+            { "sw": "Farah ni kijana wa miaka kumi na saba kutoka Garissa.", "en": "Farah is a seventeen-year-old from Garissa.", "so": "Farah waa wiil toddoba iyo toban jir ah oo ka yimid Garissa." },
+            { "sw": "Ndoto yake kubwa ni kuwa daktari.", "en": "His big dream is to become a doctor.", "so": "Riyadiisa weyn waa inuu dhakhtar noqdo." },
+            { "sw": "Mwaka huu atafanya mtihani wa kidato cha nne.", "en": "This year he'll sit the Form Four exam.", "so": "Sannadkan wuxuu geli doonaa imtixaanka fasalka afraad ee dugsiga sare." },
+            { "sw": "Lengo lake ni kupata alama nzuri sana.", "en": "His goal is to get very good marks.", "so": "Hadafkiisu waa inuu helo dhibco aad u wanaagsan." },
+            { "sw": "Akipita, ataenda chuo kikuu Nairobi mwaka ujao.", "en": "If he passes, he'll go to university in Nairobi next year.", "so": "Haddii uu ku guulaysto, sannadka soo socda wuxuu aadi doonaa jaamacad ku taal Nairobi." },
+            { "sw": "Mpango wake ni kurudi Garissa baadaye na kufungua kliniki.", "en": "His plan is to come back to Garissa later and open a clinic.", "so": "Qorshihiisu waa inuu dabadeed ku soo noqdo Garissa oo uu furo rug caafimaad." },
+            { "who": "Farah", "sw": "Natumaini nitawasaidia watu wa nyumbani, Inshallah.", "en": "I hope I'll help the people back home, God willing.", "so": "Waxaan rajaynayaa inaan caawin doono dadka deegaankayga, Insha Allah." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What does Farah want to become?", "so": "Farah muxuu doonayaa inuu noqdo?" },
+              "options": [
+                { "en": "A teacher", "so": "Macallin" },
+                { "en": "A doctor", "so": "Dhakhtar" },
+                { "en": "A driver", "so": "Darawal" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What will he do if he passes?", "so": "Muxuu samayn doonaa haddii uu ku guulaysto?" },
+              "options": [
+                { "en": "Go to university in Nairobi", "so": "Aadi jaamacad Nairobi ku taal" },
+                { "en": "Open a shop in Eastleigh", "so": "Dukaan ka furi Eastleigh" },
+                { "en": "Travel abroad", "so": "Dibadda u safri" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What is his plan for later?", "so": "Qorshihiisa dambe waa maxay?" },
+              "options": [
+                { "en": "To stay in Nairobi", "so": "Inuu Nairobi joogo" },
+                { "en": "To become a footballer", "so": "Inuu kubadsade noqdo" },
+                { "en": "To open a clinic in Garissa", "so": "Inuu Garissa rug caafimaad ka furo" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Ndoto yako ni nini?", "options": ["Nilienda sokoni.", "Sitachelewa.", "Nataka kuwa mwalimu."], "answer": 2, "explain": { "en": "'What is your dream?' – 'I want to be a teacher.'", "so": "'Riyadaadu waa maxay?' – 'Waxaan rabaa inaan macallin noqdo.'" } },
+        { "type": "gap", "before": "Natumaini", "after": " mtihani wako.", "options": ["mpango", "utapita", "ndoto"], "answer": 1, "meaning": { "en": "I hope you'll pass your exam.", "so": "Waxaan rajaynayaa inaad imtixaankaaga ku guulaysan doonto." } }
+      ]
+    },
+    {
+      "id": "would-nge",
+      "title": { "en": "Would: -nge-", "so": "Lahaa: -nge-" },
+      "items": ["fu.ningekuwa-na-pesa", "fu.ningesafiri", "fu.ningefurahi", "fu.kama-ningekuwa-wewe", "fu.ningekuja"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "If I had money", "so": "Haddii aan lacag haysan lahaa" },
+          "lines": [
+            { "sw": "Mwikali na rafiki yake Zawadi wako kwenye jam ndani ya matatu.", "en": "Mwikali and her friend Zawadi are stuck in traffic in a matatu.", "so": "Mwikali iyo saaxiibteed Zawadi waxay ku jiraan ciriiri, matatu dhexdeeda." },
+            { "who": "Mwikali", "sw": "Ningekuwa na pesa nyingi, ningenunua gari langu mwenyewe.", "en": "If I had lots of money, I'd buy my own car.", "so": "Haddii aan lacag badan haysan lahaa, gaari aniga ii gaar ah ayaan iibsan lahaa." },
+            { "who": "Mwikali", "sw": "Ningesafiri Mombasa kila mwezi na ningekula samaki ufukweni.", "en": "I'd travel to Mombasa every month and eat fish on the beach.", "so": "Bil kasta ayaan Mombasa u safri lahaa, xeebtana kalluun baan ku cuni lahaa." },
+            { "who": "Zawadi", "sw": "Na mimi je? Ungenipa lifti?", "en": "And what about me? Would you give me a lift?", "so": "Anigase? Ma i qaadi lahayd?" },
+            { "who": "Mwikali", "sw": "Bila shaka! Ningekupeleka kila mahali.", "en": "Of course! I'd take you everywhere.", "so": "Shaki la'aan! Meel kasta ayaan ku geyn lahaa." },
+            { "sw": "Ghafla, konda alipiga kelele.", "en": "Suddenly, the conductor shouted.", "so": "Si lama filaan ah, kirishboygii ayaa qayliyay." },
+            { "who": "Konda", "sw": "Tao! Wote shukeni!", "en": "Town! Everyone off!", "so": "Magaalada! Dhammaantiin dega!" },
+            { "sw": "Marafiki wawili walicheka na kushuka.", "en": "The two friends laughed and got off.", "so": "Labadii saaxiibbo way qosleen oo way degeen." },
+            { "who": "Mwikali", "sw": "Sina gari bado, lakini siku moja nitakuwa nalo, Mungu akipenda!", "en": "I don't have a car yet, but one day I'll have one, God willing!", "so": "Weli gaari ma haysto, laakiin maalin uun waan yeelan doonaa, haddii Ilaahay idmo!" }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Where are Mwikali and Zawadi?", "so": "Mwikali iyo Zawadi xaggee joogaan?" },
+              "options": [
+                { "en": "At home", "so": "Guriga" },
+                { "en": "In a matatu, in traffic", "so": "Matatu ku jirta ciriiri" },
+                { "en": "On the beach", "so": "Xeebta" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What would Mwikali do every month?", "so": "Mwikali maxay samayn lahayd bil kasta?" },
+              "options": [
+                { "en": "Travel to Mombasa", "so": "U safri lahayd Mombasa" },
+                { "en": "Buy a new phone", "so": "Iibsan lahayd taleefan cusub" },
+                { "en": "Visit her parents", "so": "Booqan lahayd waalidkeed" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Achieng", "sw": "Mutua, nimepewa nafasi mbili za kazi, moja Nairobi na nyingine Kisumu.", "en": "Mutua, I've been offered two jobs, one in Nairobi and the other in Kisumu.", "so": "Mutua, laba shaqo ayaa la ii soo bandhigay, mid Nairobi iyo mid kale oo Kisumu ah." },
+            { "who": "Mutua", "sw": "Kama ningekuwa wewe, ningechagua Kisumu.", "en": "If I were you, I'd choose Kisumu.", "so": "Haddii aan adiga ahaan lahaa, Kisumu ayaan dooran lahaa." },
+            { "who": "Achieng", "sw": "Kwa nini?", "en": "Why?", "so": "Waayo?" },
+            { "who": "Mutua", "sw": "Familia yako iko pale, na maisha ni rahisi zaidi.", "en": "Your family is there, and life is cheaper.", "so": "Qoyskaagu halkaas ayay joogaan, noloshuna way ka jaban tahay." },
+            { "who": "Achieng", "sw": "Ni kweli. Ningefurahi sana kuwa karibu na mama.", "en": "That's true. I'd be very happy to be near Mum.", "so": "Waa run. Aad baan u farxi lahaa inaan hooyo u dhowaado." }
+          ],
+          "question": { "en": "Which city does Mutua advise?", "so": "Magaaladee ayuu Mutua kula taliyay?" },
+          "options": [
+            { "en": "Nairobi", "so": "Nairobi" },
+            { "en": "Mombasa", "so": "Mombasa" },
+            { "en": "Kisumu", "so": "Kisumu" }
+          ],
+          "answer": 2
+        },
+        { "type": "build", "prompt": { "en": "If I had money I would travel", "so": "Haddii aan lacag haysan lahaa waan safri lahaa" }, "answer": "Ningekuwa na pesa ningesafiri", "extra": ["nilisafiri", "kesho"] }
+      ]
+    }
+  ]
+}

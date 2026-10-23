@@ -1,0 +1,239 @@
+{
+  "id": "health",
+  "order": 12,
+  "level": "A2",
+  "color": "#b91c1c",
+  "reviewed": false,
+  "title": { "en": "Health & the Body", "so": "Caafimaadka iyo Jirka" },
+  "swTitle": "Afya na Mwili",
+  "description": {
+    "en": "Name parts of the body, say what hurts, visit the chemist or the clinic, follow medicine instructions and wish someone a quick recovery.",
+    "so": "Magacaw xubnaha jirka, sheeg waxa ku xanuunaya, booqo farmashiyaha ama kiliinigga, raac tilmaamaha daawada oo qof u rajee caafimaad degdeg ah."
+  },
+  "goals": ["travel", "family"],
+  "guide": [
+    {
+      "title": { "en": "Saying what hurts", "so": "Sheegidda waxa ku xanuunaya" },
+      "body": {
+        "en": "Kenyans say Naumwa (I'm sick) or Ninaumwa na kichwa (I have a headache; lit. I'm hurt by the head). Another way is to make the body part the subject: Kichwa kinauma, Tumbo linauma, Mguu unauma, Macho yanauma. The start of the verb changes to match the noun.",
+        "so": "Kenyaanku waxay yiraahdaan Naumwa (waan bukaa) ama Ninaumwa na kichwa (madax xanuun ayaa i haya). Hab kale waa in xubinta jirka laga dhigo falaha: Kichwa kinauma, Tumbo linauma, Mguu unauma, Macho yanauma. Bilowga ficilku wuu isbeddelaa si uu ula jaanqaado magaca."
+      },
+      "examples": [
+        { "sw": "Ninaumwa na tumbo.", "en": "I have a stomach ache.", "so": "Calool xanuun ayaa i haya.", "v": "everyday" },
+        { "sw": "Macho yanauma.", "en": "My eyes hurt.", "so": "Indhaha ayaa i xanuunaya.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Pole sana, ugua pole", "so": "Pole sana, ugua pole" },
+      "body": {
+        "en": "When someone is ill, Kenyans say Pole sana (I'm so sorry), and when they leave, Ugua pole (get well soon; lit. be sick gently). To ask a sick person how they are, say Unaendeleaje? (how are you getting on?) or Unajisikiaje? (how do you feel?). The happy answer is Nimepata nafuu (I'm feeling better).",
+        "so": "Marka qof buko, Kenyaanku waxay yiraahdaan Pole sana (aad baan uga xumahay), marka ay tagayaanna Ugua pole (Ilaahay ha ku caafiyo). Si aad qof buka u weydiiso sida uu yahay, dheh Unaendeleaje? (sidee u socotaa?) ama Unajisikiaje? (sidee dareemaysaa?). Jawaabta farxadda leh waa Nimepata nafuu (waan soo kabanayaa)."
+      },
+      "examples": [
+        { "sw": "Pole sana, ugua pole.", "en": "So sorry, get well soon.", "so": "Aad baan uga xumahay, Ilaahay ha ku caafiyo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Chemist, clinic or hospital?", "so": "Farmashiye, kiliinig mise isbitaal?" },
+      "body": {
+        "en": "In Kenya a pharmacy is called a chemist, and many people ask the chemist first about small problems like a cold. With a fever, go to a kliniki and get tested, because it could be malaria. For anything serious, go to the hospitali. In Swahili you 'drink' medicine, just as in Somali: Kunywa dawa mara tatu kwa siku.",
+        "so": "Kenya farmashiyaha waxaa loo yaqaan chemist, dad badanna dhibaatooyinka yaryar sida hargabka marka hore farmashiyaha ayay weydiiyaan. Haddii qandho ku hayso, aad kiliinig oo is baar, waayo waxay noqon kartaa duumo. Wax kasta oo culus, aad isbitaalka. Sawaaxiliga daawada waa la 'cabaa', sida Af-Soomaaliga: Kunywa dawa mara tatu kwa siku."
+      },
+      "examples": [
+        { "sw": "Kunywa vidonge viwili asubuhi na jioni.", "en": "Take two tablets morning and evening.", "so": "Laba kiniin cab subaxdii iyo fiidkii.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenya vs Tanzania", "so": "Kenya iyo Tanzania" },
+      "body": {
+        "en": "Kenyans say chemist where Tanzanians say duka la dawa. Kenyans usually add na after umwa: Naumwa na kichwa, while Tanzanians say Naumwa kichwa. Both are understood everywhere. Muuguzi is the standard word for nurse, but in Kenyan hospitals you will mostly hear nesi.",
+        "so": "Kenyaanku waxay yiraahdaan chemist halka Tansaaniyaanku yiraahdaan duka la dawa. Kenyaanku badanaa umwa kadib waxay ku daraan na: Naumwa na kichwa, halka Tansaaniyaanku yiraahdaan Naumwa kichwa. Labaduba meel walba waa la fahmaa. Muuguzi waa erayga caadiga ah ee kalkaaliyaha caafimaadka, laakiin isbitaallada Kenya inta badan waxaad maqlaysaa nesi."
+      }
+    }
+  ],
+  "items": [
+    { "id": "hl.kichwa", "sw": "kichwa", "en": "head", "so": "madax", "v": "standard" },
+    { "id": "hl.jicho", "sw": "jicho", "en": "eye", "so": "il", "v": "standard", "note": { "en": "Plural: macho (eyes).", "so": "Wadarta: macho (indho)." } },
+    { "id": "hl.sikio", "sw": "sikio", "en": "ear", "so": "dheg", "v": "standard", "note": { "en": "Plural: masikio.", "so": "Wadarta: masikio (dhegaha)." } },
+    { "id": "hl.mdomo", "sw": "mdomo", "en": "mouth / lips", "so": "af / bushimo", "v": "standard" },
+    { "id": "hl.jino", "sw": "jino", "en": "tooth", "so": "ilig", "v": "standard", "note": { "en": "Plural: meno (teeth).", "so": "Wadarta: meno (ilkaha)." } },
+    { "id": "hl.koo", "sw": "koo", "en": "throat", "so": "cunaha", "v": "standard", "note": { "en": "Koo linauma = I have a sore throat.", "so": "Koo linauma = cunaha ayaa i xanuunaya." } },
+
+    { "id": "hl.mkono", "sw": "mkono", "en": "arm / hand", "so": "gacan", "v": "standard", "note": { "en": "Plural: mikono. Swahili uses one word for arm and hand.", "so": "Wadarta: mikono. Sawaaxiligu hal eray buu u isticmaalaa cudud iyo gacan." } },
+    { "id": "hl.mguu", "sw": "mguu", "en": "leg / foot", "so": "lug / cag", "v": "standard", "note": { "en": "Plural: miguu. Kwa miguu = on foot.", "so": "Wadarta: miguu. Kwa miguu = lug ahaan (cagaha)." } },
+    { "id": "hl.tumbo", "sw": "tumbo", "en": "stomach / belly", "so": "calool", "v": "standard" },
+    { "id": "hl.mgongo", "sw": "mgongo", "en": "back (of the body)", "so": "dhabar", "v": "standard" },
+    { "id": "hl.kifua", "sw": "kifua", "en": "chest", "so": "laab / xabad", "v": "standard", "note": { "en": "Nina kifua can also mean 'I have a chest cold'.", "so": "Nina kifua sidoo kale waxay ka dhigan kartaa 'xabad ayaa i haysa'." } },
+
+    { "id": "hl.unaendeleaje", "sw": "Unaendeleaje?", "en": "How are you getting on? (to a sick person)", "so": "Sidee isu aragtaa?", "v": "standard", "syn": "hello", "note": { "en": "Lit. 'how are you progressing?'. Kenyans ask it of someone who is ill or recovering.", "so": "Macnaha erayga: 'sidee u socotaa?'. Kenyaanku waxay weydiiyaan qof buka ama soo kabanaya." } },
+    { "id": "hl.naumwa", "sw": "Naumwa", "en": "I'm sick / I'm unwell", "so": "Waan bukaa", "v": "everyday", "alt": ["ninaumwa", "mimi ni mgonjwa"], "syn": "sick", "note": { "en": "Short for ninaumwa. Mgonjwa = a sick person, a patient.", "so": "Waa soo gaabinta ninaumwa. Mgonjwa = qof buka, bukaan." } },
+    { "id": "hl.ninaumwa-na-kichwa", "sw": "Ninaumwa na kichwa", "en": "I have a headache", "so": "Madax xanuun ayaa i haya", "v": "everyday", "tz": "Ninaumwa kichwa", "alt": ["naumwa na kichwa", "kichwa kinauma", "ninaumwa kichwa"], "note": { "en": "Kenyans usually add na. You can also say Kichwa kinauma (my head hurts).", "so": "Kenyaanku badanaa waxay ku daraan na. Sidoo kale waxaad dhihi kartaa Kichwa kinauma (madaxa ayaa i xanuunaya)." } },
+    { "id": "hl.tumbo-linauma", "sw": "Tumbo linauma", "en": "My stomach hurts", "so": "Caloosha ayaa i xanuunaysa", "v": "standard", "alt": ["tumbo langu linauma", "naumwa na tumbo"], "note": { "en": "The verb agrees with the body part: kichwa kinauma, tumbo linauma, mguu unauma, macho yanauma.", "so": "Ficilku wuxuu la jaanqaadaa xubinta jirka: kichwa kinauma, tumbo linauma, mguu unauma, macho yanauma." } },
+    { "id": "hl.nina-homa", "sw": "Nina homa", "en": "I have a fever", "so": "Qandho ayaa i haysa", "v": "standard" },
+    { "id": "hl.nakohoa", "sw": "Nakohoa", "en": "I'm coughing / I have a cough", "so": "Waan qufacayaa", "v": "everyday", "alt": ["ninakohoa"], "note": { "en": "Kikohozi = a cough.", "so": "Kikohozi = qufac." } },
+    { "id": "hl.mafua", "sw": "mafua", "en": "a cold / flu", "so": "hargab", "v": "standard", "note": { "en": "Nina mafua = I have a cold.", "so": "Nina mafua = hargab ayaa i haya." } },
+
+    { "id": "hl.kliniki", "sw": "kliniki", "en": "clinic", "so": "kiliinig", "v": "standard" },
+    { "id": "hl.hospitali", "sw": "hospitali", "en": "hospital", "so": "isbitaal", "v": "standard" },
+    { "id": "hl.kumwona-daktari", "sw": "Nataka kumwona daktari", "en": "I want to see a doctor", "so": "Waxaan rabaa inaan dhakhtar arko", "v": "standard", "alt": ["nataka kuona daktari", "ninataka kumwona daktari"], "note": { "en": "Daktari = doctor. Kumwona = to see him/her; many Kenyans simply say kuona daktari.", "so": "Daktari = dhakhtar. Kumwona = in la arko (qof); Kenyaan badan waxay si fudud u yiraahdaan kuona daktari." } },
+    { "id": "hl.unaumwa-wapi", "sw": "Unaumwa wapi?", "en": "Where does it hurt?", "so": "Halkee kaa xanuunaysaa?", "v": "standard" },
+    { "id": "hl.maumivu", "sw": "maumivu", "en": "pain", "so": "xanuun", "v": "standard", "note": { "en": "Nina maumivu makali = I have severe pain. Dawa ya maumivu = painkiller.", "so": "Nina maumivu makali = xanuun daran ayaa i haya. Dawa ya maumivu = daawada xanuun-joojiska." } },
+    { "id": "hl.kupima", "sw": "kupima", "en": "to test / examine", "so": "baarid", "v": "standard", "note": { "en": "Kupimwa = to be tested. Nataka kupimwa malaria = I want a malaria test.", "so": "Kupimwa = in lagu baaro. Nataka kupimwa malaria = waxaan rabaa in duumo la iga baaro." } },
+    { "id": "hl.sindano", "sw": "sindano", "en": "injection / needle", "so": "duro / irbad", "v": "standard", "note": { "en": "Kudungwa sindano = to get an injection.", "so": "Kudungwa sindano = in lagu duro." } },
+
+    { "id": "hl.chemist", "sw": "chemist", "en": "pharmacy (chemist)", "so": "farmashiye", "v": "everyday", "say": "kemisti", "alt": ["kemisti", "duka la dawa"], "tz": "duka la dawa", "note": { "en": "For small problems Kenyans go to the chemist first. Duka la dawa (medicine shop) is also understood.", "so": "Dhibaatooyinka yaryar Kenyaanku marka hore waxay aadaan farmashiyaha. Duka la dawa (dukaanka daawada) sidoo kale waa la fahmaa." } },
+    { "id": "hl.dawa", "sw": "dawa", "en": "medicine", "so": "daawo", "v": "standard", "note": { "en": "In Swahili you 'drink' medicine, even tablets: kunywa dawa. Somali does the same: daawo cab.", "so": "Sawaaxiliga daawada waa la 'cabaa', xitaa kiniinka: kunywa dawa. Af-Soomaaliguna sidaas oo kale: daawo cab." } },
+    { "id": "hl.vidonge", "sw": "vidonge", "en": "tablets / pills", "so": "kiniinno", "v": "standard", "note": { "en": "One tablet: kidonge.", "so": "Hal kiniin: kidonge." } },
+    { "id": "hl.mara-tatu", "sw": "Kunywa dawa mara tatu kwa siku", "en": "Take the medicine three times a day", "so": "Daawada maalintii saddex jeer cab", "v": "standard", "alt": ["kunywa dawa mara tatu kila siku"] },
+    { "id": "hl.ugua-pole", "sw": "Ugua pole", "en": "Get well soon", "so": "Ilaahay ha ku caafiyo", "v": "standard", "syn": "get-well", "note": { "en": "Lit. 'be sick gently'. Kenyans say Pole sana, ugua pole to anyone who is ill. The reply is Asante.", "so": "Macnaha erayga: 'si tartiib ah u buko'. Kenyaanku Pole sana, ugua pole waxay ku yiraahdaan qof kasta oo buka. Jawaabtu waa Asante." } },
+    { "id": "hl.nimepata-nafuu", "sw": "Nimepata nafuu", "en": "I'm feeling better", "so": "Waan soo kabanayaa", "v": "standard", "syn": "better", "note": { "en": "Nimepona = I have fully recovered.", "so": "Nimepona = gebi ahaanba waan bogsaday." } },
+
+    { "id": "hl.malaria", "sw": "malaria", "en": "malaria", "so": "duumo (kaneeco)", "v": "standard", "note": { "en": "Common around Lake Victoria and on the coast. Fever after a trip? Get tested: kupimwa malaria.", "so": "Waxay ku badan tahay agagaarka harada Victoria iyo xeebta. Qandho ma kugu dhacday safar kadib? Is baar: kupimwa malaria." } },
+    { "id": "hl.chandarua", "sw": "chandarua", "en": "mosquito net", "so": "shabagga kaneecada", "v": "standard", "note": { "en": "Mbu = mosquito. Lala ndani ya chandarua = sleep under a mosquito net.", "so": "Mbu = kaneeco. Lala ndani ya chandarua = ku seexo shabagga kaneecada gudihiisa." } },
+    { "id": "hl.chanjo", "sw": "chanjo", "en": "vaccine / vaccination", "so": "tallaal", "v": "standard", "note": { "en": "Some visitors need a yellow fever vaccine: chanjo ya homa ya manjano.", "so": "Booqdayaasha qaarkood waxay u baahan yihiin tallaalka qandhada jaallaha: chanjo ya homa ya manjano." } },
+    { "id": "hl.mzio", "sw": "Nina mzio wa penisilini", "en": "I'm allergic to penicillin", "so": "Xasaasiyad ayaan ka qabaa penicillin", "v": "standard", "alt": ["nina mzio wa penicillin", "nina allergy ya penisilini"], "note": { "en": "Mzio = allergy; many Kenyans just say allergy. Tell the doctor or chemist before they give you medicine.", "so": "Mzio = xasaasiyad; Kenyaan badan waxay si fudud u yiraahdaan allergy. U sheeg dhakhtarka ama farmashiyaha ka hor inta aanay daawo ku siin." } },
+    { "id": "hl.bima-ya-afya", "sw": "bima ya afya", "en": "health insurance", "so": "caymiska caafimaadka", "v": "standard", "note": { "en": "Private hospitals often ask for insurance or payment before treatment.", "so": "Isbitaallada gaarka loo leeyahay badanaa waxay weydiiyaan caymis ama lacag ka hor daaweynta." } },
+
+    { "id": "hl.mtoto-ana-homa", "sw": "Mtoto ana homa", "en": "The child has a fever", "so": "Ilmaha qandho ayaa haysa", "v": "standard" },
+    { "id": "hl.nitampeleka", "sw": "Nitampeleka hospitali", "en": "I'll take him/her to hospital", "so": "Isbitaalka ayaan geyn doonaa", "v": "standard", "note": { "en": "-m- = him or her: nitampeleka = I will take him/her.", "so": "-m- = isaga ama iyada: nitampeleka = waan geyn doonaa (isaga ama iyada)." } },
+    { "id": "hl.amelazwa", "sw": "Amelazwa hospitali", "en": "He/She has been admitted to hospital", "so": "Isbitaal ayaa la dhigay", "v": "standard", "note": { "en": "Lit. 'has been made to lie down'. Kulazwa = to be admitted.", "so": "Macnaha erayga: 'waa la jiifiyey'. Kulazwa = in isbitaal la dhigo." } },
+    { "id": "hl.kumtembelea", "sw": "kumtembelea mgonjwa", "en": "to visit a sick person", "so": "booqashada qof buka", "v": "standard", "note": { "en": "Visiting the sick matters a lot in Kenyan families. Bring fruit or juice and say Pole, ugua pole.", "so": "Booqashada bukaanka aad bay muhiim ugu tahay qoysaska Kenya. Keen miro ama casiir oo dheh Pole, ugua pole." } }
+  ],
+  "lessons": [
+    {
+      "id": "the-head",
+      "title": { "en": "The head", "so": "Madaxa" },
+      "items": ["hl.kichwa", "hl.jicho", "hl.sikio", "hl.mdomo", "hl.jino", "hl.koo"],
+      "extra": [
+        { "type": "gap", "before": "Nina macho", "after": ".", "options": ["mawili", "viwili", "wawili"], "answer": 0, "meaning": { "en": "I have two eyes.", "so": "Waxaan leeyahay laba il." } },
+        { "type": "build", "prompt": { "en": "This is my head", "so": "Kani waa madaxayga" }, "answer": "Hiki ni kichwa changu", "extra": ["yangu", "jicho"] },
+        { "type": "respond", "heard": "Fungua mdomo, tafadhali.", "options": ["Kwaheri!", "Sawa, daktari.", "Tuko wapi?"], "answer": 1, "explain": { "en": "'Open your mouth, please.' – 'Okay, doctor.'", "so": "'Fadlan afka kala qaad.' – 'Hagaag, dhakhtar.'" } }
+      ]
+    },
+    {
+      "id": "the-body",
+      "title": { "en": "The body", "so": "Jirka" },
+      "items": ["hl.mkono", "hl.mguu", "hl.tumbo", "hl.mgongo", "hl.kifua"],
+      "extra": [
+        { "type": "gap", "before": "Naenda kwa", "after": ".", "options": ["mikono", "miguu", "tumbo"], "answer": 1, "meaning": { "en": "I'm going on foot.", "so": "Lug ayaan ku socdaa." } },
+        { "type": "build", "prompt": { "en": "Wash your hands", "so": "Gacmaha dhaqo" }, "answer": "Osha mikono yako", "extra": ["mguu", "kifua"], "accept": ["Nawa mikono yako"] },
+        { "type": "respond", "heard": "Mgongo unauma?", "options": ["Ni pesa ngapi?", "Safari njema!", "Ndiyo, kidogo."], "answer": 2, "explain": { "en": "'Does your back hurt?' – 'Yes, a little.'", "so": "'Dhabarka ma kaa xanuunayaa?' – 'Haa, wax yar.'" } }
+      ]
+    },
+    {
+      "id": "feeling-sick",
+      "title": { "en": "Feeling sick", "so": "Xanuun" },
+      "items": ["hl.unaendeleaje", "hl.naumwa", "hl.ninaumwa-na-kichwa", "hl.tumbo-linauma", "hl.nina-homa", "hl.nakohoa", "hl.mafua"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Omar, unaendeleaje leo?", "en": "Omar, how are you doing today?", "so": "Omar, sidee isu aragtaa maanta?" },
+            { "who": "Omar", "sw": "Naumwa. Nina homa na nakohoa.", "en": "I'm sick. I have a fever and a cough.", "so": "Waan bukaa. Qandho ayaa i haysa, waanan qufacayaa." },
+            { "who": "Amina", "sw": "Pole sana! Kichwa kinauma pia?", "en": "So sorry! Does your head hurt too?", "so": "Aad baan uga xumahay! Madaxuna ma ku xanuunayaa?" },
+            { "who": "Omar", "sw": "Ndiyo, kidogo.", "en": "Yes, a little.", "so": "Haa, wax yar." }
+          ],
+          "question": { "en": "What is wrong with Omar?", "so": "Maxaa Omar ka xanuunaya?" },
+          "options": [
+            { "en": "A sore leg", "so": "Lug xanuun" },
+            { "en": "A stomach ache", "so": "Calool xanuun" },
+            { "en": "A fever and a cough", "so": "Qandho iyo qufac" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Unaendeleaje?", "options": ["Ni elfu mbili.", "Naumwa na tumbo.", "Kushoto."], "answer": 1, "explain": { "en": "'How are you getting on?' – 'I have a stomach ache.'", "so": "'Sidee isu aragtaa?' – 'Calool xanuun ayaa i haya.'" } },
+        { "type": "gap", "before": "Mguu", "after": ".", "options": ["unauma", "linauma", "kinauma"], "answer": 0, "meaning": { "en": "My leg hurts.", "so": "Lugta ayaa i xanuunaysa." } },
+        { "type": "build", "prompt": { "en": "I have a cold", "so": "Hargab ayaa i haya" }, "answer": "Nina mafua", "extra": ["mguu", "jana"] }
+      ]
+    },
+    {
+      "id": "at-the-clinic",
+      "title": { "en": "At the clinic", "so": "Kiliinigga" },
+      "items": ["hl.kliniki", "hl.hospitali", "hl.kumwona-daktari", "hl.unaumwa-wapi", "hl.maumivu", "hl.kupima", "hl.sindano"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Daktari", "sw": "Karibu. Unaumwa wapi?", "en": "Welcome. Where does it hurt?", "so": "Soo dhawoow. Halkee kaa xanuunaysaa?" },
+            { "who": "Halima", "sw": "Tumbo linauma tangu jana.", "en": "My stomach has hurt since yesterday.", "so": "Calooshu way i xanuunaysay tan iyo shalay." },
+            { "who": "Daktari", "sw": "Sawa. Nitakupima kwanza.", "en": "Okay. I'll examine you first.", "so": "Hagaag. Marka hore waan ku baarayaa." },
+            { "who": "Halima", "sw": "Nitadungwa sindano?", "en": "Will I get an injection?", "so": "Ma la i duri doonaa?" },
+            { "who": "Daktari", "sw": "Hapana, si lazima. Utakunywa dawa tu.", "en": "No, it's not necessary. You'll just take medicine.", "so": "Maya, looma baahna. Daawo oo keliya ayaad cabbi doontaa." }
+          ],
+          "question": { "en": "What is wrong with Halima?", "so": "Maxaa Halima ka xanuunaya?" },
+          "options": [
+            { "en": "Her stomach hurts", "so": "Caloosha ayaa ka xanuunaysa" },
+            { "en": "Her eye hurts", "so": "Isha ayaa ka xanuunaysa" },
+            { "en": "She has a cold", "so": "Hargab ayaa haya" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Unaumwa wapi?", "options": ["Ni elfu tano.", "Asante kwa chakula.", "Hapa, kwenye mgongo."], "answer": 2, "explain": { "en": "'Where does it hurt?' – 'Here, in my back.'", "so": "'Halkee kaa xanuunaysaa?' – 'Halkan, dhabarka.'" } },
+        { "type": "gap", "before": "Daktari atakudunga", "after": " sasa.", "options": ["sindano", "mgongo", "kliniki"], "answer": 0, "meaning": { "en": "The doctor will give you an injection now.", "so": "Dhakhtarka ayaa hadda ku duraya." } },
+        { "type": "build", "prompt": { "en": "Where is the hospital?", "so": "Isbitaalku xaggee buu ku yaal?" }, "answer": "Hospitali iko wapi", "extra": ["yuko", "sindano"] }
+      ]
+    },
+    {
+      "id": "medicine-and-recovery",
+      "title": { "en": "Medicine and getting better", "so": "Daawada iyo ka soo kabashada" },
+      "items": ["hl.chemist", "hl.dawa", "hl.vidonge", "hl.mara-tatu", "hl.ugua-pole", "hl.nimepata-nafuu"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Habari. Nina mafua na nakohoa. Una dawa?", "en": "Hello. I have a cold and a cough. Do you have medicine?", "so": "Iska warran. Hargab ayaa i haya, waanan qufacayaa. Daawo ma haysaa?" },
+            { "who": "Chebet", "sw": "Ndiyo. Kunywa vidonge hivi mara tatu kwa siku.", "en": "Yes. Take these tablets three times a day.", "so": "Haa. Kiniinnadan maalintii saddex jeer cab." },
+            { "who": "Abdi", "sw": "Ni pesa ngapi?", "en": "How much is it?", "so": "Waa immisa?" },
+            { "who": "Chebet", "sw": "Mia mbili. Ugua pole!", "en": "Two hundred. Get well soon!", "so": "Laba boqol. Ilaahay ha ku caafiyo!" }
+          ],
+          "question": { "en": "How often must Abdi take the tablets?", "so": "Immisa jeer ayuu Abdi qaadanayaa kiniinnada?" },
+          "options": [
+            { "en": "Once a day", "so": "Maalintii hal mar" },
+            { "en": "Three times a day", "so": "Maalintii saddex jeer" },
+            { "en": "Twice a week", "so": "Toddobaadkii laba jeer" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Pole sana, ugua pole.", "options": ["Hodi!", "Asante sana.", "Ni pesa ngapi?"], "answer": 1, "explain": { "en": "'So sorry, get well soon.' – 'Thank you very much.'", "so": "'Aad baan uga xumahay, Ilaahay ha ku caafiyo.' – 'Aad baad u mahadsan tahay.'" } },
+        { "type": "gap", "before": "Kunywa dawa mara", "after": " kwa siku.", "options": ["mbili", "jana", "mgongo"], "answer": 0, "meaning": { "en": "Take the medicine twice a day.", "so": "Daawada maalintii laba jeer cab." } },
+        { "type": "build", "prompt": { "en": "Today I'm feeling better", "so": "Maanta waan soo kabanayaa" }, "answer": "Leo nimepata nafuu", "extra": ["homa", "dawa"], "accept": ["Nimepata nafuu leo"] }
+      ]
+    },
+    {
+      "id": "travel-health",
+      "goals": ["travel"],
+      "title": { "en": "Health on the road", "so": "Caafimaadka safarka" },
+      "items": ["hl.malaria", "hl.chandarua", "hl.chanjo", "hl.mzio", "hl.bima-ya-afya"],
+      "extra": [
+        { "type": "respond", "heard": "Una mzio wa dawa yoyote?", "options": ["Hapana, naenda tao.", "Ndiyo, wa penisilini.", "Ndiyo, kodi ni elfu nane."], "answer": 1, "explain": { "en": "'Are you allergic to any medicine?' – 'Yes, to penicillin.'", "so": "'Ma jirtaa daawo aad xasaasiyad ka qabto?' – 'Haa, penicillin.'" } },
+        { "type": "gap", "before": "Lala ndani ya", "after": " kila usiku.", "options": ["chandarua", "chanjo", "bima"], "answer": 0, "meaning": { "en": "Sleep under a mosquito net every night.", "so": "Habeen kasta ku seexo shabagga kaneecada gudihiisa." } },
+        { "type": "build", "prompt": { "en": "I want a malaria test", "so": "Waxaan rabaa in duumo la iga baaro" }, "answer": "Nataka kupimwa malaria", "extra": ["chanjo", "bima"], "accept": ["Ninataka kupimwa malaria"] }
+      ]
+    },
+    {
+      "id": "caring-for-family",
+      "goals": ["family"],
+      "title": { "en": "Caring for a sick relative", "so": "Daryeelka qaraabo buka" },
+      "items": ["hl.mtoto-ana-homa", "hl.nitampeleka", "hl.amelazwa", "hl.kumtembelea"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Mwanaisha", "sw": "Farah, mtoto ana homa kali tangu asubuhi.", "en": "Farah, the child has had a high fever since this morning.", "so": "Farah, ilmaha qandho kulul ayaa haysay tan iyo subaxdii." },
+            { "who": "Farah", "sw": "Pole! Nitampeleka hospitali sasa hivi.", "en": "Oh no! I'll take him to hospital right now.", "so": "Ka xumahay! Hadda isla markiiba isbitaalka ayaan geynayaa." },
+            { "who": "Mwanaisha", "sw": "Sawa. Mimi nitampigia nyanya simu.", "en": "Okay. I'll call Grandma.", "so": "Hagaag. Anigu ayeeyo ayaan wacayaa." }
+          ],
+          "question": { "en": "What will Farah do?", "so": "Farah muxuu samayn doonaa?" },
+          "options": [
+            { "en": "Call Grandma", "so": "Wuxuu wici doonaa ayeeyo" },
+            { "en": "Buy medicine at the chemist", "so": "Daawo ayuu farmashiyaha ka iibsan doonaa" },
+            { "en": "Take the child to hospital", "so": "Ilmaha ayuu isbitaalka geyn doonaa" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Babu amelazwa hospitali.", "options": ["Hongera sana!", "Sawa, kwaheri.", "Pole sana. Nitamtembelea kesho."], "answer": 2, "explain": { "en": "'Grandpa has been admitted to hospital.' – 'I'm so sorry. I'll visit him tomorrow.'", "so": "'Awoowe isbitaal ayaa la dhigay.' – 'Aad baan uga xumahay. Berri ayaan booqan doonaa.'" } },
+        { "type": "build", "prompt": { "en": "Grandma is sick", "so": "Ayeeyo way buktaa" }, "answer": "Nyanya anaumwa", "extra": ["mtoto", "hospitali"], "accept": ["Nyanya ni mgonjwa"] }
+      ]
+    }
+  ]
+}

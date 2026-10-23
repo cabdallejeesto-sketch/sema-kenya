@@ -1,0 +1,218 @@
+{
+  "id": "town",
+  "order": 8,
+  "level": "A1",
+  "color": "#be123c",
+  "reviewed": false,
+  "title": { "en": "Around Town", "so": "Magaalada Dhexdeeda" },
+  "swTitle": "Mjini",
+  "description": {
+    "en": "Find the bank, the post office, the mosque and the shops, say where things are, and talk about places the Kenyan way.",
+    "so": "Hel bangiga, boostada, masjidka iyo dukaamada, sheeg meesha ay wax ku yaalliin, oo meelaha uga hadal sida Kenyaanka."
+  },
+  "goals": ["travel"],
+  "guide": [
+    {
+      "title": { "en": "At, in and to: -ni", "so": "Ku, gudaha iyo u: -ni" },
+      "body": {
+        "en": "Add -ni to a place to say at, in or to it: shule → shuleni (at school), duka → dukani (at the shop), kanisa → kanisani, msikiti → msikitini. With newer words like benki, posta and hospitali, Kenyans usually skip -ni: Niko benki, Naenda posta.",
+        "so": "Meel ku dar -ni si aad u tiraahdo ku, gudaha ama u: shule → shuleni (iskuulka), duka → dukani (dukaanka), kanisa → kanisani, msikiti → msikitini. Erayada cusub sida benki, posta iyo hospitali, Kenyaanku badanaa -ni way ka tagaan: Niko benki, Naenda posta."
+      },
+      "examples": [
+        { "sw": "Watoto wako shuleni.", "en": "The children are at school.", "so": "Carruurtu iskuulka ayay joogaan.", "v": "standard" },
+        { "sw": "Niko benki.", "en": "I'm at the bank.", "so": "Bangiga ayaan joogaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "The Kenyan kwa", "so": "Kwa-da Kenyaanka" },
+      "body": {
+        "en": "In Kenya you will constantly hear kwa used for places: Niko kwa duka (I'm at the shop), Tukutane kwa benki (Let's meet at the bank). The standard form is Niko dukani. Kwa with a person is standard everywhere: kwa Mama Amina means 'at Mama Amina's place'. Understand both, and use dukani when you write.",
+        "so": "Kenya waxaad had iyo jeer maqli doontaa kwa oo loo isticmaalo meelaha: Niko kwa duka (Dukaanka ayaan joogaa), Tukutane kwa benki (Aan ku kulanno bangiga). Qaabka rasmiga ah waa Niko dukani. Kwa marka qof la raaciyo meel walba waa sax: kwa Mama Amina waxay ka dhigan tahay 'Mama Amina gurigeeda'. Labadaba faham, qoraalkana ku isticmaal dukani."
+      },
+      "examples": [
+        { "sw": "Niko kwa duka.", "en": "I'm at the shop.", "so": "Dukaanka ayaan joogaa.", "v": "everyday" },
+        { "sw": "Niko dukani.", "en": "I'm at the shop.", "so": "Dukaanka ayaan joogaa.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Saying where things are", "so": "Sheegidda meesha wax ku yaallaan" },
+      "body": {
+        "en": "Use iko for places and things (Benki iko wapi? Where is the bank?) and yuko for people (Amina yuko wapi?). Location words are followed by ya or na: mbele ya (in front of), nyuma ya (behind), kando ya (beside), ndani ya (inside), nje ya (outside), katikati ya (between, in the middle of), karibu na (near), mbali na (far from).",
+        "so": "Iko u isticmaal meelaha iyo waxyaabaha (Benki iko wapi? Bangigu xaggee buu ku yaal?), yuko-na dadka (Amina yuko wapi?). Erayada goobta waxaa raaca ya ama na: mbele ya (hor), nyuma ya (gadaal), kando ya (ag, dhinac), ndani ya (gudaha), nje ya (dibadda), katikati ya (dhexda), karibu na (u dhow), mbali na (ka fog)."
+      },
+      "examples": [
+        { "sw": "Posta iko mbele ya benki.", "en": "The post office is in front of the bank.", "so": "Boostadu waxay ku taal bangiga hortiisa.", "v": "standard" },
+        { "sw": "Amina yuko ndani ya benki.", "en": "Amina is inside the bank.", "so": "Amina waxay joogtaa bangiga gudihiisa.", "v": "standard" },
+        { "sw": "Gari liko nje ya hospitali.", "en": "The car is outside the hospital.", "so": "Gaarigu wuxuu yaal isbitaalka dibaddiisa.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "iko, liko, uko", "so": "iko, liko, uko" },
+      "body": {
+        "en": "In standard Swahili the word for 'is (located)' agrees with the noun: shule iko, duka liko, msikiti uko, kituo kiko. In everyday Kenyan speech iko is used for almost everything, so you will often hear Msikiti iko wapi? Learn the standard form, but don't be surprised by iko.",
+        "so": "Sawaaxiliga rasmiga ah, erayga 'wuu yaal' wuxuu la jaanqaadaa magaca: shule iko, duka liko, msikiti uko, kituo kiko. Hadalka maalinlaha ah ee Kenya iko ayaa loo isticmaalaa ku dhawaad wax walba, sidaas darteed badanaa waxaad maqli doontaa Msikiti iko wapi? Baro qaabka rasmiga ah, laakiin ha la yaabin iko."
+      },
+      "examples": [
+        { "sw": "Duka liko wapi?", "en": "Where is the shop?", "so": "Dukaanku xaggee buu ku yaal?", "v": "standard" },
+        { "sw": "Duka iko wapi?", "en": "Where is the shop?", "so": "Dukaanku xaggee buu ku yaal?", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Eastleigh", "so": "Eastleigh" },
+      "body": {
+        "en": "Eastleigh in Nairobi is the centre of Somali-Kenyan business, sometimes called Little Mogadishu. Its malls and tall buildings sell clothes, fabric, electronics and gold, often at wholesale prices, and its hotelis serve Somali food. People from all over Kenya shop there, and you will hear Somali and Swahili side by side.",
+        "so": "Eastleigh oo ku taal Nairobi waa xarunta ganacsiga Soomaali-Kenyaanka, mararka qaarna waxaa loogu yeeraa Muqdisho Yar. Moolasheeda iyo dhismayaasheeda dhaadheer waxaa lagu iibiyaa dhar, maro, qalab elektaroonig ah iyo dahab, badanaa qiimaha jumladda, hoteliyadeeduna waxay bixiyaan cunto Soomaali ah. Dad Kenya oo dhan ka yimid ayaa halkaas wax ka iibsada, waxaadna maqli doontaa Soomaali iyo Sawaaxili oo isla socda."
+      }
+    }
+  ],
+  "items": [
+    { "id": "tw.benki", "sw": "benki", "en": "bank", "so": "bangi", "v": "standard" },
+    { "id": "tw.posta", "sw": "posta", "en": "post office", "so": "boosto", "v": "standard" },
+    { "id": "tw.shule", "sw": "shule", "en": "school", "so": "iskuul / dugsi", "v": "standard", "syn": "school" },
+    { "id": "tw.chuo", "sw": "chuo", "en": "college", "so": "kulliyad", "v": "standard", "note": { "en": "A university is chuo kikuu (lit. big college).", "so": "Jaamacaddu waa chuo kikuu (macnaha erayga: kulliyad weyn)." } },
+    { "id": "tw.maktaba", "sw": "maktaba", "en": "library", "so": "maktabad", "v": "standard" },
+
+    { "id": "tw.msikiti", "sw": "msikiti", "en": "mosque", "so": "masjid", "v": "standard" },
+    { "id": "tw.kanisa", "sw": "kanisa", "en": "church", "so": "kaniisad", "v": "standard" },
+    { "id": "tw.barabara", "sw": "barabara", "en": "road", "so": "waddo", "v": "standard", "syn": "road" },
+    { "id": "tw.kituo-cha-mafuta", "sw": "kituo cha mafuta", "en": "petrol station", "so": "kaalinta shidaalka", "v": "standard", "note": { "en": "Many Kenyans just say sheli.", "so": "Kenyaan badan waxay iska yiraahdaan sheli." } },
+    { "id": "tw.bustani", "sw": "bustani", "en": "park / garden", "so": "beer / jardiin", "v": "standard" },
+
+    { "id": "tw.mbele-ya", "sw": "mbele ya", "en": "in front of", "so": "hor", "v": "standard" },
+    { "id": "tw.nyuma-ya", "sw": "nyuma ya", "en": "behind", "so": "gadaal", "v": "standard" },
+    { "id": "tw.kando-ya", "sw": "kando ya", "en": "beside / next to", "so": "ag / dhinac", "v": "standard", "alt": ["pembeni ya"], "syn": "beside", "note": { "en": "Kenyans also say pembeni ya.", "so": "Kenyaanku sidoo kale waxay yiraahdaan pembeni ya." } },
+    { "id": "tw.katikati-ya", "sw": "katikati ya", "en": "in the middle of / between", "so": "dhexda", "v": "standard" },
+    { "id": "tw.ngambo", "sw": "ng'ambo ya barabara", "en": "across the road", "so": "waddada dhinaceeda kale", "v": "standard", "note": { "en": "Ng'ambo means 'the other side'. On its own it often means abroad.", "so": "Ng'ambo waxay ka dhigan tahay 'dhinaca kale'. Keligeed badanaa waxay ka dhigan tahay dibadda (dal shisheeye)." } },
+    { "id": "tw.karibu-na-benki", "sw": "Iko karibu na benki", "en": "It's near the bank", "so": "Waxay u dhow tahay bangiga", "v": "standard" },
+
+    { "id": "tw.dukani", "sw": "dukani", "en": "at / to the shop", "so": "dukaanka", "v": "standard", "note": { "en": "duka + -ni: the standard way to say 'at the shop'.", "so": "duka + -ni: habka rasmiga ah ee lagu yiraahdo 'dukaanka'." } },
+    { "id": "tw.niko-kwa-duka", "sw": "Niko kwa duka", "en": "I'm at the shop (Kenyan everyday)", "so": "Dukaanka ayaan joogaa", "v": "everyday", "alt": ["niko dukani"], "note": { "en": "Very common in Kenya. Standard Swahili says Niko dukani.", "so": "Kenya aad bay ugu badan tahay. Sawaaxiliga rasmiga ah wuxuu yiraahdaa Niko dukani." } },
+    { "id": "tw.kwa-mama-amina", "sw": "kwa Mama Amina", "en": "at Mama Amina's (place)", "so": "Mama Amina gurigeeda", "v": "standard", "note": { "en": "Kwa + a person means at their home or business. This is standard everywhere.", "so": "Kwa + qof waxay ka dhigan tahay gurigiisa ama meeshiisa ganacsiga. Tani meel walba waa sax." } },
+    { "id": "tw.unaenda-wapi", "sw": "Unaenda wapi?", "en": "Where are you going?", "so": "Xaggee u socotaa?", "v": "standard" },
+    { "id": "tw.naenda-posta", "sw": "Naenda posta", "en": "I'm going to the post office", "so": "Boostada ayaan u socdaa", "v": "everyday", "alt": ["ninaenda posta", "naenda kwa posta"] },
+
+    { "id": "tw.msikiti-uko-wapi", "sw": "Msikiti uko wapi?", "en": "Where is the mosque?", "so": "Masjidku xaggee buu ku yaal?", "v": "standard", "alt": ["msikiti iko wapi"], "note": { "en": "Standard: msikiti uko. In Nairobi you will often hear Msikiti iko wapi?", "so": "Rasmi: msikiti uko. Nairobi badanaa waxaad maqli doontaa Msikiti iko wapi?" } },
+    { "id": "tw.nimepotea", "sw": "Nimepotea", "en": "I'm lost", "so": "Waan lumay", "v": "standard", "note": { "en": "Said to a friend, Umepotea! means 'Long time no see!'", "so": "Marka saaxiib loo yiraahdo, Umepotea! waxay ka dhigan tahay 'Waa lagu waayay!'" } },
+    { "id": "tw.nionyeshe-njia", "sw": "Nionyeshe njia", "en": "Show me the way", "so": "Jidka i tus", "v": "standard", "alt": ["nionyeshe njia tafadhali"] },
+    { "id": "tw.mbali-na-hapa", "sw": "Ni mbali na hapa?", "en": "Is it far from here?", "so": "Halkan ma ka fog yahay?", "v": "standard" },
+    { "id": "tw.hapa", "sw": "hapa", "en": "here", "so": "halkan", "v": "standard", "syn": "here" },
+    { "id": "tw.pale", "sw": "pale", "en": "there (that place)", "so": "halkaas", "v": "standard", "syn": "there", "note": { "en": "For a place further away or out of sight, say huko.", "so": "Meel ka sii fog ama aan la arkayn, dheh huko." } },
+
+    { "id": "tw.eastleigh", "sw": "Eastleigh kuna maduka mengi", "en": "There are lots of shops in Eastleigh", "so": "Eastleigh dukaamo badan ayaa ku yaal", "v": "standard", "say": "Istli kuna maduka mengi" },
+    { "id": "tw.jengo", "sw": "jengo", "en": "building", "so": "dhisme", "v": "standard" },
+    { "id": "tw.ghorofa-ya-pili", "sw": "ghorofa ya pili", "en": "second floor", "so": "dabaqa labaad", "v": "standard", "alt": ["floor ya pili"], "note": { "en": "In everyday speech you will also hear floor ya pili. Ghorofa on its own can mean a tall building.", "so": "Hadalka maalinlaha ah sidoo kale waxaad maqli doontaa floor ya pili. Ghorofa keligeed waxay ka dhigan kartaa dhisme dheer." } },
+    { "id": "tw.duka-la-nguo", "sw": "duka la nguo", "en": "clothes shop", "so": "dukaan dhar", "v": "standard" },
+    { "id": "tw.duka-liko-wapi", "sw": "Duka la Farah liko wapi?", "en": "Where is Farah's shop?", "so": "Dukaanka Faarax xaggee buu ku yaal?", "v": "standard", "alt": ["duka la farah iko wapi"], "note": { "en": "Duka takes liko in standard Swahili; many people just say iko.", "so": "Duka waxay qaadataa liko Sawaaxiliga rasmiga ah; dad badan waxay iska yiraahdaan iko." } },
+    { "id": "tw.chakula-cha-kisomali", "sw": "chakula cha Kisomali", "en": "Somali food", "so": "cunto Soomaali", "v": "standard" },
+    { "id": "tw.kuna-watu-wengi", "sw": "Kuna watu wengi", "en": "It's crowded (lit. there are many people)", "so": "Dad badan ayaa jooga", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "places-in-town",
+      "title": { "en": "Places in town", "so": "Meelaha magaalada" },
+      "items": ["tw.benki", "tw.posta", "tw.shule", "tw.chuo", "tw.maktaba"],
+      "extra": [
+        { "type": "gap", "before": "Nataka kutoa pesa. Naenda", "after": ".", "options": ["maktaba", "benki", "shule"], "answer": 1, "meaning": { "en": "I want to withdraw money. I'm going to the bank.", "so": "Waxaan doonayaa inaan lacag la baxo. Bangiga ayaan u socdaa." } },
+        { "type": "respond", "heard": "Maktaba iko wapi?", "options": ["Iko karibu na chuo.", "Nina kiu.", "Jumanne."], "answer": 0, "explain": { "en": "'Where is the library?' – 'It's near the college.'", "so": "'Maktabaddu xaggee bay ku taal?' – 'Waxay u dhow tahay kulliyadda.'" } },
+        { "type": "build", "prompt": { "en": "The school is near the library", "so": "Iskuulku wuxuu u dhow yahay maktabadda" }, "answer": "Shule iko karibu na maktaba", "extra": ["mbali", "benki"] }
+      ]
+    },
+    {
+      "id": "mosque-church-and-more",
+      "title": { "en": "Mosque, church and more", "so": "Masjid, kaniisad iyo wax kale" },
+      "items": ["tw.msikiti", "tw.kanisa", "tw.barabara", "tw.kituo-cha-mafuta", "tw.bustani"],
+      "extra": [
+        { "type": "gap", "before": "Gari halina mafuta. Twende", "after": ".", "options": ["kanisa", "bustani", "kituo cha mafuta"], "answer": 2, "meaning": { "en": "The car has no fuel. Let's go to the petrol station.", "so": "Gaarigu shidaal ma laha. Aan tagno kaalinta shidaalka." } },
+        { "type": "respond", "heard": "Kituo cha mafuta kiko wapi?", "options": ["Kiko karibu na kanisa.", "Napenda chai.", "Ni Jumatano."], "answer": 0, "explain": { "en": "'Where is the petrol station?' – 'It's near the church.' Kituo takes kiko.", "so": "'Kaalinta shidaalku xaggee bay ku taal?' – 'Waxay u dhow tahay kaniisadda.' Kituo waxay qaadataa kiko." } },
+        { "type": "build", "prompt": { "en": "The mosque is near the road", "so": "Masjidku wuxuu u dhow yahay waddada" }, "answer": "Msikiti uko karibu na barabara", "extra": ["mbali", "kanisa"] }
+      ]
+    },
+    {
+      "id": "where-is-it",
+      "title": { "en": "Where is it?", "so": "Xaggee buu ku yaal?" },
+      "items": ["tw.mbele-ya", "tw.nyuma-ya", "tw.kando-ya", "tw.katikati-ya", "tw.ngambo", "tw.karibu-na-benki"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Samahani, posta iko wapi?", "en": "Excuse me, where is the post office?", "so": "Iga raalli ahaw, boostadu xaggee bay ku taal?" },
+            { "who": "Nekesa", "sw": "Iko karibu na benki, mbele ya msikiti.", "en": "It's near the bank, in front of the mosque.", "so": "Waxay u dhow tahay bangiga, masjidka hortiisa." },
+            { "who": "Abdi", "sw": "Ni ng'ambo ya barabara?", "en": "Is it across the road?", "so": "Ma waddada dhinaceeda kale ayay ku taal?" },
+            { "who": "Nekesa", "sw": "Hapana, iko upande huu, kando ya duka la dawa.", "en": "No, it's on this side, next to the chemist.", "so": "Maya, dhinacan ayay ku taal, farmashiyaha agtiisa." },
+            { "who": "Abdi", "sw": "Asante sana!", "en": "Thank you very much!", "so": "Aad baad u mahadsan tahay!" }
+          ],
+          "question": { "en": "Where is the post office?", "so": "Boostadu xaggee bay ku taal?" },
+          "options": [
+            { "en": "Behind the school", "so": "Iskuulka gadaashiisa" },
+            { "en": "Near the bank, in front of the mosque", "so": "Bangiga agtiisa, masjidka hortiisa" },
+            { "en": "Across the road from the church", "so": "Kaniisadda waddada ka soo hor jeedda" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Benki iko katikati ya posta", "after": " msikiti.", "options": ["na", "ya", "kwa"], "answer": 0, "meaning": { "en": "The bank is between the post office and the mosque.", "so": "Bangigu wuxuu u dhexeeyaa boostada iyo masjidka." } },
+        { "type": "respond", "heard": "Shule iko mbele ya kanisa?", "options": ["Nimeshiba.", "Hapana, iko nyuma ya kanisa.", "Asubuhi."], "answer": 1, "explain": { "en": "'Is the school in front of the church?' – 'No, it's behind the church.'", "so": "'Iskuulku ma kaniisadda horteeda ayuu ku yaal?' – 'Maya, kaniisadda gadaasheeda ayuu ku yaal.'" } }
+      ]
+    },
+    {
+      "id": "the-kenyan-kwa",
+      "title": { "en": "At the shop: -ni and kwa", "so": "Dukaanka: -ni iyo kwa" },
+      "items": ["tw.dukani", "tw.niko-kwa-duka", "tw.kwa-mama-amina", "tw.unaenda-wapi", "tw.naenda-posta"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kamau", "sw": "Uko wapi?", "en": "Where are you?", "so": "Xaggee joogtaa?" },
+            { "who": "Zawadi", "sw": "Niko kwa duka. Nanunua maziwa.", "en": "I'm at the shop. I'm buying milk.", "so": "Dukaanka ayaan joogaa. Caano ayaan iibsanayaa." },
+            { "who": "Kamau", "sw": "Sawa. Mimi niko kwa Mama Amina.", "en": "Okay. I'm at Mama Amina's.", "so": "Hagaag. Aniga waxaan joogaa Mama Amina gurigeeda." },
+            { "who": "Zawadi", "sw": "Nakuja sasa hivi!", "en": "I'm coming right now!", "so": "Hadda ayaan imanayaa!" }
+          ],
+          "question": { "en": "Where is Zawadi?", "so": "Zawadi xaggee joogtaa?" },
+          "options": [
+            { "en": "At Mama Amina's", "so": "Mama Amina gurigeeda" },
+            { "en": "At the shop", "so": "Dukaanka" },
+            { "en": "At the post office", "so": "Boostada" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Unaenda wapi?", "options": ["Naenda dukani.", "Jumamosi.", "Napenda chai."], "answer": 0, "explain": { "en": "'Where are you going?' – 'I'm going to the shop.'", "so": "'Xaggee u socotaa?' – 'Dukaanka ayaan u socdaa.'" } },
+        { "type": "gap", "before": "Tukutane kwa Mama", "after": " saa nne.", "options": ["benki", "Amina", "posta"], "answer": 1, "meaning": { "en": "Let's meet at Mama Amina's at ten.", "so": "Aan ku kulanno Mama Amina gurigeeda tobanka." } }
+      ]
+    },
+    {
+      "id": "asking-the-way",
+      "title": { "en": "Asking the way", "so": "Weydiinta jidka" },
+      "items": ["tw.msikiti-uko-wapi", "tw.nimepotea", "tw.nionyeshe-njia", "tw.mbali-na-hapa", "tw.hapa", "tw.pale"],
+      "extra": [
+        { "type": "respond", "heard": "Ni mbali na hapa?", "options": ["Nina njaa.", "Leo ni Ijumaa.", "Hapana, ni pale tu."], "answer": 2, "explain": { "en": "'Is it far from here?' – 'No, it's just there.'", "so": "'Halkan ma ka fog yahay?' – 'Maya, waa halkaas uun.'" } },
+        { "type": "build", "prompt": { "en": "Excuse me, I'm lost. Show me the way", "so": "Iga raalli ahaw, waan lumay. Jidka i tus" }, "answer": "Samahani nimepotea nionyeshe njia", "extra": ["umepotea", "pale"] },
+        { "type": "gap", "before": "Msikiti", "after": " wapi?", "options": ["liko", "uko", "kiko"], "answer": 1, "meaning": { "en": "Where is the mosque?", "so": "Masjidku xaggee buu ku yaal?" } }
+      ]
+    },
+    {
+      "id": "eastleigh",
+      "goals": ["travel", "family"],
+      "title": { "en": "A trip to Eastleigh", "so": "Booqasho Eastleigh" },
+      "items": ["tw.eastleigh", "tw.jengo", "tw.ghorofa-ya-pili", "tw.duka-la-nguo", "tw.duka-liko-wapi", "tw.chakula-cha-kisomali", "tw.kuna-watu-wengi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Duka la Farah liko wapi?", "en": "Where is Farah's shop?", "so": "Dukaanka Faarax xaggee buu ku yaal?" },
+            { "who": "Halima", "sw": "Liko kwenye jengo lile, ghorofa ya pili.", "en": "It's in that building, on the second floor.", "so": "Wuxuu ku yaal dhismahaas, dabaqa labaad." },
+            { "who": "Amina", "sw": "Kuna watu wengi sana!", "en": "It's so crowded!", "so": "Dad aad u badan ayaa jooga!" },
+            { "who": "Halima", "sw": "Ndiyo, ni Jumamosi. Baadaye tule chakula cha Kisomali.", "en": "Yes, it's Saturday. Later let's eat Somali food.", "so": "Haa, waa Sabti. Goor dambe aan cunno cunto Soomaali." }
+          ],
+          "question": { "en": "Where is Farah's shop?", "so": "Dukaanka Faarax xaggee buu ku yaal?" },
+          "options": [
+            { "en": "On the ground floor", "so": "Dabaqa hoose" },
+            { "en": "Across the road", "so": "Waddada dhinaceeda kale" },
+            { "en": "On the second floor", "so": "Dabaqa labaad" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Unataka kununua nini?", "options": ["Ghorofa ya pili.", "Nguo za watoto.", "Kuna watu wengi."], "answer": 1, "explain": { "en": "'What do you want to buy?' – 'Children's clothes.'", "so": "'Maxaad doonaysaa inaad iibsato?' – 'Dhar carruureed.'" } },
+        { "type": "gap", "before": "Tunakula chakula cha", "after": " leo.", "options": ["Kisomali", "ghorofa", "jengo"], "answer": 0, "meaning": { "en": "We're eating Somali food today.", "so": "Maanta waxaan cunaynaa cunto Soomaali." } }
+      ]
+    }
+  ]
+}

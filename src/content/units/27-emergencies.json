@@ -1,0 +1,356 @@
+{
+  "id": "emergencies",
+  "order": 27,
+  "level": "B1",
+  "color": "#991b1b",
+  "reviewed": false,
+  "title": { "en": "Problems & Emergencies", "so": "Dhibaatooyin iyo Xaalado Degdeg ah" },
+  "swTitle": "Matatizo na Dharura",
+  "description": {
+    "en": "Ask for help, report a theft at the police station, deal with a lost phone or passport, handle an accident calmly and explain clearly what happened.",
+    "so": "Codso caawimaad, xatooyo ka soo sheeg saldhigga booliska, wax ka qabo taleefan ama baasaboor lumay, shil si deggan ula tacaal oo si cad u sheeg wixii dhacay."
+  },
+  "goals": ["travel"],
+  "guide": [
+    {
+      "title": { "en": "Emergency numbers", "so": "Lambarrada gurmadka degdegga" },
+      "body": {
+        "en": "In Kenya, dial 999 or 112 for the police, an ambulance or the fire brigade. Say numbers slowly: tisa tisa tisa, or moja moja mbili. Then say what happened, where you are (name a landmark near you) and whether someone is hurt (ameumia).",
+        "so": "Kenya, garaac 999 ama 112 si aad u hesho booliiska, ambalaas ama dab-damiska. Lambarrada si tartiib ah u sheeg: tisa tisa tisa, ama moja moja mbili. Kadib sheeg waxa dhacay, meesha aad joogto (magacaw meel caan ah oo kuu dhow) iyo haddii qof dhaawacmay (ameumia)."
+      },
+      "examples": [
+        { "sw": "Kumetokea ajali. Niko karibu na uwanja wa Kasarani.", "en": "There has been an accident. I'm near Kasarani stadium.", "so": "Shil baa dhacay. Waxaan joogaa meel u dhow garoonka Kasarani.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Mwizi! and crowd danger", "so": "Mwizi! iyo khatarta dadka badan" },
+      "body": {
+        "en": "If you shout Mwizi! (thief!) in a busy street, a crowd may chase and beat the suspect, and sometimes it is the wrong person. Stay calm, keep yourself safe, and call the police or go to the nearest police station instead. A phone or money can be replaced; your safety comes first.",
+        "so": "Haddii aad waddo dad badani ku jiraan ka qayliso Mwizi! (tuug!), dadku waxay eryan karaan oo garaaci karaan qofka looga shakiyey, mararka qaarna waa qof aan waxba galabsan. Is deji, naftaada ilaali, kadibna wac booliiska ama aad saldhigga booliska ee kuugu dhow. Taleefanka ama lacagta waa la beddeli karaa; badbaadadaadu ayaa ka horraysa."
+      },
+      "examples": [
+        { "sw": "Tulia, tutapiga simu polisi.", "en": "Stay calm, we'll call the police.", "so": "Is deji, booliiska ayaan wici doonnaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Reporting: the OB number", "so": "Soo sheegidda: lambarka OB" },
+      "body": {
+        "en": "To report a theft or a lost document, go to the police station and say Nataka kuripoti. The officer writes your report in the Occurrence Book (OB) and gives you an OB number. Keep it: you need it to replace an ID card, a SIM card or a passport, and for insurance. Kenyans address a police officer as afande.",
+        "so": "Si aad u soo sheegto xatooyo ama dukumenti lumay, aad saldhigga booliska oo dheh Nataka kuripoti. Sarkaalku warbixintaada wuxuu ku qoraa buugga dhacdooyinka (Occurrence Book, OB), wuxuuna ku siiyaa lambar OB ah. Hay: waxaad ugu baahan tahay beddelidda kaarka aqoonsiga, SIM-ka ama baasaboorka, iyo caymiska. Kenyaanku sarkaalka booliska waxay ugu yeeraan afande."
+      },
+      "examples": [
+        { "sw": "Afande, nataka kuripoti wizi.", "en": "Officer, I want to report a theft.", "so": "Sarkaal, waxaan rabaa inaan soo sheego xatooyo.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Things done to you: -iwa / -wa", "so": "Waxa laguu sameeyey: -iwa / -wa" },
+      "body": {
+        "en": "Swahili uses a passive verb to say what was done to you, and you are the subject. Kuiba (steal) → kuibiwa (be robbed): Nimeibiwa simu, lit. I have been robbed of a phone. Kunyang'anya (snatch) → kunyang'anywa. Kugonga (hit) → kugongwa: Amegongwa na gari (he has been hit by a car). Kupoteza (lose) is not passive: Nimepoteza pasipoti (I've lost my passport).",
+        "so": "Sawaaxiligu wuxuu isticmaalaa qaab ficil oo muujiya waxa lagu sameeyey, adiguna waxaad noqonaysaa falaha. Kuiba (xadid) → kuibiwa (in wax lagaa xado): Nimeibiwa simu, macnaha: taleefan baa la iga xaday. Kunyang'anya (dhicid) → kunyang'anywa. Kugonga (garaacid) → kugongwa: Amegongwa na gari (gaari ayaa jiidhay). Kupoteza (lumin) qaabkaas ma aha: Nimepoteza pasipoti (baasaboorkaygii waan lumiyey)."
+      },
+      "examples": [
+        { "sw": "Jana niliibiwa pochi sokoni.", "en": "Yesterday my wallet was stolen at the market.", "so": "Shalay boorsadayda lacagta suuqa ayaa lagaga xaday.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Telling what happened with -li-", "so": "Sheegidda wixii dhacay: -li-" },
+      "body": {
+        "en": "Use -li- for finished events in a story: nilienda (I went), aliiba (he stole), alikimbia (he ran). For what was going on in the background, use -likuwa with -ki-: nilikuwa nikitembea (I was walking). The negative past uses -ku-: sikumwona (I didn't see him). Use -me- for something that has just happened and still matters: Nimeibiwa simu.",
+        "so": "-li- u isticmaal dhacdooyinka dhammaaday ee sheekada: nilienda (waan tegey), aliiba (wuu xaday), alikimbia (wuu cararay). Waxa xilligaas socday, isticmaal -likuwa iyo -ki-: nilikuwa nikitembea (waan socday). Diidmada tagtadu waxay isticmaashaa -ku-: sikumwona (ma arkin). -me- u isticmaal wax hadda dhacay oo weli muhiim ah: Nimeibiwa simu."
+      },
+      "examples": [
+        { "sw": "Nilikuwa nikitembea, ghafla mtu akaninyang'anya simu.", "en": "I was walking, and suddenly someone snatched my phone.", "so": "Waan socday, si lama filaan ahna qof baa taleefanka iga dhacay.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "em.nisaidie", "sw": "Nisaidie!", "en": "Help me!", "so": "I caawi!", "v": "standard", "syn": "help", "note": { "en": "To several people: Nisaidieni! Tafadhali nisaidie = please help me.", "so": "Dad badan: Nisaidieni! Tafadhali nisaidie = fadlan i caawi." } },
+    { "id": "em.moto", "sw": "Moto!", "en": "Fire!", "so": "Dab!", "v": "standard", "note": { "en": "Kuna moto = there's a fire. The fire brigade: wazima moto.", "so": "Kuna moto = dab baa jira. Dab-damiska: wazima moto." } },
+    { "id": "em.polisi", "sw": "polisi", "en": "police / police officer", "so": "booliis", "v": "standard", "syn": "police", "note": { "en": "In Sheng you may hear karao for the police; use polisi or afande when you speak to them.", "so": "Sheng-ka waxaad maqli kartaa karao oo ah booliiska; marka aad la hadlayso, isticmaal polisi ama afande." } },
+    { "id": "em.piga-simu-polisi", "sw": "Piga simu polisi!", "en": "Call the police!", "so": "Booliiska wac!", "v": "everyday", "alt": ["wapigie polisi simu", "piga polisi simu"] },
+    { "id": "em.tisa-tisa-tisa", "sw": "Piga tisa tisa tisa", "en": "Call 999 (emergency number)", "so": "Wac 999 (lambarka gurmadka degdegga)", "v": "everyday", "alt": ["piga 999", "piga simu tisa tisa tisa", "piga nine nine nine"], "note": { "en": "999 and 112 (moja moja mbili) reach the police, ambulance and fire brigade in Kenya.", "so": "999 iyo 112 (moja moja mbili) Kenya waxay kugu xiraan booliiska, ambalaaska iyo dab-damiska." } },
+
+    { "id": "em.mwizi", "sw": "Mwizi!", "en": "Thief!", "so": "Tuug!", "v": "standard", "note": { "en": "Careful: shouting Mwizi! in a crowd can lead to mob violence, sometimes against the wrong person. It is safer to call the police.", "so": "Ka digtoonow: ku qaylinta Mwizi! dad badan dhexdooda waxay keeni kartaa in dadku qofka garaacaan, mararka qaarna qof aan dambi lahayn. Waxaa ammaan badan inaad booliiska wacdo." } },
+    { "id": "em.kibaka", "sw": "kibaka", "en": "pickpocket / petty thief", "so": "jeebsiibe", "v": "everyday", "note": { "en": "Plural: vibaka. Keep your phone in a front pocket in busy places.", "so": "Wadarta: vibaka. Meelaha dadku ku badan yihiin taleefankaaga ku hay jeebka hore." } },
+    { "id": "em.nimeibiwa-simu", "sw": "Nimeibiwa simu", "en": "My phone has been stolen", "so": "Taleefankaygii waa la iga xaday", "v": "standard", "alt": ["nimeibiwa simu yangu"], "note": { "en": "Kuiba = to steal; kuibiwa = to be robbed. Niliibiwa = I was robbed (past).", "so": "Kuiba = xadid; kuibiwa = in wax lagaa xado. Niliibiwa = wax baa la iga xaday (tagto)." } },
+    { "id": "em.nimenyanganywa", "sw": "Nimenyang'anywa mkoba", "en": "My bag has been snatched", "so": "Boorsadaydii waa la iga dhacay", "v": "standard", "alt": ["nimenyanganywa mkoba"], "note": { "en": "Kunyang'anya = to snatch or take by force. Kunyang'anywa = to have something snatched from you.", "so": "Kunyang'anya = xoog wax ku qaadasho. Kunyang'anywa = in xoog wax lagaa qaado." } },
+
+    { "id": "em.nilikuwa-nikitembea", "sw": "Nilikuwa nikitembea", "en": "I was walking", "so": "Waan socday", "v": "standard", "alt": ["nilikuwa natembea"], "note": { "en": "-likuwa + -ki- describes what was going on. In Nairobi you will also hear nilikuwa natembea.", "so": "-likuwa + -ki- waxay qeexdaa waxa socday. Nairobi sidoo kale waxaad maqli doontaa nilikuwa natembea." } },
+    { "id": "em.alichukua-pochi", "sw": "Alichukua pochi yangu", "en": "He/She took my wallet", "so": "Boorsadayda lacagta ayuu qaatay", "v": "standard", "note": { "en": "Pochi = wallet or purse (everyday Kenyan). -li- tells a finished event: alichukua = he/she took.", "so": "Pochi = boorsada lacagta (hadalka maalinlaha Kenya). -li- waxay sheegtaa dhacdo dhammaatay: alichukua = wuu qaatay." } },
+    { "id": "em.alikimbia", "sw": "Alikimbia upande ule", "en": "He/She ran that way", "so": "Dhankaas ayuu u cararay", "v": "standard" },
+    { "id": "em.sikumwona", "sw": "Sikumwona vizuri", "en": "I didn't see him/her clearly", "so": "Si fiican uma arkin", "v": "standard", "note": { "en": "Negative past: si- + -ku-. Compare Nilimwona = I saw him/her.", "so": "Diidmada tagtada: si- + -ku-. Isbarbar dhig Nilimwona = waan arkay." } },
+    { "id": "em.alikuwa-amevaa", "sw": "Alikuwa amevaa kofia nyeusi", "en": "He was wearing a black cap", "so": "Wuxuu xirnaa koofiyad madow", "v": "standard", "note": { "en": "Kuvaa = to put on clothes; amevaa = he/she is wearing. Useful when you describe someone to the police.", "so": "Kuvaa = dhar xirasho; amevaa = wuu xiran yahay. Waxtar leh marka aad booliiska qof u sharraxayso." } },
+
+    { "id": "em.kituo-cha-polisi", "sw": "kituo cha polisi", "en": "police station", "so": "saldhigga booliiska", "v": "standard" },
+    { "id": "em.nataka-kuripoti", "sw": "Nataka kuripoti wizi", "en": "I want to report a theft", "so": "Waxaan rabaa inaan soo sheego xatooyo", "v": "standard", "alt": ["nataka kuripoti", "ninataka kuripoti wizi"], "note": { "en": "Kuripoti = to report. Wizi = theft, mwizi = thief.", "so": "Kuripoti = soo sheegid. Wizi = xatooyo, mwizi = tuug." } },
+    { "id": "em.namba-ya-ob", "sw": "namba ya OB", "en": "OB number (police report number)", "so": "lambarka OB (lambarka warbixinta booliiska)", "v": "everyday", "say": "namba ya o bi", "alt": ["OB namba", "OB number", "namba ya o bi"], "note": { "en": "OB is the police Occurrence Book. Ask for the OB number; you need it to replace an ID, a SIM card or a passport.", "so": "OB waa buugga dhacdooyinka ee booliiska (Occurrence Book). Weydii lambarka OB; waxaad ugu baahan tahay beddelidda kaarka aqoonsiga, SIM-ka ama baasaboorka." } },
+    { "id": "em.kulitokea-nini", "sw": "Kulitokea nini?", "en": "What happened?", "so": "Maxaa dhacay?", "v": "standard", "alt": ["nini kilitokea", "nini ilitokea", "nini ilifanyika"], "note": { "en": "In Nairobi you will often hear Nini ilifanyika?", "so": "Nairobi badanaa waxaad maqli doontaa Nini ilifanyika?" }, "syn": "what-happened" },
+    { "id": "em.ilikuwa-saa", "sw": "Ilikuwa saa tatu usiku", "en": "It was 9 p.m. (Swahili time: hour three of the night)", "so": "Waxay ahayd sagaalkii habeennimo", "v": "standard", "note": { "en": "Swahili hours start at 7 a.m. and 7 p.m., so saa tatu usiku is 9 p.m.", "so": "Saacadaha Sawaaxiligu waxay ka bilowdaan 7-da subaxnimo iyo 7-da fiidnimo, sidaa darteed saa tatu usiku waa 9-ka habeennimo." } },
+    { "id": "em.shahidi", "sw": "shahidi", "en": "witness", "so": "markhaati", "v": "standard" },
+
+    { "id": "em.nimepoteza", "sw": "Nimepoteza kitambulisho changu", "en": "I've lost my ID card", "so": "Kaarkaygii aqoonsiga ayaan lumiyey", "v": "standard", "alt": ["nimepoteza kitambulisho", "nimepoteza ID yangu"], "note": { "en": "Kupoteza = to lose something. Kupotea = to get lost: Nimepotea = I'm lost.", "so": "Kupoteza = wax lumin. Kupotea = lumid: Nimepotea = waan lumay." } },
+    { "id": "em.pasipoti", "sw": "pasipoti", "en": "passport", "so": "baasaboor", "v": "standard", "alt": ["paspoti", "pasi"] },
+    { "id": "em.nimesahau", "sw": "Nimesahau simu kwa matatu", "en": "I've left my phone in a matatu", "so": "Taleefanka ayaan matatu-ga ku illaaway", "v": "everyday", "alt": ["nimesahau simu kwenye matatu", "nimesahau simu ndani ya matatu"], "note": { "en": "Kusahau = to forget, also to leave something behind. Kwa matatu is everyday Kenyan; the textbook says ndani ya matatu.", "so": "Kusahau = illaawid, sidoo kale wax meel kaga tagid. Kwa matatu waa hadalka maalinlaha Kenya; buugaagtu waxay leeyihiin ndani ya matatu." } },
+    { "id": "em.kuzuia-laini", "sw": "kuzuia laini", "en": "to block a SIM card (line)", "so": "xannibidda SIM-ka (laynka)", "v": "everyday", "alt": ["zuia laini"], "note": { "en": "Kenyans call a SIM card laini (line). After a theft, call your network to block it and protect your M-Pesa.", "so": "Kenyaanku SIM-ka waxay ku yiraahdaan laini (layn). Xatooyo kadib, wac shirkadda taleefankaaga si ay u xannibaan oo M-Pesa-daada u ilaaliyaan." } },
+    { "id": "em.imepatikana", "sw": "Imepatikana!", "en": "It has been found!", "so": "Waa la helay!", "v": "standard", "note": { "en": "Kupatikana = to be found. Simu yako imepatikana = your phone has been found.", "so": "Kupatikana = in la helo. Simu yako imepatikana = taleefankaagii waa la helay." } },
+
+    { "id": "em.ajali", "sw": "ajali", "en": "accident", "so": "shil", "v": "standard", "note": { "en": "Kumetokea ajali = there has been an accident.", "so": "Kumetokea ajali = shil baa dhacay." } },
+    { "id": "em.gari-lilimgonga", "sw": "Gari lilimgonga", "en": "A car hit him/her", "so": "Gaari ayaa jiidhay", "v": "standard", "note": { "en": "Gari takes li-: lilimgonga = it hit him/her. Kugongwa = to be hit: Amegongwa na gari.", "so": "Gari wuxuu qaataa li-: lilimgonga = wuu jiidhay. Kugongwa = in la jiidho: Amegongwa na gari." } },
+    { "id": "em.ameumia", "sw": "Ameumia", "en": "He/She is hurt", "so": "Wuu dhaawacmay", "v": "standard", "alt": ["ameumia sana"], "note": { "en": "On the news you will hear the formal word amejeruhiwa (has been injured).", "so": "Warka waxaad ka maqli doontaa erayga rasmiga ah amejeruhiwa (waa la dhaawacay)." } },
+    { "id": "em.tulia", "sw": "Tulia", "en": "Stay calm", "so": "Is deji", "v": "standard", "note": { "en": "To several people: Tulieni.", "so": "Dad badan: Tulieni." } },
+    { "id": "em.ambulansi", "sw": "ambulansi", "en": "ambulance", "so": "ambalaas", "v": "standard", "alt": ["ambulensi", "ambulance"] },
+    { "id": "em.dharura", "sw": "dharura", "en": "emergency", "so": "xaalad degdeg ah", "v": "standard", "note": { "en": "In Kenyan hospitals the emergency department is usually called Casualty.", "so": "Isbitaallada Kenya qaybta gurmadka degdegga ah badanaa waxaa loo yaqaan Casualty." } },
+
+    { "id": "em.mgeni", "sw": "Mimi ni mgeni hapa", "en": "I'm a visitor here", "so": "Halkan qariib baan ku ahay", "v": "standard", "note": { "en": "Mgeni = guest, visitor or stranger.", "so": "Mgeni = marti, booqde ama qof qariib ah." } },
+    { "id": "em.sielewi", "sw": "Sielewi Kiswahili vizuri", "en": "I don't understand Swahili well", "so": "Af-Sawaaxiliga si fiican uma fahmo", "v": "standard", "note": { "en": "Sema pole pole, tafadhali = please speak slowly.", "so": "Sema pole pole, tafadhali = fadlan si tartiib ah u hadal." } },
+    { "id": "em.mkalimani", "sw": "Nahitaji mkalimani", "en": "I need an interpreter", "so": "Turjumaan ayaan u baahanahay", "v": "standard", "alt": ["ninahitaji mkalimani"] },
+    { "id": "em.naomba-nipige-simu", "sw": "Naomba nipige simu", "en": "May I make a phone call?", "so": "Fadlan ma wici karaa?", "v": "standard", "note": { "en": "Naomba + the -e form is a polite request: Naomba nikae hapa = may I sit here?", "so": "Naomba + qaabka -e waa codsi edeb leh: Naomba nikae hapa = halkan ma fadhiisan karaa?" } },
+    { "id": "em.ubalozi", "sw": "ubalozi", "en": "embassy", "so": "safaarad", "v": "standard", "note": { "en": "Balozi = ambassador. Ubalozi wa Somalia = the Somali embassy.", "so": "Balozi = safiir. Ubalozi wa Somalia = safaaradda Soomaaliya." } }
+  ],
+  "lessons": [
+    {
+      "id": "call-for-help",
+      "title": { "en": "Calling for help", "so": "Codsiga caawimaadda" },
+      "items": ["em.nisaidie", "em.moto", "em.polisi", "em.piga-simu-polisi", "em.tisa-tisa-tisa"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Polisi", "sw": "Hapa ni polisi. Nikusaidie vipi?", "en": "This is the police. How can I help you?", "so": "Halkan waa booliiska. Sidee kuu caawin karaa?" },
+            { "who": "Achieng", "sw": "Kuna moto kwenye nyumba ya jirani yangu!", "en": "There's a fire at my neighbour's house!", "so": "Guriga deriskayga dab baa ka kacay!" },
+            { "who": "Polisi", "sw": "Uko wapi?", "en": "Where are you?", "so": "Xaggee joogtaa?" },
+            { "who": "Achieng", "sw": "Niko Kasarani, karibu na shule ya msingi.", "en": "I'm in Kasarani, near the primary school.", "so": "Waxaan joogaa Kasarani, meel u dhow dugsiga hoose." },
+            { "who": "Polisi", "sw": "Tulia. Wazima moto wanakuja sasa hivi.", "en": "Stay calm. The fire brigade is coming right now.", "so": "Is deji. Dab-damisku hadda ayay soo socdaan." }
+          ],
+          "question": { "en": "Where is the fire?", "so": "Dabku xaggee buu ka kacay?" },
+          "options": [
+            { "en": "At the primary school", "so": "Dugsiga hoose" },
+            { "en": "At Achieng's neighbour's house", "so": "Guriga deriska Achieng" },
+            { "en": "In a matatu", "so": "Matatu dhexdeeda" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Kuna moto jikoni!", "options": ["Karibu, kaa chini.", "Toka nje haraka, piga tisa tisa tisa!", "Sawa, nitapika baadaye."], "answer": 1, "explain": { "en": "'There's a fire in the kitchen!' – 'Get outside quickly, call 999!'", "so": "'Dab baa jikada ka kacay!' – 'Dibadda u bax si degdeg ah, wac 999!'" } },
+        { "type": "build", "prompt": { "en": "Please help me", "so": "Fadlan i caawi" }, "answer": "Tafadhali nisaidie", "extra": ["polisi", "moto"], "accept": ["Nisaidie tafadhali"] }
+      ]
+    },
+    {
+      "id": "theft",
+      "title": { "en": "Theft", "so": "Xatooyo" },
+      "items": ["em.mwizi", "em.kibaka", "em.nimeibiwa-simu", "em.nimenyanganywa"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Halima's phone", "so": "Taleefanka Halima" },
+          "lines": [
+            { "sw": "Jana jioni Halima alipanda matatu kwenda Eastleigh.", "en": "Yesterday evening Halima took a matatu to Eastleigh.", "so": "Shalay fiidkii Halima waxay raacday matatu u socotay Eastleigh." },
+            { "sw": "Matatu ilikuwa imejaa watu.", "en": "The matatu was full of people.", "so": "Matatu-gu dad buu ka buuxay." },
+            { "sw": "Alipofika Eastleigh, aliangalia mfukoni.", "en": "When she arrived in Eastleigh, she checked her pocket.", "so": "Markii ay gaartay Eastleigh, jeebkeeda ayay eegtay." },
+            { "sw": "Simu yake haikuwepo!", "en": "Her phone wasn't there!", "so": "Taleefankeedii meesha kuma jirin!" },
+            { "who": "Halima", "sw": "Nimeibiwa simu!", "en": "My phone has been stolen!", "so": "Taleefankaygii waa la iga xaday!" },
+            { "who": "Konda", "sw": "Pole sana. Vibaka ni wengi hapa.", "en": "I'm so sorry. There are many pickpockets here.", "so": "Aad baan uga xumahay. Jeebsiibayaashu halkan way ku badan yihiin." },
+            { "sw": "Halima hakupiga kelele. Alienda moja kwa moja kituo cha polisi.", "en": "Halima didn't shout. She went straight to the police station.", "so": "Halima ma qaylin. Waxay si toos ah u aadday saldhigga booliiska." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Where was Halima going?", "so": "Halima xaggee bay u socotay?" },
+              "options": [
+                { "en": "To Eastleigh", "so": "Eastleigh" },
+                { "en": "To Kasarani", "so": "Kasarani" },
+                { "en": "To the airport", "so": "Garoonka diyaaradaha" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "What did Halima do after the theft?", "so": "Maxay Halima samaysay xatooyada kadib?" },
+              "options": [
+                { "en": "She shouted Mwizi!", "so": "Waxay ku qaylisay Mwizi!" },
+                { "en": "She went to the police station", "so": "Waxay aadday saldhigga booliiska" },
+                { "en": "She went home", "so": "Waxay aadday guriga" }
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Nimenyang'anywa mkoba!", "options": ["Hongera!", "Ni pesa ngapi?", "Pole sana! Twende kituo cha polisi."], "answer": 2, "explain": { "en": "'My bag has been snatched!' – 'I'm so sorry! Let's go to the police station.'", "so": "'Boorsadaydii waa la iga dhacay!' – 'Aad baan uga xumahay! Aan aadno saldhigga booliiska.'" } },
+        { "type": "gap", "before": "Mwizi", "after": " simu yangu.", "options": ["ameiba", "ameibiwa", "nimeiba"], "answer": 0, "meaning": { "en": "A thief has stolen my phone.", "so": "Tuug ayaa taleefankayga xaday." } },
+        { "type": "build", "prompt": { "en": "Yesterday my phone was stolen", "so": "Shalay taleefankaygii waa la xaday" }, "answer": "Jana niliibiwa simu", "extra": ["kesho", "mwizi"], "accept": ["Niliibiwa simu jana"] }
+      ]
+    },
+    {
+      "id": "what-happened",
+      "title": { "en": "Describing what happened", "so": "Sharraxaadda wixii dhacay" },
+      "items": ["em.nilikuwa-nikitembea", "em.alichukua-pochi", "em.alikimbia", "em.sikumwona", "em.alikuwa-amevaa"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "A night near the market", "so": "Habeen suuqa agtiisa" },
+          "lines": [
+            { "sw": "Jumatatu usiku, Kiprotich alikuwa akitembea karibu na soko.", "en": "On Monday night, Kiprotich was walking near the market.", "so": "Isniintii habeennimo, Kiprotich wuxuu ku socday meel u dhow suuqa." },
+            { "sw": "Ghafla, kijana mmoja alimnyang'anya simu.", "en": "Suddenly, a young man snatched his phone.", "so": "Si lama filaan ah, nin dhallinyaro ah ayaa taleefanka ka dhacay." },
+            { "sw": "Kijana huyo alikimbia upande wa barabara kubwa.", "en": "The young man ran towards the main road.", "so": "Ninkii dhallinyarada ahaa wuxuu u cararay dhanka waddada weyn." },
+            { "sw": "Kiprotich alienda kituo cha polisi kueleza kilichotokea.", "en": "Kiprotich went to the police station to explain what had happened.", "so": "Kiprotich wuxuu aaday saldhigga booliiska si uu u sharxo wixii dhacay." },
+            { "who": "Polisi", "sw": "Ulimwona vizuri?", "en": "Did you see him clearly?", "so": "Si fiican ma u aragtay?" },
+            { "who": "Kiprotich", "sw": "Hapana, sikumwona vizuri. Alikuwa amevaa kofia nyeusi.", "en": "No, I didn't see him clearly. He was wearing a black cap.", "so": "Maya, si fiican uma arkin. Wuxuu xirnaa koofiyad madow." },
+            { "sw": "Polisi waliandika taarifa yake.", "en": "The police wrote down his statement.", "so": "Booliisku waxay qoreen warbixintiisii." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "What was the thief wearing?", "so": "Tuuggu maxuu xirnaa?" },
+              "options": [
+                { "en": "A red shirt", "so": "Shaati casaan ah" },
+                { "en": "A black cap", "so": "Koofiyad madow" },
+                { "en": "A blue jacket", "so": "Jaakad buluug ah" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "Which way did the thief run?", "so": "Tuuggu dhinacee buu u cararay?" },
+              "options": [
+                { "en": "Towards the main road", "so": "Dhanka waddada weyn" },
+                { "en": "Into the market", "so": "Suuqa gudihiisa" },
+                { "en": "Into a matatu", "so": "Matatu ayuu fuulay" }
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        { "type": "gap", "before": "Nilikuwa nikitembea,", "after": " mtu akaninyang'anya simu.", "options": ["kesho", "ghafla", "pole"], "answer": 1, "meaning": { "en": "I was walking, and suddenly someone snatched my phone.", "so": "Waan socday, si lama filaan ahna qof baa taleefanka iga dhacay." } },
+        { "type": "respond", "heard": "Alikimbia upande gani?", "options": ["Ni elfu tatu.", "Upande ule, kushoto.", "Niko nyumbani."], "answer": 1, "explain": { "en": "'Which way did he run?' – 'That way, to the left.'", "so": "'Dhinacee buu u cararay?' – 'Dhankaas, bidixda.'" } },
+        { "type": "build", "prompt": { "en": "I saw him yesterday", "so": "Shalay ayaan arkay" }, "answer": "Nilimwona jana", "extra": ["sikumwona", "kesho"] }
+      ]
+    },
+    {
+      "id": "at-the-police-station",
+      "title": { "en": "At the police station", "so": "Saldhigga booliiska" },
+      "items": ["em.kituo-cha-polisi", "em.nataka-kuripoti", "em.namba-ya-ob", "em.kulitokea-nini", "em.ilikuwa-saa", "em.shahidi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Habari, afande. Nataka kuripoti wizi.", "en": "Hello, officer. I want to report a theft.", "so": "Iska warran, sarkaal. Waxaan rabaa inaan soo sheego xatooyo." },
+            { "who": "Polisi", "sw": "Pole. Kulitokea nini?", "en": "I'm sorry. What happened?", "so": "Ka xumahay. Maxaa dhacay?" },
+            { "who": "Abdi", "sw": "Niliibiwa simu kwenye matatu.", "en": "My phone was stolen in a matatu.", "so": "Taleefankayga matatu dhexdeeda ayaa lagaga xaday." },
+            { "who": "Polisi", "sw": "Ilikuwa saa ngapi?", "en": "What time was it?", "so": "Saacaddu immisa ayay ahayd?" },
+            { "who": "Abdi", "sw": "Ilikuwa saa moja usiku.", "en": "It was 7 p.m.", "so": "Waxay ahayd toddobadii fiidnimo." },
+            { "who": "Polisi", "sw": "Sawa. Nimeandika taarifa yako. Chukua namba hii.", "en": "Okay. I've written your report. Take this number.", "so": "Hagaag. Warbixintaadii waan qoray. Lambarkan qaado." }
+          ],
+          "question": { "en": "When was Abdi's phone stolen?", "so": "Goorma ayaa taleefanka Abdi la xaday?" },
+          "options": [
+            { "en": "At 7 a.m.", "so": "Toddobada subaxnimo" },
+            { "en": "At 1 p.m.", "so": "Kowda duhurnimo" },
+            { "en": "At 7 p.m.", "so": "Toddobada fiidnimo" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Kulitokea nini?", "options": ["Hongera sana!", "Karibu tena.", "Niliibiwa simu yangu."], "answer": 2, "explain": { "en": "'What happened?' – 'My phone was stolen.'", "so": "'Maxaa dhacay?' – 'Taleefankaygii waa la xaday.'" } },
+        { "type": "gap", "before": "Nilienda kituo cha", "after": " kuripoti wizi.", "options": ["polisi", "matatu", "simu"], "answer": 0, "meaning": { "en": "I went to the police station to report the theft.", "so": "Waxaan aaday saldhigga booliiska si aan u soo sheego xatooyada." } },
+        { "type": "build", "prompt": { "en": "Who is the witness?", "so": "Markhaatigu waa kuma?" }, "answer": "Shahidi ni nani", "extra": ["wapi", "polisi"] }
+      ]
+    },
+    {
+      "id": "lost-things",
+      "title": { "en": "Lost things", "so": "Waxyaabo lumay" },
+      "items": ["em.nimepoteza", "em.pasipoti", "em.nimesahau", "em.kuzuia-laini", "em.imepatikana"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Konda, jana nilisahau simu kwenye matatu hii.", "en": "Conductor, yesterday I left my phone in this matatu.", "so": "Konda, shalay taleefankayga ayaan matatu-gan ku illaaway." },
+            { "who": "Konda", "sw": "Ni simu ya rangi gani?", "en": "What colour is the phone?", "so": "Taleefanku waa midabkee?" },
+            { "who": "Amina", "sw": "Ni nyeusi, ina kava nyekundu.", "en": "It's black, with a red cover.", "so": "Waa madow, galkeeduna waa casaan." },
+            { "who": "Konda", "sw": "Ngoja kidogo... Hii hapa! Imepatikana.", "en": "Wait a moment... Here it is! It's been found.", "so": "Wax yar sug... Waa kan! Waa la helay." },
+            { "who": "Amina", "sw": "Asante sana! Mungu akubariki.", "en": "Thank you so much! God bless you.", "so": "Aad baad u mahadsan tahay! Ilaahay ha ku barakeeyo." }
+          ],
+          "question": { "en": "What colour is Amina's phone?", "so": "Taleefanka Amina waa midabkee?" },
+          "options": [
+            { "en": "Red", "so": "Casaan" },
+            { "en": "White", "so": "Caddaan" },
+            { "en": "Black", "so": "Madow" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Umepoteza nini?", "options": ["Pasipoti yangu.", "Kwa miguu.", "Saa tatu."], "answer": 0, "explain": { "en": "'What have you lost?' – 'My passport.'", "so": "'Maxaad lumisay?' – 'Baasaboorkaygii.'" } },
+        { "type": "gap", "before": "Piga simu Safaricom uzuie", "after": " yako.", "options": ["pasipoti", "laini", "kodi"], "answer": 1, "meaning": { "en": "Call Safaricom and block your SIM card.", "so": "Wac Safaricom oo xannib SIM-kaaga." } },
+        { "type": "build", "prompt": { "en": "I've lost my passport", "so": "Baasaboorkaygii ayaan lumiyey" }, "answer": "Nimepoteza pasipoti yangu", "extra": ["imepatikana", "laini"] }
+      ]
+    },
+    {
+      "id": "accidents",
+      "title": { "en": "Accidents", "so": "Shilalka" },
+      "items": ["em.ajali", "em.gari-lilimgonga", "em.ameumia", "em.tulia", "em.ambulansi", "em.dharura"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "An accident on the road", "so": "Shil waddada ka dhacay" },
+          "lines": [
+            { "sw": "Asubuhi moja, Mutua alikuwa akisubiri matatu kando ya barabara.", "en": "One morning, Mutua was waiting for a matatu by the road.", "so": "Subax subaxyada ka mid ah, Mutua wuxuu waddada dhinaceeda ku sugayay matatu." },
+            { "sw": "Ghafla, gari moja lilimgonga mwendesha boda boda.", "en": "Suddenly, a car hit a boda boda rider.", "so": "Si lama filaan ah, gaari ayaa jiidhay nin wadayay boda boda." },
+            { "sw": "Mwendesha boda boda alianguka, lakini aliweza kuongea.", "en": "The rider fell, but he was able to talk.", "so": "Ninkii boda boda-da wadayay wuu dhacay, laakiin wuu hadli karay." },
+            { "sw": "Watu walikusanyika haraka.", "en": "People quickly gathered.", "so": "Dadku si degdeg ah ayay isugu yimaadeen." },
+            { "who": "Mutua", "sw": "Tulieni! Msimsogeze. Nitapiga tisa tisa tisa.", "en": "Stay calm, everyone! Don't move him. I'll call 999.", "so": "Is dejiya! Ha dhaqaajinina. 999 ayaan wacayaa." },
+            { "sw": "Baada ya dakika kumi, ambulansi ilifika.", "en": "After ten minutes, the ambulance arrived.", "so": "Toban daqiiqo kadib, ambalaaskii wuu yimid." },
+            { "sw": "Walimpeleka hospitali, na polisi walikuja kuandika taarifa.", "en": "They took him to hospital, and the police came to write a report.", "so": "Isbitaalka ayay geeyeen, booliiskuna waxay u yimaadeen inay warbixin qoraan." }
+          ],
+          "questions": [
+            {
+              "question": { "en": "Who was hit by the car?", "so": "Yaa gaarigu jiidhay?" },
+              "options": [
+                { "en": "A matatu conductor", "so": "Konda matatu" },
+                { "en": "A boda boda rider", "so": "Nin wadayay boda boda" },
+                { "en": "Mutua", "so": "Mutua" }
+              ],
+              "answer": 1
+            },
+            {
+              "question": { "en": "What did Mutua tell the people?", "so": "Maxuu Mutua ku yiri dadka?" },
+              "options": [
+                { "en": "To stay calm and not move the rider", "so": "Inay is dejiyaan oo aanay ninka dhaqaajin" },
+                { "en": "To chase the driver", "so": "Inay darawalka eryadaan" },
+                { "en": "To go home", "so": "Inay guriga aadaan" }
+              ],
+              "answer": 0
+            },
+            {
+              "question": { "en": "How long did the ambulance take?", "so": "Intee ayuu ambalaasku ku yimid?" },
+              "options": [
+                { "en": "One hour", "so": "Hal saac" },
+                { "en": "Two minutes", "so": "Laba daqiiqo" },
+                { "en": "Ten minutes", "so": "Toban daqiiqo" }
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        { "type": "respond", "heard": "Kumetokea ajali! Mtu ameumia.", "options": ["Tulia. Nitaita ambulansi sasa hivi.", "Sawa, tutaonana kesho.", "Nimeshiba, asante."], "answer": 0, "explain": { "en": "'There's been an accident! Someone is hurt.' – 'Stay calm. I'll call an ambulance right now.'", "so": "'Shil baa dhacay! Qof baa dhaawacmay.' – 'Is deji. Hadda ayaan u yeerayaa ambalaas.'" } },
+        { "type": "gap", "before": "Piga simu, tunahitaji", "after": " haraka!", "options": ["pasipoti", "ambulansi", "kodi"], "answer": 1, "meaning": { "en": "Call, we need an ambulance quickly!", "so": "Wac, ambalaas ayaan si degdeg ah ugu baahannahay!" } }
+      ]
+    },
+    {
+      "id": "far-from-home",
+      "goals": ["travel"],
+      "title": { "en": "Far from home", "so": "Meel ka fog guriga" },
+      "items": ["em.mgeni", "em.sielewi", "em.mkalimani", "em.naomba-nipige-simu", "em.ubalozi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Farah", "sw": "Samahani, afande. Mimi ni mgeni hapa, na nimepoteza pasipoti yangu.", "en": "Excuse me, officer. I'm a visitor here, and I've lost my passport.", "so": "Iga raalli ahaw, sarkaal. Halkan qariib baan ku ahay, baasaboorkaygiina waan lumiyey." },
+            { "who": "Polisi", "sw": "Pole. Utahitaji namba ya ripoti kutoka hapa.", "en": "I'm sorry. You'll need a report number from here.", "so": "Ka xumahay. Waxaad u baahan doontaa lambar warbixin oo halkan laga bixiyo." },
+            { "who": "Farah", "sw": "Sawa. Naomba nipige simu kwa ubalozi wangu.", "en": "Okay. May I call my embassy?", "so": "Hagaag. Fadlan safaaraddayda ma wici karaa?" },
+            { "who": "Polisi", "sw": "Ndiyo, tumia simu hii.", "en": "Yes, use this phone.", "so": "Haa, taleefankan isticmaal." }
+          ],
+          "question": { "en": "What has Farah lost?", "so": "Maxaa Farah ka lumay?" },
+          "options": [
+            { "en": "His phone", "so": "Taleefankiisa" },
+            { "en": "His passport", "so": "Baasaboorkiisa" },
+            { "en": "His bag", "so": "Boorsadiisa" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Unaelewa Kiswahili?", "options": ["Kidogo tu. Sema pole pole, tafadhali.", "Ndiyo, ni elfu tano.", "Ameumia."], "answer": 0, "explain": { "en": "'Do you understand Swahili?' – 'Only a little. Please speak slowly.'", "so": "'Af-Sawaaxiliga ma fahantaa?' – 'Wax yar oo keliya. Fadlan si tartiib ah u hadal.'" } },
+        { "type": "build", "prompt": { "en": "Where is the embassy?", "so": "Safaaraddu xaggee bay ku taal?" }, "answer": "Ubalozi uko wapi", "extra": ["mgeni", "pasipoti"] }
+      ]
+    }
+  ]
+}

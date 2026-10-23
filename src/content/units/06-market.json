@@ -1,0 +1,228 @@
+{
+  "id": "market",
+  "order": 6,
+  "level": "A1",
+  "color": "#0f766e",
+  "reviewed": false,
+  "title": { "en": "Market & Shopping", "so": "Suuqa iyo Wax Iibsiga" },
+  "swTitle": "Sokoni",
+  "description": {
+    "en": "Buy fruit and vegetables from mama mboga, ask for a kilo or a heap, bargain politely and shop by colour and size.",
+    "so": "Ka iibso miro iyo khudaar mama mboga, weydii kiilo ama raso, si edeb leh u gorgortan, oo wax ku iibso midab iyo cabbir."
+  },
+  "goals": ["travel", "business"],
+  "guide": [
+    {
+      "title": { "en": "Mama mboga", "so": "Mama mboga" },
+      "body": {
+        "en": "Mama mboga is the woman who sells vegetables from a small stall near your home. She knows her regular customers by name and may add a tomato or some dhania (coriander) for free. Produce is sold by the kilo or by the fungu, a small heap with a fixed price.",
+        "so": "Mama mboga waa haweeneyda khudaarta ka iibisa miis yar oo gurigaaga u dhow. Macaamiisheeda joogtada ah magacooda ayay taqaannaa, waxaana laga yaabaa inay kuu dheer siiso yaanyo ama caleen dhania ah bilaash. Khudaarta waxaa lagu iibiyaa kiilo ama fungu, oo ah raso yar oo qiimo go'an leh."
+      },
+      "examples": [
+        { "sw": "Fungu moja ni ngapi?", "en": "How much is one heap?", "so": "Hal raso waa immisa?", "v": "everyday" },
+        { "sw": "Nipe nusu kilo ya nyanya.", "en": "Give me half a kilo of tomatoes.", "so": "Nus kiilo oo yaanyo ah i sii.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Bargaining", "so": "Gorgortanka" },
+      "body": {
+        "en": "In open markets and with hawkers, bargaining is normal; in supermarkets and most dukas prices are fixed. Stay friendly. Ask Ni bei ya mwisho? (Is that the final price?), use Punguza kidogo from the numbers unit, offer a price with Nitakupa... (I'll give you...), and if it doesn't work, say Nitarudi baadaye and walk on.",
+        "so": "Suuqyada furan iyo iibiyeyaasha wareega, gorgortanku waa caadi; suuqyada waaweyn iyo dukaamada intooda badan qiimuhu waa go'an yahay. Saaxiibtinimo muuji. Weydii Ni bei ya mwisho? (Kani ma qiimaha ugu dambeeyaa?), isticmaal Punguza kidogo oo aad ka baratay cutubka tirooyinka, qiimo ku soo jeedi Nitakupa... (Waxaan ku siinayaa...), haddii aysan suurtoobinna dheh Nitarudi baadaye oo iska soco."
+      },
+      "examples": [
+        { "sw": "Ni bei ya mwisho?", "en": "Is that the final price?", "so": "Kani ma qiimaha ugu dambeeyaa?", "v": "standard" },
+        { "sw": "Punguza kidogo, nitakupa mia mbili.", "en": "Lower it a little, I'll give you two hundred.", "so": "Wax yar ka dhim, laba boqol ayaan ku siinayaa.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Colours", "so": "Midabada" },
+      "body": {
+        "en": "Colour words come after the noun: kofia nyeusi (a black cap). Red, black and white change with the noun: nguo nyekundu (red clothes) but shati jekundu (a red shirt), shati jeusi, shati jeupe. Kijani (green), njano (yellow) and bluu (blue) never change, and you often hear rangi ya... (the colour of...). Many Kenyans also just use English colour words.",
+        "so": "Erayada midabku waxay yimaadaan magaca kadib: kofia nyeusi (koofiyad madow). Casaan, madow iyo cad way isbeddelaan iyadoo loo eegayo magaca: nguo nyekundu (dhar casaan ah) laakiin shati jekundu (shaati casaan ah), shati jeusi, shati jeupe. Kijani (cagaar), njano (jaale) iyo bluu (buluug) marna isma beddelaan, badanaana waxaad maqlaysaa rangi ya... (midabka...). Kenyaan badan waxay sidoo kale isticmaalaan erayada midabka ee Ingiriisiga."
+      },
+      "examples": [
+        { "sw": "Nataka kofia nyeusi.", "en": "I want a black cap.", "so": "Waxaan doonayaa koofiyad madow.", "v": "standard" },
+        { "sw": "Nataka shati jeupe.", "en": "I want a white shirt.", "so": "Waxaan doonayaa shaati cad.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Big, small and the bag", "so": "Weyn, yar iyo bacda" },
+      "body": {
+        "en": "Kubwa (big) and ndogo (small) also change their start to match the noun: mtoto mdogo (a small child), kitu kikubwa (a big thing), but nguo kubwa (big clothes). In a shop, Kenyans say saizi for size. Bring your own bag: Kenya banned plastic carrier bags in 2017.",
+        "so": "Kubwa (weyn) iyo ndogo (yar) bilowgooda ayaa isbeddela si ay ula jaanqaadaan magaca: mtoto mdogo (ilmo yar), kitu kikubwa (wax weyn), laakiin nguo kubwa (dhar weyn). Dukaanka, Kenyaanku cabbirka waxay ugu yeeraan saizi. Bacdaada wado: Kenya waxay mamnuucday bacaha caagga ah sannadkii 2017."
+      },
+      "examples": [
+        { "sw": "Kuna saizi ndogo zaidi?", "en": "Is there a smaller size?", "so": "Ma jiraa cabbir ka yar?", "v": "everyday" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "mk.soko", "sw": "soko", "en": "market", "so": "suuq", "v": "standard", "syn": "market" },
+    { "id": "mk.sokoni", "sw": "sokoni", "en": "at / to the market", "so": "suuqa (ku jira ama u socda)", "v": "standard", "note": { "en": "Adding -ni to a place means 'at, in or to' it: soko → sokoni.", "so": "Ku darista -ni meel waxay ka dhigan tahay 'ku, gudaha ama u': soko → sokoni." } },
+    { "id": "mk.mama-mboga", "sw": "mama mboga", "en": "mama mboga (vegetable seller)", "so": "haweeneyda khudaarta iibisa", "v": "everyday", "note": { "en": "Lit. 'vegetable mother'. Call her Mama.", "so": "Macnaha erayga waa 'hooyada khudaarta'. Ugu yeer Mama." } },
+    { "id": "mk.mboga", "sw": "mboga", "en": "vegetables / side dish", "so": "khudaar / maraq", "v": "standard", "note": { "en": "In Kenya mboga is anything you eat with ugali, even meat or fish.", "so": "Kenya, mboga waa wax kasta oo ugali lala cuno, xitaa hilib ama kalluun." } },
+    { "id": "mk.kununua", "sw": "kununua", "en": "to buy", "so": "iibsasho", "v": "standard", "syn": "buy" },
+    { "id": "mk.kuuza", "sw": "kuuza", "en": "to sell", "so": "iibin", "v": "standard", "syn": "sell" },
+
+    { "id": "mk.nyanya", "sw": "nyanya", "en": "tomatoes", "so": "yaanyo", "v": "standard", "note": { "en": "Same word as nyanya (grandmother). The context makes it clear.", "so": "Waa isla erayga nyanya (ayeeyo). Xaaladda ayaa caddaysa." } },
+    { "id": "mk.vitunguu", "sw": "vitunguu", "en": "onions", "so": "basal", "v": "standard", "note": { "en": "One onion is kitunguu. Garlic is kitunguu saumu.", "so": "Hal basal waa kitunguu. Toonta waa kitunguu saumu." } },
+    { "id": "mk.viazi", "sw": "viazi", "en": "potatoes", "so": "baradho", "v": "standard", "note": { "en": "In Nairobi you will also hear waru, from Gikuyu.", "so": "Nairobi sidoo kale waxaad maqli doontaa waru, oo ka timid luqadda Gikuyu." } },
+    { "id": "mk.kabichi", "sw": "kabichi", "en": "cabbage", "so": "kaabash", "v": "standard" },
+    { "id": "mk.karoti", "sw": "karoti", "en": "carrots", "so": "karooto", "v": "standard" },
+
+    { "id": "mk.matunda", "sw": "matunda", "en": "fruit", "so": "miro", "v": "standard" },
+    { "id": "mk.ndizi", "sw": "ndizi", "en": "bananas", "so": "muus", "v": "standard" },
+    { "id": "mk.machungwa", "sw": "machungwa", "en": "oranges", "so": "liin macaan", "v": "standard" },
+    { "id": "mk.maembe", "sw": "maembe", "en": "mangoes", "so": "cambe", "v": "standard", "note": { "en": "One mango is embe.", "so": "Hal cambe waa embe." } },
+    { "id": "mk.parachichi", "sw": "parachichi", "en": "avocado", "so": "afakaado (avokaado)", "v": "standard", "alt": ["avocado"] },
+
+    { "id": "mk.kilo", "sw": "kilo", "en": "kilo", "so": "kiilo", "v": "standard" },
+    { "id": "mk.nusu-kilo", "sw": "nusu kilo", "en": "half a kilo", "so": "nus kiilo", "v": "standard" },
+    { "id": "mk.fungu", "sw": "fungu", "en": "heap / pile (of produce)", "so": "raso (khudaar la iibiyo)", "v": "standard", "note": { "en": "Tomatoes and onions are often sold in small heaps with one price. Two heaps: mafungu mawili.", "so": "Yaanyada iyo basasha badanaa waxaa lagu iibiyaa raso yaryar oo hal qiimo leh. Laba raso: mafungu mawili." } },
+    { "id": "mk.fungu-ngapi", "sw": "Fungu moja ni ngapi?", "en": "How much is one heap?", "so": "Hal raso waa immisa?", "v": "standard" },
+    { "id": "mk.nipe-kilo", "sw": "Nipe kilo moja ya machungwa", "en": "Give me one kilo of oranges", "so": "Hal kiilo oo liin macaan ah i sii", "v": "everyday" },
+
+    { "id": "mk.bei-ya-mwisho", "sw": "Ni bei ya mwisho?", "en": "Is that the final price?", "so": "Kani ma qiimaha ugu dambeeyaa?", "v": "standard", "alt": ["bei ya mwisho"] },
+    { "id": "mk.nitakupa", "sw": "Nitakupa mia mbili", "en": "I'll give you two hundred", "so": "Laba boqol ayaan ku siinayaa", "v": "standard" },
+    { "id": "mk.ongeza", "sw": "Ongeza kidogo", "en": "Add a little extra", "so": "Wax yar ii kordhi", "v": "everyday", "note": { "en": "A customer says this to get a little extra for free. A seller says it to ask you to raise your offer.", "so": "Macmiilku wuxuu yiraahdaa si uu wax yar oo dheeraad ah bilaash ugu helo. Iibiyuhu wuxuu yiraahdaa si uu kaaga codsado inaad qiimaha kordhiso." } },
+    { "id": "mk.nitarudi", "sw": "Nitarudi baadaye", "en": "I'll come back later", "so": "Goor dambe ayaan soo noqon doonaa", "v": "standard" },
+    { "id": "mk.chenji", "sw": "chenji", "en": "change (money back)", "so": "baaqi", "v": "everyday", "note": { "en": "Una chenji? = Do you have change? Small sellers often don't, so carry coins or use M-Pesa.", "so": "Una chenji? = Baaqi ma haysaa? Iibiyeyaasha yaryar badanaa ma haystaan, ee qaado qadaadiic ama isticmaal M-Pesa." } },
+
+    { "id": "mk.rangi", "sw": "rangi", "en": "colour", "so": "midab", "v": "standard" },
+    { "id": "mk.nyekundu", "sw": "nyekundu", "en": "red", "so": "casaan", "v": "standard", "note": { "en": "Changes with some nouns: shati jekundu (a red shirt).", "so": "Magacyada qaar ayuu la isbeddelaa: shati jekundu (shaati casaan ah)." } },
+    { "id": "mk.nyeusi", "sw": "nyeusi", "en": "black", "so": "madow", "v": "standard" },
+    { "id": "mk.nyeupe", "sw": "nyeupe", "en": "white", "so": "cad", "v": "standard" },
+    { "id": "mk.njano", "sw": "njano", "en": "yellow", "so": "jaale", "v": "standard", "alt": ["manjano"], "note": { "en": "Also manjano. Often rangi ya njano.", "so": "Sidoo kale manjano. Badanaa rangi ya njano." } },
+    { "id": "mk.kijani", "sw": "kijani", "en": "green", "so": "cagaar", "v": "standard", "note": { "en": "Often rangi ya kijani (lit. the colour of a leaf).", "so": "Badanaa rangi ya kijani (macnaha erayga: midabka caleenta)." } },
+    { "id": "mk.bluu", "sw": "bluu", "en": "blue", "so": "buluug", "v": "everyday", "alt": ["samawati"], "note": { "en": "The formal school word is samawati, but Kenyans say bluu.", "so": "Erayga rasmiga ah ee iskuulka waa samawati, laakiin Kenyaanku waxay yiraahdaan bluu." } },
+
+    { "id": "mk.duka", "sw": "duka", "en": "shop", "so": "dukaan", "v": "standard", "syn": "shop" },
+    { "id": "mk.kubwa", "sw": "kubwa", "en": "big", "so": "weyn", "v": "standard", "syn": "big" },
+    { "id": "mk.ndogo", "sw": "ndogo", "en": "small", "so": "yar", "v": "standard", "syn": "small", "note": { "en": "Changes with the noun: mtoto mdogo (a small child), kitu kidogo (a small thing).", "so": "Wuu isbeddelaa iyadoo loo eegayo magaca: mtoto mdogo (ilmo yar), kitu kidogo (wax yar)." } },
+    { "id": "mk.saizi-kubwa", "sw": "Kuna saizi kubwa zaidi?", "en": "Is there a bigger size?", "so": "Ma jiraa cabbir ka weyn?", "v": "everyday", "note": { "en": "Saizi is the everyday word for size.", "so": "Saizi waa erayga maalinlaha ah ee cabbirka." } },
+    { "id": "mk.naangalia-tu", "sw": "Naangalia tu", "en": "I'm just looking", "so": "Waan eegayaa uun", "v": "standard", "alt": ["ninaangalia tu"] },
+    { "id": "mk.mfuko", "sw": "mfuko", "en": "bag (shopping bag)", "so": "bac / kiish", "v": "standard", "note": { "en": "Plastic carrier bags are banned in Kenya, so shoppers carry cloth bags or a kiondo.", "so": "Bacaha caagga ah Kenya waa laga mamnuucay, sidaas darteed dukaameystayaashu waxay qaataan bac maro ah ama kiondo." } }
+  ],
+  "lessons": [
+    {
+      "id": "at-the-market",
+      "title": { "en": "At the market", "so": "Suuqa" },
+      "items": ["mk.soko", "mk.sokoni", "mk.mama-mboga", "mk.mboga", "mk.kununua", "mk.kuuza"],
+      "extra": [
+        { "type": "gap", "before": "Naenda", "after": " kununua mboga.", "options": ["sokoni", "kuuza", "matatu"], "answer": 0, "meaning": { "en": "I'm going to the market to buy vegetables.", "so": "Suuqa ayaan u socdaa si aan khudaar u iibsado." } },
+        { "type": "respond", "heard": "Karibu, mama! Unanunua nini leo?", "options": ["Tuko wapi?", "Nanunua mboga.", "Kwaheri."], "answer": 1, "explain": { "en": "'Welcome, madam! What are you buying today?' – 'I'm buying vegetables.'", "so": "'Soo dhowow, hooyo! Maanta maxaad iibsanaysaa?' – 'Khudaar ayaan iibsanayaa.'" } },
+        { "type": "build", "prompt": { "en": "Mama mboga sells vegetables", "so": "Mama mboga khudaar ayay iibisaa" }, "answer": "Mama mboga anauza mboga", "extra": ["ananunua", "sokoni"] }
+      ]
+    },
+    {
+      "id": "vegetables",
+      "title": { "en": "Vegetables", "so": "Khudaarta" },
+      "items": ["mk.nyanya", "mk.vitunguu", "mk.viazi", "mk.kabichi", "mk.karoti"],
+      "extra": [
+        { "type": "respond", "heard": "Unataka nini, mama?", "options": ["Nyanya na vitunguu.", "Nimeshiba.", "Pole pole."], "answer": 0, "explain": { "en": "'What do you want, madam?' – 'Tomatoes and onions.'", "so": "'Maxaad rabtaa, hooyo?' – 'Yaanyo iyo basal.'" } },
+        { "type": "gap", "before": "Nipe viazi na", "after": ", tafadhali.", "options": ["kuuza", "sokoni", "karoti"], "answer": 2, "meaning": { "en": "Give me potatoes and carrots, please.", "so": "Baradho iyo karooto i sii, fadlan." } },
+        { "type": "build", "prompt": { "en": "Tomatoes and cabbage", "so": "Yaanyo iyo kaabash" }, "answer": "Nyanya na kabichi", "extra": ["viazi", "kuuza"], "accept": ["Kabichi na nyanya"] }
+      ]
+    },
+    {
+      "id": "fruit",
+      "title": { "en": "Fruit", "so": "Miraha" },
+      "items": ["mk.matunda", "mk.ndizi", "mk.machungwa", "mk.maembe", "mk.parachichi"],
+      "extra": [
+        { "type": "respond", "heard": "Maembe ni matamu sana leo!", "options": ["Sawa, nipe matano.", "Naenda tao.", "Nina kiu."], "answer": 0, "explain": { "en": "'The mangoes are very sweet today!' – 'Okay, give me five.' Matano is five for ma- words like maembe.", "so": "'Cambuhu maanta aad bay u macaan yihiin!' – 'Hagaag, shan i sii.' Matano waa shan marka ay la socoto erayada ma- sida maembe." } },
+        { "type": "gap", "before": "Napenda", "after": " na ndizi.", "options": ["chenji", "machungwa", "sokoni"], "answer": 1, "meaning": { "en": "I like oranges and bananas.", "so": "Waxaan jeclahay liin macaan iyo muus." } },
+        { "type": "build", "prompt": { "en": "I'm buying fruit", "so": "Miro ayaan iibsanayaa" }, "answer": "Nanunua matunda", "extra": ["nauza", "maembe"] }
+      ]
+    },
+    {
+      "id": "kilo-or-heap",
+      "title": { "en": "A kilo or a heap?", "so": "Kiilo mise raso?" },
+      "items": ["mk.kilo", "mk.nusu-kilo", "mk.fungu", "mk.fungu-ngapi", "mk.nipe-kilo"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Habari, mama mboga! Fungu moja la nyanya ni ngapi?", "en": "Hello, mama mboga! How much is one heap of tomatoes?", "so": "Iska warran, mama mboga! Hal raso oo yaanyo ah waa immisa?" },
+            { "who": "Mama mboga", "sw": "Ni hamsini.", "en": "It's fifty.", "so": "Waa konton." },
+            { "who": "Wanjiku", "sw": "Nipe mafungu mawili, na nusu kilo ya viazi.", "en": "Give me two heaps, and half a kilo of potatoes.", "so": "Laba raso i sii, iyo nus kiilo oo baradho ah." },
+            { "who": "Mama mboga", "sw": "Sawa. Ni mia moja na hamsini.", "en": "Okay. That's one hundred and fifty.", "so": "Hagaag. Waa boqol iyo konton." },
+            { "who": "Wanjiku", "sw": "Hii hapa. Asante!", "en": "Here you are. Thank you!", "so": "Waa tan. Mahadsanid!" }
+          ],
+          "question": { "en": "How much is one heap of tomatoes?", "so": "Hal raso oo yaanyo ah waa immisa?" },
+          "options": [
+            { "en": "Fifty shillings", "so": "Konton shilin" },
+            { "en": "One hundred shillings", "so": "Boqol shilin" },
+            { "en": "One hundred and fifty shillings", "so": "Boqol iyo konton shilin" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Unataka kilo ngapi?", "options": ["Naenda tao.", "Asante sana.", "Kilo mbili, tafadhali."], "answer": 2, "explain": { "en": "'How many kilos do you want?' – 'Two kilos, please.'", "so": "'Immisa kiilo ayaad rabtaa?' – 'Laba kiilo, fadlan.'" } },
+        { "type": "build", "prompt": { "en": "Half a kilo of onions", "so": "Nus kiilo oo basal ah" }, "answer": "Nusu kilo ya vitunguu", "extra": ["fungu", "moja"] }
+      ]
+    },
+    {
+      "id": "bargaining",
+      "title": { "en": "Bargaining", "so": "Gorgortan" },
+      "items": ["mk.bei-ya-mwisho", "mk.nitakupa", "mk.ongeza", "mk.nitarudi", "mk.chenji"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Maembe ni pesa ngapi?", "en": "How much are the mangoes?", "so": "Cambuhu waa immisa?" },
+            { "who": "Muuzaji", "sw": "Kilo moja ni mia moja na hamsini.", "en": "One kilo is one hundred and fifty.", "so": "Hal kiilo waa boqol iyo konton." },
+            { "who": "Abdi", "sw": "Ni bei ya mwisho? Punguza kidogo.", "en": "Is that the final price? Lower it a little.", "so": "Kani ma qiimaha ugu dambeeyaa? Wax yar ka dhim." },
+            { "who": "Muuzaji", "sw": "Sawa, mia moja na ishirini.", "en": "Okay, one hundred and twenty.", "so": "Hagaag, boqol iyo labaatan." },
+            { "who": "Abdi", "sw": "Nitakupa mia moja.", "en": "I'll give you one hundred.", "so": "Boqol ayaan ku siinayaa." },
+            { "who": "Muuzaji", "sw": "Haya, chukua!", "en": "All right, take it!", "so": "Hagaag, qaado!" }
+          ],
+          "question": { "en": "What price do they agree on?", "so": "Qiimahee ayay isku raaceen?" },
+          "options": [
+            { "en": "One hundred and fifty shillings", "so": "Boqol iyo konton shilin" },
+            { "en": "One hundred shillings", "so": "Boqol shilin" },
+            { "en": "One hundred and twenty shillings", "so": "Boqol iyo labaatan shilin" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Bei ni mia tatu.", "options": ["Ni bei ya mwisho?", "Nina njaa.", "Nashuka hapa."], "answer": 0, "explain": { "en": "'The price is three hundred.' – 'Is that the final price?'", "so": "'Qiimuhu waa saddex boqol.' – 'Kani ma qiimaha ugu dambeeyaa?'" } },
+        { "type": "gap", "before": "Sina chenji. Nitarudi", "after": ".", "options": ["jana", "chenji", "baadaye"], "answer": 2, "meaning": { "en": "I don't have change. I'll come back later.", "so": "Baaqi ma haysto. Goor dambe ayaan soo noqon doonaa." } }
+      ]
+    },
+    {
+      "id": "colours",
+      "title": { "en": "Colours", "so": "Midabada" },
+      "items": ["mk.rangi", "mk.nyekundu", "mk.nyeusi", "mk.nyeupe", "mk.njano", "mk.kijani", "mk.bluu"],
+      "extra": [
+        { "type": "gap", "before": "Nataka kofia", "after": ".", "options": ["nyeusi", "kilo", "sokoni"], "answer": 0, "meaning": { "en": "I want a black cap.", "so": "Waxaan doonayaa koofiyad madow." } },
+        { "type": "respond", "heard": "Unapenda rangi gani?", "options": ["Nusu kilo.", "Nitarudi baadaye.", "Napenda bluu."], "answer": 2, "explain": { "en": "'Which colour do you like?' – 'I like blue.'", "so": "'Midabkee ayaad jeceshahay?' – 'Buluug ayaan jeclahay.'" } },
+        { "type": "build", "prompt": { "en": "I want a red shirt", "so": "Waxaan doonayaa shaati casaan ah" }, "answer": "Nataka shati jekundu", "extra": ["nyeupe", "bluu"] }
+      ]
+    },
+    {
+      "id": "in-the-shop",
+      "title": { "en": "In the shop", "so": "Dukaanka" },
+      "items": ["mk.duka", "mk.kubwa", "mk.ndogo", "mk.saizi-kubwa", "mk.naangalia-tu", "mk.mfuko"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Muuzaji", "sw": "Karibu! Naweza kukusaidia?", "en": "Welcome! Can I help you?", "so": "Soo dhowow! Ma ku caawin karaa?" },
+            { "who": "Halima", "sw": "Naangalia tu. Kuna saizi kubwa zaidi?", "en": "I'm just looking. Is there a bigger size?", "so": "Waan eegayaa uun. Ma jiraa cabbir ka weyn?" },
+            { "who": "Muuzaji", "sw": "Ndiyo. Unataka nyeusi au nyeupe?", "en": "Yes. Do you want black or white?", "so": "Haa. Ma madow baad rabtaa mise cad?" },
+            { "who": "Halima", "sw": "Nyeusi, tafadhali.", "en": "Black, please.", "so": "Madow, fadlan." },
+            { "who": "Muuzaji", "sw": "Hii hapa. Unataka mfuko?", "en": "Here it is. Do you want a bag?", "so": "Waa tan. Bac ma rabtaa?" },
+            { "who": "Halima", "sw": "Hapana, nina kiondo.", "en": "No, I have a basket.", "so": "Maya, dambiil ayaan sitaa." }
+          ],
+          "question": { "en": "Which colour does Halima choose?", "so": "Halima midabkee ayay dooratay?" },
+          "options": [
+            { "en": "White", "so": "Cad" },
+            { "en": "Black", "so": "Madow" },
+            { "en": "Red", "so": "Casaan" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Naweza kukusaidia?", "options": ["Naangalia tu, asante.", "Nina kiu sana.", "Simama!"], "answer": 0, "explain": { "en": "'Can I help you?' – 'I'm just looking, thanks.'", "so": "'Ma ku caawin karaa?' – 'Waan eegayaa uun, mahadsanid.'" } },
+        { "type": "build", "prompt": { "en": "This bag is small", "so": "Bacdani way yar tahay" }, "answer": "Mfuko huu ni mdogo", "extra": ["kubwa", "hii"] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "mpesa",
+  "order": 10,
+  "level": "A2",
+  "color": "#047857",
+  "reviewed": false,
+  "title": { "en": "M-Pesa & Phones", "so": "M-Pesa iyo Taleefanka" },
+  "swTitle": "M-Pesa na Simu",
+  "description": {
+    "en": "Send and withdraw money, pay with Paybill and till numbers, buy airtime and bundles, make calls and keep your phone money safe.",
+    "so": "Lacag dir oo la bax, ku bixi Paybill iyo lambarka till-ka, iibso kaarka hadalka iyo internet, taleefan wac oo lacagta taleefankaaga ilaali."
+  },
+  "goals": ["business", "travel"],
+  "guide": [
+    {
+      "title": { "en": "M-Pesa is everywhere", "so": "M-Pesa meel walba way joogtaa" },
+      "body": {
+        "en": "In Kenya people pay for almost everything with M-Pesa, Safaricom's mobile money: the matatu fare, the mama mboga, rent and school fees. It works like EVC Plus or ZAAD. You send (tuma), receive (pokea), withdraw cash at an agent (toa pesa) and deposit cash (weka pesa).",
+        "so": "Kenya dadku ku dhowaad wax walba waxay ku bixiyaan M-Pesa, lacagta taleefanka ee Safaricom: lacagta matatu-ga, mama mboga, kirada iyo lacagta iskuulka. Waxay u shaqaysaa sida EVC Plus ama ZAAD. Waad dirtaa (tuma), waad heshaa (pokea), wakiilka ayaad lacag caddaan ah kala baxdaa (toa pesa), waadna dhigtaa (weka pesa)."
+      },
+      "examples": [
+        { "sw": "Nimekutumia pesa.", "en": "I've sent you the money.", "so": "Lacagtii waan kuu diray.", "v": "standard" },
+        { "sw": "Nitakutumia jioni.", "en": "I'll send it to you this evening.", "so": "Fiidkii ayaan kuu soo diri doonaa.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Send me, send you: people inside the verb", "so": "Ii dir, kuu dir: qofka ficilka dhexdiisa" },
+      "body": {
+        "en": "Swahili puts the person inside the verb: -ni- is 'me', -ku- is 'you', -m- is 'him or her'. Tuma (send) becomes Nitumie (send me), Nikutumie? (shall I send you?) and Mtumie (send him/her). It works the same with piga simu: Nipigie (call me), Nitakupigia (I'll call you). The -ie / -ia ending shows the action is done to or for someone.",
+        "so": "Sawaaxiligu qofka wuxuu geliyaa ficilka dhexdiisa: -ni- waa 'aniga', -ku- waa 'adiga', -m- waa 'isaga ama iyada'. Tuma (dir) waxay noqotaa Nitumie (ii soo dir), Nikutumie? (ma kuu diraa?) iyo Mtumie (u dir). Sidoo kale piga simu: Nipigie (i soo wac), Nitakupigia (waan ku soo wici doonaa). Dhammaadka -ie / -ia wuxuu muujiyaa in ficilka qof loo samaynayo."
+      },
+      "examples": [
+        { "sw": "Mtumie Omar elfu moja.", "en": "Send Omar one thousand.", "so": "Omar u dir kun.", "v": "standard" },
+        { "sw": "Nipigie ukifika.", "en": "Call me when you arrive.", "so": "I soo wac markaad gaarto.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Paybill and till numbers", "so": "Paybill iyo lambarka till-ka" },
+      "body": {
+        "en": "Lipa na M-Pesa has two ways to pay. A shop or kibanda gives you a till number (Buy Goods): you enter the number and the amount. A company, a school or a landlord gives you a Paybill: you enter the business number and an account number. Before you enter your PIN, check that the name on the screen is right.",
+        "so": "Lipa na M-Pesa waxay leedahay laba siyaabood oo lacag lagu bixiyo. Dukaan ama kibanda wuxuu ku siinayaa lambar till ah (Buy Goods): waxaad gelinaysaa lambarka iyo lacagta. Shirkad, iskuul ama milkiilaha guriga waxay ku siinayaan Paybill: waxaad gelinaysaa lambarka ganacsiga iyo lambarka akoonka. Intaadan PIN-kaaga gelin, hubi in magaca shaashadda ku qoran uu sax yahay."
+      },
+      "examples": [
+        { "sw": "Nipe namba ya till, tafadhali.", "en": "Give me the till number, please.", "so": "Fadlan i sii lambarka till-ka.", "v": "everyday" }
+      ]
+    },
+    {
+      "title": { "en": "Keep your PIN secret", "so": "PIN-kaaga sir ka dhig" },
+      "body": {
+        "en": "Never tell anyone your PIN, not even someone who says they work for Safaricom. A common trick is a text that says 'I sent you money by mistake, please send it back'. Check your real balance first. Real M-Pesa messages come from M-PESA, not from an ordinary phone number.",
+        "so": "Qofna ha u sheegin PIN-kaaga, xitaa qof sheegta inuu Safaricom u shaqeeyo. Khiyaano caan ah waa fariin leh 'Lacag ayaan kuugu diray si qalad ah, fadlan ii soo celi'. Marka hore hubi haraagaaga dhabta ah. Fariimaha dhabta ah ee M-Pesa waxay ka yimaadaan M-PESA, ma aha lambar taleefan oo caadi ah."
+      },
+      "examples": [
+        { "sw": "Usimpe mtu namba yako ya siri.", "en": "Don't give anyone your PIN (secret number).", "so": "Qofna ha siin lambarkaaga sirta ah.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenya vs Tanzania on the phone", "so": "Kenya iyo Tanzania taleefanka" },
+      "body": {
+        "en": "Kenyans buy credit or airtime; in Tanzania you buy vocha. Data packages are bundles in Kenya (bando among young people) and vifurushi in Tanzania. Kenyans say namba ya simu; the textbook word is nambari.",
+        "so": "Kenyaanku waxay iibsadaan credit ama airtime; Tanzania waxaad iibsanaysaa vocha. Xirmooyinka internetka Kenya waxaa loo yaqaan bundles (dhallinyaraduna waxay yiraahdaan bando), Tanzania-na vifurushi. Kenyaanku waxay yiraahdaan namba ya simu; erayga buugaagtu waa nambari."
+      }
+    }
+  ],
+  "items": [
+    { "id": "mp.kutuma", "sw": "kutuma pesa", "en": "to send money", "so": "lacag dirid", "v": "standard", "alt": ["tuma pesa"] },
+    { "id": "mp.kupokea", "sw": "kupokea pesa", "en": "to receive money", "so": "lacag helid", "v": "standard", "alt": ["pokea pesa"] },
+    { "id": "mp.nimetuma", "sw": "Nimetuma", "en": "I've sent it", "so": "Waan diray", "v": "standard", "note": { "en": "-me- means the action is done: nimetuma (I have sent), umetuma (you have sent).", "so": "-me- waxay muujisaa in ficilku dhammaaday: nimetuma (waan diray), umetuma (waad dirtay)." } },
+    { "id": "mp.umepokea", "sw": "Umepokea?", "en": "Have you received it?", "so": "Ma heshay?", "v": "standard" },
+    { "id": "mp.nikutumie", "sw": "Nikutumie?", "en": "Shall I send it to you?", "so": "Ma kuu soo diraa?", "v": "standard", "note": { "en": "Compare Nitumie (send me). -ni- = me, -ku- = you.", "so": "Isbarbar dhig Nitumie (ii soo dir). -ni- = aniga, -ku- = adiga." } },
+    { "id": "mp.namba-ya-simu", "sw": "namba ya simu", "en": "phone number", "so": "lambarka taleefanka", "v": "everyday", "tz": "nambari ya simu" },
+    { "id": "mp.ujumbe", "sw": "ujumbe", "en": "message / text", "so": "fariin", "v": "standard", "syn": "message", "note": { "en": "Nitumie ujumbe = text me. Kenyans also say SMS or meseji.", "so": "Nitumie ujumbe = fariin ii soo dir. Kenyaanku sidoo kale waxay yiraahdaan SMS ama meseji." } },
+
+    { "id": "mp.wakala", "sw": "wakala", "en": "M-Pesa agent (shop)", "so": "wakiilka M-Pesa", "v": "standard", "alt": ["agent"], "note": { "en": "Agents are small shops with a green M-Pesa sign, where you withdraw and deposit cash. Many people just say agent.", "so": "Wakiilladu waa dukaamo yaryar oo leh calaamad cagaar ah oo M-Pesa ah, halkaas ayaad lacag caddaan ah kala baxdaa oo dhigtaa. Dad badan waxay si fudud u yiraahdaan agent." } },
+    { "id": "mp.kutoa", "sw": "kutoa pesa", "en": "to withdraw money", "so": "lacag kala bixid", "v": "standard", "alt": ["toa pesa"], "syn": "withdraw" },
+    { "id": "mp.kuweka", "sw": "kuweka pesa", "en": "to deposit money", "so": "lacag dhigid", "v": "standard", "alt": ["weka pesa"], "syn": "deposit", "note": { "en": "Weka also means 'put'.", "so": "Weka sidoo kale waxay ka dhigan tahay 'dhig'." } },
+    { "id": "mp.nataka-kutoa", "sw": "Nataka kutoa elfu mbili", "en": "I want to withdraw two thousand", "so": "Waxaan rabaa inaan kala baxo laba kun", "v": "standard", "alt": ["ninataka kutoa elfu mbili"] },
+    { "id": "mp.kitambulisho", "sw": "kitambulisho", "en": "ID card", "so": "kaarka aqoonsiga", "v": "standard", "alt": ["ID"], "note": { "en": "Agents ask for your ID. Kenyans often just say ID (ai-di).", "so": "Wakiilladu waxay ku weydiinayaan kaarka aqoonsiga. Kenyaanku badanaa waxay yiraahdaan ID (ay-di)." } },
+    { "id": "mp.salio", "sw": "salio", "en": "balance (money left)", "so": "haraaga lacagta", "v": "standard", "note": { "en": "Salio langu = my balance. Check it in the M-Pesa menu.", "so": "Salio langu = haraagayga. Ka eeg liiska M-Pesa." } },
+
+    { "id": "mp.paybill", "sw": "Paybill", "en": "Paybill (paying a company)", "so": "Paybill (lacag siinta shirkad)", "v": "everyday", "say": "peibil", "alt": ["pay bill", "peibil"], "note": { "en": "You need a business number (namba ya biashara) and an account number. Used for rent, power, water and school fees.", "so": "Waxaad u baahan tahay lambarka ganacsiga (namba ya biashara) iyo lambarka akoonka. Waxaa loo isticmaalaa kirada, korontada, biyaha iyo lacagta iskuulka." } },
+    { "id": "mp.akaunti", "sw": "namba ya akaunti", "en": "account number", "so": "lambarka akoonka", "v": "standard" },
+    { "id": "mp.till", "sw": "namba ya till", "en": "till number (Buy Goods)", "so": "lambarka till-ka (Buy Goods)", "v": "everyday", "say": "namba ya tili", "alt": ["till", "namba ya tili"], "note": { "en": "Shops show a till number. In the menu choose Lipa na M-Pesa, then Buy Goods.", "so": "Dukaamadu waxay soo bandhigaan lambar till ah. Liiska ka dooro Lipa na M-Pesa, kadibna Buy Goods." } },
+    { "id": "mp.pin", "sw": "PIN", "en": "PIN (secret number)", "so": "PIN (lambarka sirta ah)", "v": "everyday", "say": "pin", "alt": ["pin", "namba ya siri"], "note": { "en": "Also called namba ya siri (secret number).", "so": "Sidoo kale waxaa la yiraahdaa namba ya siri (lambarka sirta ah)." } },
+    { "id": "mp.thibitisha", "sw": "thibitisha", "en": "confirm", "so": "xaqiiji", "v": "standard", "note": { "en": "You will see it on Swahili phone screens. In speech people also say confirm.", "so": "Waxaad ku arki doontaa shaashadaha taleefanka ee Sawaaxiliga. Hadalka, dadku sidoo kale waxay yiraahdaan confirm." } },
+
+    { "id": "mp.credit", "sw": "credit", "en": "airtime (phone credit)", "so": "kaarka hadalka (airtime)", "v": "everyday", "say": "kredit", "alt": ["airtime", "kredit"], "tz": "vocha", "syn": "airtime" },
+    { "id": "mp.kununua-credit", "sw": "Nataka kununua credit", "en": "I want to buy airtime", "so": "Waxaan rabaa inaan iibsado kaarka hadalka", "v": "everyday", "say": "Nataka kununua kredit", "alt": ["nataka kununua airtime", "nataka kununua kredit"] },
+    { "id": "mp.bundles", "sw": "bundles", "en": "data bundles", "so": "xirmooyinka internetka", "v": "everyday", "say": "bandoz", "alt": ["data", "bando"], "tz": "vifurushi", "syn": "data" },
+    { "id": "mp.okoa-jahazi", "sw": "Okoa Jahazi", "en": "Okoa Jahazi (airtime on credit)", "so": "Okoa Jahazi (kaarka hadalka oo amaah ah)", "v": "everyday", "note": { "en": "A Safaricom service that lends you airtime when yours runs out; it is taken back when you next top up. The name means 'save the ship'.", "so": "Adeeg Safaricom ah oo kuu amaahiya kaarka hadalka marka kaagu dhammaado; waa laga gooyaa marka xigta ee aad shubato. Magacu wuxuu ka dhigan yahay 'badbaadi doonta'." } },
+    { "id": "mp.kupiga-simu", "sw": "kupiga simu", "en": "to make a phone call", "so": "taleefan wacid", "v": "standard", "syn": "call" },
+    { "id": "mp.nipigie", "sw": "Nipigie", "en": "Call me", "so": "I soo wac", "v": "standard" },
+    { "id": "mp.pokea-simu", "sw": "Pokea simu!", "en": "Answer the phone!", "so": "Taleefanka qaad!", "v": "standard", "note": { "en": "Kenyans 'receive' a call: pokea simu. Simu inalia = the phone is ringing.", "so": "Kenyaanku wicitaanka way 'helaan': pokea simu. Simu inalia = taleefanku wuu dhacayaa." } },
+
+    { "id": "mp.simu-imezima", "sw": "Simu yangu imezima", "en": "My phone has switched off (battery died)", "so": "Taleefankaygii wuu demay", "v": "everyday", "alt": ["simu imezima"], "note": { "en": "Chaji imeisha = the battery has run out. Kuchaji simu = to charge the phone.", "so": "Chaji imeisha = baytarigii wuu dhammaaday. Kuchaji simu = taleefanka dallacid." } },
+    { "id": "mp.hapatikani", "sw": "Hapatikani", "en": "He/She can't be reached", "so": "Lama heli karo", "v": "standard", "note": { "en": "When a phone is off, a recorded voice tells you the customer hapatikani kwa sasa (can't be reached right now).", "so": "Marka taleefan dansan yahay, cod duuban ayaa kuu sheegaya in macmiilka hapatikani kwa sasa (aan hadda la heli karin)." } },
+    { "id": "mp.missed-call", "sw": "missed call", "en": "missed call", "so": "miskool (wicitaan aan la qaban)", "v": "everyday", "say": "mis kol", "alt": ["misikoli"], "syn": "missed-call", "note": { "en": "Nimeona missed call yako = I saw your missed call.", "so": "Nimeona missed call yako = waan arkay wicitaankaagii aan la qaban." } },
+    { "id": "mp.usimpe", "sw": "Usimpe mtu PIN yako", "en": "Don't give anyone your PIN", "so": "Qofna ha siin PIN-kaaga", "v": "standard", "say": "Usimpe mtu pin yako", "alt": ["usimpe mtu pin yako", "usimpe mtu namba yako ya siri"] },
+    { "id": "mp.tapeli", "sw": "tapeli", "en": "scammer / con man", "so": "qof khiyaano ah (khaa'in)", "v": "standard", "syn": "scammer", "note": { "en": "Plural: matapeli. Kenyans also say conman.", "so": "Wadarta: matapeli. Kenyaanku sidoo kale waxay yiraahdaan conman." } },
+    { "id": "mp.kimakosa", "sw": "Nimekutumia pesa kimakosa", "en": "I sent you money by mistake", "so": "Lacag ayaan kuugu diray si qalad ah", "v": "standard", "note": { "en": "A classic scam text. Check your real balance, and never send money back to a stranger.", "so": "Waa fariin khiyaano oo caan ah. Hubi haraagaaga dhabta ah, marnabana lacag ha u celin qof aadan aqoon." } },
+
+    { "id": "mp.mauzo", "sw": "mauzo", "en": "sales", "so": "iibka (wixii la iibiyey)", "v": "standard", "note": { "en": "From kuuza (to sell). Mauzo ya leo = today's sales.", "so": "Waxay ka timid kuuza (iibin). Mauzo ya leo = iibka maanta." } },
+    { "id": "mp.gharama", "sw": "gharama", "en": "cost / charges", "so": "kharashka", "v": "standard", "syn": "cost", "note": { "en": "Gharama ya kutuma = the cost of sending money.", "so": "Gharama ya kutuma = kharashka lacag dirista." } },
+    { "id": "mp.jina-sahihi", "sw": "Jina ni sahihi?", "en": "Is the name correct?", "so": "Magacu ma sax yahay?", "v": "standard", "note": { "en": "Before you enter the PIN, the screen shows who will get the money. Always check it.", "so": "Intaadan PIN-ka gelin, shaashaddu waxay muujisaa qofka lacagta helaya. Marwalba hubi." } },
+    { "id": "mp.bado-haujaingia", "sw": "Ujumbe bado haujaingia", "en": "The message hasn't come in yet", "so": "Fariintii weli ma iman", "v": "standard", "note": { "en": "Shopkeepers wait for the M-Pesa message before they hand over the goods.", "so": "Dukaanlayaashu waxay sugaan fariinta M-Pesa ka hor intaanay alaabta dhiibin." } },
+    { "id": "mp.taarifa", "sw": "taarifa ya M-Pesa", "en": "M-Pesa statement", "so": "warbixinta M-Pesa", "v": "standard", "say": "taarifa ya Em-Pesa", "alt": ["statement ya mpesa", "taarifa ya mpesa"], "note": { "en": "A list of all your payments. Banks and landlords sometimes ask for it. Many Kenyans just say statement.", "so": "Liiska dhammaan lacag-bixintaada. Bangiyada iyo milkiilayaasha guryaha mararka qaar ayay codsadaan. Kenyaan badan waxay si fudud u yiraahdaan statement." } },
+
+    { "id": "mp.nibip", "sw": "Nibip", "en": "Give me a missed call (beep me)", "so": "Miskool ii soo dir", "v": "everyday", "alt": ["nibeep", "nibipu"], "syn": "missed-call", "note": { "en": "From English beep: you ring once and hang up so the other person calls back. Ukifika, nibip = beep me when you arrive.", "so": "Waxay ka timid erayga Ingiriisiga beep: hal mar ayaad garaacdaa oo jartaa si qofka kale kuu soo waco. Ukifika, nibip = markaad gaarto miskool ii soo dir." } },
+    { "id": "mp.niflash", "sw": "Niflash", "en": "Flash me (give me a missed call)", "so": "Miskool ii soo dir (Sheng)", "v": "sheng", "alt": ["niflashie", "nifleshi"], "syn": "missed-call" },
+    { "id": "mp.bando", "sw": "bando", "en": "data bundles (Sheng)", "so": "internet (Sheng)", "v": "sheng", "syn": "data", "note": { "en": "Sina bando = I have no data. Very common, even in adverts.", "so": "Sina bando = internet ma haysto. Aad bay u caan tahay, xitaa xayaysiisyada." } },
+    { "id": "mp.credo", "sw": "credo", "en": "airtime (Sheng)", "so": "kaarka hadalka (Sheng)", "v": "sheng", "say": "kredo", "alt": ["kredo"], "syn": "airtime", "note": { "en": "Sheng changes fast; some young people may find this word a little dated.", "so": "Sheng-ku si dhakhso ah ayuu isu beddelaa; dhallinyarada qaarkood waxaa laga yaabaa inay eraygan u arkaan mid yara duugoobay." } }
+  ],
+  "lessons": [
+    {
+      "id": "send-money",
+      "title": { "en": "Sending and receiving", "so": "Dirid iyo helid" },
+      "items": ["mp.kutuma", "mp.kupokea", "mp.nimetuma", "mp.umepokea", "mp.nikutumie", "mp.namba-ya-simu", "mp.ujumbe"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Omar, nimekutumia elfu moja.", "en": "Omar, I've sent you one thousand.", "so": "Omar, kun ayaan kuu diray." },
+            { "who": "Omar", "sw": "Ngoja kidogo... Bado sijapokea.", "en": "Wait a moment... I haven't received it yet.", "so": "Wax yar sug... Weli ma helin." },
+            { "who": "Amina", "sw": "Angalia ujumbe wako.", "en": "Check your messages.", "so": "Fariimahaaga eeg." },
+            { "who": "Omar", "sw": "Sawa, nimepokea sasa. Asante sana!", "en": "Okay, I've received it now. Thank you very much!", "so": "Hagaag, hadda waan helay. Aad baad u mahadsan tahay!" }
+          ],
+          "question": { "en": "How much did Amina send?", "so": "Immisa ayay Amina dirtay?" },
+          "options": [
+            { "en": "One hundred shillings", "so": "Boqol shilin" },
+            { "en": "One thousand shillings", "so": "Kun shilin" },
+            { "en": "Two thousand shillings", "so": "Laba kun oo shilin" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Umepokea?", "options": ["Nashuka hapa.", "Karibu nyumbani.", "Ndiyo, nimepokea. Asante!"], "answer": 2, "explain": { "en": "'Have you received it?' – 'Yes, I've received it. Thanks!'", "so": "'Ma heshay?' – 'Haa, waan helay. Mahadsanid!'" } },
+        { "type": "gap", "before": "Nikutumie", "after": " sasa?", "options": ["pesa", "jana", "hapana"], "answer": 0, "meaning": { "en": "Shall I send you the money now?", "so": "Lacagta hadda ma kuu soo diraa?" } },
+        { "type": "build", "prompt": { "en": "Send me a message", "so": "Fariin ii soo dir" }, "answer": "Nitumie ujumbe", "extra": ["pokea", "namba"] }
+      ]
+    },
+    {
+      "id": "at-the-agent",
+      "title": { "en": "At the M-Pesa agent", "so": "Wakiilka M-Pesa" },
+      "items": ["mp.wakala", "mp.kutoa", "mp.kuweka", "mp.nataka-kutoa", "mp.kitambulisho", "mp.salio"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Abdi", "sw": "Habari, mama. Nataka kutoa elfu mbili.", "en": "Hello, madam. I want to withdraw two thousand.", "so": "Iska warran, eedo. Waxaan rabaa inaan kala baxo laba kun." },
+            { "who": "Mwikali", "sw": "Sawa. Nipe kitambulisho chako, tafadhali.", "en": "Okay. Give me your ID card, please.", "so": "Hagaag. Fadlan i sii kaarkaaga aqoonsiga." },
+            { "who": "Abdi", "sw": "Hiki hapa.", "en": "Here it is.", "so": "Waa kan." },
+            { "who": "Mwikali", "sw": "Asante. Nimepokea ujumbe. Hizi hapa elfu mbili.", "en": "Thank you. I've got the message. Here is two thousand.", "so": "Mahadsanid. Fariintii waan helay. Waa kuwan laba kun." }
+          ],
+          "question": { "en": "What does the agent ask Abdi for?", "so": "Maxay wakiishu Abdi ka codsatay?" },
+          "options": [
+            { "en": "His phone number", "so": "Lambarkiisa taleefanka" },
+            { "en": "A receipt", "so": "Rasiid" },
+            { "en": "His ID card", "so": "Kaarkiisa aqoonsiga" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Unataka kutoa pesa ngapi?", "options": ["Elfu tatu, tafadhali.", "Nimeshiba.", "Kwaheri, mama."], "answer": 0, "explain": { "en": "'How much do you want to withdraw?' – 'Three thousand, please.'", "so": "'Immisa ayaad rabtaa inaad kala baxdo?' – 'Saddex kun, fadlan.'" } },
+        { "type": "gap", "before": "Salio", "after": " ni elfu tano.", "options": ["kesho", "langu", "haraka"], "answer": 1, "meaning": { "en": "My balance is five thousand.", "so": "Haraagaygu waa shan kun." } },
+        { "type": "build", "prompt": { "en": "I want to deposit money", "so": "Waxaan rabaa inaan lacag dhigto" }, "answer": "Nataka kuweka pesa", "extra": ["salio", "ujumbe"], "accept": ["Ninataka kuweka pesa"] }
+      ]
+    },
+    {
+      "id": "paybill-and-till",
+      "title": { "en": "Paybill and till", "so": "Paybill iyo till" },
+      "items": ["mp.paybill", "mp.akaunti", "mp.till", "mp.pin", "mp.thibitisha"],
+      "extra": [
+        { "type": "respond", "heard": "Namba ya akaunti ni gani?", "options": ["Ni ghali sana.", "Ni namba ya nyumba yangu.", "Tutaonana kesho."], "answer": 1, "explain": { "en": "'What is the account number?' – 'It's my house number.' Landlords often use the house number as the account.", "so": "'Lambarka akoonku waa kee?' – 'Waa lambarka gurigayga.' Milkiilayaashu badanaa lambarka guriga ayay akoon ahaan u isticmaalaan." } },
+        { "type": "gap", "before": "Weka namba ya biashara na namba ya", "after": ".", "options": ["akaunti", "jana", "haraka"], "answer": 0, "meaning": { "en": "Enter the business number and the account number.", "so": "Geli lambarka ganacsiga iyo lambarka akoonka." } },
+        { "type": "build", "prompt": { "en": "Enter your PIN", "so": "Geli PIN-kaaga" }, "answer": "Weka namba yako ya siri", "extra": ["salio", "tuma"] }
+      ]
+    },
+    {
+      "id": "airtime-and-calls",
+      "title": { "en": "Airtime and calls", "so": "Kaarka hadalka iyo wicitaanka" },
+      "items": ["mp.credit", "mp.kununua-credit", "mp.bundles", "mp.okoa-jahazi", "mp.kupiga-simu", "mp.nipigie", "mp.pokea-simu"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Kamau, nipigie jioni, tafadhali.", "en": "Kamau, call me this evening, please.", "so": "Kamau, fadlan fiidkii i soo wac." },
+            { "who": "Kamau", "sw": "Sawa, lakini credit imeisha.", "en": "Okay, but my airtime has run out.", "so": "Hagaag, laakiin kaarkii hadalka wuu iga dhammaaday." },
+            { "who": "Wanjiku", "sw": "Nunua credit, au tumia Okoa Jahazi.", "en": "Buy airtime, or use Okoa Jahazi.", "so": "Kaarka hadalka iibso, ama isticmaal Okoa Jahazi." },
+            { "who": "Kamau", "sw": "Sawa, nitakupigia saa mbili usiku.", "en": "Okay, I'll call you at eight in the evening.", "so": "Hagaag, sideeda habeennimo ayaan ku soo wici doonaa." }
+          ],
+          "question": { "en": "When will Kamau call Wanjiku?", "so": "Goorma ayuu Kamau soo wici doonaa Wanjiku?" },
+          "options": [
+            { "en": "Tomorrow morning", "so": "Berri subax" },
+            { "en": "At 8 p.m.", "so": "Sideeda habeennimo" },
+            { "en": "At noon", "so": "Duhurkii" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Nataka kununua", "after": " ya shilingi hamsini.", "options": ["nauli", "ujumbe", "credit"], "answer": 2, "meaning": { "en": "I want to buy fifty shillings of airtime.", "so": "Waxaan rabaa inaan iibsado kaarka hadalka oo konton shilin ah." } },
+        { "type": "build", "prompt": { "en": "Call me tomorrow", "so": "Berri i soo wac" }, "answer": "Nipigie kesho", "extra": ["tuma", "salio"] }
+      ]
+    },
+    {
+      "id": "phone-trouble",
+      "title": { "en": "Phone trouble and scams", "so": "Dhibaatooyinka taleefanka iyo khiyaanada" },
+      "items": ["mp.simu-imezima", "mp.hapatikani", "mp.missed-call", "mp.usimpe", "mp.tapeli", "mp.kimakosa"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Otieno", "sw": "Halo Achieng! Nilikupigia jana, lakini hukupatikana.", "en": "Hello Achieng! I called you yesterday, but I couldn't reach you.", "so": "Haloo Achieng! Shalay waan ku soo wacay, laakiin lama heli karin." },
+            { "who": "Achieng", "sw": "Pole sana, simu yangu ilizima. Chaji iliisha.", "en": "So sorry, my phone switched off. The battery ran out.", "so": "Aad baan uga xumahay, taleefankaygii wuu demay. Baytarigii ayaa dhammaaday." },
+            { "who": "Otieno", "sw": "Hakuna shida. Tutaonana kesho.", "en": "No problem. See you tomorrow.", "so": "Dhib ma leh. Berri ayaan kulmi doonnaa." }
+          ],
+          "question": { "en": "Why couldn't Otieno reach Achieng?", "so": "Maxaa Otieno uga heli waayay Achieng?" },
+          "options": [
+            { "en": "Her phone's battery ran out", "so": "Baytariga taleefankeeda ayaa dhammaaday" },
+            { "en": "She was at the agent", "so": "Waxay joogtay wakiilka" },
+            { "en": "She had no money", "so": "Lacag ma haysan" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Nimekutumia pesa kimakosa. Tafadhali nirudishie.", "options": ["Sawa, hii hapa namba yangu ya siri.", "Nitaangalia salio langu kwanza.", "Asante kwa chakula."], "answer": 1, "explain": { "en": "'I sent you money by mistake, please send it back.' – 'I'll check my balance first.' Never share your PIN.", "so": "'Lacag ayaan kuugu diray si qalad ah, fadlan ii soo celi.' – 'Marka hore haraagayga ayaan eegayaa.' Marnaba ha sheegin PIN-kaaga." } },
+        { "type": "build", "prompt": { "en": "Don't send money", "so": "Lacag ha dirin" }, "answer": "Usitume pesa", "extra": ["nitumie", "salio"] }
+      ]
+    },
+    {
+      "id": "selling-with-mpesa",
+      "goals": ["business"],
+      "title": { "en": "Selling with M-Pesa", "so": "Ku iibinta M-Pesa" },
+      "items": ["mp.mauzo", "mp.gharama", "mp.jina-sahihi", "mp.bado-haujaingia", "mp.taarifa"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Jumla ni mia nane.", "en": "The total is eight hundred.", "so": "Wadartu waa siddeed boqol." },
+            { "who": "Baraka", "sw": "Nitalipa kwa till. Namba ni gani?", "en": "I'll pay by till. What's the number?", "so": "Till ayaan ku bixinayaa. Lambarku waa kee?" },
+            { "who": "Halima", "sw": "Iko pale ukutani.", "en": "It's there on the wall.", "so": "Halkaas ayay darbiga ku qoran tahay." },
+            { "who": "Baraka", "sw": "Jina ni Duka la Halima, sivyo?", "en": "The name is Halima's Shop, right?", "so": "Magacu waa Dukaanka Halima, sow ma aha?" },
+            { "who": "Halima", "sw": "Ndiyo, ni sahihi. Asante, nimepokea.", "en": "Yes, that's correct. Thank you, I've received it.", "so": "Haa, waa sax. Mahadsanid, waan helay." }
+          ],
+          "question": { "en": "How much does Baraka pay?", "so": "Immisa ayuu Baraka bixiyey?" },
+          "options": [
+            { "en": "800 shillings", "so": "800 shilin" },
+            { "en": "80 shillings", "so": "80 shilin" },
+            { "en": "8,000 shillings", "so": "8,000 shilin" }
+          ],
+          "answer": 0
+        },
+        { "type": "respond", "heard": "Nimelipa, angalia.", "options": ["Tuko wapi?", "Pole pole.", "Ngoja, ujumbe bado haujaingia."], "answer": 2, "explain": { "en": "'I've paid, check.' – 'Wait, the message hasn't come in yet.' Wait for the message before you hand over the goods.", "so": "'Waan bixiyey, eeg.' – 'Sug, fariintii weli ma iman.' Sug fariinta ka hor intaadan alaabta dhiibin." } },
+        { "type": "gap", "before": "Mauzo ya", "after": " ni mazuri.", "options": ["leo", "nani", "pole"], "answer": 0, "meaning": { "en": "Today's sales are good.", "so": "Iibka maanta waa fiican yahay." } },
+        { "type": "build", "prompt": { "en": "How much is the charge?", "so": "Kharashku waa immisa?" }, "answer": "Gharama ni ngapi", "extra": ["mauzo", "jina"], "accept": ["Gharama ni pesa ngapi"] }
+      ]
+    },
+    {
+      "id": "phone-slang",
+      "goals": ["street"],
+      "title": { "en": "Phone slang (Sheng)", "so": "Erayada taleefanka (Sheng)" },
+      "items": ["mp.nibip", "mp.niflash", "mp.bando", "mp.credo"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Baraka", "sw": "Niaje, msee! Nitumie credo kidogo.", "en": "Hey, man! Send me a little airtime.", "so": "War saaxiib! Wax yar oo kaarka hadalka ah ii soo dir." },
+            { "who": "Otieno", "sw": "Sina doo, bro. Na sina bando pia.", "en": "I'm broke, bro. And I have no data either.", "so": "Lacag ma haysto, bro. Internet-na ma haysto." },
+            { "who": "Baraka", "sw": "Haina noma. Nitakuflash baadaye.", "en": "No worries. I'll flash you later.", "so": "Dhib ma leh. Mar dambe ayaan miskool kuu soo dirayaa." }
+          ],
+          "question": { "en": "What doesn't Otieno have?", "so": "Maxaa Otieno aanu haysan?" },
+          "options": [
+            { "en": "A phone", "so": "Taleefan" },
+            { "en": "A matatu ticket", "so": "Tigidh matatu" },
+            { "en": "Money and data", "so": "Lacag iyo internet" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Niaje! Ukifika tao, nibip.", "options": ["Nashuka hapa.", "Poa, nitakuflash.", "Nimeshiba."], "answer": 1, "explain": { "en": "'Hey! When you get to town, beep me.' – 'Cool, I'll flash you.'", "so": "'War! Markaad magaalada gaarto, miskool ii soo dir.' – 'Hagaag, miskool ayaan kuu soo dirayaa.'" } },
+        { "type": "build", "prompt": { "en": "I have no data (Sheng)", "so": "Internet ma haysto (Sheng)" }, "answer": "Sina bando", "extra": ["nibip", "tao"] }
+      ]
+    }
+  ]
+}

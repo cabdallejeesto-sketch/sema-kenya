@@ -44,18 +44,22 @@ describe('content', () => {
   it('every lesson builds a full exercise sequence', () => {
     for (const unit of UNITS) {
       for (const lesson of unit.lessons) {
-        const withVoice = buildLesson(unit, lesson, { states: {}, canListen: true, rnd: seeded(3) });
-        const noVoice = buildLesson(unit, lesson, { states: {}, canListen: false, rnd: seeded(3) });
+        const withVoice = buildLesson(unit, lesson, { states: {}, canListen: () => true, rnd: seeded(3) });
+        const noVoice = buildLesson(unit, lesson, { states: {}, canListen: () => false, rnd: seeded(3) });
         expect(withVoice.length, lesson.id).toBeGreaterThanOrEqual(lesson.items.length * 2);
-        expect(noVoice.some((e) => e.kind === 'listen-pick'), lesson.id).toBe(false);
+        expect(noVoice.some((e) => e.kind === 'listen-pick' || e.kind === 'listen-type'), lesson.id).toBe(false);
         // every new word is taught before it is tested
         const taught = new Set<string>();
         for (const e of withVoice) {
           if (e.kind === 'teach') taught.add(e.item.id);
-          if (e.kind === 'pick-meaning' || e.kind === 'pick-sw' || e.kind === 'listen-pick' || e.kind === 'type-sw') {
+          if (e.kind === 'pick-meaning' || e.kind === 'pick-sw' || e.kind === 'listen-pick' || e.kind === 'type-sw' || e.kind === 'listen-type') {
             expect(taught.has(e.item.id), `${lesson.id}: ${e.item.id}`).toBe(true);
           }
         }
+        // a story's questions come straight after its reading screen
+        withVoice.forEach((e, i) => {
+          if (e.kind === 'story-q') expect(['story-read', 'story-q'], lesson.id).toContain(withVoice[i - 1]?.kind);
+        });
         // build tiles always contain the full answer
         for (const e of withVoice) {
           if (e.kind === 'build') for (const w of e.ex.answer.split(' ')) expect(e.tiles).toContain(w);
@@ -68,13 +72,13 @@ describe('content', () => {
     const unit = UNITS[0];
     const lesson = unit.lessons[0];
     const states = Object.fromEntries(lesson.items.map((id) => [id, { box: 2, due: 0, seen: 3, wrong: 0 }]));
-    const ex = buildLesson(unit, lesson, { states, canListen: true, rnd: seeded(5) });
+    const ex = buildLesson(unit, lesson, { states, canListen: () => true, rnd: seeded(5) });
     expect(ex.some((e) => e.kind === 'teach')).toBe(false);
   });
 
   it('builds a practice session from known words', () => {
     const ids = [...ITEMS.keys()].slice(0, 8);
-    const ex = buildPractice(ids, true, seeded(11));
+    const ex = buildPractice(ids, () => true, seeded(11));
     expect(ex.length).toBe(9);
     expect(ex.some((e) => e.kind === 'match')).toBe(true);
   });

@@ -1,0 +1,211 @@
+{
+  "id": "weather-places",
+  "order": 13,
+  "level": "A2",
+  "color": "#0369a1",
+  "reviewed": false,
+  "title": { "en": "Weather & Places in Kenya", "so": "Cimilada iyo Meelaha Kenya" },
+  "swTitle": "Hali ya Hewa na Mahali",
+  "description": {
+    "en": "Talk about sun, rain and cold, learn Kenya's rainy seasons, and describe the coast, the highlands, the lakes and the hot, dry north.",
+    "so": "Ka hadal qorraxda, roobka iyo qabowga, baro xilliyada roobka ee Kenya, oo sharax xeebta, dhulka sare, harooyinka iyo waqooyiga kulul ee engegan."
+  },
+  "goals": ["travel"],
+  "guide": [
+    {
+      "title": { "en": "Weather with kuna", "so": "Cimilada iyo erayga kuna" },
+      "body": {
+        "en": "Use kuna (there is) for most weather: Kuna baridi (it's cold), Kuna joto (it's hot), Kuna upepo (it's windy), Kuna jua kali (it's hot and sunny). For rain, say Mvua inanyesha: the rain is raining. To ask about the weather, Kenyans say Hali ya hewa iko aje?",
+        "so": "Cimilada badankeeda waxaa lagu sheegaa kuna (waxaa jira): Kuna baridi (waa qabow), Kuna joto (waa kulayl), Kuna upepo (waa dabayl), Kuna jua kali (qorrax kulul baa jirta). Roobka waxaa lagu yiraahdaa Mvua inanyesha: roobku wuu da'ayaa. Si ay cimilada u weydiiyaan, Kenyaanku waxay yiraahdaan Hali ya hewa iko aje?"
+      },
+      "examples": [
+        { "sw": "Leo kuna baridi na upepo.", "en": "Today it's cold and windy.", "so": "Maanta waa qabow iyo dabayl.", "v": "standard" },
+        { "sw": "Mvua inanyesha sana.", "en": "It's raining hard.", "so": "Roob xooggan baa da'aya.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenya's seasons", "so": "Xilliyada Kenya" },
+      "body": {
+        "en": "Kenya sits on the equator, so there is no real winter or summer. The year turns on rain: masika, the long rains (March to May), and vuli, the short rains (October to December). The dry months are kiangazi. Somali speakers already know this pattern: masika is like Gu', vuli is like Dayr, and kiangazi is like Jiilaal. Nairobi's coldest month is July.",
+        "so": "Kenya waxay ku taal dhulbaraha, sidaas darteed ma jiraan xilli qabow iyo xilli kulayl oo cad sida Yurub. Sannadku wuxuu ku wareegaa roobka: masika, roobka dheer (Maarso ilaa Maajo), iyo vuli, roobka gaaban (Oktoobar ilaa Diseembar). Bilaha engegan waa kiangazi. Soomaalidu horay bay u taqaannaa nidaamkan: masika waa sida Gu'ga, vuli waa sida Dayrta, kiangazina waa sida Jiilaalka. Bisha ugu qabow Nairobi waa Luulyo."
+      },
+      "examples": [
+        { "sw": "Mvua za masika zimeanza.", "en": "The long rains have started.", "so": "Roobkii masika (Gu'ga) wuu bilaabmay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenya's regions", "so": "Gobollada Kenya" },
+      "body": {
+        "en": "Pwani (the coast) is hot and humid, with beaches and old Swahili towns. Nairobi and the highlands around Mlima Kenya are cool. Bonde la Ufa (the Rift Valley) runs through the middle of the country, with lakes such as Naivasha and Nakuru. Kisumu is on Ziwa Viktoria in the west. The north-east, around Garissa, Wajir and Mandera, is hot and dry, and many Somali Kenyans live there.",
+        "so": "Pwani (xeebta) waa kulayl iyo qoyaan, waxaana ku yaal xeebo iyo magaalooyin Sawaaxili ah oo qadiim ah. Nairobi iyo dhulka sare ee ku hareeraysan Mlima Kenya (Buurta Kenya) waa qabow. Bonde la Ufa (Rift Valley) wuxuu dhex maraa bartamaha dalka, waxaana ku yaal harooyin sida Naivasha iyo Nakuru. Kisumu waxay ku taal Ziwa Viktoria (Harada Fiktooriya) dhanka galbeedka. Waqooyi-bari, agagaarka Garissa, Wajir iyo Mandera, waa kulayl iyo engegan, Soomaali badan oo Kenyaan ahna halkaas ayay ku nool yihiin."
+      },
+      "examples": [
+        { "sw": "Garissa iko kaskazini mashariki mwa Kenya.", "en": "Garissa is in north-eastern Kenya.", "so": "Garissa waxay ku taal waqooyi-bari ee Kenya.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Comparing with kuliko", "so": "Isbarbardhigga kuliko" },
+      "body": {
+        "en": "Swahili adjectives have no -er form. To compare, add kuliko (than): Mombasa kuna joto kuliko Nairobi. Add zaidi (more) for emphasis: Nairobi ni kubwa zaidi kuliko Kisumu. It works like Somali ka: Mombasa way ka kulushahay Nairobi.",
+        "so": "Tilmaamayaasha Sawaaxiligu ma laha qaab gaar ah oo isbarbardhig. Si aad isu barbardhigto, ku dar kuliko (ka): Mombasa kuna joto kuliko Nairobi. Ku dar zaidi (in ka badan) si aad u xoojiso: Nairobi ni kubwa zaidi kuliko Kisumu. Waxay u shaqaysaa sida ka-da Soomaaliga: Mombasa way ka kulushahay Nairobi."
+      },
+      "examples": [
+        { "sw": "Nairobi ni kubwa zaidi kuliko Kisumu.", "en": "Nairobi is bigger than Kisumu.", "so": "Nairobi way ka weyn tahay Kisumu.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "w.hali-ya-hewa", "sw": "hali ya hewa", "en": "weather", "so": "cimilada (xaaladda hawada)", "v": "standard" },
+    { "id": "w.jua", "sw": "jua", "en": "sun", "so": "qorrax", "v": "standard", "note": { "en": "Jua also means 'know' (kujua). Kuna jua = it's sunny.", "so": "Jua sidoo kale waxay ka dhigan tahay 'ogaan' (kujua). Kuna jua = qorrax baa jirta." } },
+    { "id": "w.mvua", "sw": "mvua", "en": "rain", "so": "roob", "v": "standard" },
+    { "id": "w.baridi", "sw": "baridi", "en": "cold", "so": "qabow", "v": "standard" },
+    { "id": "w.joto", "sw": "joto", "en": "heat / hot", "so": "kulayl", "v": "standard" },
+    { "id": "w.upepo", "sw": "upepo", "en": "wind", "so": "dabayl", "v": "standard" },
+    { "id": "w.mawingu", "sw": "mawingu", "en": "clouds", "so": "daruuro", "v": "standard", "note": { "en": "One cloud is wingu.", "so": "Hal daruur waa wingu." } },
+
+    { "id": "w.iko-aje", "sw": "Hali ya hewa iko aje leo?", "en": "What's the weather like today?", "so": "Cimiladu sidee tahay maanta?", "v": "everyday", "tz": "Hali ya hewa ikoje leo?", "alt": ["hali ya hewa ikoje leo", "hali ya hewa ni vipi leo"] },
+    { "id": "w.kuna-baridi", "sw": "Kuna baridi leo", "en": "It's cold today", "so": "Maanta waa qabow", "v": "standard", "alt": ["leo kuna baridi"] },
+    { "id": "w.kuna-joto", "sw": "Kuna joto sana", "en": "It's very hot", "so": "Aad bay u kulushahay", "v": "standard" },
+    { "id": "w.mvua-inanyesha", "sw": "Mvua inanyesha", "en": "It's raining", "so": "Roob baa da'aya", "v": "standard" },
+    { "id": "w.jua-kali", "sw": "Kuna jua kali", "en": "It's hot and sunny (lit. a fierce sun)", "so": "Qorrax kulul baa jirta", "v": "everyday", "note": { "en": "Jua kali is also the name of Kenya's informal workshops, where craftsmen work out in the sun.", "so": "Jua kali sidoo kale waa magaca goobaha farsamada ee aan rasmiga ahayn ee Kenya, halkaas oo farsamayaqaannadu qorraxda ku shaqeeyaan." } },
+    { "id": "w.mwavuli", "sw": "mwavuli", "en": "umbrella", "so": "dallad", "v": "standard" },
+    { "id": "w.itanyesha", "sw": "Mvua itanyesha leo?", "en": "Will it rain today?", "so": "Maanta roob ma da'ayaa?", "v": "standard" },
+
+    { "id": "w.msimu", "sw": "msimu", "en": "season", "so": "xilli", "v": "standard", "note": { "en": "msimu wa mvua = the rainy season; msimu wa watalii = tourist season.", "so": "msimu wa mvua = xilliga roobka; msimu wa watalii = xilliga dalxiisayaasha." } },
+    { "id": "w.masika", "sw": "masika", "en": "the long rains (March to May)", "so": "roobka dheer (Gu'ga)", "v": "standard", "note": { "en": "Kenya's main rainy season, like the Somali Gu'.", "so": "Xilliga roobka ugu weyn ee Kenya, sida Gu'ga Soomaalida." } },
+    { "id": "w.vuli", "sw": "vuli", "en": "the short rains (October to December)", "so": "roobka gaaban (Dayrta)", "v": "standard", "note": { "en": "Like the Somali Dayr.", "so": "Waa sida Dayrta Soomaalida." } },
+    { "id": "w.kiangazi", "sw": "kiangazi", "en": "dry season", "so": "xilliga engegan (sida Jiilaalka)", "v": "standard", "note": { "en": "Hot and dry in January and February, cool and dry from June to September.", "so": "Kulayl iyo engegan Janaayo iyo Febraayo, qabow iyo engegan Juun ilaa Sebteembar." } },
+    { "id": "w.ukame", "sw": "ukame", "en": "drought", "so": "abaar", "v": "standard" },
+    { "id": "w.mafuriko", "sw": "mafuriko", "en": "floods", "so": "fatahaad", "v": "standard" },
+
+    { "id": "w.mlima", "sw": "mlima", "en": "mountain", "so": "buur", "v": "standard", "note": { "en": "Plural: milima (mountains, hills).", "so": "Wadarta: milima (buuro)." } },
+    { "id": "w.mlima-kenya", "sw": "Mlima Kenya", "en": "Mount Kenya", "so": "Buurta Kenya", "v": "standard", "note": { "en": "Africa's second-highest mountain. The country is named after it.", "so": "Waa buurta labaad ee ugu dheer Afrika. Dalka ayaa lagu magacaabay." } },
+    { "id": "w.mto", "sw": "mto", "en": "river", "so": "webi", "v": "standard", "note": { "en": "Mto also means 'pillow'. Mto Tana is Kenya's longest river.", "so": "Mto sidoo kale waxay ka dhigan tahay 'barkin'. Mto Tana waa webiga ugu dheer Kenya." } },
+    { "id": "w.ziwa", "sw": "ziwa", "en": "lake", "so": "haro", "v": "standard" },
+    { "id": "w.ziwa-viktoria", "sw": "Ziwa Viktoria", "en": "Lake Victoria", "so": "Harada Fiktooriya", "v": "standard", "alt": ["ziwa victoria"], "note": { "en": "Kisumu sits on its shore.", "so": "Kisumu waxay ku taal xeebteeda." } },
+    { "id": "w.bahari", "sw": "bahari", "en": "sea / ocean", "so": "bad", "v": "standard", "syn": "sea", "note": { "en": "Bahari Hindi = the Indian Ocean.", "so": "Bahari Hindi = Badweynta Hindiya." } },
+    { "id": "w.jangwa", "sw": "jangwa", "en": "desert", "so": "lamadegaan", "v": "standard" },
+
+    { "id": "w.pwani", "sw": "pwani", "en": "the coast", "so": "xeebta", "v": "standard", "syn": "coast", "note": { "en": "Pwani is also the name of the Coast region: Mombasa, Kilifi, Kwale, Lamu.", "so": "Pwani sidoo kale waa magaca gobolka Xeebta: Mombasa, Kilifi, Kwale, Lamu." } },
+    { "id": "w.kisiwa", "sw": "kisiwa", "en": "island", "so": "jasiirad", "v": "standard", "note": { "en": "Plural: visiwa. Old Mombasa and Lamu are on islands.", "so": "Wadarta: visiwa. Mombasa qadiimka ah iyo Lamu waxay ku yaalliin jasiirado." } },
+    { "id": "w.bonde-la-ufa", "sw": "Bonde la Ufa", "en": "the Rift Valley", "so": "Dooxada Rift Valley", "v": "standard", "note": { "en": "Bonde = valley. Naivasha, Nakuru and Eldoret are in the Rift Valley.", "so": "Bonde = dooxo. Naivasha, Nakuru iyo Eldoret waxay ku yaalliin Rift Valley." } },
+    { "id": "w.kaskazini", "sw": "kaskazini", "en": "north", "so": "waqooyi", "v": "standard", "note": { "en": "Kaskazini mashariki = north-east: Garissa, Wajir, Mandera.", "so": "Kaskazini mashariki = waqooyi-bari: Garissa, Wajir, Mandera." } },
+    { "id": "w.kusini", "sw": "kusini", "en": "south", "so": "koonfur", "v": "standard" },
+    { "id": "w.mashariki", "sw": "mashariki", "en": "east", "so": "bari", "v": "standard", "note": { "en": "Afrika Mashariki = East Africa.", "so": "Afrika Mashariki = Bariga Afrika." } },
+    { "id": "w.magharibi", "sw": "magharibi", "en": "west", "so": "galbeed", "v": "standard", "note": { "en": "Also the sunset prayer time (Maghrib). Magharibi also means Western Kenya: Kakamega, Bungoma.", "so": "Sidoo kale waa waqtiga salaadda Maqrib. Magharibi waxay kale oo ay ka dhigan tahay Galbeedka Kenya: Kakamega, Bungoma." } },
+
+    { "id": "w.kuliko", "sw": "kuliko", "en": "than (comparing)", "so": "ka (marka la isbarbardhigo)", "v": "standard", "note": { "en": "X ... kuliko Y = X is more ... than Y.", "so": "X ... kuliko Y = X ayaa ka ... Y." } },
+    { "id": "w.zaidi", "sw": "zaidi", "en": "more", "so": "in ka badan", "v": "standard", "note": { "en": "kubwa zaidi = bigger; zaidi ya = more than.", "so": "kubwa zaidi = ka weyn; zaidi ya = in ka badan." } },
+    { "id": "w.kavu", "sw": "kavu", "en": "dry", "so": "engegan", "v": "standard" },
+    { "id": "w.mombasa-joto", "sw": "Mombasa kuna joto kuliko Nairobi", "en": "Mombasa is hotter than Nairobi", "so": "Mombasa way ka kulushahay Nairobi", "v": "standard", "alt": ["mombasa kuna joto zaidi kuliko nairobi"] },
+    { "id": "w.kwetu", "sw": "Kwetu ni Garissa", "en": "My home area is Garissa", "so": "Dhulkayagu waa Garissa", "v": "everyday", "note": { "en": "Kwetu = our place, where my family is from. Ask: Kwenu ni wapi?", "so": "Kwetu = meeshayada, halka qoyskaygu ka soo jeedo. Weydii: Kwenu ni wapi?" } }
+  ],
+  "lessons": [
+    {
+      "id": "weather-words",
+      "title": { "en": "Weather words", "so": "Erayada cimilada" },
+      "items": ["w.hali-ya-hewa", "w.jua", "w.mvua", "w.baridi", "w.joto", "w.upepo", "w.mawingu"],
+      "extra": [
+        { "type": "gap", "before": "Leo kuna", "after": " na mawingu mengi.", "options": ["nauli", "kesho", "upepo"], "answer": 2, "meaning": { "en": "Today it's windy and very cloudy.", "so": "Maanta waa dabayl iyo daruuro badan." } },
+        { "type": "respond", "heard": "Leo kuna baridi sana!", "options": ["Nashuka hapa.", "Ndiyo, vaa koti.", "Nimeshiba."], "answer": 1, "explain": { "en": "'It's very cold today!' – 'Yes, wear a coat.'", "so": "'Maanta aad bay u qabow tahay!' – 'Haa, jaakad xiro.'" } },
+        { "type": "build", "prompt": { "en": "There are clouds but no rain", "so": "Daruuro way jiraan laakiin roob ma jiro" }, "answer": "Kuna mawingu lakini hakuna mvua", "extra": ["jua", "baridi"] }
+      ]
+    },
+    {
+      "id": "talking-weather",
+      "title": { "en": "Talking about the weather", "so": "Ka hadalka cimilada" },
+      "items": ["w.iko-aje", "w.kuna-baridi", "w.kuna-joto", "w.mvua-inanyesha", "w.jua-kali", "w.mwavuli", "w.itanyesha"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Wanjiku", "sw": "Abdi, hali ya hewa iko aje huko Garissa?", "en": "Abdi, what's the weather like there in Garissa?", "so": "Abdi, cimiladu sidee tahay halkaas Garissa?" },
+            { "who": "Abdi", "sw": "Kuna joto sana! Kuna jua kali kila siku. Na huko Nairobi?", "en": "It's very hot! The sun is fierce every day. And there in Nairobi?", "so": "Aad bay u kulushahay! Qorrax kulul baa jirta maalin kasta. Nairobina?" },
+            { "who": "Wanjiku", "sw": "Huku kuna baridi, na mvua inanyesha tangu asubuhi.", "en": "Here it's cold, and it's been raining since morning.", "so": "Halkan waa qabow, roobna wuu da'ayaa tan iyo subaxdii." },
+            { "who": "Abdi", "sw": "Pole! Usisahau mwavuli wako.", "en": "Oh dear! Don't forget your umbrella.", "so": "Waan ka xumahay! Ha illoobin dalladdaada." }
+          ],
+          "question": { "en": "What is the weather like in Nairobi?", "so": "Cimiladu sidee tahay Nairobi?" },
+          "options": [
+            { "en": "Very hot", "so": "Aad bay u kulushahay" },
+            { "en": "Cold and rainy", "so": "Qabow iyo roob" },
+            { "en": "Sunny and windy", "so": "Qorrax iyo dabayl" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Mvua itanyesha leo?", "options": ["Kwaheri, mama.", "Ni shilingi mia.", "Sijui, lakini kuna mawingu mengi."], "answer": 2, "explain": { "en": "'Will it rain today?' – 'I don't know, but there are lots of clouds.'", "so": "'Maanta roob ma da'ayaa?' – 'Ma garanayo, laakiin daruuro badan baa jira.'" } },
+        { "type": "build", "prompt": { "en": "It's raining a lot", "so": "Roob badan baa da'aya" }, "answer": "Mvua inanyesha sana", "extra": ["jua", "baridi"] }
+      ]
+    },
+    {
+      "id": "seasons",
+      "title": { "en": "Seasons", "so": "Xilliyada" },
+      "items": ["w.msimu", "w.masika", "w.vuli", "w.kiangazi", "w.ukame", "w.mafuriko"],
+      "extra": [
+        { "type": "gap", "before": "Mvua za", "after": " huanza mwezi wa tatu.", "options": ["kiangazi", "masika", "ukame"], "answer": 1, "meaning": { "en": "The long rains begin in March.", "so": "Roobka masika (Gu'ga) wuxuu bilaabmaa bisha saddexaad." } },
+        { "type": "respond", "heard": "Kuna ukame Wajir mwaka huu.", "options": ["Pole sana. Mungu alete mvua.", "Hongera sana!", "Nimeshiba, asante."], "answer": 0, "explain": { "en": "'There's a drought in Wajir this year.' Pole shows sympathy; Mungu alete mvua means 'may God bring rain'.", "so": "'Sannadkan abaar baa ka jirta Wajir.' Pole waa muujinta naxariis; Mungu alete mvua waxay ka dhigan tahay 'Ilaahay roob ha keeno'." } },
+        { "type": "build", "prompt": { "en": "the short rains", "so": "roobka gaaban (Dayrta)" }, "answer": "Mvua za vuli", "extra": ["masika", "ya"] }
+      ]
+    },
+    {
+      "id": "landscape",
+      "title": { "en": "Mountains, rivers and lakes", "so": "Buuraha, webiyada iyo harooyinka" },
+      "items": ["w.mlima", "w.mlima-kenya", "w.mto", "w.ziwa", "w.ziwa-viktoria", "w.bahari", "w.jangwa"],
+      "extra": [
+        { "type": "gap", "before": "Kisumu iko karibu na Ziwa", "after": ".", "options": ["Kenya", "Ufa", "Viktoria"], "answer": 2, "meaning": { "en": "Kisumu is near Lake Victoria.", "so": "Kisumu waxay u dhowdahay Harada Fiktooriya." } },
+        { "type": "respond", "heard": "Unapenda bahari au milima?", "options": ["Ni shilingi hamsini.", "Napenda bahari, maji ni mazuri.", "Usiku mwema."], "answer": 1, "explain": { "en": "'Do you like the sea or the mountains?' – 'I like the sea; the water is lovely.'", "so": "'Ma jeceshahay badda mise buuraha?' – 'Badda ayaan jeclahay; biyuhu waa wanaagsan yihiin.'" } },
+        { "type": "build", "prompt": { "en": "Mount Kenya is very high", "so": "Buurta Kenya aad bay u dheer tahay" }, "answer": "Mlima Kenya ni mrefu sana", "extra": ["ziwa", "jangwa"] }
+      ]
+    },
+    {
+      "id": "regions",
+      "title": { "en": "Kenya's regions", "so": "Gobollada Kenya" },
+      "items": ["w.pwani", "w.kisiwa", "w.bonde-la-ufa", "w.kaskazini", "w.kusini", "w.mashariki", "w.magharibi"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kamau", "sw": "Farah, unatoka wapi?", "en": "Farah, where are you from?", "so": "Farah, xaggee ka timid?" },
+            { "who": "Farah", "sw": "Natoka Mandera, kaskazini mashariki mwa Kenya.", "en": "I'm from Mandera, in north-eastern Kenya.", "so": "Waxaan ka imid Mandera, waqooyi-bari ee Kenya." },
+            { "who": "Kamau", "sw": "Ni mbali sana! Huko kuna joto, sivyo?", "en": "That's very far! It's hot there, isn't it?", "so": "Aad bay u fog tahay! Halkaas waa kulayl, sow ma aha?" },
+            { "who": "Farah", "sw": "Ndiyo, kuna joto na jangwa kubwa. Lakini watu ni wakarimu sana!", "en": "Yes, it's hot and there's a big desert. But the people are very hospitable!", "so": "Haa, waa kulayl, lamadegaan weyn baana jira. Laakiin dadku aad bay u martisoor badan yihiin!" }
+          ],
+          "question": { "en": "Where is Mandera?", "so": "Mandera xaggee ku taal?" },
+          "options": [
+            { "en": "In the north-east of Kenya", "so": "Waqooyi-bari ee Kenya" },
+            { "en": "On the coast", "so": "Xeebta" },
+            { "en": "Near Lake Victoria", "so": "Harada Fiktooriya agteeda" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Mombasa iko", "after": ".", "options": ["ziwani", "pwani", "jangwani"], "answer": 1, "meaning": { "en": "Mombasa is on the coast.", "so": "Mombasa waxay ku taal xeebta." } },
+        { "type": "build", "prompt": { "en": "Lamu is an island", "so": "Lamu waa jasiirad" }, "answer": "Lamu ni kisiwa", "extra": ["pwani", "mto"] }
+      ]
+    },
+    {
+      "id": "comparing-places",
+      "title": { "en": "Comparing places", "so": "Isbarbardhigga meelaha" },
+      "items": ["w.kuliko", "w.zaidi", "w.kavu", "w.mombasa-joto", "w.kwetu"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Omar, Nairobi kuna baridi sana mwezi wa saba!", "en": "Omar, Nairobi is so cold in July!", "so": "Omar, Nairobi aad bay u qabow tahay bisha toddobaad!" },
+            { "who": "Omar", "sw": "Ndiyo. Kwetu Garissa kuna joto zaidi.", "en": "Yes. Back home in Garissa it's hotter.", "so": "Haa. Dhulkayaga Garissa aad bay uga kulushahay." },
+            { "who": "Halima", "sw": "Kweli. Garissa kuna joto kuliko Nairobi, lakini Nairobi kuna mvua zaidi.", "en": "True. Garissa is hotter than Nairobi, but Nairobi gets more rain.", "so": "Waa run. Garissa way ka kulushahay Nairobi, laakiin Nairobi roob badan baa ka da'a." },
+            { "who": "Omar", "sw": "Basi nunua sweta, dada!", "en": "Then buy a sweater, sister!", "so": "Haddaba funaanad iibso, walaal!" }
+          ],
+          "question": { "en": "Which place is hotter?", "so": "Meeshee ka kulul?" },
+          "options": [
+            { "en": "Nairobi", "so": "Nairobi" },
+            { "en": "They are the same", "so": "Waa isku mid" },
+            { "en": "Garissa", "so": "Garissa" }
+          ],
+          "answer": 2
+        },
+        { "type": "build", "prompt": { "en": "Nairobi is colder than Mombasa", "so": "Nairobi way ka qabow tahay Mombasa" }, "answer": "Nairobi kuna baridi kuliko Mombasa", "extra": ["mvua", "pwani"] },
+        { "type": "respond", "heard": "Kwenu ni wapi?", "options": ["Kwetu ni Kisumu, karibu na ziwa.", "Kuna baridi leo.", "Asante kwa chakula."], "answer": 0, "explain": { "en": "'Where is your home area?' – 'My home is Kisumu, near the lake.'", "so": "'Dhulkiinnu waa xaggee?' – 'Dhulkayagu waa Kisumu, harada agteeda.'" } },
+        { "type": "gap", "before": "Wajir ni", "after": " sana, na kuna mvua kidogo.", "options": ["mto", "kavu", "mlima"], "answer": 1, "meaning": { "en": "Wajir is very dry, and there is little rain.", "so": "Wajir aad bay u engegan tahay, roobkuna waa yar yahay." } }
+      ]
+    }
+  ]
+}
