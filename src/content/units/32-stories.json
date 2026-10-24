@@ -1,0 +1,348 @@
+{
+  "id": "stories",
+  "order": 32,
+  "level": "B2",
+  "color": "#3f6212",
+  "reviewed": false,
+  "title": { "en": "Kenyan Stories", "so": "Sheekooyin Kenyan ah" },
+  "swTitle": "Hadithi za Kenya",
+  "description": {
+    "en": "Read and listen to Swahili folktales and modern Kenyan short stories, from Sungura the hare to a fisherman on Lake Victoria.",
+    "so": "Akhri oo dhagayso sheekooyin hiddeed oo Sawaaxili ah iyo sheeko gaagaab casri ah oo Kenyan ah, laga bilaabo Sungura bakaylaha ilaa kalluumeyste ku nool Harada Victoria."
+  },
+  "guide": [
+    {
+      "title": { "en": "How folktales begin and end", "so": "Sida sheekooyinka hiddeed u bilowdaan iyo u dhammaadaan" },
+      "body": {
+        "en": "Swahili folktales open with a call and an answer. The storyteller says Paukwa! and the listeners answer Pakawa! Some storytellers go on: Hadithi, hadithi! and the listeners reply Hadithi njoo, uongo njoo, utamu kolea! (Come, story; come, tall tale; let the sweetness grow!). The tale then starts with Hapo zamani za kale, palikuwa na... (Long, long ago, there was...) and closes with Hadithi yangu imeishia hapo, often followed by a methali as the moral. Somali tales work the same way: Sheeko sheeko, sheeko xariir!",
+        "so": "Sheekooyinka hiddeed ee Sawaaxiligu waxay ku furmaan dhawaaq iyo jawaab. Sheeko-yaqaanku wuxuu yiraahdaa Paukwa! dhagaystayaashuna waxay ku jawaabaan Pakawa! Sheeko-yaqaannada qaarkood way sii wadaan: Hadithi, hadithi! dhagaystayaashuna waxay ku jawaabaan Hadithi njoo, uongo njoo, utamu kolea! (Sheekoy kaalay, beenoy kaalay, macaanku ha bato!). Kadib sheekadu waxay ku bilaabataa Hapo zamani za kale, palikuwa na... (Waa baa waxaa jiri jiray...), waxayna ku xirmataa Hadithi yangu imeishia hapo, oo badanaa ay ku xigto methali (maahmaah) ah casharka sheekada. Sheekooyinka Soomaaliduna sidaas oo kale ayay yihiin: Sheeko sheeko, sheeko xariir!"
+      },
+      "examples": [
+        { "sw": "Paukwa! Pakawa!", "en": "Paukwa! Pakawa! (the opening call and reply)", "so": "Paukwa! Pakawa! (dhawaaqa furitaanka iyo jawaabta)", "v": "standard" },
+        { "sw": "Hapo zamani za kale, palikuwa na sungura mjanja.", "en": "Long, long ago, there was a clever hare.", "so": "Waa baa waxaa jiri jiray bakayle xeelad badan.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Sungura and Abunuwasi", "so": "Sungura iyo Abunuwaas" },
+      "body": {
+        "en": "Sungura (the hare) is the small, clever hero of East African animal tales: he outwits the lion, the elephant and the hyena with his brains, not his strength. Abunuwasi is a human trickster who came to the Swahili coast from Arabic stories about the poet Abu Nuwas. He makes fools of proud sultans and rich men, usually with a clever play on words. Somalis know him too, as Abunuwaas. The tales in this unit are new stories in the old style.",
+        "so": "Sungura (bakaylaha) waa geesiga yar ee caqliga badan ee sheekooyinka xayawaanka Bariga Afrika: wuxuu ka adkaadaa libaaxa, maroodiga iyo waraabaha isagoo adeegsanaya caqligiisa, ee ma aha xooggiisa. Abunuwasi waa nin xeelad badan oo xeebta Sawaaxiliga uga yimid sheekooyinka Carabta ee ku saabsan gabayaagii Abu Nuwaas. Wuxuu nacasyo ka dhigaa suldaanno iyo taajiriin isla weyn, badanaa ciyaar eray oo caqli leh. Soomaaliduna way taqaan, iyagoo ugu yeera Abunuwaas. Sheekooyinka cutubkan waa sheekooyin cusub oo qaabkii hore ah."
+      }
+    },
+    {
+      "title": { "en": "Story tenses", "so": "Wakhtiyada sheekada" },
+      "body": {
+        "en": "Stories mostly use the past -li-: alifika (he arrived). For a chain of events, Swahili uses -ka- after the first verb: alifika, akaketi, akaanza kula (he arrived, sat down and began to eat). -po- means 'when': alipofika (when he arrived). -ki- shows something happening at the same time: wakiimba (while singing). You will meet all four in the stories of this unit.",
+        "so": "Sheekooyinku badanaa waxay isticmaalaan wakhtiga tagay -li-: alifika (wuu yimid). Dhacdooyin isku xiga, Sawaaxiligu wuxuu isticmaalaa -ka- falka koowaad kadib: alifika, akaketi, akaanza kula (wuu yimid, fadhiistay, oo bilaabay inuu wax cuno). -po- waxay ka dhigan tahay 'markii': alipofika (markii uu yimid). -ki- waxay muujisaa wax isla waqtigaas dhacaya: wakiimba (iyagoo heesaya). Afartaba waxaad ku arki doontaa sheekooyinka cutubkan."
+      },
+      "examples": [
+        { "sw": "Alifika nyumbani, akaketi, akaanza kula.", "en": "He got home, sat down and began to eat.", "so": "Guriga ayuu yimid, fadhiistay, oo bilaabay inuu wax cuno.", "v": "standard" },
+        { "sw": "Alipofika sokoni, alimwona Sungura.", "en": "When he reached the market, he saw Hare.", "so": "Markii uu suuqa gaaray, wuxuu arkay Bakayle.", "v": "standard" },
+        { "sw": "Walirudi nyumbani wakiimba.", "en": "They went back home singing.", "so": "Guriga ayay ku noqdeen iyagoo heesaya.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "st.hadithi", "sw": "hadithi", "en": "story / folktale", "so": "sheeko", "v": "standard", "syn": "story", "note": { "en": "Kusimulia hadithi = to tell a story. Msimulizi = storyteller.", "so": "Kusimulia hadithi = sheeko sheegid. Msimulizi = sheeko-yaqaan." } },
+    { "id": "st.paukwa", "sw": "Paukwa!", "en": "Paukwa! (storyteller's opening call)", "so": "Paukwa! (dhawaaqa sheeko-yaqaanku ku furo sheekada)", "v": "standard", "note": { "en": "The listeners answer Pakawa! and the story begins. It works like 'Once upon a time': a call that gets everyone listening.", "so": "Dhagaystayaashu waxay ku jawaabaan Pakawa! kadibna sheekadu way bilaabataa. Waxay u shaqaysaa sida 'Sheeko sheeko, sheeko xariir': dhawaaq qof walba dhegta u soo jeediya." } },
+    { "id": "st.pakawa", "sw": "Pakawa!", "en": "Pakawa! (listeners' reply)", "so": "Pakawa! (jawaabta dhagaystayaasha)", "v": "standard" },
+    { "id": "st.hapo-zamani", "sw": "Hapo zamani za kale", "en": "Once upon a time / long, long ago", "so": "Waa baa waxaa jiri jiray", "v": "standard", "syn": "once-upon-a-time", "note": { "en": "Often followed by palikuwa na... (there was...).", "so": "Badanaa waxaa ku xiga palikuwa na... (waxaa jiray...)." } },
+    { "id": "st.sungura", "sw": "sungura", "en": "hare / rabbit", "so": "bakayle", "v": "standard", "note": { "en": "In Swahili tales, Sungura is the small, clever hero who outwits the big animals.", "so": "Sheekooyinka Sawaaxiliga, Sungura waa geesiga yar ee caqliga badan ee ka adkaada xayawaanka waaweyn." } },
+    { "id": "st.asali", "sw": "asali", "en": "honey", "so": "malab", "v": "standard" },
+    { "id": "st.ujanja", "sw": "ujanja", "en": "cleverness / cunning", "so": "xeelad", "v": "standard", "syn": "cleverness", "note": { "en": "Mjanja = a clever, street-smart person.", "so": "Mjanja = qof xeelad badan oo caqli leh." } },
+
+    { "id": "st.tajiri", "sw": "tajiri", "en": "rich person / rich", "so": "taajir (qof hodan ah)", "v": "standard", "syn": "rich" },
+    { "id": "st.kudai", "sw": "kudai", "en": "to demand (what you are owed) / to claim", "so": "dalbasho (wax lagugu leeyahay)", "v": "standard", "note": { "en": "Ninakudai elfu moja = you owe me a thousand (lit. I claim a thousand from you).", "so": "Ninakudai elfu moja = kun baan kugu leeyahay." } },
+    { "id": "st.kadhi", "sw": "kadhi", "en": "kadhi (Muslim judge)", "so": "qaaddi", "v": "standard", "note": { "en": "Kenya has Kadhi's courts for Muslim family matters such as marriage and inheritance.", "so": "Kenya waxay leedahay maxkamadaha Qaaddiga oo u qaabilsan arrimaha qoyska Muslimiinta sida guurka iyo dhaxalka." } },
+    { "id": "st.kicheko", "sw": "kicheko", "en": "laughter / a laugh", "so": "qosol", "v": "standard", "note": { "en": "From kucheka (to laugh). Kuangua kicheko = to burst out laughing.", "so": "Waxay ka timid kucheka (qoslid). Kuangua kicheko = qosol la dhicid." } },
+    { "id": "st.leo-ni-leo", "sw": "Leo ni leo, asemaye kesho ni mwongo", "en": "Today is today; whoever says 'tomorrow' is a liar (don't put things off)", "so": "Maanta waa maanta; kii yiraahda 'berri' waa beenaale (shaqada dib ha u dhigin)", "v": "standard", "note": { "en": "A methali (proverb) said to someone who keeps delaying.", "so": "Waa methali (maahmaah) loogu jawaabo qofka wax dib u dhiga." } },
+    { "id": "st.hadithi-imeishia", "sw": "Hadithi yangu imeishia hapo", "en": "And that's the end of my story", "so": "Sheekadaydii halkaas ayay ku dhammaatay", "v": "standard" },
+
+    { "id": "st.abiria", "sw": "abiria", "en": "passenger(s)", "so": "rakaab", "v": "standard", "syn": "passenger" },
+    { "id": "st.kelele", "sw": "kelele", "en": "noise / shouting", "so": "buuq / qaylo", "v": "standard", "note": { "en": "Kupiga kelele = to shout, to make noise. Usipige kelele! = Don't make noise!", "so": "Kupiga kelele = qaylin, buuqin. Usipige kelele! = Ha buuqin!" } },
+    { "id": "st.kujiajiri", "sw": "kujiajiri", "en": "to be self-employed (lit. to employ yourself)", "so": "is-shaqaysiin", "v": "standard", "note": { "en": "Kuajiri = to employ; mwajiri = employer.", "so": "Kuajiri = shaqaalaysiin; mwajiri = shaqo-bixiye." } },
+    { "id": "st.jitihada", "sw": "jitihada", "en": "effort / hard work", "so": "dadaal", "v": "standard", "syn": "effort", "note": { "en": "Kufanya jitihada = to make an effort.", "so": "Kufanya jitihada = dadaalid." } },
+    { "id": "st.kufanikiwa", "sw": "kufanikiwa", "en": "to succeed", "so": "guulaysi", "v": "standard", "syn": "succeed", "note": { "en": "Mafanikio = success.", "so": "Mafanikio = guul." } },
+
+    { "id": "st.ngamia", "sw": "ngamia", "en": "camel", "so": "geel (awr / hal)", "v": "standard", "note": { "en": "The same in singular and plural: ngamia mmoja, ngamia wawili. Camel milk is maziwa ya ngamia.", "so": "Keli iyo wadarba waa isku mid: ngamia mmoja (hal geel), ngamia wawili (laba geel). Caanaha geela waa maziwa ya ngamia." } },
+    { "id": "st.mjukuu", "sw": "mjukuu", "en": "grandchild", "so": "ilmaha ilmahaaga", "v": "standard", "note": { "en": "Plural wajukuu. Grandparents call a grandchild mjukuu wangu (my grandchild).", "so": "Wadar: wajukuu. Awoowayaashu ilmaha ilmahooda waxay ugu yeeraan mjukuu wangu." } },
+    { "id": "st.kuhamia", "sw": "kuhamia", "en": "to move to (a new home)", "so": "u guurid", "v": "standard", "syn": "move", "note": { "en": "Kuhama = to move away; kuhamia = to move to. Tulihamia Garissa = we moved to Garissa.", "so": "Kuhama = ka guurid; kuhamia = u guurid. Tulihamia Garissa = Garissa ayaan u guurnay." } },
+    { "id": "st.malisho", "sw": "malisho", "en": "pasture / grazing land", "so": "daaq", "v": "standard" },
+    { "id": "st.kuchunga", "sw": "kuchunga", "en": "to herd (animals)", "so": "xoolo raacid", "v": "standard", "note": { "en": "Mchungaji = herder; in church it also means pastor.", "so": "Mchungaji = xoolo-raace; kaniisadda gudaheedana waa wadaadka (pastor)." } },
+
+    { "id": "st.kilima", "sw": "kilima", "en": "hill", "so": "buur yar (kur)", "v": "standard", "note": { "en": "Plural vilima. Mlima is a mountain.", "so": "Wadar: vilima. Mlima waa buur weyn." } },
+    { "id": "st.ukungu", "sw": "ukungu", "en": "mist / fog", "so": "ceeryaamo", "v": "standard" },
+    { "id": "st.kujituma", "sw": "kujituma", "en": "to push yourself / to be dedicated", "so": "isku dadaalid", "v": "standard", "note": { "en": "Mtu anayejituma = a dedicated, hard-working person.", "so": "Mtu anayejituma = qof dadaal badan oo hawshiisa u heellan." } },
+    { "id": "st.uvumilivu", "sw": "uvumilivu", "en": "patience / endurance", "so": "samir / adkaysi", "v": "standard", "syn": "patience", "note": { "en": "From kuvumilia (to endure). The proverb says Mvumilivu hula mbivu: the patient one eats ripe fruit.", "so": "Waxay ka timid kuvumilia (u adkaysi). Maahmaahdu waxay leedahay Mvumilivu hula mbivu: samir badane ayaa cuna midho bislaaday." } },
+    { "id": "st.mbio-za-nyika", "sw": "mbio za nyika", "en": "cross-country race", "so": "tartanka orodka duurka (cross-country)", "v": "standard", "note": { "en": "Nyika = open bush country. Kenyan runners have won many world cross-country titles.", "so": "Nyika = dhul duur ah oo bannaan. Orodyahannada Kenya waxay ku guuleysteen horyaallo badan oo adduunka ah oo orodka duurka ah." } },
+
+    { "id": "st.mvuvi", "sw": "mvuvi", "en": "fisherman / fisher", "so": "kalluumeyste", "v": "standard", "syn": "fisherman", "note": { "en": "Plural wavuvi.", "so": "Wadar: wavuvi." } },
+    { "id": "st.kuvua-samaki", "sw": "kuvua samaki", "en": "to fish (catch fish)", "so": "kalluumaysi", "v": "standard", "note": { "en": "Careful: kuvua also means to take off (clothes). Vua viatu = take off your shoes.", "so": "Ka feejignow: kuvua sidoo kale waa dhar iska bixin. Vua viatu = kabaha iska bixi." } },
+    { "id": "st.mtumbwi", "sw": "mtumbwi", "en": "canoe / small boat", "so": "doon yar (huuri)", "v": "standard", "syn": "boat", "note": { "en": "Plural mitumbwi.", "so": "Wadar: mitumbwi." } },
+    { "id": "st.wavu", "sw": "wavu", "en": "fishing net", "so": "shabag kalluun", "v": "standard", "note": { "en": "Plural nyavu.", "so": "Wadar: nyavu." } },
+    { "id": "st.omena", "sw": "omena", "en": "omena (tiny silver lake fish)", "so": "omena (kalluun yaryar oo dhalaalaya)", "v": "everyday", "tz": "dagaa", "note": { "en": "From Dholuo. Elsewhere in Kenya and in Tanzania they are called dagaa. Dried omena is cooked with tomatoes and eaten with ugali.", "so": "Waxay ka timid luqadda Dholuo. Meelaha kale ee Kenya iyo Tanzania waxaa loo yaqaan dagaa. Omena la qalajiyay waxaa lagu kariyaa yaanyo, waxaana lagu cunaa ugali." } },
+    { "id": "st.dhoruba", "sw": "dhoruba", "en": "storm", "so": "duufaan", "v": "standard" }
+  ],
+  "lessons": [
+    {
+      "id": "paukwa-and-sungura",
+      "title": { "en": "Paukwa! A tale of Hare", "so": "Paukwa! Sheeko Bakayle" },
+      "items": ["st.hadithi", "st.paukwa", "st.pakawa", "st.hapo-zamani", "st.sungura", "st.asali", "st.ujanja"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Baraka", "sw": "Nyanya, tafadhali tusimulie hadithi kabla ya kulala!", "en": "Grandma, please tell us a story before we sleep!", "so": "Ayeeyo, fadlan sheeko noo sheeg intaanan seexan!" },
+            { "who": "Nyanya", "sw": "Sawa, wajukuu wangu. Kaeni karibu na moto. Paukwa!", "en": "All right, my grandchildren. Sit close to the fire. Paukwa!", "so": "Hagaag, carruurtaydiiyow. Dabka u soo dhowaada. Paukwa!" },
+            { "who": "Watoto", "sw": "Pakawa!", "en": "Pakawa!", "so": "Pakawa!" },
+            { "who": "Nyanya", "sw": "Hadithi, hadithi!", "en": "A story, a story!", "so": "Sheeko, sheeko!" },
+            { "who": "Watoto", "sw": "Hadithi njoo, uongo njoo, utamu kolea!", "en": "Come, story! Come, tall tale! Let the sweetness grow!", "so": "Sheekoy kaalay, beenoy kaalay, macaanku ha bato!" }
+          ],
+          "question": { "en": "What do the children answer when grandma says Paukwa?", "so": "Maxay carruurtu ku jawaabaan marka ayeeyo tiraahdo Paukwa?" },
+          "options": [
+            { "en": "Hadithi njoo!", "so": "Hadithi njoo!" },
+            { "en": "Pakawa!", "so": "Pakawa!" },
+            { "en": "Asante, nyanya!", "so": "Asante, nyanya!" }
+          ],
+          "answer": 1
+        },
+        {
+          "type": "story",
+          "title": { "en": "Hare and Bee", "so": "Bakayle iyo Shinni" },
+          "lines": [
+            { "who": "Nyanya", "sw": "Paukwa!", "en": "Paukwa!", "so": "Paukwa!" },
+            { "who": "Watoto", "sw": "Pakawa!", "en": "Pakawa!", "so": "Pakawa!" },
+            { "sw": "Hapo zamani za kale, palikuwa na kiangazi kirefu porini.", "en": "Long, long ago, there was a long dry season in the bush.", "so": "Waa baa waxaa jiri jiray jiilaal dheer oo duurka ka dhacay." },
+            { "sw": "Wanyama wote walikuwa na njaa, lakini Sungura alikuwa na njaa kuliko wote.", "en": "All the animals were hungry, but Hare was the hungriest of all.", "so": "Xayawaanka oo dhan waa gaajaysnaayeen, laakiin Bakayle ayaa ugu gaajo badnaa." },
+            { "sw": "Alienda kwa Nyuki na kusema, Rafiki yangu, nikopeshe asali kidogo.", "en": "He went to Bee and said, My friend, lend me a little honey.", "so": "Wuxuu u tagay Shinni oo ku yiri, Saaxiibkay, malab yar i amaahi." },
+            { "who": "Sungura", "sw": "Mvua zikinyesha, nitakulipa kwa kitu kitamu kuliko asali.", "en": "When the rains come, I will pay you back with something sweeter than honey.", "so": "Marka roobku da'o, waxaan kuugu celin doonaa wax ka macaan malab." },
+            { "sw": "Nyuki alishangaa, lakini alimpa chungu kidogo cha asali.", "en": "Bee was surprised, but she gave him a small pot of honey.", "so": "Shinnidu way la yaabtay, laakiin waxay siisay dheri yar oo malab ah." },
+            { "sw": "Fisi aliposikia habari hizo, alicheka sana.", "en": "When Hyena heard the news, he laughed hard.", "so": "Markii Waraabe warkaas maqlay, aad buu u qoslay." },
+            { "who": "Fisi", "sw": "Hakuna kitu kitamu kuliko asali! Sungura atakimbia bila kulipa.", "en": "There's nothing sweeter than honey! Hare will run off without paying.", "so": "Wax ka macaan malab ma jiro! Bakayle wuu carari doonaa isagoon bixin." },
+            { "sw": "Mvua zilipofika, Sungura alichimba udongo na kupanda maua kuzunguka mzinga wa Nyuki.", "en": "When the rains arrived, Hare dug the soil and planted flowers all around Bee's hive.", "so": "Markii roobabku yimaadeen, Bakayle carrada ayuu qoday oo ubax ku beeray hareeraha rugta Shinnida." },
+            { "sw": "Baada ya wiki chache, maua yalichanua kila mahali.", "en": "After a few weeks, flowers bloomed everywhere.", "so": "Toddobaadyo yar kadib, ubaxyadu meel walba ayay ka ubxeen." },
+            { "who": "Nyuki", "sw": "Kweli, kwa nyuki hakuna kitu kitamu kuliko maua! Umenilipa mara kumi.", "en": "It's true, for a bee nothing is sweeter than flowers! You've paid me back ten times over.", "so": "Waa run, shinnida wax ka macaan ubax uma jiro! Toban jeer ayaad ii celisay." },
+            { "sw": "Tangu siku hiyo, wanyama husema: akili ni mali.", "en": "Since that day, the animals say: wisdom is wealth.", "so": "Maalintaas laga bilaabo, xayawaanku waxay yiraahdaan: caqligu waa hanti." },
+            { "who": "Nyanya", "sw": "Hadithi yangu imeishia hapo.", "en": "And that's the end of my story.", "so": "Sheekadaydii halkaas ayay ku dhammaatay." }
+          ],
+          "questions": [
+            { "question": { "en": "What did Hare promise to pay Bee back with?", "so": "Maxuu Bakayle u ballanqaaday inuu Shinnida ugu celiyo?" }, "options": [ { "en": "Ten pots of honey", "so": "Toban dheri oo malab ah" }, { "en": "Something sweeter than honey", "so": "Wax ka macaan malab" }, { "en": "Money from the market", "so": "Lacag suuqa laga keenay" } ], "answer": 1 },
+            { "question": { "en": "Why did Hyena laugh?", "so": "Muxuu Waraabe u qoslay?" }, "options": [ { "en": "He thought nothing is sweeter than honey", "so": "Wuxuu moodayay inaan wax ka macaan malab jirin" }, { "en": "Hare fell into the river", "so": "Bakayle ayaa webiga ku dhacay" }, { "en": "Bee was afraid of him", "so": "Shinnidu way ka baqaysay" } ], "answer": 0 },
+            { "question": { "en": "How did Hare pay Bee back?", "so": "Sidee buu Bakayle Shinnida ugu celiyay?" }, "options": [ { "en": "He gave her money", "so": "Lacag ayuu siiyay" }, { "en": "He ran away", "so": "Wuu cararay" }, { "en": "He planted flowers around her hive", "so": "Ubax ayuu ku beeray hareeraha rugteeda" } ], "answer": 2 }
+          ]
+        },
+        { "type": "gap", "before": "Hapo", "after": " za kale, palikuwa na simba mzee.", "options": ["kesho", "zamani", "sasa"], "answer": 1, "meaning": { "en": "Long, long ago, there was an old lion.", "so": "Waa baa waxaa jiri jiray libaax duq ah." } }
+      ]
+    },
+    {
+      "id": "abunuwasi",
+      "title": { "en": "Abunuwasi sells tomorrow", "so": "Abunuwaas oo iibinaya berri" },
+      "items": ["st.tajiri", "st.kudai", "st.kadhi", "st.kicheko", "st.leo-ni-leo", "st.hadithi-imeishia"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Abunuwasi sells tomorrow", "so": "Abunuwaas oo iibinaya berri" },
+          "lines": [
+            { "sw": "Siku moja, tajiri mmoja aitwaye Bwana Mali alikuwa akijisifu sokoni.", "en": "One day, a rich man called Mr Mali (Mr Wealth) was boasting at the market.", "so": "Maalin maalmaha ka mid ah, nin taajir ah oo la oran jiray Bwana Mali ayaa suuqa isku faanayay." },
+            { "who": "Bwana Mali", "sw": "Kwa pesa zangu, ninaweza kununua kitu chochote duniani!", "en": "With my money, I can buy anything in the world!", "so": "Lacagtayda, wax kasta oo adduunka jira waan ku iibsan karaa!" },
+            { "sw": "Abunuwasi alikuwa amekaa karibu, akinywa kahawa chungu.", "en": "Abunuwasi was sitting nearby, drinking bitter coffee.", "so": "Abunuwaas ayaa meel u dhow fadhiyay, isagoo cabbaya qaxwo qadhaadh." },
+            { "who": "Abunuwasi", "sw": "Bwana Mali, nina kitu ambacho huna. Nitakuuzia kesho.", "en": "Mr Mali, I have something you don't have. I'll sell you tomorrow.", "so": "Bwana Mali, waxaan haystaa wax aadan haysan. Waxaan kuu iibin doonaa berri." },
+            { "sw": "Tajiri alifurahi, akampa Abunuwasi sarafu ya dhahabu.", "en": "The rich man was delighted, and gave Abunuwasi a gold coin.", "so": "Taajirkii wuu farxay, wuxuuna Abunuwaas siiyay hal qadaadiic oo dahab ah." },
+            { "sw": "Siku iliyofuata, alikuja kudai kesho yake.", "en": "The next day, he came to claim his tomorrow.", "so": "Maalintii xigtay, wuxuu u yimid inuu dalbado berritiisii." },
+            { "who": "Abunuwasi", "sw": "Pole, bwana. Leo ni leo; kesho bado haijafika. Rudi kesho.", "en": "Sorry, sir. Today is today; tomorrow hasn't come yet. Come back tomorrow.", "so": "Raali ahow, mudane. Maanta waa maanta; berri weli ma iman. Berri soo noqo." },
+            { "sw": "Tajiri alirudi kila siku kwa wiki nzima, na kila siku jibu lilikuwa lile lile.", "en": "The rich man came back every day for a whole week, and every day the answer was the same.", "so": "Taajirkii maalin walba ayuu soo noqday toddobaad oo dhan, maalin walbana jawaabtu isla tii bay ahayd." },
+            { "sw": "Mwishowe, alikasirika na kumpeleka Abunuwasi kwa kadhi.", "en": "In the end, he got angry and took Abunuwasi to the kadhi.", "so": "Ugu dambayntii, wuu cadhooday oo Abunuwaas u kaxeeyay qaaddiga." },
+            { "sw": "Kadhi alisikiliza pande zote mbili, kisha akaangua kicheko.", "en": "The kadhi listened to both sides, then burst out laughing.", "so": "Qaaddigu wuxuu dhagaystay labada dhinac, kadibna qosol ayuu la dhacay." },
+            { "who": "Kadhi", "sw": "Bwana Mali, umenunua kitu ambacho hakuna mtu anayekimiliki.", "en": "Mr Mali, you have bought something that nobody owns.", "so": "Bwana Mali, waxaad iibsatay wax aan qofna lahayn." },
+            { "sw": "Abunuwasi alimrudishia tajiri sarafu yake na kusema, Leo nimekuuzia somo, na somo hili ni bure.", "en": "Abunuwasi gave the rich man back his coin and said, Today I sold you a lesson, and this lesson is free.", "so": "Abunuwaas wuxuu taajirkii u celiyay qadaadiictiisii oo yiri, Maanta cashar ayaan kuu iibiyay, casharkanna waa bilaash." },
+            { "sw": "Watu wote sokoni walicheka, hata Bwana Mali mwenyewe.", "en": "Everyone at the market laughed, even Mr Mali himself.", "so": "Dadkii suuqa joogay oo dhan way qosleen, xataa Bwana Mali laftiisa." },
+            { "sw": "Hadithi yangu imeishia hapo.", "en": "And that's the end of my story.", "so": "Sheekadaydii halkaas ayay ku dhammaatay." }
+          ],
+          "questions": [
+            { "question": { "en": "What did Abunuwasi offer to sell the rich man?", "so": "Muxuu Abunuwaas u bandhigay inuu taajirka ka iibiyo?" }, "options": [ { "en": "Tomorrow", "so": "Berri" }, { "en": "His coffee", "so": "Qaxwadiisa" }, { "en": "A gold coin", "so": "Qadaadiic dahab ah" } ], "answer": 0 },
+            { "question": { "en": "Why did the kadhi laugh?", "so": "Muxuu qaaddigu u qoslay?" }, "options": [ { "en": "Abunuwasi told him a joke", "so": "Abunuwaas ayaa kaftan u sheegay" }, { "en": "The rich man fell over", "so": "Taajirkii ayaa dhacay" }, { "en": "The rich man had bought something nobody owns", "so": "Taajirku wuxuu iibsaday wax aan qofna lahayn" } ], "answer": 2 },
+            { "question": { "en": "What did Abunuwasi do at the end?", "so": "Muxuu Abunuwaas sameeyay dhammaadkii?" }, "options": [ { "en": "He kept the coin", "so": "Qadaadiicdii wuu haystay" }, { "en": "He gave the coin back", "so": "Qadaadiicdii wuu celiyay" }, { "en": "He ran away", "so": "Wuu cararay" } ], "answer": 1 }
+          ]
+        },
+        { "type": "respond", "heard": "Nitafanya kazi hiyo kesho, au kesho kutwa.", "options": ["Karibu chai.", "Leo ni leo, asemaye kesho ni mwongo!", "Safari njema!"], "answer": 1, "explain": { "en": "'I'll do that job tomorrow, or the day after.' – 'Today is today; whoever says tomorrow is a liar!'", "so": "'Shaqadaas berri ayaan qaban doonaa, ama saadambe.' – 'Maanta waa maanta; kii yiraahda berri waa beenaale!'" } },
+        { "type": "build", "prompt": { "en": "The kadhi burst out laughing", "so": "Qaaddigii qosol ayuu la dhacay" }, "answer": "Kadhi aliangua kicheko", "extra": ["kesho", "asali", "sungura"] }
+      ]
+    },
+    {
+      "id": "nairobi-stories",
+      "title": { "en": "Nairobi stories", "so": "Sheekooyin Nairobi" },
+      "items": ["st.abiria", "st.kelele", "st.kujiajiri", "st.jitihada", "st.kufanikiwa"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Mutua's morning matatu", "so": "Matatu-ga subaxa ee Mutua" },
+          "lines": [
+            { "sw": "Kila asubuhi, Mutua hupanda matatu kutoka Kasarani kwenda tao.", "en": "Every morning, Mutua takes a matatu from Kasarani to town.", "so": "Subax kasta, Mutua wuxuu matatu ka raacaa Kasarani isagoo u socda bartamaha magaalada." },
+            { "sw": "Leo alichelewa kidogo, na kituo cha matatu kilikuwa kimejaa abiria.", "en": "Today he was a little late, and the matatu stop was full of passengers.", "so": "Maanta wax yar ayuu daahay, joogsiga matatu-yaduna rakaab ayaa ka buuxay." },
+            { "sw": "Konda alipiga kelele, Tao! Tao! Ni mia moja tu!", "en": "The conductor shouted, Town! Town! Only a hundred bob!", "so": "Kirishboygu wuxuu ku qayliyay, Magaalada! Magaalada! Waa boqol shilin oo keliya!" },
+            { "sw": "Mutua aliingia haraka na kukaa nyuma, katikati ya mama mmoja na mwanafunzi.", "en": "Mutua quickly got in and sat at the back, between a woman and a student.", "so": "Mutua si degdeg ah ayuu u galay oo xagga dambe fadhiistay, isagoo u dhexeeya haweeney iyo arday." },
+            { "sw": "Muziki wa gengetone ulikuwa juu sana, na skrini ndogo ilionyesha video.", "en": "The gengetone music was very loud, and a small screen was showing videos.", "so": "Muusigga gengetone aad buu u cod dheeraa, shaashad yarina fiidiyowyo ayay muujinaysay." },
+            { "sw": "Mama yule alimwomba dereva apunguze sauti, lakini hakusikia kwa sababu ya kelele.", "en": "The woman asked the driver to turn the volume down, but he didn't hear because of the noise.", "so": "Haweeneydii waxay darawalka ka codsatay inuu codka yareeyo, laakiin ma maqlin buuqa awgiis." },
+            { "sw": "Kwenye barabara ya Thika, jam ilikuwa ndefu kama kawaida.", "en": "On Thika Road, the jam was long as usual.", "so": "Waddada Thika, ciriirigu sidii caadada ahayd wuu dheeraa." },
+            { "sw": "Ghafla, dereva aligeuza matatu na kupita njia ya mkato kupitia mtaani.", "en": "Suddenly, the driver turned the matatu and took a shortcut through the estate.", "so": "Si lama filaan ah, darawalku matatu-gii ayuu leexiyay oo jid gaaban ka maray xaafadda dhexdeeda." },
+            { "sw": "Abiria wote walishika viti kwa nguvu, wengine wakicheka, wengine wakiomba.", "en": "All the passengers held on to their seats tightly, some laughing, others praying.", "so": "Rakaabkii oo dhan si adag ayay kuraasta u qabsadeen, qaar way qoslayeen, qaarna way ducaynayeen." },
+            { "sw": "Baada ya dakika ishirini tu, walifika tao salama.", "en": "After just twenty minutes, they reached town safely.", "so": "Labaatan daqiiqo oo keliya kadib, magaalada ayay si nabad ah u gaareen." },
+            { "sw": "Mutua alishuka na kusema kimoyomoyo, Matatu za Nairobi si mchezo!", "en": "Mutua got off and said to himself, Nairobi matatus are no joke!", "so": "Mutua wuu degay oo wuxuu iska yiri, Matatu-yada Nairobi ciyaar ma aha!" }
+          ],
+          "questions": [
+            { "question": { "en": "Why didn't the driver turn the volume down?", "so": "Muxuu darawalku codka u yarayn waayay?" }, "options": [ { "en": "He didn't hear because of the noise", "so": "Ma maqlin buuqa awgiis" }, { "en": "He liked the song", "so": "Heesta ayuu jeclaa" }, { "en": "The radio was broken", "so": "Raadiyaha ayaa jabnaa" } ], "answer": 0 },
+            { "question": { "en": "How did the driver beat the traffic?", "so": "Sidee buu darawalku uga baxsaday ciriiriga?" }, "options": [ { "en": "He drove on the pavement", "so": "Wuxuu ku wadday dhinaca lugaynta" }, { "en": "He took a shortcut through the estate", "so": "Jid gaaban ayuu ka maray xaafadda" }, { "en": "He waited for the police", "so": "Booliska ayuu sugay" } ], "answer": 1 }
+          ]
+        },
+        {
+          "type": "story",
+          "title": { "en": "Mwikali's M-Pesa kiosk", "so": "Buushka M-Pesa ee Mwikali" },
+          "lines": [
+            { "sw": "Mwikali alimaliza shule ya sekondari, lakini hakupata nafasi ya kazi.", "en": "Mwikali finished secondary school, but she didn't find a job opening.", "so": "Mwikali waxay dhammaysay dugsiga sare, laakiin ma helin fursad shaqo." },
+            { "sw": "Badala ya kukata tamaa, aliamua kujiajiri.", "en": "Instead of giving up, she decided to work for herself.", "so": "Halkii ay rajo beeli lahayd, waxay go'aansatay inay is-shaqaysiiso." },
+            { "sw": "Kwa msaada wa chama cha akina mama, alipata mkopo mdogo.", "en": "With help from a women's chama (savings group), she got a small loan.", "so": "Iyadoo uu caawiyay chama (koox lacag-keydin) haweenka, waxay heshay deyn yar." },
+            { "sw": "Alifungua kibanda cha wakala wa M-Pesa karibu na kituo cha matatu mjini Machakos.", "en": "She opened a small M-Pesa agent kiosk near the matatu stop in Machakos town.", "so": "Waxay furtay buush yar oo wakiil M-Pesa ah oo u dhow joogsiga matatu-yada magaalada Machakos." },
+            { "sw": "Mwanzoni, wateja walikuwa wachache, na siku nyingine hakupata faida yoyote.", "en": "At first, there were few customers, and some days she made no profit at all.", "so": "Bilowgii, macaamiishu way yaraayeen, maalmaha qaarkoodna wax faa'iido ah ma helin." },
+            { "sw": "Lakini Mwikali alifanya jitihada: alifungua mapema na kufunga usiku.", "en": "But Mwikali worked hard: she opened early and closed at night.", "so": "Laakiin Mwikali way dadaashay: goor hore ayay furi jirtay, habeenkiina way xiri jirtay." },
+            { "sw": "Aliwahudumia wateja kwa heshima na kuwakumbusha wasimpe mtu yeyote namba yao ya siri.", "en": "She served customers respectfully and reminded them never to give anyone their PIN.", "so": "Waxay macaamiisha ugu adeegi jirtay si ixtiraam leh, waxayna xusuusin jirtay inaysan qofna siin lambarkooda sirta ah." },
+            { "sw": "Baada ya mwaka mmoja, aliongeza huduma ya kuuza credit na kulipa bili za stima.", "en": "After a year, she added selling airtime and paying electricity bills.", "so": "Sannad kadib, waxay ku dartay iibinta kaarka hadalka iyo bixinta biilasha korontada." },
+            { "sw": "Leo, ameajiri wasichana wawili, na analipa karo ya shule ya ndugu zake.", "en": "Today, she employs two young women and pays her siblings' school fees.", "so": "Maanta, waxay shaqaalaysiisay laba gabdhood, waxayna bixisaa khidmadda dugsiga walaalaheed." },
+            { "sw": "Mwikali anasema, Kufanikiwa hakuji kwa siku moja; ni hatua kwa hatua.", "en": "Mwikali says, Success doesn't come in one day; it's step by step.", "so": "Mwikali waxay leedahay, Guushu maalin keliya kuma timaaddo; waa tallaabo tallaabo." }
+          ],
+          "questions": [
+            { "question": { "en": "How did Mwikali get the money to start?", "so": "Sidee ayay Mwikali u heshay lacagta ay ku bilowday?" }, "options": [ { "en": "From her boss", "so": "Maamulaheeda ayay ka heshay" }, { "en": "From a rich uncle", "so": "Adeer taajir ah ayay ka heshay" }, { "en": "A small loan through a women's chama", "so": "Deyn yar oo ay chama haweenka ka heshay" } ], "answer": 2 },
+            { "question": { "en": "What does she remind her customers?", "so": "Maxay macaamiisheeda xusuusisaa?" }, "options": [ { "en": "To come back tomorrow", "so": "Inay berri soo noqdaan" }, { "en": "Never to give anyone their PIN", "so": "Inaysan qofna siin lambarkooda sirta ah" }, { "en": "To pay in cash only", "so": "Inay lacag caddaan ah oo keliya ku bixiyaan" } ], "answer": 1 }
+          ]
+        },
+        { "type": "gap", "before": "Usipige", "after": "! Mtoto amelala.", "options": ["kelele", "jitihada", "abiria"], "answer": 0, "meaning": { "en": "Don't make noise! The baby is asleep.", "so": "Ha buuqin! Ilmuhu wuu seexday." } }
+      ]
+    },
+    {
+      "id": "garissa-family",
+      "title": { "en": "A family in Garissa", "so": "Qoys ku nool Garissa" },
+      "items": ["st.ngamia", "st.mjukuu", "st.kuhamia", "st.malisho", "st.kuchunga"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "The Farah family of Garissa", "so": "Qoyska Farah ee Garissa" },
+          "lines": [
+            { "sw": "Familia ya Mzee Farah inaishi mjini Garissa, karibu na Mto Tana.", "en": "Mzee Farah's family lives in Garissa town, near the Tana River.", "so": "Qoyska Mzee Farah waxay ku nool yihiin magaalada Garissa, meel u dhow Webiga Tana." },
+            { "sw": "Zamani, Mzee Farah alikuwa mfugaji aliyechunga ngamia na mbuzi nyikani.", "en": "In the old days, Mzee Farah was a herder who grazed camels and goats in the open bush.", "so": "Waagii hore, Mzee Farah wuxuu ahaa xoolo-dhaqato geel iyo ari ku raaci jiray baadiyaha." },
+            { "sw": "Ukame mkubwa ulipokuja, malisho yalikauka na mifugo mingi ikafa.", "en": "When a great drought came, the pastures dried up and many animals died.", "so": "Markii abaar weyn timid, daaqii wuu engegay, xoolo badanna way dhinteen." },
+            { "sw": "Ndipo familia ilipoamua kuhamia mjini.", "en": "That was when the family decided to move to town.", "so": "Markaas ayuu qoysku go'aansaday inuu magaalada u guuro." },
+            { "sw": "Leo, Mzee Farah ana duka dogo sokoni, na mkewe Amina anauza maziwa ya ngamia.", "en": "Today, Mzee Farah has a small shop at the market, and his wife Amina sells camel milk.", "so": "Maanta, Mzee Farah wuxuu suuqa ku leeyahay dukaan yar, xaaskiisa Amina-na waxay iibisaa caano geel." },
+            { "sw": "Watoto wao wamesoma; mmoja ni mwalimu Garissa, mwingine ni daktari Nairobi.", "en": "Their children are educated; one is a teacher in Garissa, another a doctor in Nairobi.", "so": "Carruurtoodu way wax barteen; mid waa macallin Garissa, kan kalena waa dhakhtar Nairobi." },
+            { "sw": "Nyumbani wanazungumza Kisomali, lakini sokoni wanatumia Kiswahili na wateja.", "en": "At home they speak Somali, but at the market they use Swahili with customers.", "so": "Guriga waxay ku hadlaan Af-Soomaali, laakiin suuqa waxay macaamiisha kula hadlaan Sawaaxili." },
+            { "sw": "Kila Ijumaa jioni, wajukuu walio Nairobi humpigia babu yao simu ya video.", "en": "Every Friday evening, the grandchildren in Nairobi video-call their grandfather.", "so": "Jimce kasta fiidkii, ilmaha ilmihiisa ee Nairobi jooga ayaa awoowahood muuqaal kula hadla." },
+            { "sw": "Mjukuu mdogo, Halima, anapenda hadithi za babu kuhusu maisha ya nyikani.", "en": "The youngest grandchild, Halima, loves her grandfather's stories about life in the bush.", "so": "Halima, tan ugu yar ilmaha ilmihiisa, waxay jeceshahay sheekooyinka awoowe ee nolosha baadiyaha." },
+            { "who": "Mzee Farah", "sw": "Mjukuu wangu, ngamia alitufundisha uvumilivu. Mvumilivu hula mbivu.", "en": "My grandchild, the camel taught us patience. The patient one eats ripe fruit.", "so": "Ilmahaygiiyow, geelu wuxuu na baray samir. Samir badane ayaa cuna midho bislaaday." },
+            { "sw": "Mwaka huu, familia nzima itakutana Garissa kwa sikukuu ya Idd.", "en": "This year, the whole family will meet in Garissa for the Idd holiday.", "so": "Sannadkan, qoyska oo dhan waxay ciidda isugu iman doonaan Garissa." }
+          ],
+          "questions": [
+            { "question": { "en": "Why did the family move to town?", "so": "Maxuu qoysku magaalada ugu guuray?" }, "options": [ { "en": "A great drought killed many animals", "so": "Abaar weyn ayaa xoolo badan laysay" }, { "en": "Mzee Farah got a job in a bank", "so": "Mzee Farah wuxuu shaqo ka helay bangi" }, { "en": "The river flooded their home", "so": "Webigu wuxuu fatahay gurigoodii" } ], "answer": 0 },
+            { "question": { "en": "Which languages does the family use?", "so": "Luqadahee ayuu qoysku isticmaalaa?" }, "options": [ { "en": "Only English", "so": "Ingiriisi oo keliya" }, { "en": "Somali at home, Swahili at the market", "so": "Af-Soomaali guriga, Sawaaxili suuqa" }, { "en": "Only Swahili", "so": "Sawaaxili oo keliya" } ], "answer": 1 },
+            { "question": { "en": "What does Halima love?", "so": "Maxay Halima jeceshahay?" }, "options": [ { "en": "Football on TV", "so": "Kubadda cagta ee TV-ga" }, { "en": "Selling camel milk", "so": "Iibinta caanaha geela" }, { "en": "Her grandfather's stories about life in the bush", "so": "Sheekooyinka awoowe ee nolosha baadiyaha" } ], "answer": 2 }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Babu, salamu kutoka Nairobi! Habari ya Garissa?", "en": "Grandpa, greetings from Nairobi! How are things in Garissa?", "so": "Awoowe, salaan Nairobi ka timid! Garissa sidee tahay?" },
+            { "who": "Mzee Farah", "sw": "Nzuri, mjukuu wangu. Joto ni kali, lakini tuko salama.", "en": "Fine, my grandchild. The heat is fierce, but we are well.", "so": "Waa fiican tahay, ilmahaygiiyow. Kulaylku waa daran yahay, laakiin nabad baan qabnaa." },
+            { "who": "Halima", "sw": "Ngamia wako mweupe bado yupo?", "en": "Is your white camel still there?", "so": "Hashaadii cadayd weli ma joogtaa?" },
+            { "who": "Mzee Farah", "sw": "Ndiyo! Mjomba wako anamchunga nje ya mji, ambako kuna malisho.", "en": "Yes! Your uncle herds her outside town, where there is pasture.", "so": "Haa! Abtigaa ayaa ka raaca magaalada dibaddeeda, halkaas oo daaq ka jiro." },
+            { "who": "Halima", "sw": "Nitakuja kumwona wakati wa likizo!", "en": "I'll come and see her during the holidays!", "so": "Waan iman doonaa si aan u arko xilliga fasaxa!" }
+          ],
+          "question": { "en": "Where is the white camel kept?", "so": "Xaggee lagu hayaa hasha cad?" },
+          "options": [
+            { "en": "Outside town, where there is pasture", "so": "Magaalada dibaddeeda, halka daaqu ka jiro" },
+            { "en": "In the house", "so": "Guriga gudihiisa" },
+            { "en": "In Nairobi", "so": "Nairobi" }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "iten-runner",
+      "title": { "en": "The runner from Iten", "so": "Orodyahanka Iten" },
+      "items": ["st.kilima", "st.ukungu", "st.kujituma", "st.uvumilivu", "st.mbio-za-nyika"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "The runner from Iten", "so": "Orodyahanka Iten" },
+          "lines": [
+            { "sw": "Iten ni mji mdogo juu ya Bonde la Ufa, unaojulikana kama Nyumbani kwa Mabingwa.", "en": "Iten is a small town above the Rift Valley, known as the Home of Champions.", "so": "Iten waa magaalo yar oo ka sarraysa Dooxada Rift Valley, waxaana loo yaqaan Hoyga Horyaallada." },
+            { "sw": "Kila siku saa kumi na moja alfajiri, Kiprotich huamka wakati ukungu bado umetanda.", "en": "Every day at five in the morning, Kiprotich wakes up while the mist still lies over the land.", "so": "Maalin walba shanta subaxnimo, Kiprotich wuu toosaa iyadoo ceeryaamadu weli dhulka dul fadhido." },
+            { "sw": "Anavaa viatu vyake vya zamani na kujiunga na kundi la wanariadha barabarani.", "en": "He puts on his old shoes and joins a group of runners on the road.", "so": "Wuxuu xirtaa kabihiisii hore oo ku biiraa koox orodyahanno ah oo waddada jooga." },
+            { "sw": "Wanakimbia kilomita ishirini, wakipanda na kushuka vilima vyekundu.", "en": "They run twenty kilometres, up and down the red hills.", "so": "Waxay ordaan labaatan kiiloomitir, iyagoo kor iyo hoos u maraya buuraha yaryar ee casaanka ah." },
+            { "sw": "Kiprotich anatoka katika familia maskini; baba yake ni mkulima wa mahindi.", "en": "Kiprotich comes from a poor family; his father is a maize farmer.", "so": "Kiprotich wuxuu ka dhashay qoys sabool ah; aabbihiis waa beeraley galley." },
+            { "sw": "Ndoto yake ni kushinda mbio za dunia kama Eliud Kipchoge na Faith Kipyegon.", "en": "His dream is to win world races like Eliud Kipchoge and Faith Kipyegon.", "so": "Riyadiisu waa inuu ku guuleysto tartamada adduunka sida Eliud Kipchoge iyo Faith Kipyegon." },
+            { "sw": "Mwaka jana alishiriki mbio za nyika za kaunti, lakini alimaliza wa kumi.", "en": "Last year he took part in the county cross-country race, but he finished tenth.", "so": "Sannadkii hore wuxuu ka qayb galay tartanka orodka duurka ee kaunti-ga, laakiin wuxuu galay kaalinta tobnaad." },
+            { "sw": "Alihuzunika, lakini kocha wake alimwambia, Uvumilivu ndio siri ya mafanikio.", "en": "He was sad, but his coach told him, Patience is the secret of success.", "so": "Wuu murugooday, laakiin tababarihiisii ayaa ku yiri, Samirku waa sirta guusha." },
+            { "sw": "Kwa miezi kumi na miwili, Kiprotich alijituma kuliko wakati wowote.", "en": "For twelve months, Kiprotich pushed himself harder than ever.", "so": "Laba iyo toban bilood, Kiprotich wuxuu isku dadaalay si ka badan sidii hore oo dhan." },
+            { "sw": "Mwaka huu, katika mbio zile zile, aliongoza tangu mwanzo hadi mwisho.", "en": "This year, in the same race, he led from start to finish.", "so": "Sannadkan, isla tartankaas, wuxuu hoggaaminayay bilowgii ilaa dhammaadkii." },
+            { "sw": "Alipovuka mstari wa kumaliza, mama yake alilia kwa furaha.", "en": "When he crossed the finish line, his mother cried with joy.", "so": "Markii uu ka gudbay xariiqda dhammaadka, hooyadiis farxad ayay la ooyday." },
+            { "sw": "Sasa amechaguliwa kujiunga na kambi ya mazoezi ya timu ya taifa.", "en": "Now he has been selected to join the national team's training camp.", "so": "Hadda waxaa loo doortay inuu ku biiro xerada tababarka kooxda qaranka." }
+          ],
+          "questions": [
+            { "question": { "en": "Where did Kiprotich finish last year?", "so": "Kaalintee buu Kiprotich galay sannadkii hore?" }, "options": [ { "en": "First", "so": "Koowaad" }, { "en": "Tenth", "so": "Tobnaad" }, { "en": "Second", "so": "Labaad" } ], "answer": 1 },
+            { "question": { "en": "What did the coach say is the secret of success?", "so": "Muxuu tababaruhu yiri waa sirta guusha?" }, "options": [ { "en": "Patience", "so": "Samir" }, { "en": "New shoes", "so": "Kabo cusub" }, { "en": "Luck", "so": "Nasiib" } ], "answer": 0 },
+            { "question": { "en": "What happened this year?", "so": "Maxaa dhacay sannadkan?" }, "options": [ { "en": "He stopped running", "so": "Orodkii wuu joojiyay" }, { "en": "He moved to Nairobi", "so": "Wuxuu u guuray Nairobi" }, { "en": "He led from start to finish", "so": "Wuxuu hoggaaminayay bilowgii ilaa dhammaadkii" } ], "answer": 2 }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kocha", "sw": "Kiprotich, umechelewa! Ukungu unakaribia kuisha.", "en": "Kiprotich, you're late! The mist is almost gone.", "so": "Kiprotich, waad soo daahday! Ceeryaamadu way dhammaan ku dhowdahay." },
+            { "who": "Kiprotich", "sw": "Samahani, kocha. Mguu wangu ulikuwa unauma kidogo jana.", "en": "Sorry, coach. My leg was hurting a little yesterday.", "so": "Raali ahow, tababare. Lugtaydu shalay wax yar ayay i xanuunaysay." },
+            { "who": "Kocha", "sw": "Basi leo kimbia pole pole. Usilazimishe mwili.", "en": "Then run slowly today. Don't force your body.", "so": "Haddaba maanta tartiib u orod. Jirkaaga ha ku khasbin." },
+            { "who": "Kiprotich", "sw": "Lakini mbio za nyika ni wiki ijayo!", "en": "But the cross-country race is next week!", "so": "Laakiin tartanka orodka duurka waa toddobaadka dambe!" },
+            { "who": "Kocha", "sw": "Ndiyo maana. Bingwa wa kweli ana uvumilivu.", "en": "That's exactly why. A true champion has patience.", "so": "Taasi waa sababta. Horyaalka dhabta ahi wuxuu leeyahay samir." }
+          ],
+          "question": { "en": "Why does the coach tell Kiprotich to run slowly?", "so": "Muxuu tababaruhu Kiprotich ugu sheegay inuu tartiib u ordo?" },
+          "options": [
+            { "en": "His leg was hurting", "so": "Lugtiisa ayaa xanuunaysay" },
+            { "en": "It is raining", "so": "Roob ayaa da'aya" },
+            { "en": "The race was cancelled", "so": "Tartankii waa la joojiyay" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Wanariadha wa Iten hukimbia juu ya", "after": " vyekundu kila asubuhi.", "options": ["vikombe", "vilima", "vitanda"], "answer": 1, "meaning": { "en": "Iten's runners run over the red hills every morning.", "so": "Orodyahannada Iten subax kasta waxay ku ordaan buuraha yaryar ee casaanka ah." } }
+      ]
+    },
+    {
+      "id": "lake-victoria",
+      "title": { "en": "A fisherman on Lake Victoria", "so": "Kalluumeyste ku nool Harada Victoria" },
+      "items": ["st.mvuvi", "st.kuvua-samaki", "st.mtumbwi", "st.wavu", "st.omena", "st.dhoruba"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "A night on Lake Victoria", "so": "Habeen ku dhex maray Harada Victoria" },
+          "lines": [
+            { "sw": "Otieno ni mvuvi katika ufuo wa Dunga, karibu na Kisumu.", "en": "Otieno is a fisherman at Dunga beach, near Kisumu.", "so": "Otieno waa kalluumeyste ka shaqeeya xeebta Dunga, meel u dhow Kisumu." },
+            { "sw": "Kila jioni, yeye na mwenzake hupakia nyavu ndani ya mtumbwi wao.", "en": "Every evening, he and his mate load the nets into their canoe.", "so": "Fiid kasta, isaga iyo saaxiibkiis shabagyada ayay ku raraan doontooda yar." },
+            { "sw": "Wanapiga makasia hadi katikati ya ziwa, ambako maji yana kina kirefu.", "en": "They row to the middle of the lake, where the water is deep.", "so": "Waxay seebaan ilaa badhtamaha harada, halkaas oo biyuhu qoto dheer yihiin." },
+            { "sw": "Usiku, wanawasha taa ndogo ili kuwavutia omena.", "en": "At night, they light small lamps to attract the omena.", "so": "Habeenkii, waxay shidaan laambado yaryar si ay omena-da u soo jiitaan." },
+            { "sw": "Ziwa lote linang'aa kwa taa za wavuvi, kama nyota zilizoanguka majini.", "en": "The whole lake shines with the fishermen's lamps, like stars fallen into the water.", "so": "Harada oo dhan waxay ku dhalaashaa laambadaha kalluumeysatada, sida xiddigo biyaha ku dhacay." },
+            { "sw": "Usiku mmoja, upepo mkali ulianza kuvuma ghafla.", "en": "One night, a strong wind suddenly began to blow.", "so": "Habeen habeenada ka mid ah, dabayl xoog leh ayaa si lama filaan ah u bilaabatay." },
+            { "sw": "Mawimbi makubwa yaligonga mtumbwi, na mvua ikaanza kunyesha.", "en": "Big waves hit the canoe, and rain began to fall.", "so": "Mowjado waaweyn ayaa doonta ku dhacay, roobna wuu bilaabmay." },
+            { "who": "Otieno", "sw": "Shika wavu! Tunarudi ufukweni sasa hivi!", "en": "Hold the net! We're going back to shore right now!", "so": "Shabagga qabo! Hadda isla markiiba xeebta ayaan ku noqonaynaa!" },
+            { "sw": "Walipiga makasia kwa nguvu zao zote, mioyo yao ikidunda.", "en": "They rowed with all their strength, their hearts pounding.", "so": "Xooggoodii oo dhan ayay ku seebeen, iyadoo wadnahoodu garaacayo." },
+            { "sw": "Baada ya saa moja ya hofu, waliona taa za ufuo wa Dunga.", "en": "After an hour of fear, they saw the lights of Dunga beach.", "so": "Saacad cabsi ah kadib, waxay arkeen nalalka xeebta Dunga." },
+            { "sw": "Asubuhi, wake zao waliwapokea kwa machozi na furaha.", "en": "In the morning, their wives welcomed them with tears and joy.", "so": "Subaxdii, xaasaskoodu waxay ku soo dhaweeyeen ilmo iyo farxad." },
+            { "sw": "Otieno alisema, Dhoruba imepita, lakini ziwa bado ni maisha yetu.", "en": "Otieno said, The storm has passed, but the lake is still our life.", "so": "Otieno wuxuu yiri, Duufaantii way dhaaftay, laakiin haradu weli waa noloshayada." }
+          ],
+          "questions": [
+            { "question": { "en": "Why do the fishermen light lamps at night?", "so": "Maxay kalluumeysatadu habeenkii laambado u shidaan?" }, "options": [ { "en": "To attract the omena", "so": "Si ay omena u soo jiitaan" }, { "en": "To read the newspaper", "so": "Si ay wargeyska u akhriyaan" }, { "en": "To scare away hippos", "so": "Si ay jeerrada uga cabsiiyaan" } ], "answer": 0 },
+            { "question": { "en": "What happened one night?", "so": "Maxaa dhacay habeen ka mid ah?" }, "options": [ { "en": "They caught a crocodile", "so": "Yaxaas ayay qabteen" }, { "en": "A sudden storm hit the lake", "so": "Duufaan lama filaan ah ayaa harada ku dhacday" }, { "en": "Their canoe was stolen", "so": "Doontoodii waa la xaday" } ], "answer": 1 },
+            { "question": { "en": "How did their wives welcome them?", "so": "Sidee ayay xaasaskoodu u soo dhaweeyeen?" }, "options": [ { "en": "With anger", "so": "Cadho" }, { "en": "With music", "so": "Muusig" }, { "en": "With tears and joy", "so": "Ilmo iyo farxad" } ], "answer": 2 }
+          ]
+        },
+        { "type": "respond", "heard": "Leo umevua samaki wangapi?", "options": ["Nimechoka kukimbia.", "Kilo hamsini za omena, si mbaya!", "Hongera kwa ndoa yenu."], "answer": 1, "explain": { "en": "'How many fish did you catch today?' – 'Fifty kilos of omena, not bad!'", "so": "'Maanta immisa kalluun ayaad qabatay?' – 'Konton kiilo oo omena ah, ma xuma!'" } },
+        { "type": "gap", "before": "Usiende ziwani leo; kuna", "after": " kubwa inayokuja.", "options": ["dhoruba", "omena", "wavu"], "answer": 0, "meaning": { "en": "Don't go out on the lake today; there's a big storm coming.", "so": "Maanta harada ha aadin; duufaan weyn ayaa soo socota." } },
+        { "type": "build", "prompt": { "en": "The fisherman is mending his net", "so": "Kalluumeysatuhu shabaggiisa ayuu hagaajinayaa" }, "answer": "Mvuvi anatengeneza wavu wake", "extra": ["ngamia", "kilima", "asali"] }
+      ]
+    }
+  ]
+}

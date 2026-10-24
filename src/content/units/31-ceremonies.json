@@ -1,0 +1,306 @@
+{
+  "id": "ceremonies",
+  "order": 31,
+  "level": "B2",
+  "color": "#831843",
+  "reviewed": false,
+  "title": { "en": "Life Events & Celebrations", "so": "Munaasabadaha Nolosha iyo Dabaaldegyada" },
+  "swTitle": "Sherehe na Matukio ya Maisha",
+  "description": {
+    "en": "Celebrate and comfort people in Kenyan Swahili: weddings and dowry, births and names, funerals and condolences, holidays and graduations.",
+    "so": "Dadka kula dabaaldeg oo u tacsiyee Sawaaxiliga Kenya: arooska iyo yaradka, dhalashada iyo magac-bixinta, aaska iyo tacsida, ciidaha iyo qalin-jebinta."
+  },
+  "goals": ["family"],
+  "guide": [
+    {
+      "title": { "en": "A Kenyan marriage comes in stages", "so": "Guurka Kenya wuxuu u dhacaa marxalado" },
+      "body": {
+        "en": "A Kenyan marriage is often a series of events. First the man's family sends a posa (proposal), sometimes through a mshenga (go-between). Then the families meet to agree on the mahari (dowry); many Kenyans call this day ruracio, a Gikuyu word now used across the country. Finally comes the harusi (wedding): a church wedding, a nikah at the mosque or a traditional ceremony, followed by a big sherehe (celebration).",
+        "so": "Guurka Kenya badanaa waa dhacdooyin isku xiga. Marka hore qoyska ninku wuxuu diraa posa (doonis), mararka qaarkood iyadoo loo marayo mshenga (dhex-dhexaadiye). Kadib qoysasku way kulmaan si ay ugu heshiiyaan mahari (yarad); Kenyaan badan maalintaas waxay u yaqaanniin ruracio, oo ah eray Gikuyu ah oo hadda dalka oo dhan laga isticmaalo. Ugu dambayn waxaa yimaada harusi (aroos): aroos kaniisadeed, nikah masjid ka dhacda ama xaflad dhaqameed, oo ay ku xigto sherehe (dabaaldeg) weyn."
+      },
+      "examples": [
+        { "sw": "Familia ya bwana harusi italeta mahari Jumamosi.", "en": "The groom's family will bring the dowry on Saturday.", "so": "Qoyska arooska ayaa Sabtida keeni doona yaradka.", "v": "standard" },
+        { "sw": "Hongera kwa ndoa yenu!", "en": "Congratulations on your marriage!", "so": "Hambalyo guurkiinna!", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Words of comfort", "so": "Erayada tacsida" },
+      "body": {
+        "en": "When someone dies, say Pole kwa msiba to the family, and Mungu ailaze roho yake mahali pema peponi about the person. Amefariki (has passed away) is more respectful than amekufa, and the dead person is called marehemu. Many families hold matanga (a mourning gathering) at home for several days, and a harambee to share the costs of the mazishi (burial). Muslim burials happen quickly, usually within a day, and Muslims say Inna lillahi wa inna ilayhi raji'un, just as Somalis do.",
+        "so": "Marka qof dhinto, qoyska waxaad ku tiraahdaa Pole kwa msiba, qofka dhintayna waxaad ka tiraahdaa Mungu ailaze roho yake mahali pema peponi. Amefariki (wuu geeriyooday) way ka ixtiraam badan tahay amekufa, qofka dhintayna waxaa la yiraahdaa marehemu (marxuum). Qoysas badan waxay guriga ku qabtaan matanga (tacsi) dhowr maalmood, iyo harambee si ay u wadaagaan kharashka mazishi (aaska). Aaska Muslimiintu si degdeg ah ayuu u dhacaa, badanaa hal maalin gudaheed, Muslimiintuna waxay yiraahdaan Innaa lillaahi wa innaa ilayhi raajicuun, sida Soomaalidu u tiraahdo."
+      },
+      "examples": [
+        { "sw": "Pole sana kwa msiba wa baba yako.", "en": "My deepest condolences on the loss of your father.", "so": "Aad baan uga xumahay geerida aabbahaa. Tacsi.", "v": "standard" },
+        { "sw": "Marehemu atazikwa kesho nyumbani kwao Siaya.", "en": "The deceased will be buried tomorrow at the family home in Siaya.", "so": "Marxuumka waxaa berri lagu aasi doonaa gurigooda miyiga ee Siaya.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Holidays and dates", "so": "Ciidaha iyo taariikhaha" },
+      "body": {
+        "en": "Say a date with tarehe + number + month: tarehe kumi na mbili Desemba (12 December). The first of the month is mosi: tarehe mosi Juni. Kenya's fixed public holidays include Mwaka Mpya (first of January), Madaraka Day (first of June), Mashujaa Day (twentieth of October), Jamhuri Day (twelfth of December) and Krismasi (twenty-fifth of December). Idd and Pasaka move every year. On any holiday you can say Sikukuu njema! (Happy holiday!).",
+        "so": "Taariikh waxaa lagu sheegaa tarehe + tiro + bil: tarehe kumi na mbili Desemba (12 Diseembar). Maalinta koowaad ee bisha waa mosi: tarehe mosi Juni. Fasaxyada dadweyne ee go'an ee Kenya waxaa ka mid ah Mwaka Mpya (koowda Janaayo), Madaraka Day (koowda Juun), Mashujaa Day (labaatanka Oktoobar), Jamhuri Day (laba iyo tobanka Diseembar) iyo Krismasi (labaatan iyo shanta Diseembar). Idd iyo Pasaka sannad walba way isbeddelaan. Ciid kasta waxaad oran kartaa Sikukuu njema! (Ciid wanaagsan!)."
+      },
+      "examples": [
+        { "sw": "Sikukuu ya Madaraka ni tarehe mosi Juni.", "en": "Madaraka Day is on the first of June.", "so": "Maalinta Madaraka waa koowda Juun.", "v": "standard" },
+        { "sw": "Krismasi ni tarehe ishirini na tano Desemba.", "en": "Christmas is on the twenty-fifth of December.", "so": "Kirismasku waa labaatan iyo shanta Diseembar.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Births and names", "so": "Dhalashada iyo magacyada" },
+      "body": {
+        "en": "Kujifungua (lit. to open oneself) is the polite word for giving birth. Visitors bring gifts and say Hongera! Naming customs differ: many Luo names tell the time of birth (Otieno and Atieno, born at night; Omondi, born early in the morning), Kikuyu families often name children after their grandparents, and Muslim families announce the name at the akika on the seventh day.",
+        "so": "Kujifungua (macno ahaan: is furid) waa ereyga edebta leh ee umulidda. Booqdayaashu hadiyado ayay keenaan oo waxay yiraahdaan Hongera! (Hambalyo!). Caadooyinka magac-bixintu way kala duwan yihiin: magacyo badan oo Luo ah waxay sheegaan waqtiga dhalashada (Otieno iyo Atieno, habeenkii dhashay; Omondi, subax hore dhashay), qoysaska Kikuyu badanaa carruurta waxay ugu magac daraan awoowayaashood iyo ayeeyooyinkood, qoysaska Muslimiintuna magaca waxay ku shaaciyaan akika (cuqiiqada) maalinta toddobaad."
+      },
+      "examples": [
+        { "sw": "Amejifungua mtoto wa kike.", "en": "She has given birth to a baby girl.", "so": "Waxay dhashay gabar.", "v": "standard" },
+        { "sw": "Mtoto ataitwa Zawadi.", "en": "The baby will be called Zawadi.", "so": "Ilmaha waxaa loogu magac dari doonaa Zawadi.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "lv.bibi-harusi", "sw": "bibi harusi", "en": "bride", "so": "aroosadda", "v": "standard", "syn": "bride", "alt": ["biharusi"], "note": { "en": "Also written as one word, biharusi. Harusi alone is the wedding.", "so": "Sidoo kale hal eray ayaa loo qoraa: biharusi. Harusi keligeed waa arooska." } },
+    { "id": "lv.bwana-harusi", "sw": "bwana harusi", "en": "groom (bridegroom)", "so": "arooska (ninka guursanaya)", "v": "standard", "syn": "groom", "alt": ["bwanaharusi"], "note": { "en": "Together the couple are maharusi (the newlyweds).", "so": "Labadooda lammaanaha waxaa la yiraahdaa maharusi (arooska iyo aroosadda)." } },
+    { "id": "lv.ndoa", "sw": "ndoa", "en": "marriage", "so": "guur", "v": "standard", "syn": "marriage", "note": { "en": "Kufunga ndoa = to get married (lit. to tie a marriage).", "so": "Kufunga ndoa = in la is guursado (macno ahaan: guur la xiro)." } },
+    { "id": "lv.nikah", "sw": "nikah", "en": "nikah (Muslim marriage contract)", "so": "nikaax (meherka)", "v": "everyday", "alt": ["nikahi", "nikaha"], "note": { "en": "Performed by a sheikh or kadhi, often in the mosque. Kenyan Muslims say nikah; the dictionary form is nikaha.", "so": "Waxaa xira sheekh ama qaaddi, badanaa masjidka. Muslimiinta Kenya waxay yiraahdaan nikah; qaabka qaamuusku waa nikaha." } },
+    { "id": "lv.sherehe", "sw": "sherehe", "en": "celebration / party", "so": "dabaaldeg / xaflad", "v": "standard", "syn": "party" },
+    { "id": "lv.hongera", "sw": "Hongera!", "en": "Congratulations!", "so": "Hambalyo!", "v": "standard", "syn": "congratulations", "note": { "en": "Hongera kwa ndoa yenu = congratulations on your marriage. The reply is simply Asante.", "so": "Hongera kwa ndoa yenu = hambalyo guurkiinna. Jawaabtu waa Asante oo keliya." } },
+
+    { "id": "lv.posa", "sw": "posa", "en": "marriage proposal (to the bride's family)", "so": "doonis (gabar doonis)", "v": "standard", "note": { "en": "Kupeleka posa = to send a formal proposal. The man's family brings it, often by letter or through a go-between.", "so": "Kupeleka posa = in doonis rasmi ah la diro. Qoyska ninka ayaa keena, badanaa warqad ama dhex-dhexaadiye." } },
+    { "id": "lv.mshenga", "sw": "mshenga", "en": "go-between (in marriage talks)", "so": "ergada guurka (dhex-dhexaadiye)", "v": "standard", "note": { "en": "A trusted relative or friend who carries messages between the two families.", "so": "Qaraabo ama saaxiib la isku halleeyo oo farriimaha u kala qaada labada qoys." } },
+    { "id": "lv.mahari", "sw": "mahari", "en": "dowry / bride wealth", "so": "yarad / meher", "v": "standard", "syn": "dowry", "note": { "en": "For Muslims, mahari is the mahr, a gift to the bride herself. In many other Kenyan communities it is paid to the bride's family, in cattle or money.", "so": "Muslimiinta, mahari waa meherka la siiyo aroosadda lafteeda. Bulshooyin kale oo badan oo Kenya ah, waxaa la siiyaa qoyska aroosadda, lo' ama lacag." } },
+    { "id": "lv.ruracio", "sw": "ruracio", "say": "rurashio", "en": "ruracio (dowry ceremony)", "so": "ruracio (xafladda yaradka)", "v": "everyday", "note": { "en": "From Gikuyu (Kikuyu). It began as a Kikuyu ceremony, but Kenyans of many communities now use the word for the day the groom's family brings the dowry.", "so": "Waxay ka timid luqadda Gikuyu (Kikuyu). Waxay ahayd xaflad Kikuyu, laakiin hadda Kenyaan ka kala yimid bulshooyin badan ayaa ereyga u isticmaala maalinta qoyska arooska keeno yaradka." } },
+    { "id": "lv.wakwe", "sw": "wakwe", "en": "in-laws", "so": "xididdada", "v": "standard", "note": { "en": "Singular mkwe. A brother- or sister-in-law is shemeji.", "so": "Keli: mkwe. Seedi ama dumaashi waxaa la yiraahdaa shemeji." } },
+
+    { "id": "lv.kujifungua", "sw": "kujifungua", "en": "to give birth", "so": "umulid", "v": "standard", "syn": "give-birth", "note": { "en": "The polite word (lit. to open oneself). Amejifungua salama = she has given birth safely.", "so": "Waa ereyga edebta leh (macno ahaan: is furid). Amejifungua salama = si nabad ah ayay u umushay." } },
+    { "id": "lv.mtoto-mchanga", "sw": "mtoto mchanga", "en": "newborn baby", "so": "ilmo dhallaan ah", "v": "standard", "syn": "baby" },
+    { "id": "lv.kumpa-jina", "sw": "kumpa mtoto jina", "en": "to name a child", "so": "ilmo magac u bixin", "v": "standard", "alt": ["kumpa jina"] },
+    { "id": "lv.akika", "sw": "akika", "en": "akika (Muslim naming feast on the seventh day)", "so": "cuqiiqo (caqiiqo)", "v": "standard", "alt": ["aqiqa"], "note": { "en": "A sheep or goat is slaughtered, the baby's hair is shaved and the name is announced.", "so": "Ido ama ri' ayaa la qalaa, timaha ilmaha waa la xiiraa, magacana waa la shaaciyaa." } },
+    { "id": "lv.heri-ya-kuzaliwa", "sw": "Heri ya siku ya kuzaliwa!", "en": "Happy birthday!", "so": "Dhalasho wacan!", "v": "standard", "note": { "en": "Many Kenyans simply say Happy birthday! in English.", "so": "Kenyaan badan waxay si fudud u yiraahdaan Happy birthday! oo Ingiriisi ah." } },
+
+    { "id": "lv.msiba", "sw": "msiba", "en": "bereavement / a death in the family", "so": "geeri (qof qoyska ka mid ah oo dhintay)", "v": "standard", "syn": "bereavement", "note": { "en": "Tuna msiba = we have had a death in the family. Msiba can also mean any great misfortune.", "so": "Tuna msiba = geeri ayaa nagu dhacday. Msiba sidoo kale waxay noqon kartaa musiibo kasta oo weyn." } },
+    { "id": "lv.amefariki", "sw": "Amefariki", "en": "He/She has passed away", "so": "Wuu geeriyooday / Way geeriyootay", "v": "standard", "syn": "died", "alt": ["amefariki dunia"], "note": { "en": "More respectful than amekufa (he/she has died). The news says amefariki dunia.", "so": "Way ka ixtiraam badan tahay amekufa (wuu dhintay). Wararka waxay yiraahdaan amefariki dunia." } },
+    { "id": "lv.marehemu", "sw": "marehemu", "en": "the late / the deceased", "so": "marxuum", "v": "standard", "note": { "en": "Used before a name: marehemu Mzee Otieno = the late Mzee Otieno.", "so": "Waxaa la dhigaa magaca hortiisa: marehemu Mzee Otieno = marxuum Mzee Otieno." } },
+    { "id": "lv.pole-kwa-msiba", "sw": "Pole kwa msiba", "en": "My condolences (sorry for your loss)", "so": "Tacsi / Ka xumahay geerida", "v": "standard", "syn": "condolences", "note": { "en": "The usual reply is Asante or Tumeshapoa (we are coping).", "so": "Jawaabta caadiga ah waa Asante ama Tumeshapoa (waan samirnay)." } },
+    { "id": "lv.mungu-ailaze", "sw": "Mungu ailaze roho yake mahali pema peponi", "en": "May God rest his/her soul in a good place in paradise", "so": "Ilaahay ha u naxariisto, Jannadana ha ka waraabiyo", "v": "standard", "note": { "en": "Said and written about the dead; in writing it is often shortened to RIP. Muslims also say Inna lillahi wa inna ilayhi raji'un.", "so": "Waxaa la yiraahdaa ama la qoraa marka qof dhinto; qoraalka badanaa waxaa loo soo gaabiyaa RIP. Muslimiintu sidoo kale waxay yiraahdaan Innaa lillaahi wa innaa ilayhi raajicuun." } },
+
+    { "id": "lv.matanga", "sw": "matanga", "en": "mourning gathering (at the bereaved home)", "so": "tacsi (kulanka guriga geerida)", "v": "standard", "note": { "en": "Before a burial, relatives and neighbours gather at the home for days to comfort the family. Kwenda matangani = to go to the mourning gathering.", "so": "Aaska ka hor, qaraabada iyo derisku maalmo ayay guriga isugu yimaadaan si ay qoyska u dhiirrigeliyaan. Kwenda matangani = in tacsida la tago." } },
+    { "id": "lv.mazishi", "sw": "mazishi", "en": "burial / funeral", "so": "aas", "v": "standard", "syn": "funeral", "note": { "en": "From kuzika (to bury). Many Kenyans are buried at their rural home; Muslims are buried quickly, usually the same day.", "so": "Waxay ka timid kuzika (aasid). Kenyaan badan waxaa lagu aasaa miyigooda; Muslimiinta si degdeg ah ayaa loo aasaa, badanaa isla maalinta." } },
+    { "id": "lv.harambee", "sw": "harambee", "en": "harambee (community fundraising, 'let's all pull together')", "so": "harambee (lacag-uruurin bulsho, 'aan wada jiidno')", "v": "standard", "note": { "en": "Kenya's national motto, written on the coat of arms. Families hold a harambee to pay for a funeral, a wedding, school fees or a hospital bill.", "so": "Waa halku-dhegga qaranka Kenya, wuxuuna ku qoran yahay astaanta dalka. Qoysasku waxay qabtaan harambee si ay u bixiyaan kharashka aaska, arooska, khidmadda dugsiga ama biilka isbitaalka." } },
+    { "id": "lv.kuchangia", "sw": "kuchangia", "en": "to contribute (money)", "so": "wax ku biirin (lacag ku darsasho)", "v": "standard", "syn": "contribute", "note": { "en": "Mchango = a contribution. Today many people send their contribution by M-Pesa.", "so": "Mchango = wax-ku-darsi. Maanta dad badan waxay wax-ku-darsigooda ku diraan M-Pesa." } },
+
+    { "id": "lv.sikukuu", "sw": "sikukuu", "en": "holiday / festival", "so": "ciid / maalin fasax ah", "v": "standard", "syn": "holiday", "note": { "en": "Sikukuu njema! = Happy holiday! Have a good festival!", "so": "Sikukuu njema! = Ciid wanaagsan! Fasax wanaagsan!" } },
+    { "id": "lv.idd", "sw": "Idd", "en": "Eid", "so": "Ciid", "v": "standard", "alt": ["Idi", "Eid", "Iddi"], "note": { "en": "Idd-ul-Fitr ends Ramadan and is a public holiday in Kenya; its date moves with the moon. Idd-ul-Adha is celebrated too. People greet each other with Idd Mubarak!", "so": "Ciidul Fidri waxay soo afjartaa Ramadaanka, waana fasax dadweyne Kenya; taariikhdeedu waxay la socotaa dayaxa. Ciidul Adxana waa la dabaaldegaa. Dadku waxay isu yiraahdaan Idd Mubarak!" } },
+    { "id": "lv.krismasi", "sw": "Krismasi", "en": "Christmas", "so": "Kirismas", "v": "standard", "alt": ["Krismas"], "note": { "en": "On the twenty-fifth of December. Many Nairobi people travel upcountry to spend it with family.", "so": "Waa labaatan iyo shanta Diseembar. Dad badan oo Nairobi jooga waxay u safraan miyiga si ay ula qaataan qoysaskooda." } },
+    { "id": "lv.pasaka", "sw": "Pasaka", "en": "Easter", "so": "Iista (ciidda Masiixiyiinta)", "v": "standard", "note": { "en": "Good Friday (Ijumaa Kuu) and Easter Monday are public holidays.", "so": "Jimcaha Wanaagsan (Ijumaa Kuu) iyo Isniinta Iista waa fasax dadweyne." } },
+    { "id": "lv.mwaka-mpya", "sw": "Mwaka Mpya", "en": "New Year", "so": "Sannad Cusub", "v": "standard", "note": { "en": "Heri ya Mwaka Mpya! = Happy New Year! New Year's Day is tarehe mosi Januari (the first of January).", "so": "Heri ya Mwaka Mpya! = Sannad cusub wanaagsan! Maalinta Sannadka Cusub waa tarehe mosi Januari (koowda Janaayo)." } },
+
+    { "id": "lv.madaraka-day", "sw": "Madaraka Day", "say": "Madaraka Dei", "en": "Madaraka Day (1 June: self-rule)", "so": "Maalinta Madaraka (1da Juun: is-xukun)", "v": "everyday", "alt": ["Sikukuu ya Madaraka", "Siku ya Madaraka"], "note": { "en": "Marks the first of June 1963, when Kenya began to govern itself (madaraka = power, responsibility). Formal Swahili: Sikukuu ya Madaraka.", "so": "Waxay xusaysaa koowdii Juun 1963, markii Kenya bilowday inay is xukunto (madaraka = awood, mas'uuliyad). Sawaaxiliga rasmiga ah: Sikukuu ya Madaraka." } },
+    { "id": "lv.mashujaa-day", "sw": "Mashujaa Day", "say": "Mashujaa Dei", "en": "Mashujaa Day (20 October: Heroes' Day)", "so": "Maalinta Geesiyaasha (20ka Oktoobar)", "v": "everyday", "alt": ["Sikukuu ya Mashujaa", "Siku ya Mashujaa"], "note": { "en": "On the twentieth of October Kenya honours its heroes (mashujaa): those who fought for independence and others who served the nation.", "so": "Labaatanka Oktoobar Kenya waxay sharaftaa geesiyaasheeda (mashujaa): kuwii u dagaallamay xorriyadda iyo kuwa kale ee qaranka u adeegay." } },
+    { "id": "lv.jamhuri-day", "sw": "Jamhuri Day", "say": "Jamhuri Dei", "en": "Jamhuri Day (12 December: independence and the republic)", "so": "Maalinta Jamhuuriyadda (12ka Diseembar)", "v": "everyday", "alt": ["Sikukuu ya Jamhuri", "Siku ya Jamhuri"], "note": { "en": "On the twelfth of December Kenya celebrates independence (uhuru) in 1963 and becoming a republic (jamhuri) in 1964.", "so": "Laba iyo tobanka Diseembar Kenya waxay u dabaaldegtaa xorriyaddii (uhuru) 1963 iyo markii ay jamhuuriyad (jamhuri) noqotay 1964." } },
+    { "id": "lv.mahafali", "sw": "mahafali", "en": "graduation ceremony", "so": "xafladda qalin-jebinta", "v": "standard", "syn": "graduation", "note": { "en": "Kuhitimu = to graduate. Families travel far for mahafali and often hold a party afterwards.", "so": "Kuhitimu = qalin-jebin. Qoysasku meel fog ayay uga yimaadaan mahafali, badanaana kadib xaflad ayay sameeyaan." } }
+  ],
+  "lessons": [
+    {
+      "id": "weddings",
+      "title": { "en": "Weddings", "so": "Arooska" },
+      "items": ["lv.bibi-harusi", "lv.bwana-harusi", "lv.ndoa", "lv.nikah", "lv.sherehe", "lv.hongera"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "A wedding in Eastleigh", "so": "Aroos ka dhacay Eastleigh" },
+          "lines": [
+            { "sw": "Jumamosi iliyopita, familia ya Farah ilikuwa na harusi kubwa mtaani Eastleigh.", "en": "Last Saturday, Farah's family had a big wedding in Eastleigh.", "so": "Sabtidii hore, qoyska Farah waxay lahaayeen aroos weyn xaafadda Eastleigh." },
+            { "sw": "Asubuhi, nikah ilifungwa msikitini mbele ya sheikh, wazazi na mashahidi.", "en": "In the morning, the nikah was performed at the mosque before the sheikh, the parents and witnesses.", "so": "Subaxdii, nikaaxa waxaa lagu xiray masjidka iyadoo uu joogo sheekhu, waalidiintu iyo markhaatiyaal." },
+            { "sw": "Bwana harusi, Abdi, alivaa kanzu nyeupe na koti jeusi.", "en": "The groom, Abdi, wore a white kanzu and a black jacket.", "so": "Arooska, Abdi, wuxuu xirtay khamiis cad iyo jaakad madow." },
+            { "sw": "Bibi harusi, Halima, alikuwa amepambwa kwa hina mikononi tangu usiku uliotangulia.", "en": "The bride, Halima, had been decorated with henna on her hands since the night before.", "so": "Aroosadda, Halima, gacmaheeda waxaa cillaan lagu qurxiyay tan iyo habeenkii ka horreeyay." },
+            { "sw": "Mchana, wageni walianza kufika ukumbini kwa sherehe.", "en": "In the afternoon, guests began arriving at the hall for the celebration.", "so": "Duhurkii, martidu waxay bilaabeen inay yimaadaan hoolka xafladda." },
+            { "sw": "Kulikuwa na nyimbo za Kisomali, vigelegele na harufu nzuri ya udi.", "en": "There were Somali songs, ululation and the sweet smell of incense.", "so": "Waxaa jiray heeso Soomaali ah, mashxarad iyo udgoonka fiican ee cuudka." },
+            { "sw": "Chakula kilikuwa kingi: biriani, nyama ya mbuzi, sambusa na chai ya maziwa.", "en": "There was plenty of food: biriani, goat meat, samosas and milky tea.", "so": "Cunto badan ayaa jirtay: baryaani, hilib ari, sambuusa iyo shaah caano leh." },
+            { "sw": "Wageni waliwapongeza maharusi wakisema, Hongera kwa ndoa yenu!", "en": "The guests congratulated the newlyweds, saying, Congratulations on your marriage!", "so": "Martidu waxay u hambalyeeyeen arooska iyo aroosadda iyagoo leh, Hambalyo guurkiinna!" },
+            { "sw": "Jamaa wa pande zote mbili walikula pamoja na kuwaombea maisha mema.", "en": "Relatives from both sides ate together and prayed for a good life for the couple.", "so": "Qaraabada labada dhinac ayaa wada cunay, waxayna lammaanaha u duceeyeen nolol wanaagsan." },
+            { "sw": "Usiku, maharusi waliagwa kwa furaha, na sherehe ikaendelea hadi saa sita usiku.", "en": "At night, the couple were seen off with joy, and the celebration went on until midnight.", "so": "Habeenkii, lammaanaha si farxad leh ayaa loo sagootiyay, xafladduna waxay socotay ilaa saqdii dhexe." }
+          ],
+          "questions": [
+            { "question": { "en": "Where was the nikah performed?", "so": "Xaggee lagu xiray nikaaxa?" }, "options": [ { "en": "At the hall", "so": "Hoolka" }, { "en": "At the mosque", "so": "Masjidka" }, { "en": "At the bride's home", "so": "Guriga aroosadda" } ], "answer": 1 },
+            { "question": { "en": "What did the guests say to the couple?", "so": "Maxay martidu ku yiraahdeen lammaanaha?" }, "options": [ { "en": "Congratulations on your marriage!", "so": "Hambalyo guurkiinna!" }, { "en": "Get well soon!", "so": "Caafimaad deg-deg ah!" }, { "en": "Have a good trip!", "so": "Safar wanaagsan!" } ], "answer": 0 },
+            { "question": { "en": "Until when did the celebration go on?", "so": "Ilaa goorma ayay xafladdu socotay?" }, "options": [ { "en": "Until sunset", "so": "Ilaa qorrax-dhaca" }, { "en": "Until the next afternoon", "so": "Ilaa galabta xigta" }, { "en": "Until midnight", "so": "Ilaa saqda dhexe" } ], "answer": 2 }
+          ]
+        },
+        { "type": "respond", "heard": "Tulifunga ndoa mwezi uliopita!", "options": ["Pole sana.", "Hongera sana! Mungu awabariki.", "Ni bei gani?"], "answer": 1, "explain": { "en": "'We got married last month!' – 'Congratulations! May God bless you.'", "so": "'Bishii hore ayaan is guursannay!' – 'Hambalyo! Ilaahay ha idin barakeeyo.'" } },
+        { "type": "build", "prompt": { "en": "Congratulations on your marriage", "so": "Hambalyo guurkiinna" }, "answer": "Hongera kwa ndoa yenu", "extra": ["pole", "jana", "bibi"] }
+      ]
+    },
+    {
+      "id": "dowry-and-in-laws",
+      "title": { "en": "Proposal, dowry and in-laws", "so": "Doonis, yarad iyo xididdo" },
+      "items": ["lv.posa", "lv.mshenga", "lv.mahari", "lv.ruracio", "lv.wakwe"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Achieng", "sw": "Wanjiku, nimesikia kwamba familia ya Otieno imeleta posa kwenu!", "en": "Wanjiku, I hear that Otieno's family has brought a proposal to your family!", "so": "Wanjiku, waxaan maqlay in qoyska Otieno ay idiin keeneen doonis!" },
+            { "who": "Wanjiku", "sw": "Ndiyo! Walituma mshenga kwanza, kisha wazazi wakakutana.", "en": "Yes! They sent a go-between first, then the parents met.", "so": "Haa! Marka hore dhex-dhexaadiye ayay soo direen, kadibna waalidiintu way kulmeen." },
+            { "who": "Achieng", "sw": "Na mahari je? Mmeshakubaliana?", "en": "And what about the dowry? Have you agreed yet?", "so": "Yaradkana? Ma heshiiseen?" },
+            { "who": "Wanjiku", "sw": "Bado. Wazee watazungumza tena mwezi ujao, kwenye sherehe ya mahari.", "en": "Not yet. The elders will talk again next month, at the dowry ceremony.", "so": "Weli. Odayaashu bisha dambe ayay mar kale wada hadli doonaan, xafladda yaradka." },
+            { "who": "Achieng", "sw": "Hongera! Wakwe zako wanaonekana kuwa watu wazuri.", "en": "Congratulations! Your in-laws seem to be good people.", "so": "Hambalyo! Xididdadaadu waxay u muuqdaan dad wanaagsan." }
+          ],
+          "question": { "en": "What will happen next month?", "so": "Maxaa dhici doona bisha dambe?" },
+          "options": [
+            { "en": "The elders will talk at the dowry ceremony", "so": "Odayaashu waxay ka wada hadli doonaan xafladda yaradka" },
+            { "en": "The wedding will take place", "so": "Arooska ayaa dhici doona" },
+            { "en": "Otieno will travel abroad", "so": "Otieno dibadda ayuu u safri doonaa" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Familia ya bwana harusi ililipa", "after": " kwa ng'ombe na pesa.", "options": ["nauli", "mahari", "risiti"], "answer": 1, "meaning": { "en": "The groom's family paid the dowry in cattle and money.", "so": "Qoyska arooska waxay yaradka ku bixiyeen lo' iyo lacag." } },
+        { "type": "respond", "heard": "Umeshawajua wakwe zako?", "options": ["Hapana, sina chenji.", "Tutaonana kesho kutwa.", "Ndiyo, ni watu wakarimu sana."], "answer": 2, "explain": { "en": "'Have you met your in-laws yet?' – 'Yes, they are very hospitable people.'", "so": "'Ma la kulantay xididdadaada?' – 'Haa, waa dad aad u martisoor badan.'" } },
+        { "type": "build", "prompt": { "en": "They brought the proposal yesterday", "so": "Shalay ayay keeneen doonista" }, "answer": "Walileta posa jana", "extra": ["kesho", "harusi", "sisi"] }
+      ]
+    },
+    {
+      "id": "births-and-naming",
+      "title": { "en": "Births and naming", "so": "Dhalashada iyo magac-bixinta" },
+      "goals": ["family"],
+      "items": ["lv.kujifungua", "lv.mtoto-mchanga", "lv.kumpa-jina", "lv.akika", "lv.heri-ya-kuzaliwa"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Amina", "sw": "Hodi! Halima, hongera sana! Nimesikia umejifungua salama.", "en": "May I come in? Halima, congratulations! I heard you gave birth safely.", "so": "Hodi! Halima, hambalyo! Waxaan maqlay inaad si nabad ah u umushay." },
+            { "who": "Halima", "sw": "Karibu, Amina. Ndiyo, ni mtoto wa kiume. Alizaliwa juzi usiku.", "en": "Welcome, Amina. Yes, it's a boy. He was born the night before last.", "so": "Soo dhawoow, Amina. Haa, waa wiil. Wuxuu dhashay dorraad habeenkii." },
+            { "who": "Amina", "sw": "Mashallah! Ni mtoto mchanga mzuri kweli. Mmeshampa jina?", "en": "Mashallah! He really is a lovely newborn. Have you named him yet?", "so": "Maashaa Allah! Runtii waa ilmo dhallaan ah oo qurux badan. Ma u bixiseen magac?" },
+            { "who": "Halima", "sw": "Bado. Tutampa jina kwenye akika, siku ya saba.", "en": "Not yet. We will name him at the akika, on the seventh day.", "so": "Weli. Waxaan magac u bixin doonnaa cuqiiqada, maalinta toddobaad." },
+            { "who": "Amina", "sw": "Mungu ambariki, na awape afya njema nyote.", "en": "May God bless him, and give you all good health.", "so": "Ilaahay ha barakeeyo, caafimaad wanaagsanna ha idin siiyo dhammaantiin." }
+          ],
+          "question": { "en": "When will the baby get his name?", "so": "Goorma ayaa ilmaha magac loo bixin doonaa?" },
+          "options": [
+            { "en": "Tomorrow", "so": "Berri" },
+            { "en": "At the akika, on the seventh day", "so": "Cuqiiqada, maalinta toddobaad" },
+            { "en": "On his first birthday", "so": "Dhalashadiisa koowaad" }
+          ],
+          "answer": 1
+        },
+        { "type": "respond", "heard": "Leo ninatimiza miaka thelathini!", "options": ["Heri ya siku ya kuzaliwa!", "Pole kwa msiba.", "Safari njema!"], "answer": 0, "explain": { "en": "'Today I turn thirty!' – 'Happy birthday!'", "so": "'Maanta waxaan buuxinayaa soddon sano!' – 'Dhalasho wacan!'" } },
+        { "type": "gap", "before": "Mwalimu Chebet", "after": " mtoto wa kike jana usiku.", "options": ["alipanda", "alilipa", "alijifungua"], "answer": 2, "meaning": { "en": "Teacher Chebet gave birth to a baby girl last night.", "so": "Macallimad Chebet ayaa xalay umushay gabar." } }
+      ]
+    },
+    {
+      "id": "condolences",
+      "title": { "en": "Sad news and condolences", "so": "War murugo leh iyo tacsi" },
+      "items": ["lv.msiba", "lv.amefariki", "lv.marehemu", "lv.pole-kwa-msiba", "lv.mungu-ailaze"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Kamau", "sw": "Otieno, nimepata habari kwamba nyanya yako amefariki. Pole sana kwa msiba.", "en": "Otieno, I've heard that your grandmother has passed away. My deepest condolences.", "so": "Otieno, waxaan war ka helay in ayeeyadaa geeriyootay. Aad baan uga xumahay, tacsi." },
+            { "who": "Otieno", "sw": "Asante, Kamau. Alifariki jana usiku, akiwa na miaka tisini.", "en": "Thank you, Kamau. She passed away last night, at the age of ninety.", "so": "Mahadsanid, Kamau. Xalay ayay geeriyootay, iyadoo sagaashan jir ah." },
+            { "who": "Kamau", "sw": "Mungu ailaze roho yake mahali pema peponi. Alikuwa mama mwema sana.", "en": "May God rest her soul in paradise. She was a very kind woman.", "so": "Ilaahay ha u naxariisto, Jannadana ha ka waraabiyo. Waxay ahayd hooyo aad u wanaagsan." },
+            { "who": "Otieno", "sw": "Kweli. Marehemu atazikwa Jumamosi nyumbani kwetu Siaya.", "en": "True. She will be buried on Saturday at our home in Siaya.", "so": "Waa run. Marxuumadda waxaa Sabtida lagu aasi doonaa gurigayaga Siaya." },
+            { "who": "Kamau", "sw": "Nitakuja kesho jioni kuwafariji.", "en": "I'll come tomorrow evening to comfort you.", "so": "Berri fiidkii ayaan iman doonaa si aan idiin tacsiyeeyo." }
+          ],
+          "question": { "en": "Where will Otieno's grandmother be buried?", "so": "Xaggee lagu aasi doonaa ayeeyada Otieno?" },
+          "options": [
+            { "en": "In Nairobi", "so": "Nairobi" },
+            { "en": "At the coast", "so": "Xeebta" },
+            { "en": "At their home in Siaya", "so": "Gurigooda Siaya" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Baba yangu mdogo amefariki leo asubuhi.", "options": ["Hongera sana!", "Pole sana kwa msiba. Mungu awape nguvu.", "Sawa, poa!"], "answer": 1, "explain": { "en": "'My uncle (my father's younger brother) passed away this morning.' – 'My condolences. May God give you strength.'", "so": "'Adeerkay ayaa saaka geeriyooday.' – 'Tacsi. Ilaahay xoog iyo samir ha idin siiyo.'" } },
+        { "type": "gap", "before": "Familia ya", "after": " Mzee Wafula inawashukuru wote waliowafariji.", "options": ["marehemu", "bwana harusi", "mtoto mchanga"], "answer": 0, "meaning": { "en": "The family of the late Mzee Wafula thanks everyone who comforted them.", "so": "Qoyska marxuum Mzee Wafula waxay u mahadcelinayaan dhammaan dadkii u tacsiyeeyay." } }
+      ]
+    },
+    {
+      "id": "funerals-and-harambee",
+      "title": { "en": "Funerals and harambee", "so": "Aaska iyo harambee" },
+      "items": ["lv.matanga", "lv.mazishi", "lv.harambee", "lv.kuchangia"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Saying goodbye to Mzee Wafula", "so": "Sagootinta Mzee Wafula" },
+          "lines": [
+            { "sw": "Mzee Wafula alipofariki, habari zilienea haraka katika kijiji chake huko Bungoma.", "en": "When Mzee Wafula passed away, the news spread quickly in his village in Bungoma.", "so": "Markii Mzee Wafula geeriyooday, warku si degdeg ah ayuu ugu faafay tuuladiisa Bungoma." },
+            { "sw": "Majirani, marafiki na jamaa walianza kufika nyumbani kwake kwa matanga.", "en": "Neighbours, friends and relatives began arriving at his home for the mourning gathering.", "so": "Deriskii, saaxiibbadii iyo qaraabadii waxay bilaabeen inay gurigiisa u yimaadaan tacsida." },
+            { "sw": "Kwa siku tano, watu walikaa pamoja usiku na mchana, wakiimba nyimbo za faraja.", "en": "For five days, people sat together night and day, singing songs of comfort.", "so": "Shan maalmood, dadku habeen iyo maalin way wada fadhiyeen, iyagoo heesaya heeso qalbi-qaboojin ah." },
+            { "sw": "Wanawake walipika chakula kwa ajili ya wageni wote.", "en": "The women cooked food for all the visitors.", "so": "Haweenku waxay cunto u kariyeen dhammaan martida." },
+            { "sw": "Gharama za mazishi zilikuwa kubwa, kwa hivyo familia iliandaa harambee.", "en": "The funeral costs were high, so the family organised a harambee.", "so": "Kharashka aaska aad buu u badnaa, sidaa darteed qoysku wuxuu soo abaabulay harambee." },
+            { "sw": "Kila mtu alichangia alichoweza: wengine shilingi mia moja, wengine elfu kumi.", "en": "Everyone contributed what they could: some a hundred shillings, others ten thousand.", "so": "Qof kastaa wuxuu ku biiriyay intii uu awoodo: qaar boqol shilin, qaarna toban kun." },
+            { "sw": "Hata wale walioishi Nairobi na ng'ambo walituma michango yao kwa M-Pesa.", "en": "Even those living in Nairobi and abroad sent their contributions by M-Pesa.", "so": "Xataa kuwa ku nool Nairobi iyo dibadda waxay wax-ku-darsigooda ku soo direen M-Pesa." },
+            { "sw": "Siku ya mazishi, kanisa dogo la kijiji lilijaa watu.", "en": "On the day of the burial, the small village church was full of people.", "so": "Maalintii aaska, kaniisadda yar ee tuulada dad ayaa ka buuxsamay." },
+            { "sw": "Mwanawe mkubwa alisoma historia ya maisha ya marehemu kwa sauti ya huzuni.", "en": "His eldest son read the life story of the deceased in a sad voice.", "so": "Wiilkiisa curadka ahi wuxuu akhriyay taariikh-nololeedka marxuumka isagoo cod murugo leh." },
+            { "sw": "Alisema kwamba baba yao alipenda elimu, kazi na watu wake.", "en": "He said that their father loved education, work and his people.", "so": "Wuxuu sheegay in aabbahood jeclaa waxbarashada, shaqada iyo dadkiisa." },
+            { "sw": "Baada ya mazishi, familia iliwashukuru wote kwa upendo na msaada wao.", "en": "After the burial, the family thanked everyone for their love and help.", "so": "Aaska kadib, qoysku wuxuu u mahadceliyay dhammaan dadka jacaylkooda iyo gargaarkooda." }
+          ],
+          "questions": [
+            { "question": { "en": "How long did the mourning gathering last?", "so": "Intee bay socotay tacsidu?" }, "options": [ { "en": "One day", "so": "Hal maalin" }, { "en": "Five days", "so": "Shan maalmood" }, { "en": "A month", "so": "Hal bil" } ], "answer": 1 },
+            { "question": { "en": "Why did the family organise a harambee?", "so": "Maxay qoysku u abaabuleen harambee?" }, "options": [ { "en": "To build a church", "so": "Si ay kaniisad u dhisaan" }, { "en": "To pay school fees", "so": "Si ay khidmadda dugsiga u bixiyaan" }, { "en": "Because the funeral costs were high", "so": "Sababtoo ah kharashka aaska ayaa badnaa" } ], "answer": 2 },
+            { "question": { "en": "How did people abroad send their contributions?", "so": "Sidee ayay dadka dibadda joogaa u soo direen wax-ku-darsigooda?" }, "options": [ { "en": "By M-Pesa", "so": "M-Pesa" }, { "en": "By post", "so": "Boosta" }, { "en": "They didn't send anything", "so": "Waxba ma soo dirin" } ], "answer": 0 }
+          ]
+        },
+        { "type": "respond", "heard": "Kesho tutakuwa na harambee ya kumsaidia Zawadi kulipa karo ya chuo.", "options": ["Sawa, nitachangia elfu moja.", "Pole kwa msiba.", "Heri ya Mwaka Mpya!"], "answer": 0, "explain": { "en": "'Tomorrow we're holding a harambee to help Zawadi pay her college fees.' – 'Okay, I'll contribute a thousand.'", "so": "'Berri waxaan qabanaynaa harambee si aan Zawadi uga caawinno bixinta khidmadda kulliyadda.' – 'Hagaag, kun shilin ayaan ku biirin doonaa.'" } },
+        { "type": "build", "prompt": { "en": "Let's contribute to the funeral costs", "so": "Aan wax ku biirinno kharashka aaska" }, "answer": "Tuchangie gharama za mazishi", "extra": ["jana", "hongera", "nikah"] }
+      ]
+    },
+    {
+      "id": "religious-holidays",
+      "title": { "en": "Idd, Christmas, Easter and New Year", "so": "Ciidda, Kirismaska, Iista iyo Sannadka Cusub" },
+      "items": ["lv.sikukuu", "lv.idd", "lv.krismasi", "lv.pasaka", "lv.mwaka-mpya"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Idd in Garissa", "so": "Ciidda Garissa" },
+          "lines": [
+            { "sw": "Mwezi wa Ramadhani ulipoisha, mji wa Garissa ulijaa furaha.", "en": "When the month of Ramadan ended, the town of Garissa was full of joy.", "so": "Markii bisha Ramadaan dhammaatay, magaalada Garissa farxad ayaa ka buuxsantay." },
+            { "sw": "Usiku uliotangulia, watu walitazama angani ili kuona mwezi mpya.", "en": "The night before, people looked at the sky to see the new moon.", "so": "Habeenkii ka horreeyay, dadku waxay cirka u eegeen si ay u arkaan dayaxa cusub." },
+            { "sw": "Asubuhi ya Idd, Abdi na familia yake walivaa nguo mpya.", "en": "On the morning of Idd, Abdi and his family put on new clothes.", "so": "Subaxdii Ciidda, Abdi iyo qoyskiisu waxay xirteen dhar cusub." },
+            { "sw": "Walienda uwanjani pamoja na mamia ya watu kwa swala ya Idd.", "en": "They went to the open ground with hundreds of people for the Idd prayer.", "so": "Waxay garoonka u tageen iyagoo la socda boqollaal qof si ay u tukadaan salaadda Ciidda." },
+            { "sw": "Baada ya swala, watu walikumbatiana na kusema, Idd Mubarak!", "en": "After the prayer, people hugged and said, Idd Mubarak!", "so": "Salaadda kadib, dadku way is-habsadeen oo waxay yiraahdeen, Ciid Mubaarak!" },
+            { "sw": "Watoto walipewa pesa kidogo na peremende na wazee wao.", "en": "The children were given a little money and sweets by their elders.", "so": "Carruurta waxaa lacag yar iyo nacnac siiyay waayeelkoodu." },
+            { "sw": "Mama yake Abdi alipika chakula kingi, na milango ilikuwa wazi kwa kila mgeni.", "en": "Abdi's mother cooked plenty of food, and the doors were open to every guest.", "so": "Hooyada Abdi cunto badan ayay karisay, albaabbaduna waxay u furnaayeen marti kasta." },
+            { "sw": "Majirani Wakristo walikuja kuwatakia sikukuu njema.", "en": "Christian neighbours came to wish them a happy holiday.", "so": "Deris Masiixiyiin ah ayaa u yimid si ay ugu hambalyeeyaan ciidda." },
+            { "sw": "Abdi aliwaambia, Karibuni! Na wakati wa Krismasi, sisi pia tutawatembelea.", "en": "Abdi told them, Welcome! And at Christmas, we will visit you too.", "so": "Abdi wuxuu ku yiri, Soo dhawaada! Kirismaskana, annaguna waan idin soo booqan doonnaa." },
+            { "sw": "Hivyo ndivyo sikukuu zinavyowaleta watu pamoja.", "en": "That is how holidays bring people together.", "so": "Sidaas ayay ciiduhu dadka isugu keenaan." }
+          ],
+          "questions": [
+            { "question": { "en": "What did people look for in the sky the night before?", "so": "Maxay dadku cirka ka raadinayeen habeenkii ka horreeyay?" }, "options": [ { "en": "Stars", "so": "Xiddigo" }, { "en": "The new moon", "so": "Dayaxa cusub" }, { "en": "Rain clouds", "so": "Daruuraha roobka" } ], "answer": 1 },
+            { "question": { "en": "What did the Christian neighbours do?", "so": "Maxay sameeyeen derisku Masiixiyiinta ahaa?" }, "options": [ { "en": "They came to wish them a happy holiday", "so": "Waxay u yimaadeen inay ugu hambalyeeyaan ciidda" }, { "en": "They closed their shops", "so": "Dukaamadoodii ayay xireen" }, { "en": "They travelled to Nairobi", "so": "Waxay u safreen Nairobi" } ], "answer": 0 }
+          ]
+        },
+        { "type": "respond", "heard": "Idd Mubarak, jirani!", "options": ["Pole sana.", "Ni saa ngapi?", "Asante, Idd Mubarak kwako pia!"], "answer": 2, "explain": { "en": "'Idd Mubarak, neighbour!' – 'Thank you, Idd Mubarak to you too!'", "so": "'Ciid Mubaarak, deriskayow!' – 'Mahadsanid, adigana Ciid Mubaarak!'" } },
+        { "type": "gap", "before": "Krismasi ni tarehe ishirini na tano", "after": ".", "options": ["Juni", "Desemba", "Oktoba"], "answer": 1, "meaning": { "en": "Christmas is on the twenty-fifth of December.", "so": "Kirismasku waa labaatan iyo shanta Diseembar." } },
+        { "type": "build", "prompt": { "en": "Happy New Year", "so": "Sannad cusub wanaagsan" }, "answer": "Heri ya Mwaka Mpya", "extra": ["pole", "msiba", "jana"] }
+      ]
+    },
+    {
+      "id": "national-days-and-graduation",
+      "title": { "en": "National days and graduations", "so": "Maalmaha qaranka iyo qalin-jebinta" },
+      "items": ["lv.madaraka-day", "lv.mashujaa-day", "lv.jamhuri-day", "lv.mahafali"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Chebet's graduation", "so": "Qalin-jebinta Chebet" },
+          "lines": [
+            { "sw": "Ijumaa iliyopita ilikuwa siku kubwa kwa familia ya Kiprotich kutoka Kapsabet.", "en": "Last Friday was a big day for the Kiprotich family from Kapsabet.", "so": "Jimcihii hore wuxuu maalin weyn u ahaa qoyska Kiprotich ee ka yimid Kapsabet." },
+            { "sw": "Binti yao, Chebet, alihitimu shahada ya uuguzi katika chuo kikuu kimoja mjini Eldoret.", "en": "Their daughter, Chebet, graduated with a nursing degree from a university in Eldoret.", "so": "Gabadhooda, Chebet, waxay shahaadada kalkaalinta caafimaadka ka qalin-jebisay jaamacad ku taal magaalada Eldoret." },
+            { "sw": "Wazazi wake, babu na nyanya walisafiri alfajiri ili kuhudhuria mahafali.", "en": "Her parents and grandparents set off at dawn to attend the graduation.", "so": "Waalidkeed, awoowe iyo ayeeyo waxay safreen waaberigii si ay uga qayb galaan xafladda qalin-jebinta." },
+            { "sw": "Uwanja wa chuo ulijaa wahitimu waliovaa majoho meusi na kofia zao maalum.", "en": "The university grounds were full of graduates in black gowns and their special caps.", "so": "Barxadda jaamacadda waxaa ka buuxay qalin-jebiyeyaal xiran goonooyin madow iyo koofiyadahooda gaarka ah." },
+            { "sw": "Jina la Chebet lilipotajwa, nyanya yake alipiga vigelegele kwa sauti kubwa.", "en": "When Chebet's name was read out, her grandmother ululated loudly.", "so": "Markii magaca Chebet la akhriyay, ayeeyadeed si cod dheer ah ayay u mashxaradday." },
+            { "sw": "Watu waliokuwa karibu walicheka na kupiga makofi.", "en": "The people nearby laughed and clapped.", "so": "Dadkii u dhowaa way qosleen oo sacab tumeen." },
+            { "sw": "Baada ya sherehe, familia ilipiga picha nyingi pamoja na marafiki zake.", "en": "After the ceremony, the family took many photos together with her friends.", "so": "Xafladda kadib, qoysku sawirro badan ayay la qaadeen saaxiibbadeed." },
+            { "sw": "Jioni, walirudi Kapsabet kwa karamu ya nyama choma na chai.", "en": "In the evening, they went back to Kapsabet for a party with nyama choma and tea.", "so": "Fiidkii, waxay ku noqdeen Kapsabet si ay u qabtaan martiqaad hilib la dubay iyo shaah leh." },
+            { "sw": "Baba yake alisema, Leo ni siku ya furaha; elimu ndiyo urithi bora.", "en": "Her father said, Today is a day of joy; education is the best inheritance.", "so": "Aabbaheed wuxuu yiri, Maanta waa maalin farxadeed; waxbarashadu waa dhaxalka ugu fiican." },
+            { "sw": "Chebet anatarajia kuanza kazi katika hospitali ya kaunti mwezi ujao.", "en": "Chebet hopes to start work at the county hospital next month.", "so": "Chebet waxay rajaynaysaa inay bisha dambe shaqo ka bilowdo isbitaalka kaunti-ga." }
+          ],
+          "questions": [
+            { "question": { "en": "What did Chebet study?", "so": "Maxay Chebet baratay?" }, "options": [ { "en": "Teaching", "so": "Macallinnimo" }, { "en": "Law", "so": "Sharci" }, { "en": "Nursing", "so": "Kalkaalinta caafimaadka" } ], "answer": 2 },
+            { "question": { "en": "What did her grandmother do when Chebet's name was read out?", "so": "Maxay ayeeyadeed samaysay markii magaca Chebet la akhriyay?" }, "options": [ { "en": "She ululated loudly", "so": "Si cod dheer ah ayay u mashxaradday" }, { "en": "She cried quietly", "so": "Si aamusan ayay u ooyday" }, { "en": "She fell asleep", "so": "Way seexatay" } ], "answer": 0 },
+            { "question": { "en": "Where does Chebet hope to work?", "so": "Xaggee ayay Chebet rajaynaysaa inay ka shaqayso?" }, "options": [ { "en": "At a school in Nairobi", "so": "Dugsi ku yaal Nairobi" }, { "en": "At the county hospital", "so": "Isbitaalka kaunti-ga" }, { "en": "Abroad", "so": "Dibadda" } ], "answer": 1 }
+          ]
+        },
+        { "type": "gap", "before": "Sikukuu ya Jamhuri huadhimishwa tarehe kumi na mbili", "after": ".", "options": ["Juni", "Desemba", "Oktoba"], "answer": 1, "meaning": { "en": "Jamhuri Day is celebrated on the twelfth of December.", "so": "Maalinta Jamhuuriyadda waxaa la xusaa laba iyo tobanka Diseembar." } },
+        { "type": "gap", "before": "Tarehe ishirini Oktoba, Wakenya huwakumbuka", "after": " wao.", "options": ["mashujaa", "wateja", "majirani"], "answer": 0, "meaning": { "en": "On the twentieth of October, Kenyans remember their heroes.", "so": "Labaatanka Oktoobar, Kenyaanku waxay xusaan geesiyaashooda." } },
+        { "type": "respond", "heard": "Kesho ni Sikukuu ya Madaraka. Utafanya nini?", "options": ["Nitapumzika nyumbani na familia yangu.", "Pole kwa msiba.", "Hongera kwa ndoa yenu!"], "answer": 0, "explain": { "en": "'Tomorrow is Madaraka Day. What will you do?' – 'I'll rest at home with my family.'", "so": "'Berri waa Maalinta Madaraka. Maxaad samayn doontaa?' – 'Guriga ayaan la nasan doonaa qoyskayga.'" } }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "id": "society",
+  "order": 30,
+  "level": "B2",
+  "color": "#334155",
+  "reviewed": false,
+  "title": { "en": "Kenyan Society & the News", "so": "Bulshada Kenya iyo Wararka" },
+  "swTitle": "Jamii na Habari",
+  "description": {
+    "en": "Talk about counties, elections, schools, jobs, the environment and technology, and follow a Kenyan news report.",
+    "so": "Ka hadal kaunti-yada, doorashooyinka, dugsiyada, shaqada, deegaanka iyo tiknoolajiyada, oo raac warbixin wareed oo Kenya ah."
+  },
+  "guide": [
+    {
+      "title": { "en": "Counties and devolution", "so": "Kaunti-yada iyo awood-qaybsiga" },
+      "body": {
+        "en": "Since the 2010 constitution (katiba), Kenya has a national government (serikali ya kitaifa) and forty-seven county governments (serikali za kaunti), each led by a gavana. This sharing of power is called ugatuzi (devolution). Garissa, Mombasa and Nairobi are all counties.",
+        "so": "Tan iyo dastuurkii 2010 (katiba), Kenya waxay leedahay dowlad dhexe (serikali ya kitaifa) iyo afartan iyo toddoba dowladood oo kaunti ah (serikali za kaunti), mid walbana waxaa hoggaamiya gavana (guddoomiye). Awood-qaybsigan waxaa la yiraahdaa ugatuzi. Garissa, Mombasa iyo Nairobi dhammaantood waa kaunti."
+      },
+      "examples": [
+        { "sw": "Kenya ina kaunti arobaini na saba.", "en": "Kenya has forty-seven counties.", "so": "Kenya waxay leedahay afartan iyo toddoba kaunti.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "News register", "so": "Luqadda wararka" },
+      "body": {
+        "en": "Radio and TV news use formal Swahili. Reports usually name their source with kwa mujibu wa (according to) and link ideas with aidha (also, furthermore), hata hivyo (however) and kutokana na (because of, as a result of). You will rarely hear Sheng on the news.",
+        "so": "Wararka raadiyaha iyo TV-ga waxay isticmaalaan Sawaaxili rasmi ah. Warbixinnadu badanaa ilaha waxay ku sheegaan kwa mujibu wa (sida uu sheegay), fikradahana waxay ku xiraan aidha (sidoo kale), hata hivyo (si kastaba ha ahaatee) iyo kutokana na (sababtoo ah). Wararka Sheng dhif ayaad ku maqlaysaa."
+      },
+      "examples": [
+        { "sw": "Kwa mujibu wa ripoti hiyo, bei ya unga imepanda.", "en": "According to that report, the price of flour has gone up.", "so": "Sida ay warbixintaasi sheegtay, qiimaha burku wuu kordhay.", "v": "standard" },
+        { "sw": "Hata hivyo, mvua imeanza kunyesha.", "en": "However, the rain has started to fall.", "so": "Si kastaba ha ahaatee, roobkii wuu bilaabmay.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Abstract nouns with u-", "so": "Magacyada macnaha guud ee ku bilowda u-" },
+      "body": {
+        "en": "Many abstract nouns start with u-: uchumi (economy), uchaguzi (election), ukosefu (lack), ubunifu (innovation). They come from verbs: chagua (choose) gives uchaguzi, kosa (miss, lack) gives ukosefu, buni (invent) gives ubunifu. Knowing the verb helps you guess the noun.",
+        "so": "Magacyo badan oo macno guud leh waxay ku bilowdaan u-: uchumi (dhaqaale), uchaguzi (doorasho), ukosefu (la'aan), ubunifu (hal-abuur). Waxay ka yimaadaan falal: chagua (dooro) waxaa ka dhashay uchaguzi, kosa (waa) waxaa ka dhashay ukosefu, buni (ikhtiraac) waxaa ka dhashay ubunifu. Haddii aad falka taqaanno, magaca waad qiyaasi kartaa."
+      },
+      "examples": [
+        { "sw": "Wananchi watachagua gavana mpya.", "en": "The people will choose a new governor.", "so": "Shacabku waxay dooran doonaan guddoomiye cusub.", "v": "standard" }
+      ]
+    },
+    {
+      "title": { "en": "Kenya and the environment", "so": "Kenya iyo deegaanka" },
+      "body": {
+        "en": "In August 2017 Kenya banned plastic carrier bags, one of the strictest bans in the world. Shoppers now carry cloth or woven bags. Tree planting is a national habit too: schools, churches, mosques and companies hold tree-planting days, especially in the rainy seasons.",
+        "so": "Bishii Ogosto 2017 Kenya waxay mamnuucday bacaha caagga ah, oo ka mid ah mamnuucidda ugu adag adduunka. Dukaamaystayaashu hadda waxay sitaan bacaha maradka ama kuwa la tolay. Geed beeriddu sidoo kale waa caado qaran: dugsiyada, kaniisadaha, masaajidda iyo shirkadaha waxay qabtaan maalmo geed beerid, gaar ahaan xilliga roobka."
+      },
+      "examples": [
+        { "sw": "Tupande miti kwa ajili ya watoto wetu.", "en": "Let's plant trees for our children's sake.", "so": "Aan geedo u beerno carruurteenna darteed.", "v": "standard" }
+      ]
+    }
+  ],
+  "items": [
+    { "id": "ns.serikali", "sw": "serikali", "en": "government", "so": "dowlad", "v": "standard", "syn": "government" },
+    { "id": "ns.kaunti", "sw": "kaunti", "en": "county", "so": "kaunti (gobol)", "v": "standard", "tz": "mkoa", "note": { "en": "Kenya has forty-seven counties. In Tanzania the main regions are called mikoa.", "so": "Kenya waxay leedahay afartan iyo toddoba kaunti. Tanzania gobollada waaweyn waxaa la yiraahdaa mikoa." } },
+    { "id": "ns.gavana", "sw": "gavana", "en": "(county) governor", "so": "guddoomiyaha kaunti-ga", "v": "standard" },
+    { "id": "ns.bunge", "sw": "bunge", "en": "parliament", "so": "baarlamaan", "v": "standard", "syn": "parliament" },
+    { "id": "ns.raia", "sw": "raia", "en": "citizen(s)", "so": "muwaadin", "v": "standard", "syn": "citizen", "note": { "en": "On the news you also hear wananchi (the people, ordinary citizens).", "so": "Wararka waxaad sidoo kale ka maqlaysaa wananchi (shacabka, dadweynaha)." } },
+
+    { "id": "ns.uchaguzi", "sw": "uchaguzi", "en": "election", "so": "doorasho", "v": "standard", "syn": "election" },
+    { "id": "ns.kupiga-kura", "sw": "kupiga kura", "en": "to vote", "so": "codeyn", "v": "standard", "syn": "vote", "note": { "en": "Kura is a vote. Kituo cha kupigia kura is a polling station.", "so": "Kura waa cod. Kituo cha kupigia kura waa goobta codbixinta." } },
+    { "id": "ns.haki", "sw": "haki", "en": "rights / justice", "so": "xuquuq / caddaalad", "v": "standard", "syn": "rights" },
+    { "id": "ns.sheria", "sw": "sheria", "en": "law", "so": "sharci", "v": "standard", "syn": "law" },
+    { "id": "ns.katiba", "sw": "katiba", "en": "constitution", "so": "dastuur", "v": "standard" },
+
+    { "id": "ns.elimu", "sw": "elimu", "en": "education", "so": "waxbarasho", "v": "standard", "syn": "education" },
+    { "id": "ns.shule-ya-msingi", "sw": "shule ya msingi", "en": "primary school", "so": "dugsi hoose", "v": "standard" },
+    { "id": "ns.sekondari", "sw": "shule ya sekondari", "en": "secondary school", "so": "dugsi sare", "v": "standard", "alt": ["sekondari"] },
+    { "id": "ns.chuo-kikuu", "sw": "chuo kikuu", "en": "university", "so": "jaamacad", "v": "standard", "syn": "university", "note": { "en": "Chuo alone means a college. Kenyans often just say campus.", "so": "Chuo kaliya waa kulliyad. Kenyaanku badanaa waxay yiraahdaan campus." } },
+    { "id": "ns.mtihani", "sw": "mtihani", "en": "exam", "so": "imtixaan", "v": "standard", "syn": "exam" },
+    { "id": "ns.cbc", "sw": "CBC", "say": "si bi si", "en": "CBC (Kenya's competency-based school curriculum)", "so": "CBC (manhajka cusub ee dugsiyada Kenya)", "v": "everyday", "note": { "en": "Kenyans say the letters in English: si-bi-si. The new curriculum replaced the old 8-4-4 system; officially it is now often called CBE.", "so": "Kenyaanku xarfaha waxay ku dhawaaqaan Ingiriisi: si-bi-si. Manhajkan cusub wuxuu beddelay nidaamkii hore ee 8-4-4; hadda si rasmi ah badanaa waxaa loo yaqaan CBE." } },
+
+    { "id": "ns.ajira", "sw": "ajira", "en": "employment / jobs", "so": "shaqo-abuur / shaqooyin", "v": "standard", "syn": "work" },
+    { "id": "ns.ukosefu-wa-ajira", "sw": "ukosefu wa ajira", "en": "unemployment", "so": "shaqo la'aan", "v": "standard" },
+    { "id": "ns.uchumi", "sw": "uchumi", "en": "economy", "so": "dhaqaale", "v": "standard", "syn": "economy" },
+    { "id": "ns.gharama-ya-maisha", "sw": "gharama ya maisha", "en": "cost of living", "so": "qiimaha nolosha", "v": "standard" },
+
+    { "id": "ns.mazingira", "sw": "mazingira", "en": "environment / surroundings", "so": "deegaan", "v": "standard", "syn": "environment" },
+    { "id": "ns.kupanda-miti", "sw": "kupanda miti", "en": "to plant trees", "so": "geed beerid", "v": "standard" },
+    { "id": "ns.taka", "sw": "taka", "en": "rubbish / waste", "so": "qashin", "v": "standard", "syn": "rubbish", "note": { "en": "A rubbish dump is jalala or dampo. Takataka also means rubbish.", "so": "Meesha qashinka lagu shubo waa jalala ama dampo. Takataka sidoo kale waa qashin." } },
+    { "id": "ns.mifuko-ya-plastiki", "sw": "mifuko ya plastiki", "en": "plastic bags", "so": "bacaha caagga ah", "v": "standard", "alt": ["karatasi za plastiki"], "note": { "en": "Many Kenyans call plastic bags karatasi (lit. papers) or juala.", "so": "Kenyaan badan bacaha caagga waxay ugu yeeraan karatasi (macno ahaan: waraaqo) ama juala." } },
+    { "id": "ns.marufuku", "sw": "marufuku", "en": "banned / a ban", "so": "mamnuuc", "v": "standard", "syn": "ban" },
+    { "id": "ns.tabianchi", "sw": "mabadiliko ya tabianchi", "en": "climate change", "so": "isbeddelka cimilada", "v": "standard" },
+
+    { "id": "ns.teknolojia", "sw": "teknolojia", "en": "technology", "so": "tiknoolajiyad", "v": "standard" },
+    { "id": "ns.mtandao", "sw": "mtandao", "en": "the internet / network", "so": "internet-ka / shabakad", "v": "standard", "syn": "internet", "note": { "en": "Kwenye mtandao = online. Mtandao also means a phone network.", "so": "Kwenye mtandao = internet-ka dushiisa. Mtandao sidoo kale waa shabakadda taleefanka." } },
+    { "id": "ns.simu-janja", "sw": "simu janja", "en": "smartphone", "so": "taleefan casri ah", "v": "standard", "syn": "smartphone", "alt": ["smartphone"], "note": { "en": "Lit. a clever phone. In daily speech many people just say smartphone.", "so": "Macno ahaan: taleefan caqli badan. Hadalka maalinlaha dad badan waxay yiraahdaan smartphone." } },
+    { "id": "ns.ubunifu", "sw": "ubunifu", "en": "innovation / creativity", "so": "hal-abuur", "v": "standard" },
+
+    { "id": "ns.gazeti", "sw": "gazeti", "en": "newspaper", "so": "wargeys", "v": "standard", "syn": "newspaper" },
+    { "id": "ns.ripoti", "sw": "ripoti", "en": "report", "so": "warbixin", "v": "standard", "syn": "report" },
+    { "id": "ns.kwa-mujibu-wa", "sw": "kwa mujibu wa", "en": "according to", "so": "sida uu sheegay / iyadoo la raacayo", "v": "standard" },
+    { "id": "ns.mwandishi-wa-habari", "sw": "mwandishi wa habari", "en": "journalist", "so": "weriye", "v": "standard", "syn": "journalist" }
+  ],
+  "lessons": [
+    {
+      "id": "government",
+      "title": { "en": "Government and counties", "so": "Dowladda iyo kaunti-yada" },
+      "items": ["ns.serikali", "ns.kaunti", "ns.gavana", "ns.bunge", "ns.raia"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Achieng", "sw": "Barabara ya kwetu imejaa mashimo tena.", "en": "Our road is full of potholes again.", "so": "Waddadeenna mar kale godad ayaa ka buuxa." },
+            { "who": "Kamau", "sw": "Hiyo ni kazi ya serikali ya kaunti, sivyo?", "en": "That's the county government's job, isn't it?", "so": "Taasi waa shaqada dowladda kaunti-ga, sow ma aha?" },
+            { "who": "Achieng", "sw": "Ndiyo. Tutaandika barua kwa ofisi ya gavana.", "en": "Yes. We'll write a letter to the governor's office.", "so": "Haa. Waraaq ayaan u qori doonnaa xafiiska guddoomiyaha." },
+            { "who": "Kamau", "sw": "Vizuri. Kama raia, tuna haki ya kuuliza.", "en": "Good. As citizens, we have the right to ask.", "so": "Waa fiican. Annagoo muwaadiniin ah, xaq baan u leenahay inaan weydiinno." }
+          ],
+          "question": { "en": "Who will Achieng and Kamau write to?", "so": "Achieng iyo Kamau yaay u qori doonaan?" },
+          "options": [
+            { "en": "The parliament", "so": "Baarlamaanka" },
+            { "en": "The governor's office", "so": "Xafiiska guddoomiyaha" },
+            { "en": "A newspaper", "so": "Wargeys" }
+          ],
+          "answer": 1
+        },
+        { "type": "gap", "before": "Wabunge hukutana", "after": " jijini Nairobi.", "options": ["bungeni", "sokoni", "shambani"], "answer": 0, "meaning": { "en": "Members of parliament meet in parliament in Nairobi.", "so": "Xildhibaannadu waxay ku kulmaan baarlamaanka magaalada Nairobi." } },
+        { "type": "build", "prompt": { "en": "Kenya has forty-seven counties", "so": "Kenya waxay leedahay afartan iyo toddoba kaunti" }, "answer": "Kenya ina kaunti arobaini na saba", "extra": ["gavana", "sita", "bunge"] }
+      ]
+    },
+    {
+      "id": "elections-and-rights",
+      "title": { "en": "Elections, rights and the law", "so": "Doorashooyinka, xuquuqda iyo sharciga" },
+      "items": ["ns.uchaguzi", "ns.kupiga-kura", "ns.haki", "ns.sheria", "ns.katiba"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "News: a calm polling day", "so": "War: maalin codbixin oo deggan" },
+          "lines": [
+            { "sw": "Wakazi wa kaunti ya Kisumu walijitokeza kwa wingi jana kupiga kura katika uchaguzi mdogo.", "en": "Residents of Kisumu county turned out in large numbers yesterday to vote in a by-election.", "so": "Dadka deggan kaunti-ga Kisumu ayaa shalay si tiro badan isugu soo baxay si ay ugu codeeyaan doorasho kaabis ah." },
+            { "sw": "Vituo vya kupigia kura vilifunguliwa saa kumi na mbili asubuhi.", "en": "The polling stations opened at six in the morning.", "so": "Goobaha codbixinta waxaa la furay lixda subaxnimo." },
+            { "sw": "Kufikia saa moja, foleni ndefu zilikuwa zimeshaonekana.", "en": "By seven o'clock, long queues could already be seen.", "so": "Markii ay toddobadii ahayd, safaf dhaadheer ayaa horeba u muuqday." },
+            { "sw": "Wazee, vijana na akina mama walisubiri kwa utulivu.", "en": "Elders, young people and women waited calmly.", "so": "Waayeelka, dhallinyarada iyo hooyooyinka ayaa si deggan u sugayay." },
+            { "sw": "Kwa mujibu wa maafisa wa uchaguzi, zoezi lilienda vizuri bila matatizo.", "en": "According to election officials, the exercise went well without problems.", "so": "Sida ay sheegeen saraakiisha doorashada, hawshu si fiican ayay u dhacday iyadoo aan dhibaato jirin." },
+            { "sw": "Mpiga kura mmoja alisema kwamba kupiga kura ni haki ya kila raia.", "en": "One voter said that voting is every citizen's right.", "so": "Codbixiye ka mid ah ayaa sheegay in codeyntu tahay xaq muwaadin kasta leeyahay." },
+            { "sw": "Aliongeza kuwa katiba inampa kila mtu sauti sawa.", "en": "He added that the constitution gives everyone an equal voice.", "so": "Wuxuu intaa ku daray in dastuurku qof kasta siinayo cod siman." },
+            { "sw": "Vituo vilifungwa saa kumi na moja jioni, na kuhesabu kura kulianza mara moja.", "en": "The stations closed at five in the evening, and counting began immediately.", "so": "Goobaha waxaa la xiray shanta galabnimo, tirinta codadkuna isla markiiba way bilaabatay." },
+            { "sw": "Matokeo yanatarajiwa kutangazwa kesho.", "en": "The results are expected to be announced tomorrow.", "so": "Natiijada waxaa la filayaa in berri la shaaciyo." }
+          ],
+          "questions": [
+            { "question": { "en": "When did the polling stations open?", "so": "Goorma ayaa la furay goobaha codbixinta?" }, "options": [ { "en": "At seven in the morning", "so": "Toddobada subaxnimo" }, { "en": "At six in the morning", "so": "Lixda subaxnimo" }, { "en": "At five in the evening", "so": "Shanta galabnimo" } ], "answer": 1 },
+            { "question": { "en": "How did the voting go, according to officials?", "so": "Sidee ayay codbixintu u dhacday, sida ay saraakiishu sheegeen?" }, "options": [ { "en": "Well, without problems", "so": "Si fiican, dhibaato la'aan" }, { "en": "It was cancelled", "so": "Waa la joojiyay" }, { "en": "Very few people came", "so": "Dad aad u yar ayaa yimid" } ], "answer": 0 },
+            { "question": { "en": "When will the results be announced?", "so": "Goorma ayaa natiijada la shaacin doonaa?" }, "options": [ { "en": "Tonight", "so": "Caawa" }, { "en": "Next week", "so": "Toddobaadka dambe" }, { "en": "Tomorrow", "so": "Berri" } ], "answer": 2 }
+          ]
+        },
+        { "type": "respond", "heard": "Umeshajiandikisha kama mpiga kura?", "options": ["Ndiyo, nitapiga kura mwaka ujao.", "Nimeshiba, asante.", "Mechi ni saa ngapi?"], "answer": 0, "explain": { "en": "'Have you registered as a voter?' – 'Yes, I'll vote next year.'", "so": "'Ma is diiwaangelisay codbixiye ahaan?' – 'Haa, sannadka dambe ayaan codayn doonaa.'" } },
+        { "type": "gap", "before": "Hakuna mtu aliye juu ya", "after": ".", "options": ["sheria", "mtihani", "taka"], "answer": 0, "meaning": { "en": "No one is above the law.", "so": "Qofna kama sarreeyo sharciga." } }
+      ]
+    },
+    {
+      "id": "education",
+      "title": { "en": "Education", "so": "Waxbarashada" },
+      "items": ["ns.elimu", "ns.shule-ya-msingi", "ns.sekondari", "ns.chuo-kikuu", "ns.mtihani", "ns.cbc"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Halima", "sw": "Binti yangu yuko gredi ya saba sasa, chini ya CBC.", "en": "My daughter is in grade seven now, under CBC.", "so": "Gabadhaydu hadda waxay ku jirtaa fasalka toddobaad, iyadoo ku jirta CBC." },
+            { "who": "Otieno", "sw": "Na unaonaje mfumo huo mpya?", "en": "And what do you think of that new system?", "so": "Oo sidee u aragtaa nidaamkaas cusub?" },
+            { "who": "Halima", "sw": "Wanafanya miradi mingi nyumbani, kwa hivyo wazazi tunasaidia sana.", "en": "They do lots of projects at home, so we parents help a lot.", "so": "Mashaariic badan ayay guriga ku sameeyaan, sidaa darteed annaga waalidiintu aad ayaan u caawinnaa." },
+            { "who": "Otieno", "sw": "Mwanangu ni wa mfumo wa zamani. Anafanya mtihani wa kidato cha nne mwaka huu.", "en": "My son is in the old system. He sits the Form Four exam this year.", "so": "Wiilkaygu wuxuu ku jiraa nidaamkii hore. Sannadkan ayuu galayaa imtixaanka fasalka afraad ee dugsiga sare." },
+            { "who": "Halima", "sw": "Mungu amsaidie. Akipita, ataenda chuo kikuu.", "en": "May God help him. If he passes, he'll go to university.", "so": "Ilaahay ha caawiyo. Haddii uu ka gudbo, jaamacad ayuu aadi doonaa." }
+          ],
+          "question": { "en": "Why do Halima and other parents help a lot under CBC?", "so": "Maxay Halima iyo waalidiinta kale aad u caawiyaan CBC-da?" },
+          "options": [
+            { "en": "The children have many projects at home", "so": "Carruurtu mashaariic badan ayay guriga ku leeyihiin" },
+            { "en": "The schools are closed", "so": "Dugsiyada waa xiran yihiin" },
+            { "en": "There are no teachers", "so": "Macallimiin ma jiraan" }
+          ],
+          "answer": 0
+        },
+        { "type": "build", "prompt": { "en": "Education is the key to life", "so": "Waxbarashadu waa furaha nolosha" }, "answer": "Elimu ni ufunguo wa maisha", "extra": ["mtihani", "taka", "kura"] },
+        { "type": "gap", "before": "Baada ya shule ya msingi, watoto wanaenda shule ya", "after": ".", "options": ["sekondari", "kaunti", "bunge"], "answer": 0, "meaning": { "en": "After primary school, children go to secondary school.", "so": "Dugsiga hoose kadib, carruurtu waxay aadaan dugsiga sare." } }
+      ]
+    },
+    {
+      "id": "jobs-and-economy",
+      "title": { "en": "Jobs and the economy", "so": "Shaqada iyo dhaqaalaha" },
+      "items": ["ns.ajira", "ns.ukosefu-wa-ajira", "ns.uchumi", "ns.gharama-ya-maisha"],
+      "extra": [
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Baraka", "sw": "Nilimaliza chuo kikuu mwaka jana, lakini bado sijapata ajira.", "en": "I finished university last year, but I still haven't found a job.", "so": "Sannadkii hore ayaan jaamacadda dhammeeyay, haddana weli shaqo ma helin." },
+            { "who": "Mwikali", "sw": "Pole sana. Ukosefu wa ajira ni changamoto kubwa kwa vijana siku hizi.", "en": "I'm so sorry. Unemployment is a big challenge for young people these days.", "so": "Aad baan uga xumahay. Shaqo la'aantu waa caqabad weyn oo haysata dhallinyarada maalmahan." },
+            { "who": "Baraka", "sw": "Na gharama ya maisha inazidi kupanda: unga, nauli, kodi, kila kitu.", "en": "And the cost of living keeps rising: flour, fares, rent, everything.", "so": "Qiimaha noloshuna wuu sii kordhayaa: bur, lacagta gaadiidka, kiro, wax walba." },
+            { "who": "Mwikali", "sw": "Kwa nini usianze biashara ndogo huku ukiendelea kutafuta kazi?", "en": "Why don't you start a small business while you keep looking for work?", "so": "Maxaad u bilaabi weyday ganacsi yar adigoo weli shaqo raadinaya?" },
+            { "who": "Baraka", "sw": "Wazo zuri. Nitaanza kuuza mitumba sokoni Gikomba.", "en": "Good idea. I'll start selling second-hand clothes at Gikomba market.", "so": "Fikrad wanaagsan. Waxaan bilaabi doonaa inaan dhar la isticmaalay ka iibiyo suuqa Gikomba." }
+          ],
+          "question": { "en": "What does Baraka decide to do?", "so": "Muxuu Baraka go'aansaday inuu sameeyo?" },
+          "options": [
+            { "en": "Go back to university", "so": "Inuu jaamacadda dib ugu laabto" },
+            { "en": "Move back to his rural home", "so": "Inuu dib ugu guuro miyiga" },
+            { "en": "Sell second-hand clothes at Gikomba", "so": "Inuu dhar la isticmaalay ka iibiyo Gikomba" }
+          ],
+          "answer": 2
+        },
+        { "type": "respond", "heard": "Maisha yamekuwa ghali sana siku hizi, sivyo?", "options": ["Ni saa nne kamili.", "Ndiyo, gharama ya maisha imepanda sana.", "Karibu tena!"], "answer": 1, "explain": { "en": "'Life has become very expensive these days, hasn't it?' – 'Yes, the cost of living has gone up a lot.'", "so": "'Noloshu aad bay qaali u noqotay maalmahan, sow ma aha?' – 'Haa, qiimaha noloshu aad buu u kordhay.'" } },
+        { "type": "gap", "before": "Kilimo na utalii ni nguzo muhimu za", "after": " wa Kenya.", "options": ["mtihani", "uchumi", "gavana"], "answer": 1, "meaning": { "en": "Farming and tourism are important pillars of Kenya's economy.", "so": "Beeraha iyo dalxiisku waa tiirar muhiim u ah dhaqaalaha Kenya." } },
+        { "type": "build", "prompt": { "en": "Many young people are looking for jobs", "so": "Dhallinyaro badan ayaa shaqo raadinaya" }, "answer": "Vijana wengi wanatafuta ajira", "extra": ["sheria", "kura", "katiba"] }
+      ]
+    },
+    {
+      "id": "environment",
+      "title": { "en": "The environment", "so": "Deegaanka" },
+      "items": ["ns.mazingira", "ns.kupanda-miti", "ns.taka", "ns.mifuko-ya-plastiki", "ns.marufuku", "ns.tabianchi"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "News: life after the plastic-bag ban", "so": "War: nolosha kadib mamnuucidda bacaha caagga" },
+          "lines": [
+            { "sw": "Mnamo mwezi wa Agosti, mwaka elfu mbili na kumi na saba, Kenya ilipiga marufuku mifuko ya plastiki ya kubebea bidhaa.", "en": "In August 2017, Kenya banned plastic carrier bags.", "so": "Bishii Ogosto ee sannadkii 2017, Kenya waxay mamnuucday bacaha caagga ah ee alaabta lagu qaado." },
+            { "sw": "Kabla ya hapo, mifuko hiyo ilionekana kila mahali: mitaroni, mitoni na hata juu ya miti.", "en": "Before that, the bags were seen everywhere: in ditches, in rivers and even up in trees.", "so": "Intaa ka hor, bacahaasi meel walba ayay ka muuqdeen: bohollada biyaha, webiyada iyo xataa geedaha dushooda." },
+            { "sw": "Mifugo mingi ilikula taka za plastiki na kuugua.", "en": "Many livestock ate plastic waste and fell sick.", "so": "Xoolo badan ayaa cunay qashinka caagga ah oo bukooday." },
+            { "sw": "Chini ya sheria mpya, mtu anayetengeneza, kuuza au kutumia mifuko hiyo anaweza kutozwa faini kubwa.", "en": "Under the new law, anyone who makes, sells or uses those bags can be given a heavy fine.", "so": "Sharciga cusub hoostiisa, qof kasta oo samaysta, iibiya ama isticmaala bacahaas waxaa lagu ganaaxi karaa ganaax culus." },
+            { "sw": "Mwanzoni, wafanyabiashara wengi walilalamika kwamba hawana njia nyingine.", "en": "At first, many traders complained that they had no alternative.", "so": "Bilowgii, ganacsato badan ayaa ka cabanayay inaanay lahayn waddo kale." },
+            { "sw": "Hata hivyo, baada ya muda mfupi, wanunuzi walianza kubeba mifuko ya kitambaa na vikapu.", "en": "However, after a short time, shoppers began carrying cloth bags and baskets.", "so": "Si kastaba ha ahaatee, muddo yar kadib, dukaamaystayaashu waxay bilaabeen inay sitaan bacaha maradka ah iyo dambiilo." },
+            { "sw": "Mama mboga mmoja wa Kisumu alisema kuwa wateja wake sasa huja na vikapu vyao wenyewe.", "en": "One vegetable seller in Kisumu said her customers now come with their own baskets.", "so": "Iibiyaha khudaarta oo ka mid ah Kisumu ayaa sheegay in macaamiisheedu hadda la yimaadaan dambiilahooda." },
+            { "sw": "Wataalamu wanasema mazingira ya miji mingi yamekuwa safi zaidi.", "en": "Experts say the environment in many towns has become cleaner.", "so": "Khubarada ayaa sheegaya in deegaanka magaalooyin badan uu ka nadiifsan yahay sidii hore." },
+            { "sw": "Lakini changamoto bado zipo, kwa sababu chupa za plastiki bado zinatupwa ovyo.", "en": "But challenges remain, because plastic bottles are still thrown away carelessly.", "so": "Laakiin caqabado weli way jiraan, sababtoo ah dhalooyinka caagga ah weli si kasta ayaa loo tuuraa." },
+            { "sw": "Ili kupambana na mabadiliko ya tabianchi, shule nyingi sasa zinawafundisha wanafunzi kupanda miti.", "en": "To fight climate change, many schools now teach pupils to plant trees.", "so": "Si loola dagaallamo isbeddelka cimilada, dugsiyo badan hadda waxay ardayda baraan geed beerid." }
+          ],
+          "questions": [
+            { "question": { "en": "What did Kenya ban in 2017?", "so": "Maxay Kenya mamnuucday sannadkii 2017?" }, "options": [ { "en": "Plastic bottles", "so": "Dhalooyinka caagga ah" }, { "en": "Cutting down trees", "so": "Goynta geedaha" }, { "en": "Plastic carrier bags", "so": "Bacaha caagga ah ee alaabta lagu qaado" } ], "answer": 2 },
+            { "question": { "en": "What do shoppers carry now?", "so": "Maxay dukaamaystayaashu hadda sitaan?" }, "options": [ { "en": "Cloth bags and baskets", "so": "Bacaha maradka iyo dambiilo" }, { "en": "Paper boxes", "so": "Sanaadiiq waraaq ah" }, { "en": "Nothing at all", "so": "Waxba" } ], "answer": 0 },
+            { "question": { "en": "Which problem remains?", "so": "Dhibaatadee ayaa weli jirta?" }, "options": [ { "en": "There are too many trees", "so": "Geedo aad u badan ayaa jira" }, { "en": "Plastic bottles are thrown away carelessly", "so": "Dhalooyinka caagga ah si kasta ayaa loo tuuraa" }, { "en": "The markets have closed", "so": "Suuqyadii waa xirmeen" } ], "answer": 1 }
+          ]
+        },
+        { "type": "respond", "heard": "Jumamosi hii kuna siku ya kupanda miti shuleni. Utakuja?", "options": ["Bila shaka, nitaleta miche miwili.", "Nimechelewa kazini.", "Hapana, sijambo."], "answer": 0, "explain": { "en": "'This Saturday there's a tree-planting day at the school. Will you come?' – 'Of course, I'll bring two seedlings.'", "so": "'Sabtidan dugsiga waxaa ka dhacaya maalin geed beerid. Ma imaanaysaa?' – 'Dabcan, waxaan keeni doonaa laba geed-yare oo la beero.'" } },
+        { "type": "gap", "before": "Ukame na mafuriko ya mara kwa mara ni dalili za mabadiliko ya", "after": ".", "options": ["katiba", "uchumi", "tabianchi"], "answer": 2, "meaning": { "en": "Frequent droughts and floods are signs of climate change.", "so": "Abaaraha iyo daadadka soo noqnoqda waa calaamado isbeddelka cimilada." } },
+        { "type": "build", "prompt": { "en": "Don't throw rubbish on the road", "so": "Qashinka waddada ha ku tuurin" }, "answer": "Usitupe taka barabarani", "extra": ["miti", "kura", "gavana"] }
+      ]
+    },
+    {
+      "id": "technology",
+      "title": { "en": "Technology and innovation", "so": "Tiknoolajiyadda iyo hal-abuurka" },
+      "items": ["ns.teknolojia", "ns.mtandao", "ns.simu-janja", "ns.ubunifu"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "Feature: M-Pesa, a Kenyan innovation", "so": "Warbixin: M-Pesa, hal-abuur Kenyan ah" },
+          "lines": [
+            { "sw": "Mwaka elfu mbili na saba, huduma ya M-Pesa ilizinduliwa nchini Kenya.", "en": "In 2007, the M-Pesa service was launched in Kenya.", "so": "Sannadkii 2007, adeegga M-Pesa waxaa laga daah-furay Kenya." },
+            { "sw": "Wakati huo, Wakenya wengi hawakuwa na akaunti za benki.", "en": "At that time, many Kenyans had no bank accounts.", "so": "Waqtigaas, Kenyaan badan ma lahayn xisaab bangi." },
+            { "sw": "Kwa kutumia simu ya kawaida tu, mtu aliweza kutuma pesa kwa jamaa zake kijijini.", "en": "Using just an ordinary phone, a person could send money to relatives in the village.", "so": "Isagoo isticmaalaya taleefan caadi ah oo keliya, qofku wuxuu lacag u diri karay qaraabadiisa tuulada joogta." },
+            { "sw": "Huduma hii haikuhitaji mtandao wala simu janja.", "en": "The service needed neither the internet nor a smartphone.", "so": "Adeeggani uma baahnayn internet iyo taleefan casri ah midna." },
+            { "sw": "Leo, mamilioni ya Wakenya hulipa nauli, kodi na karo za shule kwa M-Pesa.", "en": "Today, millions of Kenyans pay fares, rent and school fees with M-Pesa.", "so": "Maanta, malaayiin Kenyaan ah waxay M-Pesa ku bixiyaan lacagta gaadiidka, kirada iyo khidmadda dugsiga." },
+            { "sw": "Wataalamu wa teknolojia duniani wanaitaja M-Pesa kama mfano mzuri wa ubunifu wa Kiafrika.", "en": "Technology experts around the world cite M-Pesa as a fine example of African innovation.", "so": "Khubarada tiknoolajiyadda adduunka waxay M-Pesa u soo qaataan tusaale wanaagsan oo hal-abuur Afrikaan ah." },
+            { "sw": "Nchi nyingine kadhaa zimeiga mfumo huo.", "en": "Several other countries have copied the system.", "so": "Dhowr dal oo kale ayaa nidaamkaas ku daydey." },
+            { "sw": "Hata hivyo, matapeli nao wametumia teknolojia hii kuwadanganya watu.", "en": "However, scammers too have used this technology to deceive people.", "so": "Si kastaba ha ahaatee, khiyaanoolayaashu iyaguna tiknoolajiyaddan waxay u adeegsadeen inay dadka ku khiyaaneeyaan." },
+            { "sw": "Kwa hivyo, kila mtumiaji anashauriwa asimpe mtu yeyote namba yake ya siri.", "en": "So every user is advised not to give anyone their PIN.", "so": "Sidaa darteed, isticmaale kasta waxaa lagula talinayaa inuusan qofna siin lambarkiisa sirta ah." }
+          ],
+          "questions": [
+            { "question": { "en": "When was M-Pesa launched?", "so": "Goorma ayaa la daah-furay M-Pesa?" }, "options": [ { "en": "In 2017", "so": "Sannadkii 2017" }, { "en": "In 2007", "so": "Sannadkii 2007" }, { "en": "In 2010", "so": "Sannadkii 2010" } ], "answer": 1 },
+            { "question": { "en": "What did you need to use M-Pesa at the start?", "so": "Bilowgii maxaa looga baahnaa si loo isticmaalo M-Pesa?" }, "options": [ { "en": "Just an ordinary phone", "so": "Taleefan caadi ah oo keliya" }, { "en": "A smartphone and the internet", "so": "Taleefan casri ah iyo internet" }, { "en": "A bank account", "so": "Xisaab bangi" } ], "answer": 0 },
+            { "question": { "en": "What are users advised to do?", "so": "Maxaa isticmaalayaasha lagula talinayaa?" }, "options": [ { "en": "Buy a new phone every year", "so": "Inay sannad walba taleefan cusub iibsadaan" }, { "en": "Use only cash", "so": "Inay lacag caddaan ah oo keliya isticmaalaan" }, { "en": "Never give anyone their PIN", "so": "Inaysan qofna siin lambarkooda sirta ah" } ], "answer": 2 }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "lines": [
+            { "who": "Nyanya", "sw": "Nekesa, mjukuu wangu, hii simu janja inafanyaje kazi?", "en": "Nekesa, my grandchild, how does this smartphone work?", "so": "Nekesa, ilmahaygiiyow, taleefankan casriga ahi sidee buu u shaqeeyaa?" },
+            { "who": "Nekesa", "sw": "Ni rahisi, nyanya. Ukiunganisha na mtandao, unaweza kuongea na watu kwa video.", "en": "It's easy, grandma. If you connect to the internet, you can talk to people by video.", "so": "Waa sahal, ayeeyo. Haddii aad ku xirto internet-ka, dadka waxaad kula hadli kartaa muuqaal." },
+            { "who": "Nyanya", "sw": "Kwa video? Hata na shangazi yako aliye Marekani?", "en": "By video? Even with your aunt who is in America?", "so": "Muuqaal? Xataa eeddadaa Maraykan joogta?" },
+            { "who": "Nekesa", "sw": "Ndiyo! Utamwona na kumsikia bila kulipia simu ya kimataifa.", "en": "Yes! You'll see and hear her without paying for an international call.", "so": "Haa! Waad arki doontaa oo maqli doontaa adigoon bixin lacagta wicitaanka caalamiga ah." },
+            { "who": "Nyanya", "sw": "Teknolojia hii ni ajabu kweli!", "en": "This technology is truly amazing!", "so": "Tiknoolajiyaddani runtii waa layaab!" }
+          ],
+          "question": { "en": "Who does grandma want to talk to by video?", "so": "Ayeeyo yay doonaysaa inay muuqaal kula hadasho?" },
+          "options": [
+            { "en": "Nekesa's aunt in America", "so": "Eeddada Nekesa ee Maraykan joogta" },
+            { "en": "Nekesa's teacher", "so": "Macallinka Nekesa" },
+            { "en": "A doctor in Nairobi", "so": "Dhakhtar Nairobi jooga" }
+          ],
+          "answer": 0
+        },
+        { "type": "gap", "before": "Siku hizi watu wengi hununua bidhaa", "after": " kwa kutumia simu janja.", "options": ["bungeni", "mitoni", "mtandaoni"], "answer": 2, "meaning": { "en": "These days many people buy goods online using a smartphone.", "so": "Maalmahan dad badan waxay alaab ka iibsadaan internet-ka iyagoo isticmaalaya taleefan casri ah." } }
+      ]
+    },
+    {
+      "id": "the-news",
+      "title": { "en": "Following the news", "so": "La socodka wararka" },
+      "items": ["ns.gazeti", "ns.ripoti", "ns.kwa-mujibu-wa", "ns.mwandishi-wa-habari"],
+      "extra": [
+        {
+          "type": "story",
+          "title": { "en": "The 7 p.m. news bulletin", "so": "Wararka toddobada fiidnimo" },
+          "lines": [
+            { "sw": "Hamjambo wasikilizaji, na karibuni kwa taarifa ya habari ya saa moja jioni.", "en": "Good evening, listeners, and welcome to the seven o'clock news.", "so": "Iska warrama dhagaystayaal, kuna soo dhawaada wararka toddobada fiidnimo." },
+            { "sw": "Mimi ni Zawadi Achieng, na hizi ndizo habari kuu za leo.", "en": "I am Zawadi Achieng, and these are today's main stories.", "so": "Waxaan ahay Zawadi Achieng, kuwanina waa wararka ugu muhiimsan maanta." },
+            { "sw": "Kwa mujibu wa ripoti mpya ya serikali, bei ya unga wa mahindi imeshuka kwa mara ya kwanza mwaka huu.", "en": "According to a new government report, the price of maize flour has fallen for the first time this year.", "so": "Sida ay sheegtay warbixin cusub oo dowladda, qiimaha burka galleyda ayaa hoos u dhacay markii ugu horreysay sannadkan." },
+            { "sw": "Wakulima wa Bonde la Ufa wanasema mavuno yamekuwa mazuri kutokana na mvua za masika.", "en": "Farmers in the Rift Valley say the harvest has been good thanks to the long rains.", "so": "Beeralayda Dooxada Rift Valley waxay sheegeen in goosashadu fiicnayd roobabka gu'ga awgood." },
+            { "sw": "Katika kaunti ya Garissa, kituo kipya cha vijana kimefunguliwa ili kuwafundisha ujuzi wa teknolojia.", "en": "In Garissa county, a new youth centre has opened to teach technology skills.", "so": "Kaunti-ga Garissa, xarun cusub oo dhallinyarada ah ayaa la furay si loo baro xirfadaha tiknoolajiyadda." },
+            { "sw": "Afisa mmoja wa kaunti alisema kituo hicho kitasaidia kupunguza ukosefu wa ajira.", "en": "A county official said the centre will help to reduce unemployment.", "so": "Sarkaal ka tirsan kaunti-ga ayaa sheegay in xaruntaasi gacan ka geysan doonto yaraynta shaqo la'aanta." },
+            { "sw": "Aidha, wanafunzi wa vyuo vikuu wamerejea masomoni baada ya likizo ndefu.", "en": "Also, university students have returned to their studies after a long holiday.", "so": "Sidoo kale, ardayda jaamacadaha ayaa dib ugu laabtay waxbarashadooda kadib fasax dheer." },
+            { "sw": "Katika michezo, mwanariadha chipukizi kutoka Iten ameshinda mbio za kilomita kumi mjini Eldoret.", "en": "In sport, a promising young athlete from Iten has won a ten-kilometre race in Eldoret.", "so": "Dhinaca ciyaaraha, orod-yahan dhallinyaro ah oo ka yimid Iten ayaa ku guuleystay tartan toban kiiloomitir ah oo ka dhacay magaalada Eldoret." },
+            { "sw": "Hali ya hewa: mvua inatarajiwa katika maeneo mengi ya magharibi mwa nchi.", "en": "The weather: rain is expected in many parts of the west of the country.", "so": "Cimilada: roob ayaa laga filayaa meelo badan oo galbeedka dalka ah." },
+            { "sw": "Kwa habari zaidi, soma gazeti lako kesho asubuhi.", "en": "For more news, read your newspaper tomorrow morning.", "so": "Warar dheeraad ah, akhri wargeyskaaga berri subax." },
+            { "sw": "Asanteni kwa kutusikiliza, na usiku mwema.", "en": "Thank you for listening, and good night.", "so": "Waad ku mahadsan tihiin dhagaysigiinna, habeen wanaagsan." }
+          ],
+          "questions": [
+            { "question": { "en": "What has happened to the price of maize flour?", "so": "Maxaa ku dhacay qiimaha burka galleyda?" }, "options": [ { "en": "It has gone up", "so": "Wuu kordhay" }, { "en": "It has stayed the same", "so": "Isku mid buu ahaaday" }, { "en": "It has fallen", "so": "Hoos buu u dhacay" } ], "answer": 2 },
+            { "question": { "en": "What has opened in Garissa?", "so": "Maxaa laga furay Garissa?" }, "options": [ { "en": "A youth centre for technology skills", "so": "Xarun dhallinyarada loogu talagalay xirfadaha tiknoolajiyadda" }, { "en": "A new university", "so": "Jaamacad cusub" }, { "en": "A sports stadium", "so": "Garoon ciyaareed" } ], "answer": 0 },
+            { "question": { "en": "Where is rain expected?", "so": "Xaggee roob laga filayaa?" }, "options": [ { "en": "At the coast", "so": "Xeebta" }, { "en": "In the west of the country", "so": "Galbeedka dalka" }, { "en": "Only in Nairobi", "so": "Nairobi oo keliya" } ], "answer": 1 }
+          ]
+        },
+        { "type": "respond", "heard": "Umesoma gazeti la leo?", "options": ["Nimeshiba, asante.", "Karibu tena!", "Ndiyo, kuna ripoti ndefu kuhusu ajira kwa vijana."], "answer": 2, "explain": { "en": "'Have you read today's newspaper?' – 'Yes, there's a long report about jobs for young people.'", "so": "'Ma akhriday wargeyska maanta?' – 'Haa, waxaa ku jirta warbixin dheer oo ku saabsan shaqooyinka dhallinyarada.'" } },
+        { "type": "gap", "before": "Mwandishi wa habari aliandika", "after": " kuhusu uchafuzi wa Mto Nairobi.", "options": ["ripoti", "katiba", "kura"], "answer": 0, "meaning": { "en": "The journalist wrote a report about the pollution of the Nairobi River.", "so": "Weriyuhu wuxuu qoray warbixin ku saabsan wasakheynta webiga Nairobi." } },
+        { "type": "build", "prompt": { "en": "According to the journalist", "so": "Sida uu sheegay weriyuhu" }, "answer": "Kwa mujibu wa mwandishi wa habari", "extra": ["katiba", "kura", "taka"] }
+      ]
+    }
+  ]
+}
