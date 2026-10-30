@@ -4,7 +4,7 @@ Learn **Kenyan Swahili** (Kiswahili as it is spoken in Kenya) with short daily l
 
 *Baro Sawaaxiliga Kenya, sida Kenyaanku ugu hadlaan, casharro gaagaaban oo maalinle ah, sharraxaad Ingiriis ama Soomaali ah leh.*
 
-Live site: https://cabdallejeesto-sketch.github.io/sema-kenya/
+Live site: https://abdullaahi-developer.github.io/sema-kenya/
 
 ## What makes it Kenyan
 

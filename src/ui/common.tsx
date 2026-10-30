@@ -6,7 +6,7 @@ import { cleanSpeech, type VoiceId } from '../engine/voice-lines';
 import { Snail, Speaker } from './icons';
 import { useStore } from './store';
 
-export const REPO_URL = 'https://github.com/cabdallejeesto-sketch/sema-kenya';
+export const REPO_URL = 'https://github.com/ABDULLAAHI-DEVELOPER/sema-kenya';
 
 export function VarietyBadge({ v }: { v: Variety }) {
   const { p } = useStore();
